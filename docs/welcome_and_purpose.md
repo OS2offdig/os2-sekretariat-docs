@@ -51,7 +51,7 @@ OS2-sekretariatet er organisatorisk en del af [**ITK – Innovation, Teknologi o
 Sekretariatet rådgiver og koordinerer porteføljestyring, årshjul, kommunikation, medlemsservice og governance på vegne af OS2-fællesskabet.
 
 
-## Hvad man kan bruge håndbogen til {haandbog}
+## Hvad man kan bruge håndbogen til {#haandbog}
 
 Denne håndbog er din praktiske indgang til arbejdet i OS2-sekretariatet.  
 Den samler den viden, de rutiner og de fælles principper, som gør det lettere at finde vej i det daglige arbejde og blive en del af kulturen i OS2-fællesskabet.
