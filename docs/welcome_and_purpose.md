@@ -8,7 +8,7 @@ nav_order: 2
 
 I denne sektion får du et kort indblik i, hvad OS2 er, hvilken rolle sekretariatet spiller, og hvordan håndbogen anvendes.
 
-## Kort om OS2-fællesskabet, formål og værdier
+## Kort om OS2-fællesskabet, formål og værdier {#formaal}
 
 **OS2 – Offentligt Digitaliseringsfællesskab** er et samarbejde mellem kommuner, regioner og statslige institutioner om at udvikle og dele digitale løsninger i fællesskab.  
 Det overordnede formål med foreningen er at udbrede kendskabet til og brugen af open source i den offentlige sektor samt sikre en fælles styringsmodel, der gør det muligt at dele teknologi, viden og ejerskab på tværs af myndigheder.
@@ -27,7 +27,7 @@ Bestyrelsen har det strategiske ansvar for at sikre, at OS2’s projekter og pro
 > - *[OS2 Vision, Mission og Strategi 2022](https://boks.os2.eu/s/MmWeim6cDFaHjK2)*
 
 
-## Sekretariatets rolle
+## Sekretariatets rolle {#rolle}
 
 OS2-sekretariatet er fællesskabets samlingspunkt og tandhjul.  
 Herfra understøttes arbejdet i OS2 ved at **skabe opbakning, forpligtelse, koordinering og kvalitet** på tværs af projekter, produkter og samarbejdspartnere. Sekretariatet fungerer som bindeled mellem bestyrelsen, medlemmerne, leverandørerne og de mange projekt- og produktfællesskaber.
@@ -51,7 +51,7 @@ OS2-sekretariatet er organisatorisk en del af [**ITK – Innovation, Teknologi o
 Sekretariatet rådgiver og koordinerer porteføljestyring, årshjul, kommunikation, medlemsservice og governance på vegne af OS2-fællesskabet.
 
 
-## Hvad man kan bruge håndbogen til
+## Hvad man kan bruge håndbogen til {haandbog}
 
 Denne håndbog er din praktiske indgang til arbejdet i OS2-sekretariatet.  
 Den samler den viden, de rutiner og de fælles principper, som gør det lettere at finde vej i det daglige arbejde og blive en del af kulturen i OS2-fællesskabet.
