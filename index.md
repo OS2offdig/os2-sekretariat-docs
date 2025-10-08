@@ -17,7 +17,7 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 **Formål:** At give en introduktion til OS2-fællesskabet og sekretariatets rolle. Afsnittet sætter scenen for arbejdet i sekretariatet og beskriver, hvorfor vi gør, som vi gør.
 
 - [Kort om OS2-fællesskabet, formål og værdier](./docs/welcome_and_purpose#formaal)
-- [Sekretariatets rolle](./docs/welcome_and_purpose#rolle)
+- [Sekretariatets rolle]({% link docs/welcome_and_purpose.md %}#rolle)
 - [Hvad man kan bruge håndbogen til](./docs/welcome_and_purpose#haandbog)
 
 
