@@ -1,6 +1,7 @@
 ---
 title: Sådan bidrager du
 layout: default
+nav_exclude: true
 nav_order: 99
 ---
 

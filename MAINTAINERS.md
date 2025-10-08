@@ -1,6 +1,7 @@
 ---
 title: Vedligehold og ejerskab
 layout: default
+nav_exclude: true
 nav_order: 100
 ---
 
