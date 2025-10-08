@@ -1,3 +1,9 @@
+---
+title: Vedligehold og ejerskab
+layout: default
+nav_order: 100
+---
+
 # Maintainers
 
 This document introduces the people responsible for maintaining the project and keeping it up to date.

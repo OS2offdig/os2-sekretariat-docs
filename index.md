@@ -12,13 +12,13 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 
 ---
 
-## [Velkommen og formål](./docs/welcome_and_purpose)
+## [Velkommen og formål](./welcome_and_purpose)
 
 **Formål:** At give en introduktion til OS2-fællesskabet og sekretariatets rolle. Afsnittet sætter scenen for arbejdet i sekretariatet og beskriver, hvorfor vi gør, som vi gør.
 
-- [Kort om OS2-fællesskabet, formål og værdier](./docs/welcome_and_purpose#kort-om-os2-faellesskabet-formaal-og-vaerdier)
-- [Sekretariatets rolle](./docs/welcome_and_purpose#sekretariatets-rolle)
-- [Hvad man kan bruge håndbogen til](./docs/welcome_and_purpose#hvad-man-kan-bruge-haandbogen-til)
+- [Kort om OS2-fællesskabet, formål og værdier](./welcome_and_purpose#kort-om-os2-faellesskabet-formaal-og-vaerdier)
+- [Sekretariatets rolle](./welcome_and_purpose#sekretariatets-rolle)
+- [Hvad man kan bruge håndbogen til](./welcome_and_purpose#hvad-man-kan-bruge-haandbogen-til)
 
 
 ## Organisation og Roller (ToDo)
