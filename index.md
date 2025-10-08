@@ -10,7 +10,6 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2-sekretariatet. H
 
 Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du registrere et issue, og bidrag meget gerne med en løsning :)
 
----
 
 ## [Velkommen og formål](./docs/welcome_and_purpose)
 
@@ -25,12 +24,12 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 
 **Formål:** At skabe overblik over, hvordan sekretariatet er organiseret, hvem der har hvilke roller, og hvordan vi samarbejder internt og med fællesskabets aktører.
 
-- Organisationsdiagram (bestyrelse, sekretariat, produktkoordinatorer, konsulenter, arkitekt, kommunikationsfolk)
-- Roller og ansvar (kort beskrivelser og links til funktionsbeskrivelser)
-- Samarbejde med bestyrelsen og kommunerne
-- Kontaktflader (f.eks. ITK, leverandører, produktfællesskaber)
+- [OS2s organisering](./docs/organisation_and_roles#organisering)
+- [Roller og ansvar](./docs/organisation_and_roles#roller)
+- [Samarbejde med bestyrelsen, myndigheder og medlemmer](./docs/organisation_and_roles#samarbejde)
+- [Samarbejde med produktfællesskaber og produktkoordinatorer](./docs/organisation_and_roles#samarbejde2)
+- [Kontaktflader og samarbejdspartnere](./docs/organisation_and_roles#kontaktflader)
 
----
 
 ## Arbejdsformer og værktøjer (ToDo)
 

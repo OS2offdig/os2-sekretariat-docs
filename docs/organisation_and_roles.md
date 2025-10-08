@@ -9,7 +9,7 @@ nav_order: 3
 Dette afsnit beskriver OS2’s organisatoriske struktur, roller og samarbejdsrelationer – fra bestyrelsen og sekretariatet til produktfællesskaberne og deres koordinatorer.  
 Her gives et indblik i, hvordan OS2 og sekretariatet er organiseret, hvem der har hvilke roller, og hvordan vi samarbejder internt og med fællesskabets aktører.
 
-## OS2’s organisering
+## OS2’s organisering {#organisering}
 
 **OS2-fællesskabet** er organiseret som en forening med:
 - En **bestyrelse**, som varetager det strategiske og overordnede ansvar. Medlemmer til bestyrelsen vælges af foreningens generalforsamling.
@@ -18,7 +18,7 @@ Her gives et indblik i, hvordan OS2 og sekretariatet er organiseret, hvem der ha
 - Medlemskommuner og øvrige offentlige aktører, som bidrager med behov, prioritering og forankring.
 - Private leverandører som har tilkendegivet, at de vil levere på open source-betingelser samt overdrage ejerskabet til resultater til OS2.
 
-## Organisationsdiagram
+### Organisationsdiagram
 
 Her kan indsættes et simpelt **diagram** (f.eks. i Mermaid-format eller som billede), som viser sammenhængen mellem:
 - Bestyrelse  
@@ -27,7 +27,7 @@ Her kan indsættes et simpelt **diagram** (f.eks. i Mermaid-format eller som bil
 - Medlemmer  
 - Eksterne samarbejdspartnere (leverandører, ITK, KL m.fl.)
 
-### Klassisk organisationsdiagram
+#### Klassisk organisationsdiagram
 
 ```mermaid
 graph TD
@@ -63,7 +63,7 @@ graph TD
   class D,E,F partner;
 ```
 
-### Organisk fremstilling af organisationen
+#### Organisk fremstilling af organisationen
 
 ```mermaid
 mindmap
@@ -81,7 +81,7 @@ mindmap
       Anvendere
 ```
 
-## Roller og ansvar
+## Roller og ansvar {#roller}
 
 Sekretariatet består af flere funktioner med hver sit fokusområde.  
 Her finder du kort beskrivelse og link til de detaljerede funktionsbeskrivelser.
@@ -98,7 +98,7 @@ Her finder du kort beskrivelse og link til de detaljerede funktionsbeskrivelser.
 
 > Alle medarbejdere deler et fælles ansvar for at styrke samarbejdet i OS2 og sikre, at sekretariatet arbejder ud fra fællesskabets værdier om åbenhed, samarbejde og ejerskab.
 
-## Samarbejde med bestyrelsen og kommunerne
+## Samarbejde med bestyrelsen, myndigheder og medlemmer {#samarbejde}
 
 Sekretariatet understøtter **bestyrelsen** ved at:
 - Forberede beslutningsoplæg og sikre opfølgning.  
@@ -110,7 +110,7 @@ Sekretariatet samarbejder med **myndigheder og medlemmer** ved at:
 - Understøtte onboarding og medlemsservice.  
 - Sikre tydelig kommunikation og videndeling mellem medlemmerne.
 
-## Samarbejde med produktfællesskaber og produktkoordinatorer
+## Samarbejde med produktfællesskaber og produktkoordinatorer {#samarbejde2}
 
 En central del af OS2-fællesskabet er de mange **projekt- og produktfællesskaber**, som udvikler, drifter og forvalter de enkelte løsninger i OS2.  
 Hvert fællesskab har sit eget fokus og sin egen organisering, men arbejder inden for de fælles principper for governance og åbenhed, som er beskrevet i OS2’s rammer.
@@ -134,7 +134,7 @@ Sekretariatet og produktkoordinatorerne arbejder tæt sammen om at:
 
 > Produktkoordinatorerne er dermed en del af OS2’s udvidede organisation – de fungerer som bro mellem sekretariatet, brugerne og de enkelte produktfællesskaber.
 
-## Kontaktflader og samarbejdspartnere
+## Kontaktflader og samarbejdspartnere {#kontaktflader}
 
 Sekretariatet samarbejder med en række aktører uden for OS2-fællesskabet, som bidrager til fælles udvikling og kvalitet:
 
