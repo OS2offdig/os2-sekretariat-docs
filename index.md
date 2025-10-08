@@ -31,15 +31,15 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 - [Kontaktflader og samarbejdspartnere](./docs/organisation_and_roles#kontaktflader)
 
 
-## Arbejdsformer og værktøjer (ToDo)
+## [Arbejdsformer og værktøjer](./docs/workflow_and_tools)
 
 **Formål:** At beskrive de værktøjer og metoder, vi bruger i det daglige arbejde, og sikre en fælles tilgang til samarbejde, struktur og dokumentation.
 
-- Hvordan vi samarbejder (samtale, fælles dokumenter, beslutningsflow)
-- Værktøjer (Leantime, GitHub, Nextcloud, Zulip, Airtable osv.)
+- Samarbejdsformer
+- Centrale værktøjer
 - Filstruktur og navngivningsprincipper
-- Mødekultur og mødestruktur (ugentlige check-in, teammøder, osv.)
-- Introduktion til OS2’s “governance model” og brug af standarder
+- Mødekultur og mødestruktur
+- Governance og standarder
 
 ---
 
