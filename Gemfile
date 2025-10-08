@@ -1,10 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.3"
-gem "just-the-docs", "~> 0.6.0"
-gem "jekyll-seo-tag", "~> 2.8"
+gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
+# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
-# (valgfrit) for hurtigere local build:
-group :jekyll_plugins do
-  gem "webrick", "~> 1.8"
-end
+gem "just-the-docs", "0.10.1" # pinned to the current release
+# gem "just-the-docs"        # always download the latest release
