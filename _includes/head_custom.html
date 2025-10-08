@@ -2,32 +2,72 @@
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 
-  // Init uden auto-run; vi vil først konvertere code blocks
+  // Init uden auto-run; vi konverterer først code blocks
   mermaid.initialize({
     startOnLoad: false,
     theme: 'neutral',
     securityLevel: 'loose'
   });
 
-  // Når siden er klar: konverter <pre><code class="language-mermaid">...</code></pre>
-  // til <div class="mermaid">...</div> og kør Mermaid
-  const initMermaid = () => {
-    const codeBlocks = document.querySelectorAll('pre > code.language-mermaid');
-    codeBlocks.forEach(code => {
-      const pre = code.parentElement;
+  function convertAndRenderMermaid() {
+    // Kandidater: flere mulige wrappers fra Rouge/Kramdown
+    const candidates = [
+      ...document.querySelectorAll('pre > code.language-mermaid'),
+      ...document.querySelectorAll('div.highlighter-rouge.language-mermaid pre > code'),
+      ...document.querySelectorAll('code.language-mermaid')
+    ];
+
+    let converted = 0;
+
+    candidates.forEach((code) => {
+      // Find nærmeste <pre>
+      const pre = code.closest('pre');
+      if (!pre) return;
+
+      // Hvis der er en Rouge-wrapper <div class="highlight"> omkring <pre>, så erstatter vi hele wrapperen
+      const highlightWrapper = pre.parentElement && pre.parentElement.classList.contains('highlight')
+        ? pre.parentElement
+        : null;
+
+      // Undgå at konvertere samme block flere gange
+      if (pre.dataset.mermaidConverted === 'true' || (highlightWrapper && highlightWrapper.dataset.mermaidConverted === 'true')) {
+        return;
+      }
+
       const div = document.createElement('div');
       div.className = 'mermaid';
-      // Brug textContent for at undgå HTML-escaping
-      div.textContent = code.textContent;
-      pre.replaceWith(div);
-    });
-    // Render alle .mermaid
-    mermaid.run({ querySelector: '.mermaid' });
-  };
+      // Brug textContent (ikke innerHTML) for at undgå HTML-escaping-problemer
+      div.textContent = code.textContent.trim();
 
+      if (highlightWrapper) {
+        highlightWrapper.replaceWith(div);
+      } else {
+        pre.replaceWith(div);
+      }
+
+      if (highlightWrapper) {
+        div.dataset.mermaidConverted = 'true';
+      } else {
+        div.dataset.mermaidConverted = 'true';
+      }
+
+      converted++;
+    });
+
+    console.log(`Mermaid: converted ${converted} block(s)`);
+
+    // Render alle konverterede blokke
+    mermaid.run({ querySelector: '.mermaid' }).then(() => {
+      console.log('Mermaid: render complete');
+    }).catch((e) => {
+      console.error('Mermaid render error:', e);
+    });
+  }
+
+  // Kør når DOM er klar
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initMermaid);
+    document.addEventListener('DOMContentLoaded', convertAndRenderMermaid);
   } else {
-    initMermaid();
+    convertAndRenderMermaid();
   }
 </script>
