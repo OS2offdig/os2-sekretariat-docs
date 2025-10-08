@@ -1,12 +1,16 @@
 title: Sådan gør vi i OS2-sekretariatet
 description: Praktiske rutiner, værktøjer og principper i sekretariatet.
-remote_theme: just-the-docs/just-the-docs
+#remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+just_the_docs:
+  mermaid: true   # Native Mermaid i v0.6+
 
 plugins:
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-seo-tag
 
-url: https://just-the-docs.github.io
+baseurl: "/os2-sekretariat-docs"
+url: "https://zorp.github.io"
 
 aux_links:
   Repository: https://github.com/zorp/os2-sekretariat-docs
