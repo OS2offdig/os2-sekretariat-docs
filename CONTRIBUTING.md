@@ -1,3 +1,8 @@
+---
+title: Sådan bidrager du
+layout: default
+---
+
 # Sådan bidrager du til dokumentationen
 
 Tak fordi du vil bidrage til **OS2-sekretariatets håndbog**!  
