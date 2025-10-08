@@ -21,7 +21,7 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 - [Hvad man kan bruge håndbogen til](./docs/welcome_and_purpose#haandbog)
 
 
-## Organisation og Roller (ToDo)
+## [Organisation og Roller](./docs/organisation_and_roles)
 
 **Formål:** At skabe overblik over, hvordan sekretariatet er organiseret, hvem der har hvilke roller, og hvordan vi samarbejder internt og med fællesskabets aktører.
 
