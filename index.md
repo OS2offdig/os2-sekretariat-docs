@@ -1,6 +1,7 @@
 ---
 title: Velkommen
 layout: home
+nav_order: 1
 ---
 
 # Sådan gør vi i OS2-sekretariatet
