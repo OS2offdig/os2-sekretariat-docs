@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Velkommen
 layout: home
 ---
 
