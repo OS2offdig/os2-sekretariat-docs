@@ -1,6 +1,9 @@
 title: Sådan gør vi i OS2-sekretariatet
 description: Praktiske rutiner, værktøjer og principper i sekretariatet.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 url: https://just-the-docs.github.io
 
