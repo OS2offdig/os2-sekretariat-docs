@@ -8,6 +8,9 @@ plugins:
 
 url: https://just-the-docs.github.io
 
+just_the_docs:
+  mermaid: true
+
 aux_links:
   Repository: https://github.com/zorp/os2-sekretariat-docs
   Maintainers: ./MAINTAINERS
