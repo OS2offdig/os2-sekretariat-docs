@@ -1,9 +1,3 @@
----
-title: Sådan bidrager du
-layout: default
-nav_order: 99
----
-
 # Sådan bidrager du til dokumentationen
 
 Tak fordi du vil bidrage til **OS2-sekretariatets håndbog**!  

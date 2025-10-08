@@ -5,4 +5,6 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Documentation repository: https://github.com/zorp/os2-sekretariat-docs
+  Repository: https://github.com/zorp/os2-sekretariat-docs
+  Maintainers: ./MAINTAINERS
+  Contribute: ./CONTRIBUTING
