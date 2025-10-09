@@ -8,22 +8,21 @@ nav_order: 4
 # Struktur for tidsregistrering
 
 ## Formål
-Formålet med tidsregistrering i OS2-sekretariatet er at skabe **gennemsigtighed, læring og overblik** over, hvordan vores tid anvendes på tværs af produkter, fællesskab og drift.  
-Systemet skal være enkelt at bruge, let at forstå og give meningsfuld rapportering.
 
----
+Formålet med tidsregistrering i OS2-sekretariatet er at skabe **gennemsigtighed, læring og overblik** over, hvordan vores tid anvendes på tværs af produkter, fællesskab og drift. Systemet skal være enkelt at bruge, let at forstå og give meningsfuld rapportering.
+
 
 ## 1. Grundidé
-Registrering sker i **Leantime** og bygger på princippet:
+
+Registrering sker i **[Leantime](https://itk-leantime.itkdev.dk/)** og bygger på princippet:
 
 > **En registrering = ét projekt (hvor) + én opgave (hvad) + ét tag (type) + tid (hvor længe).**
 
 Systemet er designet til at:
-- være **let at registrere i** (få valg og faste dropdowns)
+- være **let at registrere i** (få valg og så vidt muligt foruddefinerede felter)
 - **være forståeligt** (ensartede betegnelser)
 - **understøtte rapportering** (på produkt, kategori og arbejdstype)
 
----
 
 ## 2. Grundprincipper
 
@@ -32,48 +31,51 @@ Systemet er designet til at:
 - **Tag = type** kategori for det du laver (rådgivning, koordinering, drift, kommunikation osv.).  
 - **Tid = hvor længe** du har brugt (i kvarte timer).  
 
----
 
 ## 3. Projekter i OS2-sekretariatet
 
-For at holde systemet overskueligt arbejder vi med en **fast og begrænset liste af projekter**.  
-Listen omfatter både OS2-produkter og sekretariatets tværgående områder.
+For at holde systemet overskueligt arbejder vi med et udgangspunkt af en fast og begrænset liste af projekter (hvor).  
+Listen omfatter både OS2-produkter, OS2-projekter, interne projekter og sekretariatets tværgående ydelsesområder.
 
-### A. OS2-produkter
-Kun produkter, hvor sekretariatet har en koordinerende rolle:
+### A. OS2-produkter og -projekter
+Kun produkter, hvor sekretariatet har en aktiv rolle er oprettet som standard f.eks.:
 - OS2valghalla  
 - OS2iot  
-- OS2kitos  
+- OS2ai  
+- OS2opendata  
+- OS2skole  
 
 ### B. Tværgående sekretariatsområder
-| Område | Formål |
+
+| Projekt | Bruges til |
 |--------|--------|
-| **Produkter & projekter** | Generel støtte og rådgivning til OS2-produkter, hvor arbejdet ikke entydigt hører under ét produkt. |
+| **Produkter & projekter** | Generel støtte og rådgivning til OS2-produkter, hvor arbejdet ikke entydigt hører under ét specifikt produkt. |
 | **Governance & bestyrelsesbetjening** | Udarbejdelse af beslutningsoplæg, referater, strategisk sparring og opfølgning. |
 | **Kommunikation & formidling** | Nyhedsbreve, hjemmeside, SoMe, oplæg, presse og events. |
-| **Medlemsservice & fællesskab** | Kontakt til kommuner, onboarding, medlemsopfølgning, netværk og samarbejde. |
+| **Medlemsservice & fællesskab** | Kontakt til medlemmer, onboarding, medlemsopfølgning, netværk og samarbejde. |
 | **Strategi & interessevaretagelse** | Samarbejde med KL, KOMBIT, EU, OSPO’er og fællesoffentlige initiativer. |
-| **Kompetenceudvikling & videndeling** | Kurser, OS2 Academy, konferencer, oplæg og intern læring. |
+| **Kompetenceudvikling & videndeling** | Kurser, konferencer, oplæg og intern læring. |
 | **Administration & drift** | Økonomi, fakturaer, kontrakter, kontoplan, personale og daglige driftsopgaver. |
 
 ### C. Ad-hoc og årlige aktiviteter
+
 | Projekt | Bruges til |
 |----------|------------|
 | **Årsmøde og generalforsamling** | Planlægning, forberedelse og afholdelse af OS2’s årsmøde og generalforsamling. |
 | **Community event** | Planlægning og gennemførelse af fællesskabsdage, leverandørmøder og samarbejdsevents. |
-| **OS2skole** | Koordinering og udvikling af undervisningsmateriale og samarbejde i OS2skole-regi. |
+| **Messedeltagelse** | Koordinering og gennemførelse af OS2s deltagelse på messer og konference som stadeholder. |
 
 ### D. Internt område
+
 | Projekt | Bruges til |
 |----------|------------|
 | **Intern tid** | Ferie, fravær, sygdom, pauser, frokost, intern sparring og møder uden opgaver. |
 
----
 
-## 4. Tags (kategorier for arbejdstype)
+## 4. Tags (kategorier for opgavetype)
 
-De faste **tags** bruges til at klassificere arbejdet på tværs af projekter.  
-De gør det muligt at følge fordelingen af tid på tværs af funktioner.
+De faste **tags** bruges til at klassificere opgaven (to-do) på tværs af projekter.  
+De gør det muligt at følge fordelingen af tid på tværs af funktioner.  
 
 | Tag | Formål / eksempel |
 |-----|--------------------|
@@ -84,50 +86,54 @@ De gør det muligt at følge fordelingen af tid på tværs af funktioner.
 | **Governance** | Sagsfremstillinger, beslutningsoplæg, rapporter og udvikling af styringsmodel. |
 | **Administration** | Fakturaer, kontrakter, medlemsregistrering og økonomistyring. |
 | **Strategi & interessevaretagelse** | Samarbejde med KL, KOMBIT, OSPO’er, EU og fællesoffentlige projekter. |
-| **Kompetenceudvikling** | Kurser, konferencer, OS2 Academy, videndeling og intern læring. |
+| **Kompetenceudvikling** | Kurser, konferencer, videndeling og intern læring. |
 
----
 
 ## 5. Registrering i Leantime
 
-Når du registrerer tid i **Leantime → Timesheets**, skal du vælge følgende:
+``` Mermaid
+flowchart TD
+  %% Retning og start
+  A([Start]) --> B[Leantime → Timetable →<br/>New registration]
+  B --> C{Findes to-do allerede?}
 
-| Felt | Forklaring | Eksempel |
-|------|-------------|----------|
-| **Project** | Hvor du arbejder | OS2valghalla |
-| **To-do (Opgave)** | Hvad du laver (kort og præcist) | Udarbejde styregruppemateriale |
-| **Tag** | Type af opgave | Koordinering |
-| **Time spent** | Hvor længe du har arbejdet (i kvarterstimer) | 2,25 |
+  %% Gren: eksisterende to-do
+  C -- Ja --> D
+  subgraph S1 [Eksisterende to-do]
+    D[ Vælg eksisterende To-do ]
+    D --> E[ Indtast Time spent ]
+    E --> G[ Gem registrering ]
+  end
 
-> Brug korte, sigende opgavebeskrivelser – f.eks. *“Udarbejde governance-rapport Q1”* eller *“Forberede OS2-seminar”*.  
+  %% Gren: opret ny to-do
+  C -- Nej --> N1
+  subgraph S2 [Opret ny To-do]
+    N1[ Indtast To-do titel ]
+    N1 --> P[ Vælg Project til To-do ]
+    P --> O[ Opret To-do ]
+    O --> T[ Åbn To-do og tilknyt Tag ]
+    T --> R[ Vælg To-do til registrering ]
+    R --> E2[ Indtast Time spent ]
+    E2 --> H2[ Gem registrering ]
+  end
+
+  %% Fælles slut
+  G --> Z([Færdig])
+  H2 --> Z
+```
+
+> Brug korte, sigende opgavetitler – f.eks. *“Udarbejde governance-rapport”* eller *“Forberede OS2-seminar”*.  
 >  
-> Hvis en opgave dækker flere projekter, del tiden op i flere registreringer.
+> Hvis en opgave dækker flere projekter, registrer på et tværgående ydelsesområde eller del tiden op i flere registreringer.
 
----
 
 ## 6. Eksempler på registreringer
 
-| Rolle | Projekt | Opgave | Tag | Timer | Kommentar |
-|--------|----------|--------|-----|--------|------------|
-| Produktkoordinator | OS2valghalla | Backlog refinement Q4 | Koordinering | 2,0 | Forberede og facilitere møde |
-| Kommunikationsmedarbejder | Kommunikation & formidling | Nyhedsbrev september | Kommunikation | 3,0 | Udsendelse og redigering |
-| Sekretariatschef | Governance & bestyrelsesbetjening | Udarbejde oplæg til bestyrelsen | Governance | 1,5 | Forberedelse til møde |
-| Enterprise arkitekt | OS2kitos | Review af sikkerhedsarkitektur | Rådgivning | 2,75 | Teknisk vurdering |
-| Administrativ medarbejder | Administration & drift | Fakturagodkendelse | Administration | 1,0 | Gennemgang af bilag |
-
----
+Der er nogle [eksempler på registreringer her](task_examples).
 
 ## 7. Regler og gode vaner
-- **En registrering = ét projekt + én opgave + ét tag.**  
-- Brug **konsekvente navne** for projekter (fx “OS2 valghalla” med mellemrum).  
-- **Del tiden op**, hvis en opgave dækker flere projekter.  
-- Brug **beskrivelsesfeltet** kun til opfølgning eller særlige noter.  
-- **Intern tid** registreres altid særskilt.  
-- Brug samme kategorisering på tværs af medarbejdere for at sikre sammenlignelig rapportering.
-
----
-
-> 🧭 **Kort fortalt:**  
-> Vælg *hvor* du arbejder (projekt), skriv *hvad* du laver (opgave), vælg *typen* (tag), og angiv *hvor længe* det tog.  
->  
-> Simpelt, ensartet og gennemskueligt – i OS2’s ånd.
+- En registrering = ét projekt + én opgave + ét tag + tid.  
+- Brug konsekvente navne for projekter (fx “OS2 valghalla” med mellemrum så det er søgbart).  
+- Del tiden op, hvis en opgave dækker flere projekter.  
+- Intern tid registreres altid særskilt.  
+- Brug samme kategorisering på tværs af projekter og opgaver for at sikre sammenlignelig rapportering.
