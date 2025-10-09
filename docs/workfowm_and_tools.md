@@ -56,7 +56,7 @@ Vi lægger vægt på **struktur, nærvær og tydelige roller** i vores møder.
 Mødekulturen skal være præget af åbenhed og respekt for hinandens faglighed og tid.  
 
 ## Governance og standarder {#governance}
-OS2’s måde at arbejde på bygger på den fælles [**governance-model**](https://governance.os.eu) (jf. *OS2 organisering version 1* og *governance_template.md*). Organiseringen og modellen sikrer kvalitet, transparens og ejerskab i alle OS2-projekter og -produkter.
+OS2’s måde at arbejde på bygger på den fælles [**governance-model**](https://governance.os2.eu) (jf. *OS2 organisering version 1* og *governance_template.md*). Organiseringen og modellen sikrer kvalitet, transparens og ejerskab i alle OS2-projekter og -produkter.
 
 Sekretariatet skal:
 - Rådgive projekter og produkter i brugen af governance-modellen, checklisten og eventuelt andre relevante standarder.  
