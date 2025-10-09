@@ -9,13 +9,13 @@ has_children: true
 Her samles og beskrives de faste arbejdsgange, som sikrer kvalitet, ensartethed og overblik i sekretariatets drift og projekter. Afsnittet supplerer OS2’s governance-model og fungerer som både arbejdsgrundlag for sekretariatets daglige praksis og orientering for produktkoordinatorer, bestyrelse og samarbejdspartnere.
 
 
-## Onboarding af nye medarbejdere (#onboarding)
+## Onboarding af nye medarbejdere {#onboarding}
 Nye medarbejdere introduceres gennem et forløb, der kombinerer ITK’s fælles onboarding med OS2’s egne introduktioner til værktøjer, produkter og governance. Detaljeret proces og tjekliste findes i særskilt dokument:  
 
 - [Onboarding af nye medarbejdere (ToDO)](processes/onboarding_medarbejder)
 
 
-## Budgetstyring og økonomiprocesser (#budgetstyring)
+## Budgetstyring og økonomiprocesser {#budgetstyring}
 Sekretariatet håndterer foreningens, OS2-projekter og -produkters økonomi i samarbejde med **ITK’s stab og økonomifunktion i Aarhus Kommune**, som varetager bogføring, betaling og regnskabsaflæggelse. OS2’s tilslutningsaftaler og **takstmodel** fastlægger bidrag og fordeling af de økonomiske bidrag til forening og produkter: [takstblade.os2.eu](https://takstblade.os2.eu).
 
 **Sekretariatets rolle**
@@ -34,7 +34,7 @@ Sekretariatet håndterer foreningens, OS2-projekter og -produkters økonomi i sa
 - Budgetopfølgning indgår fast som punkt på styregruppemøder og bestyrelsesmøder.  
 
 
-## Fakturahåndtering og godkendelsesflow (#faktura)
+## Fakturahåndtering og godkendelsesflow {#faktura}
 Fakturabehandling følger den procedure, der er beskrevet i *[Oversigt over fakturagodkendere](processes/os2_faktura_godkender)*.  
 Grundprincippet er to-trins-godkendelse: én person kontrollerer, en anden godkender.
 
@@ -51,7 +51,7 @@ Grundprincippet er to-trins-godkendelse: én person kontrollerer, en anden godke
 - Godkendelseslisten opdateres årligt eller ved ændringer i bemanding.
 
 
-## Time- og opgaveregistrering (#time)
+## Time- og opgaveregistrering {#time}
 Sekretariatet anvender **Leantime** til registrering af tid og opgaver.  
 Formålet er at skabe overblik over ressourceforbrug, sikre transparens og understøtte rapportering.
 
@@ -71,7 +71,7 @@ Detaljeret vejledning findes i:
 - [Struktur for tidsregistrering](processes/os2_tidsregistrering).
 
 
-## Udbud, kontrakter og juridiske processer (#udbud)
+## Udbud, kontrakter og juridiske processer {#udbud}
 Sekretariatet understøtter produkter og projekter i **kontraktmæssige spørgsmål**, men OS2 udarbejder ikke selv udbudsmateriale og kan ikke rådgive om jura.  
 
 I stedet anvendes:
