@@ -1,3 +1,10 @@
+---
+title: Fakturagodkender
+layout: default
+parent: Processer og rutiner
+nav_order: 2
+---
+
 # Oversigt over hvem der godkender regninger
 
 | PSP-element   | Projektnavn       | Intern godkender                 | Ekstern godkender                             |

@@ -41,8 +41,8 @@ Grundprincippet er to-trins-godkendelse: én person kontrollerer, en anden godke
 **Procesoversigt**
 1. Faktura til OS2 modtages via ITK’s system (OS2 EAN: 5790002750595).  
 2. Sekretariatet kontrollerer fakturaens indhold, beløb, bilag og kontering.  
-3. Fakturaen sendes til korrekt godkender jf. oversigten.  
-4. Godkendelsen registreres og dokumenteres.  
+3. Fakturaen sendes til korrekt godkender jf. [oversigten](processes/os2_faktura_godkender).  
+4. Godkendelsen registreres og dokumenteres jf. [kontoplan](processes/os2_kontoplaner).  
 5. Betaling håndteres af ITK’s økonomifunktion.  
 
 **Dokumentation**

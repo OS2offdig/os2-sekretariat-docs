@@ -1,6 +1,8 @@
 ---
-Title: Økonomi
-Description: Nyttige informationer om økonomistyring i OS2
+title: Økonomi og kontoplaner i OS2
+layout: default
+parent: Processer og rutiner
+nav_order: 3
 ---
 
 # Økonomi
