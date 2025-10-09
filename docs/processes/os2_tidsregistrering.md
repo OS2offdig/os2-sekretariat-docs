@@ -91,7 +91,7 @@ De gør det muligt at følge fordelingen af tid på tværs af funktioner.
 
 ## 5. Registrering i Leantime
 
-``` Mermaid
+```mermaid
 flowchart TD
   %% Retning og start
   A([Start]) --> B[Leantime → Timetable →<br/>New registration]
