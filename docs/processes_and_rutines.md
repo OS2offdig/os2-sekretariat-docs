@@ -68,7 +68,7 @@ Formålet er at skabe overblik over ressourceforbrug, sikre transparens og under
 - Intern tid (ferie, fravær, pauser, møder uden projekter osv.) registreres under *OS2 intern tid*.  
 
 Detaljeret vejledning findes i:  
-- [Struktur for tidsregistrering](processes/os22_tidsregistrering).
+- [Struktur for tidsregistrering](processes/os2_tidsregistrering).
 
 ---
 
