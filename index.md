@@ -43,15 +43,15 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 
 ---
 
-## Processer og rutiner (ToDo)
+## [Processer og rutiner](./docs/processes_and_rutines)
 
 **Formål:** At samle og beskrive de faste arbejdsgange, som sikrer kvalitet, ensartethed og overblik i sekretariatets drift og projekter.
 
-- Onboarding af nye medarbejdere
-- Budgetstyring og økonomiprocesser
-- Fakturahåndtering og godkendelsesflow
-- Time- og opgaveregistrering
-- Udbud, kontrakter og juridiske processer
+- [Onboarding af nye medarbejdere](./docs/processes_and_rutines#onboarding)
+- [Budgetstyring og økonomiprocesser](./docs/processes_and_rutines#budgetstyinrg)
+- [Fakturahåndtering og godkendelsesflow](./docs/processes_and_rutines#faktura)
+- [Time- og opgaveregistrering](./docs/processes_and_rutines#time)
+- [Udbud, kontrakter og juridiske processer](./docs/processes_and_rutines#udbud)
 
 ---
 
