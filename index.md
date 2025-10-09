@@ -35,11 +35,11 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 
 **Formål:** At beskrive de værktøjer og metoder, vi bruger i det daglige arbejde, og sikre en fælles tilgang til samarbejde, struktur og dokumentation.
 
-- Samarbejdsformer
-- Centrale værktøjer
-- Filstruktur og navngivningsprincipper
-- Mødekultur og mødestruktur
-- Governance og standarder
+- [Samarbejdsformer](./docs/workflow_and_tools#samarbejdsformer)
+- [Centrale værktøjer](./docs/workflow_and_tools#tools)
+- [Filstruktur og navngivningsprincipper](./docs/workflow_and_tools#filstruktur)
+- [Mødekultur og mødestruktur](./docs/workflow_and_tools#modekultur)
+- [Governance og standarder](./docs/workflow_and_tools#governance)
 
 ---
 
