@@ -11,7 +11,7 @@ Her samles og beskrives de faste arbejdsgange, som sikrer kvalitet, ensartethed 
 ## Onboarding af nye medarbejdere
 Nye medarbejdere introduceres gennem et forløb, der kombinerer ITK’s fælles onboarding med OS2’s egne introduktioner til værktøjer, produkter og governance. Detaljeret proces og tjekliste findes i særskilt dokument:  
 
-- [Onboarding af nye medarbejdere](processes/onboarding.md)
+- [Onboarding af nye medarbejdere](processes/onboarding)
 
 ---
 
