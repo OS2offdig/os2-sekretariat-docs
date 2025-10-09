@@ -1,18 +1,12 @@
 ---
-title: Økonomi og kontoplaner i OS2
+title: Økonomi og kontoplaner
 layout: default
 parent: Processer og rutiner
 nav_order: 3
 ---
 
-# Økonomi
+# Økonomi i OS2
 
-* [Stamdata](#stamdata)
-* [Styring](#styring)
-  * [Intern timepris](#timepris)
-* [Kontoplan OS2](#kontoplan-os2)
-* [Kontoplan Produkt](#kontoplan-produkt)
-  * [Produkt kontonumre](#produkt-konto)
 
 ## Stamdata {#stamdata}
 

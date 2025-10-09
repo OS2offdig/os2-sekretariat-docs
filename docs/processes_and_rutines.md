@@ -55,25 +55,20 @@ Grundprincippet er to-trins-godkendelse: én person kontrollerer, en anden godke
 Sekretariatet anvender **Leantime** til registrering af tid og opgaver.  
 Formålet er at skabe overblik over ressourceforbrug, sikre transparens og understøtte rapportering.
 
-**Grundprincipper (fra OS2’s struktur for tidsregistrering):**
-- **Projekt = hvor** du arbejder (produkt eller område).  
-- **Opgavetype = hvad** du laver (rådgivning, koordinering, drift, kommunikation osv.).  
-- **Tid = hvor længe** du har brugt (i kvarterstimer).  
+**Grundprincipper** (fra struktur for tidsregistrering):
+- **Projekt = hvor** du arbejder (OS2-projekt, OS2-produkt eller sekretariatsprojekt, -ydelsesområde).  
+- **Opgave (to-do) = hvad** du laver (kort titel på opgaven, [se eksempler](processes/task_examples)).  
+- **Tag = type** kategori for det du laver (rådgivning, koordinering, drift, kommunikation osv.).
+- **Tid = hvor længe** du har brugt (i kvarte timer).  
 
 **Regler**
-- Én registrering = ét projekt + én opgavetype.  
-- Del tiden op, hvis en opgave vedrører flere produkter.  
-- Brug faste projektnavne og opgavetyper som defineret i strukturen.  
-- Intern tid (ferie, pauser, møder uden opgaver) registreres under *Intern tid*.  
-
-**Eksempel**
-| Rolle | Projekt | Opgavetype | Timer | Kommentar |
-|--------|----------|-------------|--------|------------|
-| Produktkoordinator | OS2valghalla | Koordinering | 2,0 | Backlog refinement |
-| Kommunikationsmedarbejder | Kommunikation & formidling | Kommunikation | 3,0 | Nyhedsbrev september |
+- Én registrering = ét projekt + én opgave (to-do) med tilknyttet tag.  
+- Registrer på sekretariatsprojekt, - ydelsesområde hvis en opgave vedrører flere OS2-projekter eller -produkter.  
+- Brug faste projektnavne og tags (opgavetyper) som defineret i strukturen.  
+- Intern tid (ferie, fravær, pauser, møder uden projekter osv.) registreres under *OS2 intern tid*.  
 
 Detaljeret vejledning findes i:  
-➡️ [OS2 tidsregistrering struktur](./OS2_tidsregistrering_struktur.md)
+- [Struktur for tidsregistrering](processes/os22_tidsregistrering).
 
 ---
 
