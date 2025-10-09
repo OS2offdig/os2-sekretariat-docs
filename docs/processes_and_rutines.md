@@ -2,6 +2,7 @@
 title: Processer og rutiner
 layout: default
 nav_order: 5
+has_children: true
 ---
 
 # Processer og rutiner  
@@ -13,7 +14,6 @@ Nye medarbejdere introduceres gennem et forløb, der kombinerer ITK’s fælles 
 
 - [Onboarding af nye medarbejdere](processes/onboarding)
 
----
 
 ## Budgetstyring og økonomiprocesser
 Sekretariatet håndterer OS2’s økonomi i samarbejde med **ITK’s økonomifunktion i Aarhus Kommune**, som varetager bogføring, betaling og regnskabsaflæggelse.  

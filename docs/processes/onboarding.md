@@ -1,5 +1,6 @@
 ---
 title: Onboarding af nye medarbejdere
 layout: default
-parent: docs
+parent: Processer og rutiner
+nav_order: 1
 ---
