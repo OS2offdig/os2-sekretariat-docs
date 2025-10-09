@@ -12,44 +12,44 @@ Her samles og beskrives de faste arbejdsgange, som sikrer kvalitet, ensartethed 
 ## Onboarding af nye medarbejdere
 Nye medarbejdere introduceres gennem et forløb, der kombinerer ITK’s fælles onboarding med OS2’s egne introduktioner til værktøjer, produkter og governance. Detaljeret proces og tjekliste findes i særskilt dokument:  
 
-- [Onboarding af nye medarbejdere](processes/onboarding)
+- [Onboarding af nye medarbejdere (ToDO)](processes/onboarding_medarbejder)
 
 
 ## Budgetstyring og økonomiprocesser
-Sekretariatet håndterer OS2’s økonomi i samarbejde med **ITK’s økonomifunktion i Aarhus Kommune**, som varetager bogføring, betaling og regnskabsaflæggelse.  
-OS2’s egen **takstmodel** fastlægger bidrag og fordeling mellem medlemmer og produkter:  
-➡️ [os2.eu/takstblade](https://www.os2.eu/takstblade)
+Sekretariatet håndterer foreningens, OS2-projekter og -produkters økonomi i samarbejde med **ITK’s Stab og økonomifunktion i Aarhus Kommune**, som varetager bogføring, betaling og regnskabsaflæggelse. OS2’s tilslutningsaftaler og **takstmodel** fastlægger bidrag og fordeling af de økonomiske bidrag til forening og produkter: [takstblade.os2.eu](https://takstblade.os2.eu).
 
 **Sekretariatets rolle**
-- Udarbejde forslag til **årsbudget** og fremlægge det for bestyrelsen.  
-- Koordinere økonomiske dispositioner med ITK’s økonomimedarbejdere.  
+- Fremlægge årsregnskab for bestyrelsen samt generalforsamling.  
+- Fremlægge regnskabsstatus og årsregnskab for projekter og produkter.    
+- Udarbejde forslag til årsbudget og fremlægge det for bestyrelsen samt generalforsamling.  
+- Koordinere budget, regnskab og økonomiske dispositioner med bestyrelse, produktkoordinatorer og styregrupper.  
+- Håndtere tilslutninger til produkter og tilsagn til projekter, herunder økonomien.  
 - Sikre sammenhæng mellem budget, medlemsbidrag og produktmidler.  
-- Opdatere økonomioverblik på tværs af projekter og produkter kvartalsvis.  
+- Opdatere økonomioverblik på tværs af projekter og produkter.  
 
 **Principper**
-- Alle økonomiske beslutninger skal kunne spores til godkendelse i bestyrelse eller generalforsamling.  
-- Økonomidata gemmes i Nextcloud under *Økonomi / Budget og regnskab*.  
-- Budgetopfølgning indgår fast som punkt på sekretariatsmøder og bestyrelsesmøder.
+- Alle økonomiske beslutninger skal kunne spores til godkendelse i styregruppe, bestyrelse eller generalforsamling. Ofte sker den formelle godkendelse via det fastlagt budget og et udelegeret mandat til sekretariatschef eller produktkoordinator.  
+- Økonomidata gemmes i Nextcloud under mappen *Økonomi*.  
+- Stamdata som ligger til grund for økonomien trækkes fra Airtable.  
+- Budgetopfølgning indgår fast som punkt på styregruppemøder og bestyrelsesmøder.  
 
----
 
 ## Fakturahåndtering og godkendelsesflow
-Fakturabehandling følger den procedure, der er beskrevet i *Oversigt over fakturagodkendere*.  
-Grundprincippet er **to-trins-godkendelse**: én person kontrollerer, en anden godkender.
+Fakturabehandling følger den procedure, der er beskrevet i *[Oversigt over fakturagodkendere](processes/os2_faktura_godkender)*.  
+Grundprincippet er to-trins-godkendelse: én person kontrollerer, en anden godkender.
 
 **Procesoversigt**
-1. Faktura modtages via ITK’s system (EAN: 5798009863334).  
+1. Faktura til OS2 modtages via ITK’s system (OS2 EAN: 5790002750595).  
 2. Sekretariatet kontrollerer fakturaens indhold, beløb, bilag og kontering.  
 3. Fakturaen sendes til korrekt godkender jf. oversigten.  
 4. Godkendelsen registreres og dokumenteres.  
 5. Betaling håndteres af ITK’s økonomifunktion.  
 
 **Dokumentation**
-- Fakturaer arkiveres i Nextcloud under *Økonomi / Fakturaer / År*.  
-- Ved projektspecifikke udgifter henvises til produktets budget i Airtable.  
+- Fakturaer arkiveres i ITK's økonomisystem.  
+- Ved produkt- og projektspecifikke udgifter henvises til issue ID i projektets eller produktets backlog (issue-tracker).  
 - Godkendelseslisten opdateres årligt eller ved ændringer i bemanding.
 
----
 
 ## Time- og opgaveregistrering
 Sekretariatet anvender **Leantime** til registrering af tid og opgaver.  
