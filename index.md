@@ -19,6 +19,7 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 - [Sekretariatets rolle](./docs/welcome_and_purpose.md#rolle)
 - [Hvad man kan bruge håndbogen til](./docs/welcome_and_purpose#haandbog)
 
+---
 
 ## [Organisation og Roller](./docs/organisation_and_roles)
 
@@ -30,6 +31,7 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 - [Samarbejde med produktfællesskaber og produktkoordinatorer](./docs/organisation_and_roles#samarbejde2)
 - [Kontaktflader og samarbejdspartnere](./docs/organisation_and_roles#kontaktflader)
 
+---
 
 ## [Arbejdsformer og værktøjer](./docs/workflow_and_tools)
 
@@ -55,15 +57,15 @@ Det er ikke en komplet og fyldestgørende samling. Så mangler der noget skal du
 
 ---
 
-## Kommunikation og tone (ToDo)
+## [Kommunikation og tone](./docs/communication)
 
 **Formål:** At skabe fælles forståelse for OS2’s kommunikation, sprog og tone, så vi fremstår ensartet og professionelt i alt, hvad vi kommunikerer.
 
-- OS2’s tone og Code of Conduct
-- Hvordan vi kommunikerer med medlemmer, leverandører og partnere
-- Brug af OS2’s visuelle identitet og logo
-- Skabeloner (slides, breve, notater, opslag)
-- God praksis for videndeling og åben dokumentation
+- [Tone og Code of Conduct](./docs/communication#tone)
+- [Kommunikation med medlemmer, leverandører og partnere](./docs/communication#kommunikation)
+- [Visuel identitet og logo](./docs/communication#visuel)
+- [Skabeloner](./docs/communication#skabeloner)
+- [God praksis for videndeling og åben dokumentation](./docs/communication#praksis)
 
 ---
 
