@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Sådan gør vi i OS2-sekretariatet
+# Sådan gør vi i OS2-fællesskabet og OS2-sekretariatet
 
 Denne samling af vejledninger er din indgang til arbejdet i OS2-sekretariatet. Hvorfor og Hvordan gør vi forskellige ting? Hvilket værktøj bruges til x,y og z? Og hvad er proceduren nu lige?
 
