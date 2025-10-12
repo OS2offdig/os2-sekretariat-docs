@@ -77,9 +77,9 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 - [Forskellen på projekt, produkt og fællesskab](./docs/products_and_communities#forskel)
 - [Hvordan sekretariatet understøtter](./docs/products_and_communities#support)
 - [Processen for nye produkter](./docs/products_and_communities#process)
- - Fra OS2-projekt til OS2-produkt
- - Kriterier for OS2-projekt
- - Kriterier for OS2-produkt
+  - Fra OS2-projekt til OS2-produkt
+  - Kriterier for OS2-projekt
+  - Kriterier for OS2-produkt
 - [Skabeloner og vejledninger](./docs/products_and_communities#templates)
 
 
