@@ -69,17 +69,19 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ---
 
-## Produkter og fællesskaber (ToDo)
+## [Produkter og fællesskaber](./docs/products_and_communities)
 
 **Formål:** At give overblik over OS2’s produktportefølje og beskrive, hvordan sekretariatet understøtter fællesskaberne omkring hvert produkt.
 
-- OS2’s produktportefølje (link til produkter.os2.eu)
-- Forskellen på projekt, produkt og fællesskab
-- Hvordan sekretariatet understøtter produkterne (koordinering, kvalitet, governance)
-- Processen for nye produkter (fra idé til OS2-optagelse)
-- Skabeloner og vejledninger (f.eks. governance checkliste, tilslutningsaftale)
+- [OS2’s portefølje](./docs/products_and_communities#portfolio)
+- [Forskellen på projekt, produkt og fællesskab](./docs/products_and_communities#forskel)
+- [Hvordan sekretariatet understøtter](./docs/products_and_communities#support)
+- [Processen for nye produkter](./docs/products_and_communities#process)
+ - Fra OS2-projekt til OS2-produkt
+ - Kriterier for OS2-projekt
+ - Kriterier for OS2-produkt
+- [Skabeloner og vejledninger](./docs/products_and_communities#templates)
 
----
 
 ## Samarbejdspartnere og leverandører (ToDo)
 

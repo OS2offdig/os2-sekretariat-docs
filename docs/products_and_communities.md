@@ -10,7 +10,7 @@ I afsnittet får du overblik over OS2’s produktportefølje og får beskrevet, 
 Afsnittet hjælper nye medarbejdere, produktkoordinatorer og samarbejdspartnere med at forstå, hvordan OS2’s projekter og produkter organiseres, driftes og videreudvikles i et fællesskab.
 
 
-## OS2’s produktportefølje
+## OS2’s produktportefølje {#portfolio}
 OS2 består af en række fællesoffentlige open source-produkter, som udvikles, driftes og videreudvikles i samarbejde mellem offentlige myndigheder og private leverandører.  
 Hvert produkt har sit eget fællesskab med deltagende myndigheder, leverandører og andre aktører. Hvert produkt placeres i OS2’s produktniveauer efter modenhed og governance-praksis.
 
@@ -24,7 +24,7 @@ Hvert produkt har (når fuldt etableret):
 - en **fælles ramme for styring** ([OS2s styringsmodel](https://governance.os2.eu)), der sikrer placering i OS2s produktnivauer samt åbenhed og kvalitet i udviklingen.
 
 
-## Forskellen på projekt, produkt og fællesskab
+## Forskellen på projekt, produkt og fællesskab {#forskel}
 For at arbejde effektivt i OS2 er det vigtigt at kende forskellen på de tre grundbegreber:
 
 | Begreb | Definition | Formål |
@@ -38,7 +38,7 @@ For at arbejde effektivt i OS2 er det vigtigt at kende forskellen på de tre gru
 🤝 Et fællesskab gør det stærkere.  
 
 
-## Hvordan sekretariatet understøtter
+## Hvordan sekretariatet understøtter {#support}
 Sekretariatets rolle er at sikre, at hvert projekt og produkt drives åbent, koordineret og med fokus på kvalitet, men uden selv at være den udførende part på sigt.
 Sekretariatet bidrager til at få processer i gang, skabe struktur og sikre sammenhæng, så fællesskaberne kan overtage og videreføre arbejdet.  
 
@@ -55,7 +55,7 @@ Det gør vi ved at tilbyde support, struktur og sparring i alle faser af projekt
 💡 Sekretariatet arbejder på vegne af OS2’s bestyrelse for at sikre, at hvert projekt og produkt drives åbent, koordineret og med fokus på kvalitet, men uden selv at være den udførende part på sigt.
 
 
-## Processen for nye produkter
+## Processen for nye produkter {#process}
 Når nye idéer opstår, hjælper sekretariatet med at modne dem og vurdere, om de egner sig som OS2-produkter.
 
 **Fra idé til projekt til OS2-produkt:**
@@ -140,7 +140,7 @@ Produktet skal have dokumenteret kvalitet, åbenhed og bæredygtighed i drift og
 Sekretariatet bistår med vurdering, dokumentation og kontakt til bestyrelsen.
 
 
-## Skabeloner og vejledninger
+## Skabeloner og vejledninger {#templates}
 OS2 anvender en række fælles skabeloner for at sikre kvalitet og ensartethed i produktarbejdet.  
 Alle skabeloner findes i GitHub og Nextcloud. Listen er ikke udtømmende, [bidrag](./docs/CONTRIBUTE.md) gerne med manglende skabeloner eller forbedringer.
 
