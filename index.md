@@ -94,7 +94,18 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 - [Praktisk samspil](./docs/partners_and_suppliers#praktisk)  
 - [Ressourcer](./docs/partners_and_suppliers#ressourcer)
 
----
+
+## [Kultur og uvikling](./docs/culture_and_development)
+
+**Formål:** At beskrive OS2’s kultur og tilgang til samarbejde, læring og udvikling – og hvordan vi understøtter hinanden som team og fællesskab.
+
+- Sådan arbejder vi i fællesskab
+- Forbindelsen til ITK’s kultur  
+- Læring og videndeling  
+- Kompetenceudvikling  
+- Feedbackkultur og sparring  
+- Ledelsesstil og fælles udvikling
+
 
 ## Praktisk information (ToDo)
 
@@ -106,18 +117,6 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 - Kontaktinfo og interne kanaler
 - Sikkerhed (GDPR, passwordpraksis, datasikkerhed)
 
----
-
-## Kultur og uvikling (ToDo)
-
-**Formål:** At beskrive OS2’s kultur og tilgang til samarbejde, læring og udvikling – og hvordan vi understøtter hinanden som team og fællesskab.
-
-- “Sådan arbejder vi i fællesskab”, forventninger til samarbejde og ansvar
-- Læring og videndeling (internt og med medlemmer)
-- Kompetenceudvikling
-- Feedbackkultur og sparring
-
----
 
 ## Bilag og ressourcer (ToDo)
 
