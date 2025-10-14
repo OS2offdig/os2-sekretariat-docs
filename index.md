@@ -87,12 +87,12 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 **Formål:** At skabe klarhed over, hvordan OS2 samarbejder med eksterne parter – både offentlige og private – og hvilke principper og rammer der gælder for samarbejdet.
 
-- OS2’s samarbejdsfilosofi  
-- Typer af samarbejdspartnere  
-- Aftaler og rammer  
-- Samarbejdsformer  
-- Praktisk samspil  
-- Ressourcer
+- [OS2’s samarbejdsfilosofi](./docs/partners_and_suppliers#filosofi)  
+- [Typer af samarbejdspartnere](./docs/partners_and_suppliers#typer)  
+- [Aftaler og rammer](./docs/partners_and_suppliers#aftaler)  
+- [Samarbejdsformer](./docs/partners_and_suppliers#samarbejdsformer)  
+- [Praktisk samspil](./docs/partners_and_suppliers#praktisk)  
+- [Ressourcer](./docs/partners_and_suppliers#ressourcer)
 
 ---
 

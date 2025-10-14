@@ -10,7 +10,7 @@ Følgende skaber klarhed over, hvordan OS2 samarbejder med eksterne parter – b
 Afsnittet skal give et fælles grundlag for, hvordan sekretariatet og produktfællesskaberne indgår, forvalter og udvikler samarbejder i overensstemmelse med OS2’s værdisæt.
 
 
-## OS2’s samarbejdsfilosofi
+## OS2’s samarbejdsfilosofi {#filosofi}
 OS2 bygger på samarbejde mellem offentlige myndigheder og leverandører om udvikling, vedligeholdelse og udbredelse af open source-løsninger. Derfor ser vi samarbejdspartnere som bidragydere og medudviklere.  
 Et godt samarbejde bygger på tillid, transparens og respekt for fælles mål – også når vi har forskellige roller, interesser og ståsteder.
 
@@ -23,7 +23,7 @@ Et godt samarbejde bygger på tillid, transparens og respekt for fælles mål �
 *Kort sagt: Vi arbejder sammen, ikke for hinanden.*
 
 
-## Typer af samarbejdspartnere
+## Typer af samarbejdspartnere {#typer}
 OS2 samarbejder med en bred vifte af partnere – fra myndigheder til private virksomheder og andre aktører. Hver type har sin rolle og sit bidrag i fællesskabet.
 
 | Type | Eksempler | Rolle i samarbejdet |
@@ -35,7 +35,7 @@ OS2 samarbejder med en bred vifte af partnere – fra myndigheder til private vi
 | **Internationale partnere** | EU's OSPO-netværk, Standard for Public Code, Publiccode.yml og andre open source-fællesskaber | Videndeling, standardisering og samarbejde om principper, metoder eller retningslinjer. |
 
 
-## Aftaler og rammer
+## Aftaler og rammer {#aftaler}
 Alle samarbejder i OS2 skal ske inden for rammerne af foreningens [governance-model](https://governance.os2.eu), [code of conduct](https://coc.os2.eu) og aftalegrundlag.
 
 **Centrale aftaler og dokumenter:**
@@ -51,7 +51,7 @@ Alle aftaler skal:
 - og være **forankret i de relevante produktfællesskaber og styregrupper**, så der er fælles ansvar for overholdelse og opfølgning.  
 
 
-## Samarbejdsformer
+## Samarbejdsformer {#samarbejdsformer}
 OS2 arbejder med forskellige samarbejdsformer afhængigt af opgaven og relationen til partneren.
 
 | Samarbejdsform | Formål | Typiske aktiviteter |
@@ -65,7 +65,7 @@ OS2 arbejder med forskellige samarbejdsformer afhængigt af opgaven og relatione
 Uanset form gælder, at samarbejdet skal dokumenteres, være transparent og understøtte fællesskabets mål.
 
 
-## Praktisk samspil
+## Praktisk samspil {#praktisk}
 Sekretariatet har en central rolle i at understøtte og koordinere samarbejder på tværs.
 
 **Sekretariatets rolle:**
@@ -78,7 +78,7 @@ Sekretariatet har en central rolle i at understøtte og koordinere samarbejder p
 *Sekretariatet er fællesskabets facilitator og garant for åbenhed og sammenhæng.*
 
 
-## Ressourcer
+## Ressourcer {#ressourcer}
 Ressourcer og skabeloner findes her:
 
 | Ressource | Beskrivelse | Placering |
