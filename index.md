@@ -83,7 +83,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 - [Skabeloner og vejledninger](./docs/products_and_communities#templates)
 
 
-## Samarbejdspartnere og leverandører (ToDo)
+## [Samarbejdspartnere og leverandører](./docs/partners_and_suppliers)
 
 **Formål:** At skabe klarhed over, hvordan OS2 samarbejder med eksterne parter – både offentlige og private – og hvilke principper og rammer der gælder for samarbejdet.
 
@@ -92,7 +92,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 - Aftaler og rammer  
 - Samarbejdsformer  
 - Praktisk samspil  
-- Ressourcer og kontakt
+- Ressourcer
 
 ---
 
