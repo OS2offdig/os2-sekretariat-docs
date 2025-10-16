@@ -107,15 +107,15 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 - Ledelsesstil og fælles udvikling
 
 
-## Praktisk information (ToDo)
+## [Praktisk information](./docs/practical_information)
 
 **Formål:** At give hurtig adgang til praktisk information om arbejdsforhold, udstyr, lokaler og sikkerhed i hverdagen i sekretariatet.
 
-- Arbejdstid, ferie, mødeforplejning, kørselsgodtgørelse
-- IT-support og udstyr
-- Lokaler og adgang (Dokk1, booking osv.)
-- Kontaktinfo og interne kanaler
-- Sikkerhed (GDPR, passwordpraksis, datasikkerhed)
+- [Arbejdsforhold og retningslinjer](./docs/practical_information#arbejdsforhold)  
+- [IT og udstyr](./docs/practical_information#it)  
+- [Lokaler og adgang](./docs/practical_information#lokaler)  
+- [Kommunikation og kontakt](./docs/practical_information#kommunikation)  
+- [Sikkerhed og GDPR](./docs/practical_information#sikkerhed)
 
 
 ## Bilag og ressourcer (ToDo)

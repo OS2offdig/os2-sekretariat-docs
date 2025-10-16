@@ -9,7 +9,7 @@ Kultur er svær at beskrive og sætte på formel. I det følgende afsnit gør vi
 Afsnittet giver et fælles afsæt for, hvordan vi arbejder sammen, lærer af hinanden og skaber trivsel og kvalitet gennem vores arbejde.
 
 
-## Sådan arbejder vi i fællesskab
+## Sådan arbejder vi i fællesskab {#}
 OS2’s kultur bygger på tillid, åbenhed, fælles ansvar og høj faglighed.  
 Vi arbejder i et samarbejdsrum, hvor alle bidrager med hver deres perspektiv og faglighed – og hvor forskellighed er en styrke.  
 Vi deler viden, lytter nysgerrigt og hjælper hinanden med at blive en succes.  
