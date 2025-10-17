@@ -77,8 +77,8 @@ Sekretariatet understøtter produkter og projekter i **kontraktmæssige spørgsm
 
 I stedet anvendes:
 - **OS2’s governance-model** som ramme for lovlighed, åbenhed og dokumentation.  
-- **SKI (Statens og Kommunernes Indkøbsservice)** som indkøbsfællesskab, hvor OS2 er medlem.  
-- **Andre fællesskaber** som f.eks. Det fælles databehandlersekretariat.
+- **[SKI (Statens og Kommunernes Indkøbsservice)](https://ski.dk)** som indkøbsfællesskab, hvor OS2 er medlem.  
+- **Andre fællesskaber** som f.eks. Det fælles [databehandlersekretariat](https://kommunedbs.dk/).
 - **Eksterne kompetencer** jurister og andre rådgivere efter behov.  
 
 **Proces og rollefordeling**

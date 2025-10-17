@@ -18,7 +18,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Velkommen og formål](./docs/welcome_and_purpose)
 
-**Formål:** At give en introduktion til OS2-fællesskabet og sekretariatets rolle. Afsnittet sætter scenen for arbejdet i sekretariatet og beskriver, hvorfor vi gør, som vi gør.
+Her gives en introduktion til OS2-fællesskabet og sekretariatets rolle. Afsnittet sætter scenen for arbejdet i sekretariatet og beskriver, hvorfor vi gør, som vi gør.
 
 - [Kort om OS2-fællesskabet, formål og værdier](./docs/welcome_and_purpose#formaal)
 - [Sekretariatets rolle](./docs/welcome_and_purpose.md#rolle)
@@ -28,7 +28,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Organisation og Roller](./docs/organisation_and_roles)
 
-**Formål:** At skabe overblik over, hvordan sekretariatet er organiseret, hvem der har hvilke roller, og hvordan vi samarbejder internt og med fællesskabets aktører.
+Skaber overblik over, hvordan sekretariatet er organiseret, hvem der har hvilke roller, og hvordan vi samarbejder internt og med fællesskabets aktører.
 
 - [OS2s organisering](./docs/organisation_and_roles#organisering)
 - [Roller og ansvar](./docs/organisation_and_roles#roller)
@@ -40,7 +40,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Arbejdsformer og værktøjer](./docs/workflow_and_tools)
 
-**Formål:** At beskrive de værktøjer og metoder, vi bruger i det daglige arbejde, og sikre en fælles tilgang til samarbejde, struktur og dokumentation.
+Beskriver de værktøjer og metoder, vi bruger i det daglige arbejde, og sikre en fælles tilgang til samarbejde, struktur og dokumentation.
 
 - [Samarbejdsformer](./docs/workflow_and_tools#samarbejdsformer)
 - [Centrale værktøjer](./docs/workflow_and_tools#tools)
@@ -52,7 +52,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Processer og rutiner](./docs/processes_and_rutines)
 
-**Formål:** At samle og beskrive de faste arbejdsgange, som sikrer kvalitet, ensartethed og overblik i sekretariatets drift og projekter.
+Samler og beskriver de faste arbejdsgange, som sikrer kvalitet, ensartethed og overblik i sekretariatets drift og projekter.
 
 - [Onboarding af nye medarbejdere](./docs/processes_and_rutines#onboarding)
 - [Budgetstyring og økonomiprocesser](./docs/processes_and_rutines#budgetstyring)
@@ -64,7 +64,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Kommunikation og tone](./docs/communication)
 
-**Formål:** At skabe fælles forståelse for OS2’s kommunikation, sprog og tone, så vi fremstår ensartet og professionelt i alt, hvad vi kommunikerer.
+Skaber fælles forståelse for OS2’s kommunikation, sprog og tone, så vi fremstår ensartet og professionelt i alt, hvad vi kommunikerer.
 
 - [Tone og Code of Conduct](./docs/communication#tone)
 - [Kommunikation med medlemmer, leverandører og partnere](./docs/communication#kommunikation)
@@ -76,7 +76,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Produkter og fællesskaber](./docs/products_and_communities)
 
-**Formål:** At give overblik over OS2’s produktportefølje og beskrive, hvordan sekretariatet understøtter fællesskaberne omkring hvert produkt.
+Her gives overblik over OS2’s produktportefølje og beskrives hvordan sekretariatet understøtter fællesskaberne omkring hvert produkt.
 
 - [OS2’s portefølje](./docs/products_and_communities#portfolio)
 - [Forskellen på projekt, produkt og fællesskab](./docs/products_and_communities#forskel)
@@ -90,7 +90,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Samarbejdspartnere og leverandører](./docs/partners_and_suppliers)
 
-**Formål:** At skabe klarhed over, hvordan OS2 samarbejder med eksterne parter – både offentlige og private – og hvilke principper og rammer der gælder for samarbejdet.
+Skaber klarhed over, hvordan OS2 samarbejder med eksterne parter – både offentlige og private – og hvilke principper og rammer der gælder for samarbejdet.
 
 - [OS2’s samarbejdsfilosofi](./docs/partners_and_suppliers#filosofi)  
 - [Typer af samarbejdspartnere](./docs/partners_and_suppliers#typer)  
@@ -102,7 +102,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Kultur og uvikling](./docs/culture_and_development)
 
-**Formål:** At beskrive OS2’s kultur og tilgang til samarbejde, læring og udvikling – og hvordan vi understøtter hinanden som team og fællesskab.
+Beskriver OS2’s kultur og tilgang til samarbejde, læring og udvikling – og hvordan vi understøtter hinanden som team og fællesskab.
 
 - Sådan arbejder vi i fællesskab
 - Forbindelsen til ITK’s kultur  
@@ -114,7 +114,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Praktisk information](./docs/practical_information)
 
-**Formål:** At give hurtig adgang til praktisk information om arbejdsforhold, udstyr, lokaler og sikkerhed i hverdagen i sekretariatet.
+Hurtig adgang til praktisk information om arbejdsforhold, udstyr, lokaler og sikkerhed i hverdagen i sekretariatet.
 
 - [Arbejdsforhold og retningslinjer](./docs/practical_information#arbejdsforhold)  
 - [IT og udstyr](./docs/practical_information#it)  
@@ -125,7 +125,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 
 ## [Bilag og ressourcer](./docs/appendix#)
 
-**Formål:** At samle relevante dokumenter, skabeloner og henvisninger ét sted, så de hurtigt kan findes og bruges i det daglige arbejde.
+Her samles relevante dokumenter, skabeloner og henvisninger ét sted, så de hurtigt kan findes og bruges i det daglige arbejde.
 
 - [Centrale dokumenter og skabeloner](./docs/appendix#central)
 - [Juridiske og organisatoriske dokumenter](./docs/appendix#jura)

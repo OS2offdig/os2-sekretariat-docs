@@ -39,10 +39,10 @@ OS2 samarbejder med en bred vifte af partnere – fra myndigheder til private vi
 Alle samarbejder i OS2 skal ske inden for rammerne af foreningens [governance-model](https://governance.os2.eu), [code of conduct](https://coc.os2.eu) og aftalegrundlag.
 
 **Centrale aftaler og dokumenter:**
-- **OS2s partneraftale** fastlægger de overordnede rammer for offentlige myndigheders medlemskab af OS2.  
-- **Leverandørpartneraftalen** beskriver vilkår, roller og forventninger til leverandører, der bidrager til udvikling eller drift af OS2-produkter.  
-- **FLOSS-aftalen:** definerer de juridiske rammer for samarbejde, licenser og rettigheder.  
-- **Tilslutningsaftalen:** regulerer medlemskab og økonomiske bidrag.  
+- **[OS2s partneraftale](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FAftaleskabeloner%2FPartneraftaler)** fastlægger de overordnede rammer for offentlige myndigheders medlemskab af OS2.  
+- **[Leverandørpartneraftalen](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FAftaleskabeloner%2FPartneraftaler)** beskriver vilkår, roller og forventninger til leverandører, der bidrager til udvikling eller drift af OS2-produkter.  
+- **[FLOSS-aftalen](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FSkabeloner%2FFLOSS):** definerer de juridiske rammer for samarbejde, licenser og rettigheder.  
+- **[Tilslutningsaftalen](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FSkabeloner%2FTilslutningsaftale):** regulerer medlemskab og økonomiske bidrag.  
 - **Kontrakter:** bruges kun, hvor der er behov for at afklare leverancer eller specifikke juridiske forhold.  
 
 Alle aftaler skal:  
