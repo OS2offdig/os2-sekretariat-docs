@@ -118,11 +118,11 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 - [Sikkerhed og GDPR](./docs/practical_information#sikkerhed)
 
 
-## Bilag og ressourcer (ToDo)
+## [Bilag og ressourcer](./docs/appendix#)
 
-**Formål:** At samle alle relevante dokumenter, skabeloner og henvisninger ét sted, så de hurtigt kan findes og bruges i det daglige arbejde.
+**Formål:** At samle relevante dokumenter, skabeloner og henvisninger ét sted, så de hurtigt kan findes og bruges i det daglige arbejde.
 
-- Links til OS2’s filer (governance template, kontoplan, retningslinjer osv.)
-- Juridiske og organisatoriske dokumenter (vedtægter, kommissorium, beretning)
-- Ofte stillede spørgsmål
-- “Hvem kontakter jeg, når jeg er i tvivl?”
+- [Centrale dokumenter og skabeloner](./docs/appendix#central)
+- [Juridiske og organisatoriske dokumenter](./docs/appendix#jura)
+- [Ofte stillede spørgsmål (FAQ)](./docs/appendix#faq)
+- [“Hvem kontakter jeg, når jeg er i tvivl?”](./docs/appendix#faq)
