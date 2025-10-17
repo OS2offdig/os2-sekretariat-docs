@@ -6,7 +6,7 @@ nav_order: 1
 
 # Sådan gør vi i OS2-fællesskabet og OS2-sekretariatet – en håndbog
 
-*Version v1.0.0 – Udgivet oktober 2025* {: .label .label-green }  
+Version v1.0.0 – Udgivet oktober 2025 {: .label .label-green }  
 
 Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet. Hvorfor og hvordan gør vi forskellige ting? Hvilket værktøj bruges til x,y og z? Og hvad er proceduren nu lige?
 
