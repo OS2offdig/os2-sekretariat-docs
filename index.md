@@ -4,11 +4,13 @@ layout: home
 nav_order: 1
 ---
 
-# Sådan gør vi i OS2-fællesskabet og OS2-sekretariatet
+# Sådan gør vi i OS2-fællesskabet og OS2-sekretariatet – en håndbog
+
+*Version v1.0.0 – Udgivet oktober 2025* {: .label .label-green }  
 
 Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet. Hvorfor og hvordan gør vi forskellige ting? Hvilket værktøj bruges til x,y og z? Og hvad er proceduren nu lige?
 
-💡 Det er ikke en komplet og fyldestgørende samling. Så mangler der noget, skal du registrere et 🐛 *issue* og bidrag meget gerne med en løsning 💪. Rettelser ✏️ til eksisterende indhold hilses også meget velkommen 🙌.
+💡 Det er ikke en komplet og fyldestgørende samling. Så mangler der noget, skal du registrere et *issue* og bidrag meget gerne med en løsning. Rettelser til eksisterende indhold hilses også meget velkommen 🙌.
 
 
 ## [Velkommen og formål](./docs/welcome_and_purpose)
