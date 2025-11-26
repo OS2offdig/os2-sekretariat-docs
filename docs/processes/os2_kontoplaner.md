@@ -104,3 +104,4 @@ Alle OS2-produkter anvender samme kontoplan. Udskift xx med det produktspecifikk
 | OS2skole          | XG-4300001246 |
 | OS2fleetoptimiser | XG-4300001247 |
 | OS2planCO2        | XG-4300001248 |
+| OS2ai             | XG-4300001249 |
