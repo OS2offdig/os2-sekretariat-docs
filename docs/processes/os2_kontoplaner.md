@@ -56,7 +56,7 @@ For uddybning se: [Omkostningsberegning - AarhusIntra (aarhuskommune.dk)](https:
 | XG-4300001221-00130 | OS2 Revision                           |
 | XG-4300001221-00160 | OS2 produktudvikling                   |
 
-## Kontoplan OS2-produkt {kontoplan-produkt}
+## Kontoplan OS2-produkt {#kontoplan-produkt}
 
 Alle OS2-produkter anvender samme kontoplan. Udskift xx med det produktspecifikke nummer. Find dette i oversigten nedenfor.
 
@@ -105,3 +105,4 @@ Alle OS2-produkter anvender samme kontoplan. Udskift xx med det produktspecifikk
 | OS2fleetoptimiser | XG-4300001247 |
 | OS2planCO2        | XG-4300001248 |
 | OS2ai             | XG-4300001249 |
+| OS2connector      | XG-4300001250 |

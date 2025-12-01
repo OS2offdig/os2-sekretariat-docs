@@ -34,6 +34,8 @@ nav_order: 2
 | XG-4300001246 | OS2skole          | Rasmus Frey [rafr@aarhus.dk](mailto:rafr@aarhus.dk)       | Henrik Bojsen [heboj@syddjurs.dk](mailto:heboj@syddjurs.dk)               |
 | XG-4300001247 | OS2fleetoptimiser | Sofie Buhl [sofbu@aarhus.dk](mailto:sofbu@aarhus.dk)       | Ingen                                         |
 | XG-4300001248 | OS2planCO2        | Rasmus Frey [rafr@aarhus.dk](mailto:rafr@aarhus.dk)       | Ingen                                         |
+| XG-4300001249 | OS2ai             | Signe Marie Skovby Ahm [masia@aarhus.dk](mailto:masia@aarhus.dk) | Ingen                                   |
+| XG-4300001250 | OS2connector      | Sofie Buhl [sofbu@aarhus.dk](mailto:sofbu@aarhus.dk)       | Ingen                                         |
 
 ## Proces for godkendelse af faktura i OS2
 
