@@ -6,7 +6,7 @@ nav_order: 1
 
 # Sådan gør vi i OS2-fællesskabet og OS2-sekretariatet – en håndbog
 
-Version v1.0.0 – Udgivet oktober 2025
+Version [v1.0.1](https://github.com/OS2offdig/os2-sekretariat-docs/releases/tag/v.1.0.1) – Udgivet december 2025
 {: .label .label-green }  
 
 Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet. Hvorfor og hvordan gør vi forskellige ting? Hvilket værktøj bruges til x,y og z? Og hvad er proceduren nu lige?
@@ -104,12 +104,12 @@ Skaber klarhed over, hvordan OS2 samarbejder med eksterne parter – både offen
 
 Beskriver OS2’s kultur og tilgang til samarbejde, læring og udvikling – og hvordan vi understøtter hinanden som team og fællesskab.
 
-- Sådan arbejder vi i fællesskab
-- Forbindelsen til ITK’s kultur  
-- Læring og videndeling  
-- Kompetenceudvikling  
-- Feedbackkultur og sparring  
-- Ledelsesstil og fælles udvikling
+- [Sådan arbejder vi i fællesskab](./docs/culture_and_development#arbejder)
+- [Forbindelsen til ITK’s kultur](./docs/culture_and_development#kultur)  
+- [Læring og videndeling](./docs/culture_and_development#videndeling)  
+- [Kompetenceudvikling](./docs/culture_and_development#kompetenceudvikling)  
+- [Feedbackkultur og sparring](./docs/culture_and_development#feedbackkultur)  
+- [Ledelsesstil og fælles udvikling](./docs/culture_and_development#ledelsesstil)
 
 
 ## [Praktisk information](./docs/practical_information)
@@ -123,7 +123,7 @@ Hurtig adgang til praktisk information om arbejdsforhold, udstyr, lokaler og sik
 - [Sikkerhed og GDPR](./docs/practical_information#sikkerhed)
 
 
-## [Bilag og ressourcer](./docs/appendix#)
+## [Bilag og ressourcer](./docs/appendix)
 
 Her samles relevante dokumenter, skabeloner og henvisninger ét sted, så de hurtigt kan findes og bruges i det daglige arbejde.
 
