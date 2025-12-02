@@ -9,7 +9,7 @@ Kultur er svær at beskrive og sætte på formel. I det følgende afsnit gør vi
 Afsnittet giver et fælles afsæt for, hvordan vi arbejder sammen, lærer af hinanden og skaber trivsel og kvalitet gennem vores arbejde.
 
 
-## Sådan arbejder vi i fællesskab {#}
+## Sådan arbejder vi i fællesskab {#arbejder}
 OS2’s kultur bygger på tillid, åbenhed, fælles ansvar og høj faglighed.  
 Vi arbejder i et samarbejdsrum, hvor alle bidrager med hver deres perspektiv og faglighed – og hvor forskellighed er en styrke.  
 Vi deler viden, lytter nysgerrigt og hjælper hinanden med at blive en succes.  
@@ -24,7 +24,7 @@ Vi deler viden, lytter nysgerrigt og hjælper hinanden med at blive en succes.
 *I OS2 er samarbejde ikke et projekt. Det er vores måde at arbejde på.*
 
 
-## Forbindelsen til ITK’s kultur
+## Forbindelsen til ITK’s kultur {#kultur}
 OS2-sekretariatet er organisatorisk forankret i **ITK – Innovation, Teknologi og Kreativitet** i Aarhus Kommune.  
 ITK’s kultur kendetegnes ved **ansvar, faglighed, åbenhed, nærvær, udvikling og humor**.  
 Vi deler ITK’s ambition om at skabe værdi for mennesker gennem teknologi og samarbejde.  
@@ -33,7 +33,7 @@ Læs mere om ITK’s tilgang og rammer på: [itk.aarhus.dk](https://itk.aarhus.d
 Både OS2 og ITK arbejder ud fra den overbevisning, at innovation kræver mod til at tænke nyt og samarbejde på tværs af fagligheder. ITK beskriver dette som en del af deres kultur, hvor nysgerrighed og eksperimenter driver udviklingen, mens OS2’s fællesskab konkretiserer det gennem samarbejde mellem offentlige og private aktører om fælles open source-løsninger.
 
 
-## Læring og videndeling
+## Læring og videndeling {#videndeling}
 Læring er en integreret del af vores måde at arbejde på.  
 Vi lærer gennem praksis, projekter og fællesskab.  
 Erfaringer deles åbent, så andre kan bygge videre på dem.
@@ -48,7 +48,7 @@ Erfaringer deles åbent, så andre kan bygge videre på dem.
 *Når vi dokumenterer, lærer vi og når vi lærer, deler vi.*
 
 
-## Kompetenceudvikling
+## Kompetenceudvikling {#kompetenceudvikling}
 Kompetenceudvikling er både et fælles og et individuelt ansvar.  
 Hver medarbejder har ret og pligt til at udvikle sig fagligt, og sekretariatet støtter aktivt op gennem samtaler, kurser og opgavetilpasning.  
 Vi ser udvikling som noget, der sker i samspil mellem opgaver, refleksion og feedback.
@@ -64,7 +64,7 @@ Vi ser udvikling som noget, der sker i samspil mellem opgaver, refleksion og fee
 *Vi bliver dygtigere sammen – ikke alene.*
 
 
-## Feedbackkultur og sparring
+## Feedbackkultur og sparring {#feedbackkultur}
 Feedback i OS2 handler om at gøre hinanden bedre, ikke om at vurdere. Vi giver feedback med respekt og mod, og vi efterspørger feedback aktivt.  
 Sparring ses som en naturlig del af samarbejdet, både formelt og uformelt.  
 Feedback er en del af vores fælles læring – vi bruger den til at forstå, justere og udvikle, ikke til at bedømme.
@@ -78,7 +78,7 @@ Feedback er en del af vores fælles læring – vi bruger den til at forstå, ju
 *Feedback og sparring er en gave – ikke en kontrol.*
 
 
-## Ledelsesstil og fælles udvikling
+## Ledelsesstil og fælles udvikling {#ledelsesstil}
 Sekretariatets ledelse bygger på tillid, åbenhed og medinddragelse.  
 Vi sætter retning sammen og der skabes rum til, at alle kan bidrage og tage ansvar.  
 Ledelsen i sekretariatet hviler på et stærkt Public Service Motivation-værdigrundlag og troen på, at ledelse handler om at skabe mening, følgeskab og fællesskab til gavn for det fælles bedste.  
