@@ -21,6 +21,7 @@ Vi arbejder ud fra princippet om **åbenhed først** og kendt som Open by defaul
 - **Beslutninger:** Større beslutninger drøftes i teammøder og dokumenteres i referater. Ved tvivl skal beslutningen forankres hos sekretariatschefen.  
 - **Tværgående samarbejde:** Vi arbejder tæt sammen med OS2’s bestyrelse, produktkoordinatorer og styregrupper. Kommunikation med eksterne skal altid ske på vegne af sekretariatet og med fælles synkronisering om budskaber og formål.
 
+**Se også:** Opskrifter og skabeloner i **[Værktøjskassen](./product_toolbox)** (facilitering, mødeformer, referat).
 
 ## Centrale værktøjer {#tools}
 OS2-sekretariatet anvender en række digitale værktøjer, der understøtter samarbejde, planlægning og dokumentation:
@@ -37,6 +38,7 @@ OS2-sekretariatet anvender en række digitale værktøjer, der understøtter sam
 
 Alle værktøjer skal bruges på en måde, der understøtter **fælles ejerskab og transparens**. Hvis et dokument eller en opgave kun findes lokalt, eksisterer den ikke organisatorisk.
 
+**Se også:** How-to og standarder pr. værktøj i **[Værktøjskassen](./product_toolbox)** (fx **Nextcloud**: fildeling, adgang, rettigheder).
 
 ## Filstruktur og navngivningsprincipper {#filstruktur}
 - Brug altid klare og konsekvente filnavne, fx `2025-03-15_Referat_Bestyrelsesmoede.odt`.
@@ -46,6 +48,7 @@ Alle værktøjer skal bruges på en måde, der understøtter **fælles ejerskab 
 - Versionering sker på GitHub for dokumenter med offentlig relevans (fx governance, vejledninger, skabeloner).
 - Personlige noter og arbejdsfiler kan ligge lokalt, men placeres i fælles arkiv, når de får varig betydning.
 
+**Se også:** **[Fildeling (Nextcloud)](./product_toolbox/file_sharing_nextcloud)** i Værktøjskassen for trin, rettigheder og mappeskabelon.
 
 ## Mødekultur og mødestruktur {#modekultur}
 Vi lægger vægt på **struktur, nærvær og tydelige roller** i vores møder.
@@ -59,6 +62,8 @@ Vi lægger vægt på **struktur, nærvær og tydelige roller** i vores møder.
 
 Mødekulturen skal være præget af åbenhed og respekt for hinandens faglighed og tid.  
 
+**Se også:** Skabeloner for dagsorden og referat i **[Værktøjskassen](./product_toolbox)**.
+
 ## Governance og standarder {#governance}
 OS2’s måde at arbejde på bygger på den fælles [**governance-model**](https://governance.os2.eu) (jf. *OS2 organisering version 1* og *governance_template.md*). Organiseringen og modellen sikrer kvalitet, transparens og ejerskab i alle OS2-projekter og -produkter.
 
@@ -69,3 +74,6 @@ Sekretariatet skal:
 - Anvende fælles standarder for dokumentation, projektstyring og licenser (MPL 2.0 som udgangspunkt jf. [OS2s vedtægter](https://www.os2.eu/vedtaegter-for-os2-offentligt-digitaliseringsfaellesskab)).  
 
 Governance-modellen og internationale standarder er vores fælles kvalitetsramme – både for sekretariatets interne arbejde og for de OS2-projekter og -produkter, vi understøtter.
+
+**Se også:** Governance-rapport/licensvalg i produktets docs + relevante skabeloner i **[Værktøjskassen](./product_toolbox)**.
+
