@@ -1,12 +1,16 @@
 ---
-title: Arbejdsformer og værktøjer
+title: Sådan arbejder vi i OS2
 layout: default
 nav_order: 4
 ---
 
-# Arbejdsformer og værktøjer
+# Sådan arbejder vi i OS2 <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
 
-Her finder du beskrivelse af de værktøjer og metoder, vi bruger i det daglige arbejde. Værktøjer og metoder sikre en fælles tilgang til samarbejde, struktur og dokumentation i OS2-sekretariatet. Afsnittet hjælper dig med at forstå, hvordan vi organiserer vores arbejde, træffer beslutninger og dokumenterer vores opgaver på tværs af fællesskabet.
+**Overblik:** Principper, rammer og standarder for, hvordan vi arbejder og samarbejder i OS2.  
+**Skal du løse en opgave nu?** Gå til **[Værktøjskasse til projekter og produkter](./product_toolbox)** for *Trin for trin*, værktøjer og skabeloner.
+
+Her beskriver vi, hvordan vi arbejder sammen i OS2-sekretariatet: hvilke værktøjer, metoder og mødeformer vi bruger til at skabe fælles struktur, samarbejde og dokumentation.
+Afsnittet fokuserer på vores principper og arbejdsgange – altså hvordan vi organiserer, prioriterer og træffer beslutninger på tværs af fællesskabet.
 
 
 ## Samarbejdsformer {#samarbejdsformer}
