@@ -6,7 +6,12 @@ has_children: true
 has_toc: false
 ---
 
-# Processer og rutiner  
+# Processer og rutiner <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
+
+*🔎 Overblik:* Rammer for forløb, roller og beslutningspunkter på tværs af OS2.  
+*🛠️ Skal du løse en opgave nu?* Gå til **[Værktøjskassen](./product_toolbox)** for *Trin for trin*, værktøjer og skabeloner.
+
+
 Her samles og beskrives de faste arbejdsgange, som sikrer kvalitet, ensartethed og overblik i sekretariatets drift og projekter. Afsnittet supplerer OS2’s governance-model og fungerer som både arbejdsgrundlag for sekretariatets daglige praksis og orientering for produktkoordinatorer, bestyrelse og samarbejdspartnere.
 
 
