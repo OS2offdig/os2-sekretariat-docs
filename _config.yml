@@ -9,6 +9,6 @@ mermaid:
   version: "11.9.0"
 
 aux_links:
-  Repository: https://github.com/zorp/os2-sekretariat-docs
+  Repository: https://github.com/OS2offdig/os2-sekretariat-docs
   Maintainers: ./MAINTAINERS
   Contribute: ./CONTRIBUTING
