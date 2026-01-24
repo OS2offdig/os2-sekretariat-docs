@@ -27,7 +27,7 @@ Administrationen kan kontaktes på [**itkstab@mkb.aarhus.dk**](mailto:itkstab@mk
 
 ### Intern timepris ITK {#timepris}
 
-Når vi køber ydelser i ITK eller andre steder i Aarhus Kommune foregår dette til en intern timepris. Denne er i 2024 udregnet til at være: **705 kr/time**
+Når vi køber ydelser i ITK eller andre steder i Aarhus Kommune foregår dette til en intern timepris. Denne er i 2025 udregnet til at være: **732 kr/time**
 
 For uddybning se: [Omkostningsberegning - AarhusIntra (aarhuskommune.dk)](https://intranet.aarhuskommune.dk/documents/2453)
 
@@ -106,3 +106,5 @@ Alle OS2-produkter anvender samme kontoplan. Udskift xx med det produktspecifikk
 | OS2planCO2        | XG-4300001248 |
 | OS2ai             | XG-4300001249 |
 | OS2connector      | XG-4300001250 |
+| OS2opendatadk     | XG-4300001251 |
+| OS2aiheatcontrol  | XG-4300001252 |
