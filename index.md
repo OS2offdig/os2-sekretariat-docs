@@ -6,8 +6,7 @@ nav_order: 1
 
 # Sådan gør vi i OS2-fællesskabet og OS2-sekretariatet – en håndbog
 
-Version [v1.0.1](https://github.com/OS2offdig/os2-sekretariat-docs/releases/tag/v.1.0.1) – Udgivet december 2025
-{: .label .label-green }  
+[Version 1.0.2](https://github.com/OS2offdig/os2-sekretariat-docs/releases/tag/v.1.0.2){: .btn .btn-green } 
 
 Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet. Hvorfor og hvordan gør vi forskellige ting? Hvilket værktøj bruges til x,y og z? Og hvad er proceduren nu lige?
 
