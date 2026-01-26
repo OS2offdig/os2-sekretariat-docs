@@ -94,7 +94,7 @@ Her finder du kort beskrivelse og link til de detaljerede funktionsbeskrivelser.
 | **Produktkonsulent** | Rådgivning, projektstøtte, kvalitet og dokumentation | [Funktionsbeskrivelse](role_descriptions/product_advisor) |
 | **Enterprise Arkitekt** | Teknisk rådgivning, standardisering og arkitekturprincipper | [Funktionsbeskrivelse](role_descriptions/enterprise_architect) |
 | **Kommunikationsmedarbejder** | Intern og ekstern kommunikation, nyhedsbreve, hjemmeside | [Funktionsbeskrivelse](role_descriptions/communications_officer) |
-| **Forretningskoordinator** | Processer, drift og støttefunktioner | [Funktionsbeskrivelse]() |
+| **Forretningskoordinator** | Processer, drift og støttefunktioner | [Funktionsbeskrivelse](role_descriptions/business_coordinator) |
 | **Produktkoordinator** | Koordination, governance og fremdrift i et OS2-produkt | [Funktionsbeskrivelse](role_descriptions/product_coordinator) |
 | **Programleder** | Produktledelse, prioritering og koordinering af udvikling i et OS2-produkt | [Funktionsbeskrivelse](role_descriptions/program_manager) |
 
