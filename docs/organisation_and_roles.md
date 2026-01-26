@@ -2,6 +2,8 @@
 title: Organisation og Roller
 layout: default
 nav_order: 3
+has_children: true
+has_toc: false
 ---
 
 # Organisation og roller
@@ -88,13 +90,13 @@ Her finder du kort beskrivelse og link til de detaljerede funktionsbeskrivelser.
 
 | Rolle | Hovedopgaver | Reference |
 |-------|---------------|------------|
-| **Sekretariatschef** | Overordnet ledelse, strategi, kontakt til bestyrelse og OS2-fællesskab | [Funktionsbeskrivelse]() |
-| **Produktkonsulent** | Rådgivning, projektstøtte, kvalitet og dokumentation | [Funktionsbeskrivelse]() |
-| **Enterprise Arkitekt** | Teknisk rådgivning, standardisering og arkitekturprincipper | [Funktionsbeskrivelse]() |
-| **Kommunikationsmedarbejder** | Intern og ekstern kommunikation, nyhedsbreve, hjemmeside | [Funktionsbeskrivelse]() |
-| **Forretningskoordinator** | Processer, drift og støttefunktioner | [Funktionsbeskrivelse]() |
-| **Produktkoordinator** | Koordination, governance og fremdrift i et OS2-produkt | [Funktionsbeskrivelse]() |
-| **Programleder** | Produktledelse, prioritering og koordinering af udvikling i et OS2-produkt | [Funktionsbeskrivelse]() |
+| **Sekretariatschef** | Overordnet ledelse, strategi, kontakt til bestyrelse og OS2-fællesskab | [Funktionsbeskrivelse](role_descriptions/chief_executive_and_secretary) |
+| **Produktkonsulent** | Rådgivning, projektstøtte, kvalitet og dokumentation | [Funktionsbeskrivelse](role_descriptions/product_advisor) |
+| **Enterprise Arkitekt** | Teknisk rådgivning, standardisering og arkitekturprincipper | [Funktionsbeskrivelse](role_descriptions/enterprise_architect) |
+| **Kommunikationsmedarbejder** | Intern og ekstern kommunikation, nyhedsbreve, hjemmeside | [Funktionsbeskrivelse](role_descriptions/communications_officer) |
+| **Forretningskoordinator** | Processer, drift og støttefunktioner | [Funktionsbeskrivelse](role_descriptions/business_coordinator) |
+| **Produktkoordinator** | Koordination, governance og fremdrift i et OS2-produkt | [Funktionsbeskrivelse](role_descriptions/product_coordinator) |
+| **Programleder** | Produktledelse, prioritering og koordinering af udvikling i et OS2-produkt | [Funktionsbeskrivelse](role_descriptions/program_manager) |
 
 > Alle medarbejdere deler et fælles ansvar for at styrke samarbejdet i OS2 og sikre, at sekretariatet arbejder ud fra fællesskabets værdier om åbenhed, samarbejde og ejerskab.
 
