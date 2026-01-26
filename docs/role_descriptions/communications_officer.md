@@ -34,10 +34,10 @@ Det kan f.eks. være:
 
 Det kan f.eks. være:
 
-- Udarbejde standardmateriale som checklister, talepunkter og ligende som hjælper bestyrelse, styregrupper og koordinationsgrupper i deres kommunikation.  
-- Udarbejde skabeloner og kommunikationspakker, som projekt- og produktfællesskaber kan bruge til deres kommunikation.  
-- Målrettet information til OS2s medlemmer og interessenter (Nyhedsbreve og tilsvarende).  
-- Rådgive og støtte projekt- og produktfællesskaber i deres kommunikation.
+- Udarbejde standardpræsentationer og talepunkter til bestyrelse/sekretariat.
+- Udarbejde skabeloner og kommunikationspakker, som produktfællesskaber kan bruge i styre- og koordinationsgrupper.
+- Skrive nyhedsbreve målrettet forskellige målgrupper (IT-chefer, koordinatorer, direktioner og leverandører).
+- Støtte produktfællesskaber med kommunikation om nye versioner, onboardingmaterialer og webinarer.
 
 ##### 3. Dokumentere og formidle erfaringer, metoder og resultater
 

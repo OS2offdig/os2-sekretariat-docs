@@ -58,22 +58,30 @@ Sekretariatschefen har ansvar for at koordinere sekretariatets arbejde, lede med
 - Sikre struktur i arbejdsgange og processer.
 - Håndtere centrale administrative opgaver i tæt samarbejde med den administrative medarbejder.
 
-## Arbejdsopgaver og prioritering (MUST, SHOULD, COULD)
+## Arbejdsopgaver og prioritering
 
-### MUST
+For at skabe klarhed og realistiske forventninger anvendes prioriteringsmodellen **MUST, SHOULD, COULD**. Modellen kendes fra projekt- og porteføljestyring ([MoSCoW-metoden](https://en.wikipedia.org/wiki/MoSCoW_method)) og bruges til at adskille:
+
+- **MUST** – opgaver der er uundværlige for at OS2 kan fungere.
+- **SHOULD** – opgaver der er vigtige, men som kan tilpasses efter ressourcer.
+- **COULD** – opgaver der er ønskelige og gennemføres, hvis der er ekstra tid eller mulighed.
+
+Ved at bruge modellen kan både medarbejder og ledelse løbende prioritere opgaverne, så kerneopgaver altid løses, mens øvrige indsatser tilpasses ressourcer og strategiske behov.
+
+### MUST (skal løses for at OS2 kan fungere)
 
 - Lede sekretariatets medarbejdere og koordinere indsatsen på tværs.
 - Forberede bestyrelsesmøder og sikre opfølgning.
 - Overblik over økonomi og ressourcer.
 - Sikre governance og kontinuitet i OS2’s organisering.
 
-### SHOULD
+### SHOULD (bør løses, når ressourcerne er til stede)
 
 - Drive strategiske indsatser i samarbejde med bestyrelse og medlemmer.
 - Opbygge og vedligeholde samarbejde med centrale aktører (KL, KOMBIT, Digitaliseringsstyrelsen, EU).
 - Facilitere fælles udvikling og videndeling i foreningen.
 
-### COULD
+### COULD (nice-to-have, når der er ekstra tid eller ressourcer)
 
 - Udvikle nye koncepter og værktøjer til foreningens governance og professionalisering.
 - Styrke OS2’s internationale rolle gennem netværk.

@@ -11,9 +11,9 @@ nav_order: 6
 
 Formålet med stillingen er at understøtte udvikling, drift og organisering af et af OS2’s open source-produkter. Produktkoordinatoren fungerer som bindeled mellem produktets styregruppe, koordinationsgruppe, leverandører og brugere.
 
-Rollen er fleksibel og varierer afhængigt af den tid, der er afsat til opgaven – typisk 1/5, 1/3 eller 1/2 årsværk. Opgaver og prioriteringer fastlægges i samråd med styregruppen, som også har ansvaret for at sikre, at produktkoordinatoren har de nødvendige forudsætninger for at kunne løse opgaven realistisk.
+Rollen er fleksibel og varierer afhængigt af den tid, der er afsat til opgaven – typisk mellem 5 og 15 timer pr. uge. Opgaver og prioriteringer fastlægges i samråd med styregruppen, som også har ansvaret for at sikre, at produktkoordinatoren har de nødvendige forudsætninger for at kunne løse opgaven realistisk.
 
-Der er et sæt basale opgaver, som skal varetages, for at sikre governance, kvalitet og kontinuitet i produktet. Disse opgaver vil altid have forrang.
+Der er dog et sæt basale opgaver, som skal varetages, for at sikre governance, kvalitet og kontinuitet i produktet. Disse opgaver vil altid have forrang.
 
 ## Ansvarsområde
 
