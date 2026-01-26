@@ -1,5 +1,5 @@
 ---
-title: Funktionsbeskrivelse – Produktkoordinator i OS2
+title: Produktkoordinator
 layout: default
 parent: Organisation og Roller
 nav_order: 6

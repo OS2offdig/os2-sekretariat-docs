@@ -1,5 +1,5 @@
 ---
-title: Funktionsbeskrivelse – Produktkonsulent i OS2
+title: Produktkonsulent
 layout: default
 parent: Organisation og Roller
 nav_order: 2

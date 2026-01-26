@@ -1,5 +1,5 @@
 ---
-title: Funktionsbeskrivelse – forretningskoordinator i OS2
+title: Forretningskoordinator
 layout: default
 parent: Organisation og Roller
 nav_order: 5

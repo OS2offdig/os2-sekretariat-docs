@@ -1,5 +1,5 @@
 ---
-title: Funktionsbeskrivelse – Sekretariatschef i OS2
+title: Sekretariatschef
 layout: default
 parent: Organisation og Roller
 nav_order: 1

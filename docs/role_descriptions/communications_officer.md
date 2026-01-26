@@ -1,5 +1,5 @@
 ---
-title: Funktionsbeskrivelse – Kommunikationsmedarbejder i OS2
+title: Kommunikationsmedarbejder
 layout: default
 parent: Organisation og Roller
 nav_order: 4

@@ -1,5 +1,5 @@
 ---
-title: Funktionsbeskrivelse – Enterprise arkitekt i OS2
+title: Enterprise arkitekt
 layout: default
 parent: Organisation og Roller
 nav_order: 3

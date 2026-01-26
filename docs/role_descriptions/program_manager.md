@@ -1,5 +1,5 @@
 ---
-title: Funktionsbeskrivelse – Programleder i OS2
+title: Programleder
 layout: default
 parent: Organisation og Roller
 nav_order: 7
