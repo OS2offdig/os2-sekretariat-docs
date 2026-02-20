@@ -72,7 +72,7 @@ De faste **tags** bruges til at klassificere opgaven (to-do) på tværs af proje
 Formålet er at sikre ensartet og konsistent brug af tags i tidsregistreringen.  
 Hver registrering skal have ét primært arbejdstype-tag.
 
-[Kort oversigt over tags samt formål](/processes/tags_tidsregistrering){: .btn }
+[Kort oversigt over tags samt formål](tags_tidsregistrering){: .btn }
 
 ### Strategi & interessevaretagelse
 
