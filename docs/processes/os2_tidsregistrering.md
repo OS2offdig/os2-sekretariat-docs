@@ -21,7 +21,7 @@ Registrering sker i **[Leantime](https://itk-leantime.itkdev.dk/)** og bygger p�
 Systemet er designet til at:
 - være **let at registrere i** (få valg og så vidt muligt foruddefinerede felter)
 - **være forståeligt** (ensartede betegnelser)
-- **understøtte rapportering** (på produkt, kategori og arbejdstype)
+- **understøtte rapportering** (på projekt og tag niveau)
 
 
 ## 2. Grundprincipper
@@ -43,7 +43,9 @@ Produkter, hvor sekretariatet har en aktiv rolle er oprettet som standard f.eks.
 - OS2iot  
 - OS2ai  
 - OS2opendata  
-- OS2skole  
+- OS2skole 
+
+Kontakt Rasmus for oprettelse af nye leantime projekter. Disse oprettes som en kopi af OS2 projektskabelon i leantime. 
 
 ### B. Sekretariatsarbejde
 Projektet bruges til langt de fleste opgaver sekretariatet udfører. Det er f.eks.:
@@ -65,189 +67,24 @@ Det kan f.eks. være:
 - Udvikling og implementering af ny værktøjer.
 
 
-
 ## 4. Tags (kategorier for opgavetype)
 
 De faste **tags** bruges til at klassificere opgaven (to-do) på tværs af projekter.  
 Formålet er at sikre ensartet og konsistent brug af tags i tidsregistreringen.  
+Tags er vigtigt i forhold til rapporter da det disse udarbejdes med afsæt i Tags.
 Hver registrering skal have ét primært arbejdstype-tag.
 
-[Kort oversigt over tags samt formål](tags_tidsregistrering){: .btn }
+[Oversigt over tags samt formål](tags_tidsregistrering){: .btn }
 
-### Strategi & interessevaretagelse
+## 5. Faste opgaver
 
-**Bruges når:**  
-Arbejdet handler om OS2’s overordnede retning, positionering eller strategiske påvirkning.
+Der er oprettet en række foruddefinerede opgaver i OS2s projektskabelon.  
+Disse er allerede markeret med tag og kan anvendes til registrering af tid såfremt opgaver som løses matcher beskrivelsen.  
 
-**Typiske situationer:**
-- Udvikling af strategiske satsninger
-- Dialog med KL, KOMBIT, Ministerier og Styrelser, EU, OSPO’er
-- Udarbejdelse af strategiske notater og positioner
-- Høringssvar og policy-arbejde
-
-**Bruges ikke når:**  
-Arbejdet vedrører konkret produktdrift eller almindelig bestyrelsesbetjening.
-
-### Governance & bestyrelsesbetjening
-
-**Bruges når:**  
-Arbejdet vedrører formel styring, beslutningsgrundlag og rapportering.
-
-**Typiske situationer:**
-- Forberedelse af bestyrelsesmøder
-- Udarbejdelse af beslutningsoplæg
-- Porteføljeoverblik
-- Udvikling af governance-modeller
-- Generalforsamling
-
-**Bruges ikke når:**  
-Arbejdet er almindelig administration eller strategisk interessevaretagelse.
-
-### Produkt-/projektstøtte (udvikling)
-
-**Bruges når:**  
-Arbejdet bidrager til fremdrift, udvikling eller forbedring af produkter eller projekter.
-
-**Typiske situationer:**
-- Projektmodning
-- Udvikling af værktøjer og skabeloner
-- Rådgivning om udvikling
-- Udarbejdelse af dokumentation og best practice
-
-**Bruges ikke når:**  
-Arbejdet handler om stabil drift, møder eller opfølgning på eksisterende leverancer.
-
-### Produkt-/projektstøtte (drift)
-
-**Bruges når:**  
-Arbejdet handler om stabilisering, koordinering og vedligehold af eksisterende produkter.
-
-**Typiske situationer:**
-- Styregrupper
-- Koordinationsgrupper
-- Leverandøropfølgning
-- Incident-håndtering
-- Løbende opfølgning
-
-**Bruges ikke når:**  
-Arbejdet udvikler nyt eller forbedrer strukturer.
-
-### Kommunikation & synlighed
-
-**Bruges når:**  
-Arbejdet handler om formidling, synlighed og kommunikation.
-
-**Typiske situationer:**
-- Nyhedsbreve
-- Artikler
-- SoMe
-- Oplæg
-- Presse
-- Produktkommunikation
-
-**Bruges ikke når:**  
-Arbejdet primært er strategisk eller governance.
-
-### Fællesskab & relationer
-
-**Bruges når:**  
-Arbejdet handler om relationer, engagement og samarbejdskultur.
-
-**Typiske situationer:**
-- Medlemsdialog
-- Onboarding
-- Facilitering af netværk
-- Konflikthåndtering
-- Forventningsafstemning
-
-**Bruges ikke når:**  
-Arbejdet er ren produktdrift eller administration.
-
-### Administration & intern drift
-
-**Bruges når:**  
-Arbejdet vedrører praktisk og administrativ understøttelse af sekretariatet.
-
-**Typiske situationer:**
-- Økonomi
-- Fakturaer
-- Kontrakter
-- Medlemsdata
-- Tidsregistrering
-- Systemdrift
-
-**Bruges ikke når:**  
-Arbejdet er strategisk, relationelt eller udviklingsorienteret.
-
-### Ledelse & personale
-
-**Bruges når:**  
-Arbejdet vedrører ledelse og organisering af medarbejdere.
-
-**Typiske situationer:**
-- 1:1 samtaler
-- MUS
-- Trivsel
-- Prioritering og kapacitetsplanlægning
-- Rekruttering
-- Procesforbedring internt
-
-**Bruges ikke når:**  
-Arbejdet handler om produkter eller fællesskabet eksternt.
-
-### Kompetenceudvikling & læring
-
-**Bruges når:**  
-Arbejdet primært har læring som formål.
-
-**Typiske situationer:**
-- Kurser
-- Konferencer med læringsformål
-- Faglig opdatering
-- Intern videndeling
-
-**Bruges ikke når:**  
-Konferencen primært er repræsentation eller oplæg (så er det Kommunikation).
-
-### Pause
-
-**Bruges når:**  
-Registrering af betalt pause (fx frokost), hvis den indgår i arbejdstiden.
-
-**Bruges ikke når:**  
-Der arbejdes aktivt under pausen.
-
-### Fravær
-
-**Bruges når:**  
-Medarbejderen ikke udfører arbejde.
-
-**Typiske situationer:**
-- Ferie
-- Sygdom
-- Barn syg
-- Afspadsering
-- Barsel
-- Korttidsfravær
-
-### Møde – internt
-
-**Bruges når:**  
-Et internt møde ikke entydigt kan kategoriseres under en anden arbejdstype.
-
-**Vigtig regel:**  
-Hvis mødet har et klart formål (fx strategi, produktdrift eller governance), skal det registreres under den relevante arbejdstype – ikke her.
-
-### Transport
-
-**Bruges når:**  
-Der transporteres uden at udføre aktivt arbejde.
-
-**Bruges ikke når:**  
-Transporttiden anvendes til aktivt arbejde (fx forberedelse i tog).
+[Oversigt over faste opgaver oprettet i leantime samt formål](opgaver_tidsregistrering){: .btn }
 
 
-## 5. Registrering i Leantime
+## 6. Registrering i Leantime
 
 ```mermaid
 flowchart TD
@@ -284,7 +121,7 @@ flowchart TD
 > Tilknyt altid et tag til opgaven.  
 > Tværgående opgaver registreres som sekretariatsarbejde mens opgaver på specifikke projekter registreres her.  
 
-## 6. Regler og gode vaner
+## 7. Regler og gode vaner
 - En registrering = ét projekt + én opgave + ét tag + tid.  
 - Brug konsekvente navne for projekter (fx “OS2 valghalla” med mellemrum så det er søgbart).  
 - Del tiden op, hvis en opgave dækker flere projekter.   
