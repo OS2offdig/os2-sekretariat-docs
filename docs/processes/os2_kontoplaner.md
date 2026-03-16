@@ -35,76 +35,79 @@ For uddybning se: [Omkostningsberegning - AarhusIntra (aarhuskommune.dk)](https:
 
 | Kontonummer         | Kontonavn                              |
 |---------------------|----------------------------------------|
-| XG-4300001221       | Foreningen OS2                         |
-| **Indtægter**           |                                        |
-| XG-4300001221-00140 | Kontingent (Andel til Forening OS2)    |
-| XG-4300001221-00150 | OS2 Andre indtægter                    |
-| XG-4300001221-00190 | Bidrag fra OS2-produkter               |
-| **Udgifter**            |                                        |
-| XG-4300001221-00010 | OS2 Bestyrelsesinternat                |
-| XG-4300001221-00020 | OS2 Forretnings- og projektledelse     |
-| XG-4300001221-00030 | OS2 Administration                     |
-| XG-4300001221-00040 | OS2 Kontorhold                         |
-| XG-4300001221-00050 | OS2 Web (drift og support)             |
-| XG-4300001221-00060 | OS2 Cloud                              |
-| XG-4300001221-00070 | OS2 Generalforsamling                  |
-| XG-4300001221-00080 | OS2 Konferencedeltagelse               |
-| XG-4300001221-00090 | OS2 Markedsføring (tryksager og stand) |
-| XG-4300001221-00100 | OS2 Rejser og møder                    |
-| XG-4300001221-00110 | OS2 Arrangementer                      |
-| XG-4300001221-00120 | OS2 Konsulent (Jura, udbud mm)         |
-| XG-4300001221-00130 | OS2 Revision                           |
-| XG-4300001221-00160 | OS2 produktudvikling                   |
+| XG-9212045210       | Foreningen OS2                         |
+| **Indtægter**       |                                        |
+| XG-9212045210-00014 | Kontingent (Andel til Forening OS2)    |
+| XG-9212045210-00015 | OS2 Andre indtægter                    |
+| XG-9212045210-00017 | Bidrag fra OS2-produkter               |
+| **Udgifter**        |                                        |
+| XG-9212045210-00001 | OS2 Bestyrelsesinternat                |
+| XG-9212045210-00002 | OS2 Forretnings- og projektledelse     |
+| XG-9212045210-00003 | OS2 Administration                     |
+| XG-9212045210-00004 | OS2 Kontorhold                         |
+| XG-9212045210-00005 | OS2 Web (drift og support)             |
+| XG-9212045210-00006 | OS2 Cloud                              |
+| XG-9212045210-00007 | OS2 Generalforsamling                  |
+| XG-9212045210-00008 | OS2 Konferencedeltagelse               |
+| XG-9212045210-00009 | OS2 Markedsføring (tryksager og stand) |
+| XG-9212045210-00010 | OS2 Rejser og møder                    |
+| XG-9212045210-00011 | OS2 Arrangementer                      |
+| XG-9212045210-00012 | OS2 Konsulent (Jura, udbud mm)         |
+| XG-9212045210-00013 | OS2 Revision                           |
+| XG-9212045210-00016 | OS2 produktudvikling                   |
+
 
 ## Kontoplan OS2-produkt {#kontoplan-produkt}
 
-Alle OS2-produkter anvender samme kontoplan. Udskift xx med det produktspecifikke nummer. Find dette i oversigten nedenfor.
+Alle OS2-produkter anvender samme kontoplan. Udskift xxx med det produktspecifikke nummer. Find dette i oversigten nedenfor.
 
-| Kontonummer         | Kontonavn                                    |
-|---------------------|----------------------------------------------|
-| **Indtægter**           |                                              |
-| XG-43000012xx-00001 | Tilslutningsafgift (når en ny vil med)       |
-| XG-43000012xx-00002 | Vederlag (årlig indtægt)                     |
-| XG-43000012xx-00003 | Bidrag (enkeltstående bidrag)                |
-| **Udgifter**            |                                              |
-| XG-43000012xx-00004 | Tilkobling / Onboarding (når en ny skal med) |
-| XG-43000012xx-00005 | Drift (hosting, domæne mv.)                  |
-| XG-43000012xx-00006 | Koordinering                                 |
-| XG-43000012xx-00007 | Administration (stabs timer)                 |
-| XG-43000012xx-00008 | Udvikling (udviklingstimer/ydelser)          |
-| XG-43000012xx-00009 | Konsulentbistand (rådgivningstimer)          |
-| XG-43000012xx-00010 | Arrangementer (lokale, forplejning mv.)      |
+| Kontonummer           | Kontonavn                                    |
+|-----------------------|----------------------------------------------|
+| **Indtægter**         |                                              |
+| XG-9212045xxx-00001   | Tilslutningsafgift (når en ny vil med)       |
+| XG-9212045xxx-00002   | Vederlag (årlig indtægt)                     |
+| XG-9212045xxx-00003   | Bidrag (enkeltstående bidrag)                |
+| **Udgifter**          |                                              |
+| XG-9212045xxx-00004   | Tilkobling / Onboarding (når en ny skal med) |
+| XG-9212045xxx-00005   | Drift (hosting, domæne mv.)                  |
+| XG-9212045xxx-00006   | Koordinering (Frikøb til PL, PO osv.)        |
+| XG-9212045xxx-00007   | Administration (stabs timer)                 |
+| XG-9212045xxx-00008   | Udvikling (udviklingstimer/ydelser)          |
+| XG-9212045xxx-00009   | Konsulentbistand (rådgivningstimer)          |
+| XG-9212045xxx-00010   | Arrangementer (lokale, forplejning mv.)      |
+| XG-9212045xxx-00011   | Vedligehold (kode, dokumentation osv.)       |
+
 
 ### OS2-produkt kontonumre {#produkt-konto}
 
-| Produkt           | Kontonummer   |
+| Produkt           | Kontonummer    |
 |-------------------|---------------|
-| OS2kravmotor      | XG-4300001222 |
-| OS2rollekatalog   | XG-4300001223 |
-| OS2autoproces     | XG-4300001224 |
-| OS2indberetning   | XG-4300001225 |
-| OS2valghalla      | XG-4300001226 |
-| OS2faktor         | XG-4300001227 |
-| OS2udoglær        | XG-4300001228 |
-| OS2flytjord       | XG-4300001230 |
-| OS2kle            | XG-4300001231 |
-| OS2sync           | XG-4300001232 |
-| OS2forms          | XG-4300001233 |
-| OS2borgerPC       | XG-4300001234 |
-| OS2display        | XG-4300001235 |
-| OS2iot            | XG-4300001236 |
-| OS2mo             | XG-4300001238 |
-| OS2kitos          | XG-4300001239 |
-| OS2skoledata      | XG-4300001240 |
-| OS2sofd           | XG-4300001241 |
-| OS2compliance     | XG-4300001242 |
-| OS2skadesøkonomi  | XG-4300001243 |
-| OS2korrespondance | XG-4300001244 |
-| OS2nectar         | XG-4300001245 |
-| OS2skole          | XG-4300001246 |
-| OS2fleetoptimiser | XG-4300001247 |
-| OS2planCO2        | XG-4300001248 |
-| OS2ai             | XG-4300001249 |
-| OS2connector      | XG-4300001250 |
-| OS2opendatadk     | XG-4300001251 |
-| OS2aiheatcontrol  | XG-4300001252 |
+| OS2kravmotor      | XG-9212045220 |
+| OS2rollekatalog   | XG-9212045230 |
+| OS2autoproces     | XG-9212045240 |
+| OS2indberetning   | XG-9212045250 |
+| OS2valghalla      | XG-9212045260 |
+| OS2faktor         | XG-9212045270 |
+| OS2udoglær        | XG-9212045280 |
+| OS2flytjord       | XG-9212045290 |
+| OS2kle            | XG-9212045300 |
+| OS2sync           | XG-9212045310 |
+| OS2forms          | XG-9212045320 |
+| OS2borgerPC       | XG-9212045330 |
+| OS2display        | XG-9212045340 |
+| OS2iot            | XG-9212045350 |
+| OS2mo             | XG-9212045370 |
+| OS2kitos          | XG-9212045380 |
+| OS2skoledata      | XG-9212045390 |
+| OS2sofd           | XG-9212045400 |
+| OS2compliance     | XG-9212045410 |
+| OS2skadesøkonomi  | XG-9212045420 |
+| OS2korrespondance | XG-9212045430 |
+| OS2nectar         | XG-9212045440 |
+| OS2skole          | XG-9212045450 |
+| OS2fleetoptimiser | XG-9212045460 |
+| OS2planCO2        | XG-9212045470 |
+| OS2ai             | XG-9212045480 |
+| OS2connector      | XG-9212045500 |
+| OS2opendatadk     | XG-9212045510 |
+| OS2aiheatcontrol  | XG-9212045520 |
