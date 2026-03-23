@@ -30,3 +30,24 @@ Det er også muligt at opbevare andre formater i Nextcloud.
 
 Ekstern Nextcloud:
 Det kan være en fordel at opbevare filerne i jeres offentlige filarkiv i pdf-format. Når du er klar til at dele bredt, kan du derfor **eksportere til PDF**. Det sikrer, at modtageren ser det samme som dig.
+
+## Navngivning af filer og mapper
+
+For at sikre kompatibilitet på tværs af systemer – særligt med Windows – skal følgende regler overholdes:
+
+### Undgå disse tegn i fil- og mappenavne
+`< > : " \ | ? *`
+
+### Undgå også
+- Navne der slutter med punktum eller mellemrum  
+- Særlige reserverede navne som: `CON`, `PRN`, `AUX`, `NUL`, `COM1–COM9`, `LPT1–LPT9`
+
+### Anbefalinger
+- Brug bogstaver (a–z), tal (0–9), bindestreg (-) og underscore (_)
+- Brug korte og beskrivende navne uden specialtegn
+
+### Eksempel
+- ❌ `Budget: 2024/2025.xlsx`  
+- ✅ `budget-2024-2025.xlsx`
+
+Hvis reglerne ikke overholdes, kan filer ikke synkroniseres korrekt eller give fejl i visse systemer.

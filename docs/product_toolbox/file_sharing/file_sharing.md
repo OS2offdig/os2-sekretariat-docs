@@ -7,7 +7,10 @@ has_children: true
 has_toc: false
 ---
 
-# Fildeling <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
+# Fildeling
+
+<span class="label label-purple">Overblik</span>  
+<span class="label">Sekretariat · Projekter &amp; produkter</span>
 
 *🔎 Overblik:* Sikker fildeling og fælles mapper til OS2-projekter og -produkter.  
 *🛠️ Skal du i gang nu?* Brug “Find hurtigt” – hver side er **kort og fokuseret**.

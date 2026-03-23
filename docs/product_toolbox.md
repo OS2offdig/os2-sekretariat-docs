@@ -6,7 +6,10 @@ has_toc: false
 nav_order: 12
 ---
 
-# Værktøjskasse til projekter og produkter <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
+# Værktøjskasse til projekter og produkter
+
+<span class="label label-purple">Overblik</span>  
+<span class="label">Sekretariat · Projekter &amp; produkter</span>
 
 *🔎 Overblik:* Ét sted med **Trin for trin**, **Værktøjer** og **Skabeloner** til det daglige arbejde i OS2-fællesskabet.  
 *🛠️ Skal du løse en opgave nu?* Brug menupunkterne herunder – eller søg i venstremenuen (kommer snart!)

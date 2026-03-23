@@ -48,7 +48,7 @@ Alle værktøjer skal bruges på en måde, der understøtter **fælles ejerskab 
 - Versionering sker på GitHub for dokumenter med offentlig relevans (fx governance, vejledninger, skabeloner).
 - Personlige noter og arbejdsfiler kan ligge lokalt, men placeres i fælles arkiv, når de får varig betydning.
 
-**Se også:** **[Fildeling (Nextcloud)](./product_toolbox/file_sharing_nextcloud)** i Værktøjskassen for trin, rettigheder og mappeskabelon.
+**Se også:** **[Fildeling (Nextcloud)](./product_toolbox/file_sharing/what_is_nextcloud)** i Værktøjskassen for trin, rettigheder og mappeskabelon.
 
 ## Mødekultur og mødestruktur {#modekultur}
 Vi lægger vægt på **struktur, nærvær og tydelige roller** i vores møder.
