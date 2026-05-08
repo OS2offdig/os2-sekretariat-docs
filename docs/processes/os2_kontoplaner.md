@@ -23,13 +23,13 @@ EAN: 5790002750595
 
 OS2s økonomi administreres af ITK, Aarhus Kommune.
 
-Administrationen kan kontaktes på [**itkstab@mkb.aarhus.dk**](mailto:itkstab@mkb.aarhus.dk)
+Administrationen kan kontaktes på [**itkstab@mba.aarhus.dk**](mailto:itkstab@mba.aarhus.dk)
 
 ### Intern timepris ITK {#timepris}
 
-Når vi køber ydelser i ITK eller andre steder i Aarhus Kommune foregår dette til en intern timepris. Denne er i 2025 udregnet til at være: **732 kr/time**
+Når vi køber ydelser i ITK eller andre steder i Aarhus Kommune foregår dette til en intern timepris. Denne er i 2026 udregnet til at være: **750 kr/time**
 
-For uddybning se: [Omkostningsberegning - AarhusIntra (aarhuskommune.dk)](https://intranet.aarhuskommune.dk/documents/2453)
+For uddybning se: [Omkostningsberegning - AarhusIntra (aarhuskommune.dk)](https://intranet.aarhuskommune.dk/documents/2453). Har du ikke adgang skal du anmode OS2s sekretariat om uddybning.
 
 ## Kontoplan foreningen {#kontoplan-os2}
 
