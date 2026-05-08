@@ -5,19 +5,20 @@ nav_order: 10
 status: DRAFT
 ---
 
-> **DETTE ER ET DRAFT** - Bilaget er under udarbejdelse.
+> ⚠️ **DETTE ER ET DRAFT** - Bilaget er under udarbejdelse.
 
 # Bilag B: Detaljerede rollebeskrivelser for Komponent-Ejer og Komponent-forvalter
 
-Dette bilag beskriver de to centrale roller i OS2-fællesskabets governance-struktur for fælleskomponenter.
+Dette bilag beskriver to centrale roller i OS2-fællesskabets governance-struktur for fælleskomponenter.
 
 ---
 
-## 1. Komponent-Ejer (PRODUCT OWNER)
+## 1. Komponent-Ejer
+#### _(PRODUCT OWNER)_
 
 ### 1.1 Formål med rollen
 
-Komponent-Ejeren er ansvarlig for komponentens strategiske retning, roadmap og kvalitet. Rollen sikrer at komponenten leverer værdi til alle anvendere og er i overensstemmelse med OS2-fællesskabets mål.
+Komponent-Ejeren er ansvarlig for komponentens strategiske retning, roadmap og kvalitet. Rollen sikrer at komponenten leverer værdi til alle anvendere og er i overensstemmelse med OS2-fællesskabets vision og mission i samabejde med arktiekturrådet.
 
 ### 1.2 Ansvarsområder
 
@@ -39,7 +40,7 @@ Komponent-Ejeren er ansvarlig for komponentens strategiske retning, roadmap og k
 - Erfaring med roadmap-planlægning og prioritering
 - Forståelse for softwareudviklingsprocesser
 - **Teknisk literacy:** Evne til at navigere i git-baserede værktøjer og kunne anvende og forstå standard Open Source metodikker og formater. Dette omfatter bl.a. at.
-    - Kunne læse og skrive og behandle issues i projektets issue-tracker.
+    - Kunne læse og skrive og behandle issues i projektets git baserede issue-tracker.
     - Kommunikere på skrift i simpel Markdown og håndtere opmærkning med YAML/JSON.
     - Kunne følge og forstå anmodninger om ændringer (Pull Requests - PRs).
 
@@ -47,10 +48,11 @@ Komponent-Ejeren er ansvarlig for komponentens strategiske retning, roadmap og k
 
 #### 1.3.2 Personlige kompetencer
 
+- Erfaring med og forståelse for Open Source økosystemet
 - Evne til at facilitere og styre diskussioner mellem interessenter
 - Stærke kommunikationsevner (både tekniske og forretningsmæssige)
 - Evne til at bygge bro mellem forskellige parter
-- Strategisk tænkning og evne til at se helheden
+- Strategisk tænkning og evne til at se helhededer
 
 ### 1.4 Tid og ressourcer
 
@@ -58,12 +60,12 @@ Komponent-Ejeren forventes at bruge følgende tid på rollen:
 
 | Aktivitet | Timeforbrug |
 |-----------|-------------|
-| Møder, forberedelse og koordinering | min.6 timer/måned |
-| Roadmap-godkendelse og prioritering | min. 4 timer/måned |
-| Teknisk facilitering (issues, PR-gennemgang) | min. 5 timer/måned |
-| **Minimum** | **15 timer/måned** |
+| Møder, forberedelse og koordinering | min. ?? timer/måned |
+| Roadmap-godkendelse og prioritering | min. ?? timer/måned |
+| Teknisk facilitering (issues, PR-gennemgang) | min. 4 timer/måned |
+| **Minimum** | **?? timer/måned** |
 
-> **Bemærk**: Minimal tidsestimatet forudsætter en aktiv Komponent-forvalter og begrænsede lokale tilpasninger. Større brugerskare, hyppige upstream-opdateringer eller sikkerhedshåndtering kan kræve mere tid.
+> **Bemærk**: Minimal tidsestimatet forudsætter en aktiv Komponent-forvalter og begrænsede lokale tilpasninger. Større brugerskare, hyppige upstream-opdateringer eller sikkerhedshåndtering vil kræve mere tid.
 
 ---
 
@@ -77,18 +79,18 @@ Komponent-forvalteren varetager den daglige drift og vedligeholdelse af komponen
 
 | Område | Beskrivelse |
 |--------|--------------|
-| **Repository management** | Vedligeholdelse af kodebasen, adgangskontrol og filstruktur |
-| **CI/CD-pipelines** | Drift og vedligeholdelse af automatiserede workflows (f.eks. GitHub Actions) |
+| **Repository management** | Vedligeholdelse af kodebasen, adgangskontroller og filstrukturer |
+| **CI/CD-pipelines** | Drift og vedligeholdelse af automatiserede workflows |
 | **Dokumentations tilgængelighed** | Drift af automatiserede dokumentationssites |
-| **Issue-håndtering** | Triage og labeling i issue-tracker, prioritering af fejl og support sammen med PO |
-| **Code review** | Koordinering af pull requests og feedback til bidragsydere |
+| **Issue-håndtering** | Triage og labeling i issue-tracker, prioritering af fejl og udviddelser sammen med PO |
+| **Løbende Code review** | Koordinering af pull requests og feedback til bidragsydere |
 | **Release-forberedelse** | Forberedelse og koordinering af PR-merges og releases til Komponent-Ejer |
-| **Support** | Teknisk support til anvendere ved spørgsmål og problemer |
+| **Teknisk dialog** | Teknisk dialog med anvendere ved spørgsmål og problemer |
 
 
 ### 2.3 Krav til uafhængighed
 
-Komponent-forvalteren må ikke repræsentere en specifik leverandørs interesser. Rollen skal være neutral for at sikre vendor-neutrale fælleskomponenter.
+Komponent-forvalteren må ikke repræsentere en specifik leverandørs interesser. Rollen skal være uafhængig og neutral for at sikre leverandør-neutrale fælleskomponenter.
 
 ### 2.4 Kompetencekrav
 
@@ -96,14 +98,15 @@ Komponent-forvalteren må ikke repræsentere en specifik leverandørs interesser
 
 - Erfaring med versionsstyring og Git-workflows
 - Forståelse for CI/CD-koncepter og pipeline-konfiguration
-- Erfaring med teknisk dokumentation
-- Grundlæggende forståelse for sikkerhedspraksis i softwareudvikling
-- Erfaring med issue-tracker og projektstyringsværktøjer
+- Erfaring med automatisk genereret teknisk dokumentation
+- Grundlæggende forståelse for sikkerhedspraksis i build / deployfaserne
+- Erfaring med git baserede issue-trackers
 
 #### 2.4.2 Personlige kompetencer
 
 - Evne til at kommunikere tekniske emner klart
-- Serviceorienteret tilgang til brugere
+- Forståelse for effekten af genbrugelige standard løsninger, metoder og værktøjer
+- Nysgerring tilgang til anvenderbehov
 - Evne til at prioritere og håndtere flere opgaver
 - Selvstændig og struktureret arbejdsmetode
 
@@ -113,31 +116,21 @@ Komponent-forvalteren forventes at bruge følgende tid på rollen:
 
 | Aktivitet | Timeforbrug |
 |-----------|-------------|
-| Møder, forberedelse og admin | 2½ time/måned |
-| Vedligeholdelse og drift | 10 timer/måned |
-| **Total** | **12½ time/måned** |
+| Møder, forberedelse og admin | min. 4 timer/måned |
+| Vedligeholdelse og drift |min. 15 timer/måned |
+| **Total** | **19-25 timer/måned** |
 
-> **Bemærk**: 10 timer til vedligeholdelse er vurderet som minimum for at have faste ressourcer der kan tage til møder og kende kodebasen. Dette sætter grænsen for hvor meget vedligeholdelsesarbejde der realistisk kan håndteres, ikke mængden af arbejde.
+> **Bemærk**: 15 timer til vedligeholdelse er vurderet som minimum for at stille faste ressourcer der kender kodebasen til rådighed. Denne domæneviden er faktoren der sætter grænsen for hvor meget vedligeholdelsesarbejde der realistisk kan håndteres, ikke mængden af arbejde.
 
 ### 2.6 Økonomisk ramme
 
 Baseret på timepris for en staff softwarekonsulent der kender kodebasen:
 
-- **Timepris**: 1.180 kr/time (2026)
-- **Månedlig omkostning**: 12,5 timer × 1.180 kr = **14.750 kr/måned**
-- **Årlig omkostning**: 14.750 kr × 12 = **177.000 kr/år**
+- **Timepris**: 1.200-1.400 kr/time (2026)
+- **Månedlig omkostning**: 19 timer × 1.200 kr = **22.800 kr/måned**
+- **Årlig omkostning**: 22.800 kr × 12 = **273.600 kr/år**
 
 > Denne pris forudsætter at konsulenten allerede kender kodebasen. Ved onboarding af ny ressourcer skal der påregnes ekstra tid til oplæring.
-
----
-
-## 3. Samlet økonomisk oversigt
-
-| Rolle | Time/måned (gennemsnit) | Omkostning/måned | Omkostning/år |
-|-------|--------------------------|------------------|---------------|
-| Komponent-Ejer | 12,5 timer | 14.750 kr | 177.000 kr |
-| Komponent-forvalter | 12,5 timer | 14.750 kr | 177.000 kr |
-| **Total** | **25 timer** | **29.500 kr** | **354.000 kr** |
 
 ---
 
@@ -161,7 +154,7 @@ Begge roller:
 ### 4.3 Relation til anvendere
 
 - **Komponent-Ejer**: Strategiske spørgsmål, roadmap, prioritering
-- **Komponent-forvalter**: Tekniske spørgsmål, support, fejlrapporter
+- **Komponent-forvalter**: Tekniske dialog, fejlrapporter
 
 ---
 
@@ -176,19 +169,6 @@ Begge roller:
 | Dokumentationsopdateringer | Komponent-forvalter | Ved ændringer |
 | Incident-rapportering | Komponent-forvalter | Ved hændelser |
 
----
-
-## 6. Bemærkninger
-
-> **Vigtig bemærkning om rollekompetencer**: Begge roller kræver betydelig teknisk kompetence, men af forskellig art:
-> - **Komponent-Ejer** kræver arkitekturforståelse, roadmap-planlægning og evne til at oversætte anvenderbehov til tekniske krav
-> - **Komponent-forvalter** kræver praktisk erfaring med GitOps, CI/CD-pipelines, repository management og release-processer
-> 
-> I offentlig sektor er det sjældent at finde enkeltpersoner der mestrer begge sæt kompetencer på højt niveau. Derfor anbefales det stærkt at:
-> 1. Enten dele rollerne mellem to personer med komplementære kompetencer
-> 2. Eller sikre at den enkelte person har adgang til teknisk støtte (f.eks. fra en ekstern konsulent eller en teknisk ekspert i Arkitekturrådet) for de områder hvor vedkommende ikke er ekspert
-> 
-> At undervurdere tekniske krav til enten rolle risikerer at føre til dårlig vedligeholdelse, fragil infrastruktur og manglende evne til at koordinere effektivt med anvendere og leverandører.
 
 ---
 
