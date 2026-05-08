@@ -5,7 +5,7 @@ nav_order: 10
 status: DRAFT
 ---
 
-> **DETTE ER ET DRAFT** - Dokumentet er under udarbejde og afventer review.
+> ⚠️ **DETTE ER ET DRAFT** - Dokumentet er under udarbejde og afventer review.
 
 # Forslag til governance-struktur for fælleskomponenter i OS2-fællesskabet
 
@@ -47,47 +47,29 @@ OS2-fællesskabet står over for tre udfordringer:
 
 > Detaljeret kommissorium: Bilag A. (skal udarbejdes)
 
-### 3.2 Komponent-Ejer
-_(PRODUCT OWNER)_
+### 3.2 Komponent-Ejer (PRODUCT OWNER)
 
-**Hvert komponent har en Komponent-Ejer der er ansvarlig for komponentens strategiske retning, roadmap og kvalitet.** Komponent-Ejeren behøver ikke at være en person på fuld tid, men skal have dedikeret tid afsat til rollen. Vedkommende er ansvarlig for at:
+**Hvert komponent har en Komponent-Ejer der er ansvarlig for komponentens strategiske retning, roadmap og kvalitet.** 
 
-- Definere komponentens roadmap i samarbejde med brugerne
-- Godkende større ændringer og arkitekturvalg
-- Repræsentere komponenten overfor Arkitekturrådet
-- Sikre at komponenten leverer værdi til alle anvendere
+Komponent-Ejeren behøver ikke at være en person på fuld tid, men skal have dedikeret tid afsat til rollen.
 
-### 3.3 Teknisk Komponent-forvalter 
-_(MAINTAINER)_
+> Detaljerede ansvarsområder og kompetencekrav: [Bilag B](bilag_b_komponent_forvalter.md).
 
-**Hver komponent har en Komponent-forvalter der varetager den daglige drift og vedligeholdelse af komponentens infrastruktur og processer. forvalteren er Komponent ejerens forlængede tekniske arm ned i projektet**
+### 3.3 Teknisk Komponent-forvalter (MAINTAINER)
 
-Dette inkluderer:
-- Repository management og adgangskontrol
-- Vedligeholdelse af CI/CD-pipelines i repoet
-- Drift af automatisering bag genererede dokumentationssites.
-- Triaging, labeling og styring af issue-trackeren
-- Koordinering af pull requests og feedback til komponent anvendere
+**Hver komponent har en Komponent-forvalter der varetager den ugentlige drift og vedligeholdelse af komponentens tekniske infrastruktur.** 
+
+Forvalteren er Komponent-Ejerens forlængede tekniske arm ned i projektet.
 
 **Krav til uafhængighed**: Komponent-forvalteren må ikke repræsentere en specifik leverandørs interesser. Rollen skal være uafhængig og neutral for at sikre leverandør-neutrale fælleskomponenter.
 
-> Detaljerede rollebeskrivelser og kompetencekrav for begge roller: [Bilag B](bilag_b_komponent_forvalter.md).
-
-> **Vigtig bemærkning om rollekompetencer**: Begge roller kræver betydelig teknisk kompetence, men af forskellig art:
-> - **Komponent-Ejer** kræver arkitekturforståelse, roadmap-planlægning og evne til at oversætte anvenderbehov til tekniske krav
-> - **Komponent-forvalter** kræver praktisk erfaring med GitOps, CI/CD-pipelines, repository management og release-processer
-> 
-> I offentlig sektor er det sjældent at finde enkeltpersoner der mestrer begge sæt kompetencer på højt niveau. Derfor anbefales det stærkt at:
-> 1. Enten dele rollerne mellem to personer med komplementære kompetencer
-> 2. Eller sikre at den enkelte person har adgang til teknisk støtte (f.eks. fra en ekstern konsulent eller en teknisk ekspert i Arkitekturrådet) for de områder hvor vedkommende ikke er ekspert
-> 
-> At undervurdere tekniske krav til enten rolle risikerer at føre til dårlig vedligeholdelse, fragil infrastruktur og manglende evne til at koordinere effektivt med anvendere og leverandører.
+> Detaljerede ansvarsområder og kompetencekrav: [Bilag B](bilag_b_komponent_forvalter.md).
 
 ## 4. Finansiering
 
 ### 4.1 Fælles betalingsmodeller for fælleskomponenter
 
-Baseret på research af eksisterende modeller fra open source-fællesskaber og offentlige konsortier foreslåes tre modeller der vurderes som de mest retfærdige og gennemsigtige:
+Baseret på research af eksisterende modeller fra open source-fællesskaber og offentlige konsortier foreslåes tre modeller der vurderes som retfærdige og gennemsigtige:
 
 **Model 1: Udvidelse af fællesbidraget**
 - En andel af det eksisterende 9% fællesbidrag øremærkes til fælleskomponenter
@@ -111,7 +93,7 @@ Baseret på research af eksisterende modeller fra open source-fællesskaber og o
 - Fordel: Forbrugsbaseret model - kun anvendere betaler for komponenten
 - Ulempe: Kan skabe ulige adgang og fragmentering mellem komponenter
 
-**Model 4: Foreningsfond (inspireret af OSS-fonde som .NET Foundation, Apereo)**
+**Model 4: Foreningsfond (inspireret af OSS-fonde som ZenDis)**
 - En dedikeret fond etableret under foreningen med eget regnskab og formål
 - Finansieres via frivillige bidrag fra medlemmer, virksomhedssponsorer og/eller eksterne fondsmidler
 - Kan søge eksterne bevillinger fra private fonde, EU-programmer mv.
@@ -121,7 +103,7 @@ Baseret på research af eksisterende modeller fra open source-fællesskaber og o
 - Fordel: Sikrer langsigtet, stabil finansiering med professionel forvaltning
 - Ulempe: Kræver aktiv rekruttering af bidragydere og fondsmidler
 
-> Detaljeret analyse af modellerne med beregningseksempler: Se bilag C.
+> Detaljeret analyse af modellerne med beregningseksempler: Se bilag C. (skal udarbejdes)
 
 **Anbefaling**: Start med Model 1 (udvidelse af fællesbidraget) for pilotfasen og evaluer om Model 2, 3 eller 4 giver mere retfærdig fordeling ved bredere udrulning.
 
@@ -139,7 +121,7 @@ Pilotens formål er at demonstrere at governance-strukturen fungerer i praksis o
 
 Piloten forventes at strække sig over 6 måneder med tre faser: etablering, onboarding og evaluering.
 
-> Detaljeret tidsplan og milepæle: Se bilag D.
+> Detaljeret tidsplan og milepæle: Se bilag D. (skal udarbejdes)
 
 ### 5.4 Succeskriterier
 
@@ -155,10 +137,3 @@ Dokumentet understøttes af følgende bilag med detaljerede "hvordan"-beskrivels
 - **Bilag B**: Detaljerede rollebeskrivelser for Komponent-Ejer og Komponent-forvalter (kompetencekrav, ansvarsområder, timeforbrug, økonomi)
 - **Bilag C**: Detaljeret finansieringsmodel og skaleringsformel
 - **Bilag D**: Detaljeret implementeringsplan for pilot
-- **Bilag E**: Teknisk referencearkitektur for declarative konfiguration og adoption
-
----
-
-*Dokumentet er udarbejdet som beslutningsindstilling for OS2-bestyrelsen.*
-
-> **Status**: DRAFT - Afventer review og godkendelse
