@@ -21,9 +21,9 @@ Følgende oversigt indeholder navn og kontaktoplysning på de personer som kontr
 | XG-9212045290 | OS2flytjord       | Mette Hansen [meeh@aarhus.dk](mailto:meeh@aarhus.dk)      | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu) |
 | XG-9212045300 | OS2kle            | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Jon Badstue Pedersen [jbp@syddjurs.dk](mailto:jbp@syddjurs.dk) |
 | XG-9212045310 | OS2sync           | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       |  |
-| XG-9212045320 | OS2forms          | Anna-Lis Berg [besoan@aarhus.dk](mailto:besoan@aarhus.dk)   | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu) |
-| XG-9212045330 | OS2borgerPC       | Anna-Lis Berg [besoan@aarhus.dk](mailto:besoan@aarhus.dk)   | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu) |
-| XG-9212045340 | OS2display        | Anna-Lis Berg [besoan@aarhus.dk](mailto:besoan@aarhus.dk)   | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu) |
+| XG-9212045320 | OS2forms          | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | OS2form koordinationsgruppen [os2forms@os2.eu](mailto:os2forms@os2.eu) |
+| XG-9212045330 | OS2borgerPC       | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Agnete Moos (mailto:agnete_moos@os2.eu)  |
+| XG-9212045340 | OS2display        |  OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Agnete Moos (mailto:agnete_moos@os2.eu)  |
 | XG-9212045350 | OS2iot            | Lisbeth Lorentzen [liwl@aarhus.dk](mailto:liwl@aarhus.dk) | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu) |
 | XG-9212045370 | OS2mo             | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Mikael Olsen [miol@balk.dk](mailto:miol@balk.dk)                     |
 | XG-9212045380 | OS2kitos          | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Mikael Olsen [miol@balk.dk](mailto:miol@balk.dk)                     |
