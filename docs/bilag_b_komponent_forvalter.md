@@ -18,7 +18,7 @@ Dette bilag beskriver to centrale roller i OS2-fællesskabets governance-struktu
 
 ### 1.1 Formål med rollen
 
-Komponent-Ejeren er ansvarlig for komponentens strategiske retning, roadmap og kvalitet. Rollen sikrer at komponenten leverer værdi til alle anvendere og er i overensstemmelse med OS2-fællesskabets vision og mission i samabejde med arktiekturrådet.
+Komponent-Ejeren er ansvarlig for komponentens strategiske retning, roadmap og kvalitet. Rollen sikrer at komponenten leverer værdi til alle anvendere og er i overensstemmelse med OS2-fællesskabets vision og mission i samabejde med arkitekturrådet.
 
 ### 1.2 Ansvarsområder
 
