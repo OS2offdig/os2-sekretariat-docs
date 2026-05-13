@@ -142,7 +142,7 @@ Sekretariatet bistår med vurdering, dokumentation og kontakt til bestyrelsen.
 
 ## Skabeloner og vejledninger {#templates}
 OS2 anvender en række fælles skabeloner for at sikre kvalitet og ensartethed i produktarbejdet.  
-Alle skabeloner findes i GitHub og Nextcloud. Listen er ikke udtømmende, [bidrag](./docs/CONTRIBUTE.md) gerne med manglende skabeloner eller forbedringer.
+Alle skabeloner findes i GitHub og Nextcloud. Listen er ikke udtømmende, [bidrag](../CONTRIBUTING.md) gerne med manglende skabeloner eller forbedringer.
 
 | Dokument / skabelon | Formål | Placering |
 |----------------------|---------|-----------|
