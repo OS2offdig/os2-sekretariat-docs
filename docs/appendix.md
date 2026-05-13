@@ -41,7 +41,7 @@ De bruges som reference for governance, samarbejde og medlemskab.
 ## Ofte stillede spørgsmål (FAQ) {#faq}
 Spørgsmål som ofte besvares.  
 
-- Hvor finder jeg skabeloner og vejledninger? → I denne håndbog eller på [GitHub](https://github.com/OS2offdig) / [Nextcloud](boks.os2.eu/s/Di5cTQdSABd6ak4).  
+- Hvor finder jeg skabeloner og vejledninger? → I denne håndbog eller på [GitHub](https://github.com/OS2offdig) / [Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4).  
 - Hvordan registrerer jeg tid i Leantime? → Se *[Struktur for tidsregistrering](processes/os2_tidsregistrering.md)*.  
 - Hvem godkender fakturaer? → Se *[Oversigt over fakturagodkendere](processes/os2_faktura_godkender.md)*.  
 - Hvor kan jeg læse om governance-modellen? → Se *[Governance side på os2.eu](https://governance.os2.eu)*.  
