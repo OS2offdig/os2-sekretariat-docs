@@ -20,7 +20,7 @@ Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet
 Her gives en introduktion til OS2-fællesskabet og sekretariatets rolle. Afsnittet sætter scenen for arbejdet i sekretariatet og beskriver, hvorfor vi gør, som vi gør.
 
 - [Kort om OS2-fællesskabet, formål og værdier](./docs/welcome_and_purpose#formaal)
-- [Sekretariatets rolle](./docs/welcome_and_purpose.md#rolle)
+- [Sekretariatets rolle](./docs/welcome_and_purpose#rolle)
 - [Hvad man kan bruge håndbogen til](./docs/welcome_and_purpose#haandbog)
 
 ---
