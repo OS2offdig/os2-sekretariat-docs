@@ -1,0 +1,277 @@
+/*
+ * Visualisering af OS2-sekretariatets mission, ydelser, roller og opgavekort.
+ *
+ * Just the Docs indlæser automatisk denne fil. Al styling er afgrænset til
+ * #os2-secretariat-model, så resten af sitet fortsat følger temaets standarder.
+ */
+
+#os2-secretariat-model {
+  --os2-role-1: #{$blue-200};
+  --os2-role-2: #{$green-200};
+  --os2-role-3: #{$purple-100};
+  --os2-role-4: #{$yellow-300};
+  --os2-role-5: #{$red-200};
+  --os2-role-6: #{$grey-dk-100};
+
+  color: $body-text-color;
+  font-family: $body-font-family;
+  padding: 1rem 0 1.5rem;
+  width: 100%;
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  .stage-label {
+    color: $body-text-color;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    margin: 0 0 0.45rem;
+    opacity: 0.72;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .card {
+    background: $body-background-color;
+    border: 1px solid $border-color;
+    border-radius: 0.5rem;
+    color: $body-text-color;
+    box-shadow: 0 1px 3px rgba($grey-dk-300, 0.12);
+  }
+
+  .mission {
+    background: $link-color;
+    border-color: $link-color;
+    color: $body-background-color;
+    margin: 0 auto;
+    max-width: 76rem;
+    padding: 1.25rem 1.4rem;
+
+    strong {
+      display: block;
+      font-size: 1.25rem;
+      line-height: 1.35;
+      margin-bottom: 0.85rem;
+      text-align: center;
+    }
+
+    p {
+      margin: 0.65rem 0 0;
+    }
+
+    a {
+      color: inherit;
+      font-weight: 600;
+      text-decoration: underline;
+      text-underline-offset: 0.16em;
+    }
+  }
+
+  .mission-more {
+    border-top: 1px solid rgba($body-background-color, 0.45);
+    display: block;
+    font-size: 0.875rem;
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    text-align: center;
+  }
+
+  .connector {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 2.6rem;
+    justify-content: center;
+
+    &::before {
+      background: $border-color;
+      content: "";
+      height: 1.75rem;
+      width: 2px;
+    }
+
+    &::after {
+      border-left: 0.32rem solid transparent;
+      border-right: 0.32rem solid transparent;
+      border-top: 0.42rem solid $body-text-color;
+      content: "";
+      opacity: 0.7;
+    }
+  }
+
+  .services {
+    margin: 0 auto;
+    max-width: 76rem;
+    padding: 1rem;
+
+    h2 {
+      font-size: 1.125rem;
+      margin: 0 0 0.8rem;
+      text-align: center;
+    }
+  }
+
+  .service-grid {
+    display: grid;
+    gap: 0.7rem 1.1rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .service-item {
+    background: $sidebar-color;
+    border-left: 0.25rem solid $link-color;
+    border-radius: 0.35rem;
+    padding: 0.75rem 0.8rem;
+
+    h3 {
+      font-size: 1rem;
+      margin: 0 0 0.35rem;
+    }
+
+    p {
+      color: $body-text-color;
+      font-size: 0.875rem;
+      line-height: 1.45;
+      margin: 0;
+    }
+  }
+
+  .role-grid {
+    align-items: start;
+    display: grid;
+    gap: 0.8rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin: 0 auto;
+    max-width: 96rem;
+  }
+
+  .role-column {
+    min-width: 0;
+  }
+
+  .role-head {
+    align-items: center;
+    border-top: 0.35rem solid var(--role-color);
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    justify-content: center;
+    min-height: 8rem;
+    padding: 0.75rem 0.55rem;
+    text-align: center;
+
+    h3 {
+      font-size: 1rem;
+      line-height: 1.25;
+      margin: 0;
+    }
+  }
+
+  .role-scope {
+    color: $body-text-color;
+    font-size: 0.75rem;
+    line-height: 1.35;
+    margin: 0;
+    opacity: 0.76;
+  }
+
+  .task-label {
+    color: $body-text-color;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    margin: 0.65rem 0 0.4rem;
+    opacity: 0.72;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .task-list {
+    display: grid;
+    gap: 0.45rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      background: $sidebar-color;
+      border-left: 0.25rem solid var(--role-color);
+      border-radius: 0 0.35rem 0.35rem 0;
+      font-size: 0.875rem;
+      line-height: 1.35;
+      margin: 0;
+      padding: 0.55rem 0.65rem;
+    }
+  }
+
+  .task-link,
+  .services-more {
+    margin: 1rem auto 0;
+    max-width: 96rem;
+    text-align: center;
+
+    a {
+      color: $link-color;
+      font-weight: 600;
+    }
+  }
+
+  .role-1 { --role-color: var(--os2-role-1); }
+  .role-2 { --role-color: var(--os2-role-2); }
+  .role-3 { --role-color: var(--os2-role-3); }
+  .role-4 { --role-color: var(--os2-role-4); }
+  .role-5 { --role-color: var(--os2-role-5); }
+  .role-6 { --role-color: var(--os2-role-6); }
+
+  .reading-key {
+    align-items: center;
+    color: $body-text-color;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.875rem;
+    gap: 0.35rem 0.55rem;
+    justify-content: center;
+    margin-top: 1.1rem;
+    opacity: 0.8;
+    text-align: center;
+
+    strong {
+      color: $body-heading-color;
+    }
+
+    .arrow {
+      color: $link-color;
+      font-weight: 600;
+    }
+  }
+}
+
+@media (min-width: 66.5rem) {
+  #os2-secretariat-model .role-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 40rem) {
+  #os2-secretariat-model {
+    padding-inline: 0.25rem;
+
+    .service-grid,
+    .role-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .role-column {
+      display: block;
+      margin-bottom: 0.55rem;
+    }
+
+    .role-head {
+      min-height: 0;
+    }
+  }
+}
