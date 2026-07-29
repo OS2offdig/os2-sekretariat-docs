@@ -11,7 +11,7 @@ has_toc: false
     <strong id="mission-title">I OS2-sekretariatet gør vi OS2’s medlemmer og produktfællesskaber i stand til at lykkes sammen.</strong>
     <p>Sekretariatet understøtter medlemmer, produktfællesskaber og bestyrelse ved at skabe og vedligeholde fælles rammer, relationer, kompetencer og værktøjer. Arbejdet tager afsæt i OS2’s vedtægter, vision, mission, styringsmodel, organisering og fælles principper.</p>
     <p>Sekretariatet lykkes, når medlemmerne og produktfællesskaberne kan samarbejde mere selvstændigt, åbent og bæredygtigt. Sekretariatet skal opbygge kapacitet i fællesskabet, ikke gøre fællesskabet afhængigt af sekretariatet.</p>
-    <span class="mission-more"><a href="{% link docs/00-formaal-og-anvendelse.md %}">Læs mere om sekretariatets mission →</a></span>
+    <span class="mission-more"><a href="">Læs mere om sekretariatets mission →</a></span>
   </section>
 
   <div class="connector" aria-hidden="true"></div>
@@ -61,7 +61,7 @@ has_toc: false
         <p>Repræsenterer OS2’s og medlemmernes interesser i relevante samarbejder og debatter. Området omfatter relationsopbygning, partnerskaber og dialog om blandt andet open source, digital suverænitet og offentligt digitalt samarbejde.</p>
       </article>
     </div>
-    <p class="services-more"><a href="{% link docs/03-ydelseskatalog.md %}">Læs mere om ydelser og ydelsesområder →</a></p>
+    <p class="services-more"><a href="">Læs mere om ydelser og ydelsesområder →</a></p>
   </section>
 
   <div class="connector" aria-hidden="true"></div>
@@ -153,7 +153,7 @@ has_toc: false
     </section>
   </div>
 
-  <p class="task-link"><a href="{% link playbooks/README.md %}">Se alle detaljerede opgavekort →</a></p>
+  <p class="task-link"><a href="">Se alle detaljerede opgavekort →</a></p>
 
   <div class="reading-key" aria-label="Sådan læses modellen">
     <strong>Mission</strong><span class="arrow">→</span>
