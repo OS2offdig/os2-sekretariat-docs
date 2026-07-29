@@ -81,7 +81,6 @@ has_toc: false
         <li>Følg op på strategiske mål</li>
       </ul>
     </section>
-
     <section class="role-column role-2" aria-labelledby="role-business">
       <div class="card role-head">
         <h3 id="role-business">Forretnings&shy;koordinator</h3>
@@ -95,7 +94,6 @@ has_toc: false
         <li>Koordinér aftaler og kontrakter</li>
       </ul>
     </section>
-
     <section class="role-column role-3" aria-labelledby="role-community">
       <div class="card role-head">
         <h3 id="role-community">Produktkonsulent / fællesskabskonsulent</h3>
@@ -109,7 +107,6 @@ has_toc: false
         <li>Understøt governance og produktmodning</li>
       </ul>
     </section>
-
     <section class="role-column role-4" aria-labelledby="role-architecture">
       <div class="card role-head">
         <h3 id="role-architecture">IT-arkitekt</h3>
@@ -123,7 +120,6 @@ has_toc: false
         <li>Koordinér sikkerhedsscan og code review</li>
       </ul>
     </section>
-
     <section class="role-column role-5" aria-labelledby="role-communication">
       <div class="card role-head">
         <h3 id="role-communication">Kommunikations&shy;medarbejder</h3>
@@ -137,7 +133,6 @@ has_toc: false
         <li>Skab produktfortælling og skabeloner</li>
       </ul>
     </section>
-
     <section class="role-column role-6" aria-labelledby="role-product">
       <div class="card role-head">
         <h3 id="role-product">Produkt&shy;koordinator</h3>
