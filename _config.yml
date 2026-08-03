@@ -2,6 +2,25 @@ title: Håndbog til OS2-fællesskabet
 description: Praktiske rutiner, værktøjer og principper i OS2 og sekretariatet.
 theme: just-the-docs
 logo: "/assets/images/os2_logo.png"
+color_scheme: wider
+back_to_top: true
+back_to_top_text: "Til toppen"
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
 mermaid:
   # Version of mermaid library
