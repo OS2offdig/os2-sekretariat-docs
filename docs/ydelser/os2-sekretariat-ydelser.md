@@ -9,7 +9,7 @@ has_toc: false
   <p class="stage-label">Hvorfor sekretariatet findes</p>
   <section class="card mission" aria-labelledby="mission-title">
     <strong id="mission-title">I OS2-sekretariatet gør vi OS2’s medlemmer og produktfællesskaber i stand til at lykkes sammen.</strong>
-    <p>Sekretariatet understøtter medlemmer, produktfællesskaber og bestyrelse ved at skabe og vedligeholde fælles rammer, relationer, kompetencer og værktøjer. Arbejdet tager afsæt i OS2’s vedtægter, vision, mission, styringsmodel, organisering og fælles principper.</p>
+    <p>Sekretariatet understøtter medlemmer, bestyrelse samt projekt- og produktfællesskaber ved at skabe og vedligeholde fælles rammer, relationer, kompetencer og værktøjer. Arbejdet tager afsæt i OS2’s vedtægter, vision, mission, styringsmodel, organisering og fælles principper.</p>
     <p>Sekretariatet lykkes, når medlemmerne og produktfællesskaberne kan samarbejde mere selvstændigt, åbent og bæredygtigt. Sekretariatet skal opbygge kapacitet i fællesskabet, ikke gøre fællesskabet afhængigt af sekretariatet.</p>
     <span class="mission-more"><a href="">Læs mere om sekretariatets mission →</a></span>
   </section>
@@ -22,43 +22,43 @@ has_toc: false
     <div class="service-grid">
       <article class="service-item">
         <h3>Strategisk ledelse og foreningsudvikling</h3>
-        <p>Omsætter OS2’s strategi og bestyrelsens beslutninger til prioriteringer, planer og konkrete indsatser. Området omfatter også udvikling af foreningen, sekretariatet og den samlede produktportefølje.</p>
+        <p>Sekretariatet omsætter OS2’s strategi og bestyrelsens beslutninger til konkrete prioriteringer, planer og indsatser. Det omfatter også udviklingen af foreningen, sekretariatet og den samlede projekt- og produktportefølje.</p>
       </article>
       <article class="service-item">
         <h3>Governance og organisationsudvikling</h3>
-        <p>Udvikler og vedligeholder styringsmodeller, roller, mandater og beslutningsprocesser. Formålet er at skabe tydelige rammer og understøtte velfungerende, selvstyrende produktfællesskaber.</p>
+        <p>Sekretariatet bidrager til at udvikle og vedligeholde styringsmodeller, roller, mandater og beslutningsprocesser for at skabe tydelige rammer og understøtte velfungerende, selvstyrende produktfællesskaber.</p>
       </article>
       <article class="service-item">
-        <h3>Udvikling af produktfællesskaber</h3>
-        <p>Etablerer og styrker samarbejdet omkring OS2’s produkter. Det omfatter blandt andet onboarding, facilitering, erfaringsdeling og udvikling af fællesskabet mellem produktkoordinatorer, product owners, community managers og øvrige deltagere.</p>
+        <h3>Fællesskab på tværs af projekter og produkter</h3>
+        <p>Etablerer og vedligeholder et stærkt fællesskab mellem produktejere, produktkoordinatorer, community managers og andre aktive omkring OS2’s produkter. Fællesskabet understøtter videndeling, erfaringsudveksling og gensidig støtte på tværs af produkter gennem blandt andet onboarding, netværk og faciliterede aktiviteter.</p>
       </article>
       <article class="service-item">
         <h3>Produktmodning og innovationsstøtte</h3>
-        <p>Hjælper idéer og projekter med at udvikle sig til levedygtige og skalerbare OS2-produkter. Det indebærer afklaring af behov, værdi, organisering, finansiering, roadmap og grundlag for fælles drift.</p>
+        <p>Sekretariatet hjælper idéer og projekter med at udvikle sig til levedygtige og skalerbare OS2-produkter. Det omfatter afklaring af behov, værdi, organisering, finansiering, roadmap samt grundlag for fælles udvikling og drift.</p>
       </article>
       <article class="service-item">
-        <h3>Arkitektur og teknisk kvalitet</h3>
-        <p>Understøtter åbne og bæredygtige tekniske løsninger. Området omfatter arkitektur, åbne standarder, dokumentation, sikkerhed, kodekvalitet, repositories og mulighederne for at skifte leverandør.</p>
+        <h3>IT-arkitektur og teknisk kvalitet</h3>
+        <p>Sekretariatet understøtter arbejdet med åbne og bæredygtige tekniske løsninger, herunder rådgivning om arkitektur, åbne standarder, dokumentation, sikkerhed, kodekvalitet og leverandøruafhængighed.</p>
       </article>
       <article class="service-item">
-        <h3>Kommunikation og community</h3>
-        <p>Gør OS2’s arbejde, produkter og resultater forståelige og synlige. Det omfatter kommunikationsplanlægning, indhold, fælles kanaler, produktfortællinger og aktiviteter, der styrker deltagelse og tilhørsforhold.</p>
+        <h3>Kommunikation og medlemsrelationer</h3>
+        <p>Sekretariatet gør OS2’s arbejde, produkter og resultater forståelige og synlige for medlemmer og omverdenen. Det omfatter kommunikationsplanlægning, indholdsproduktion, fælles kanaler, produktfortællinger, medlemsinformation og aktiviteter, der styrker centrale interessenters kendskab til, engagement i og udbytte af OS2.</p>
       </article>
       <article class="service-item">
         <h3>Arrangementer og netværk</h3>
-        <p>Planlægger og gennemfører møder, webinarer, temadage, konferencer og netværksaktiviteter. Formålet er at skabe relationer, dele viden og engagere medlemmer og samarbejdspartnere.</p>
+        <p>Sekretariatet planlægger og afholder møder, webinarer, temadage, konferencer og netværksaktiviteter. Formålet er at skabe relationer, dele viden og engagere medlemmer og samarbejdspartnere.</p>
       </article>
       <article class="service-item">
         <h3>Forretningsdrift og administration</h3>
-        <p>Sikrer en stabil og professionel daglig drift. Området omfatter økonomi, budgetopfølgning, fakturering, medlemsadministration, aftaler, kontrakter, indkøb og håndtering af henvendelser.</p>
+        <p>Sekretariatet sikrer en stabil og professionel daglig drift, herunder central styring af økonomi, fakturering, medlemsadministration, aftaler, kontrakter, indkøb og håndtering af henvendelser.</p>
       </article>
       <article class="service-item">
-        <h3>Fælles værktøjskasse og metoder</h3>
-        <p>Udvikler og vedligeholder fælles skabeloner, vejledninger, procesbeskrivelser og arbejdsredskaber. Det gør OS2’s arbejdsformer lettere at forstå, genbruge og anvende på tværs.</p>
+        <h3>Fælles værktøjskasse, metoder og principper</h3>
+        <p>Sekretariatet udvikler, driver og vedligeholder fælles skabeloner, vejledninger, procesbeskrivelser og arbejdsredskaber. Det gør OS2’s arbejdsformer mere ensartede, lettere at forstå og nemmere at genbruge og anvende på tværs.</p>
       </article>
       <article class="service-item">
         <h3>Interessevaretagelse og strategiske relationer</h3>
-        <p>Repræsenterer OS2’s og medlemmernes interesser i relevante samarbejder og debatter. Området omfatter relationsopbygning, partnerskaber og dialog om blandt andet open source, digital suverænitet og offentligt digitalt samarbejde.</p>
+        <p>Sekretariatet repræsenterer OS2 og medlemmernes interesser i relevante samarbejder og debatter med særligt fokus på relationsopbygning, partnerskaber og dialog om blandt andet open source, digital suverænitet og offentligt digitalt samarbejde.</p>
       </article>
     </div>
     <p class="services-more"><a href="">Læs mere om ydelser og ydelsesområder →</a></p>
@@ -150,10 +150,4 @@ has_toc: false
 
   <p class="task-link"><a href="">Se alle detaljerede opgavekort →</a></p>
 
-  <div class="reading-key" aria-label="Sådan læses modellen">
-    <strong>Mission</strong><span class="arrow">→</span>
-    <span>ydelser</span><span class="arrow">→</span>
-    <span>roller</span><span class="arrow">→</span>
-    <span>konkrete opgavekort</span>
-  </div>
 </div>
