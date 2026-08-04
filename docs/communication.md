@@ -18,7 +18,7 @@ Det betyder, at vi kommunikerer med udgangspunkt i fællesskabets formål: at sk
 **Grundprincipper for OS2’s tone:**  
 - Vi er **åbne og transparente** om, hvad vi ved og hvad vi arbejder på.  
 - Vi kommunikerer **respektfuldt og inkluderende**, også når vi er uenige.  
-- Vi skrive **enkelt og forståeligt**, uden tekniske eller administrativt indforståede formuleringer. Vi er opmærksomme på at tilpasse formen efter, hvem vi kommunikerer med.  
+- Vi skriver **enkelt og forståeligt**, uden tekniske eller administrativt indforståede formuleringer. Vi er opmærksomme på at tilpasse formen efter, hvem vi kommunikerer med.  
 - Vi fokuserer på **fællesskab frem for organisation** – “vi i OS2-fællesskabet” frem for “jeg”, “sekretariatet” eller "kommune".  
 - Vi formidler **fagligt, men uformelt**: professionelt, men ikke bureaukratisk.  
 - Vi viser **tillid og konstruktiv nysgerrighed** i dialogen med alle parter.
@@ -43,35 +43,26 @@ Sekretariatet repræsenterer hele OS2-fællesskabet og skal altid kommunikere p�
 
 
 ## Visuel identitet og logo {#visuel}
-OS2’s visuelle identitet skal understøtte genkendelighed og tillid.  
-Det betyder, at vi altid bruger de fælles OS2-elementer i præsentationer, dokumenter og opslag.
 
-**Principper:**
-- Brug OS2’s logo i officiel kommunikation, præsentationer og materialer, der repræsenterer fællesskabet.  
-- Logo og grafiske elementer findes i *[OS2’s designpakke](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FIdentitet%20og%20slide%20deck)*.  
-- Brug farver, skrifttyper og stil, som følger OS2’s visuelle profil.  
-- I præsentationer for eksterne skal OS2’s logo altid placeres nederst til højre.  
-- Ved brug af billeder og andet materiale skal licensen altid respekteres og kilden angives.
+OS2’s visuelle retning samler de fælles valg for farver, typografi, logoer og grafiske elementer.
+
+Brug **[OS2’s visuelle retning](./product_toolbox/visuel_retning)**, når du skal lave præsentationer, dokumenter, opslag eller andre materialer.
+
+Her finder du også links til logoer, grafiske elementer og skabeloner.
 
 
 ## Skabeloner {#skabeloner}
-Sekretariatet anvender fælles skabeloner for at sikre et professionelt og ensartet udtryk i alt materiale.
 
-**Tilgængelige skabeloner:**
-- [Præsentation](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FIdentitet%20og%20slide%20deck%2FSkabeloner)  
-- [Notat og brev](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FIdentitet%20og%20slide%20deck%2FSkabeloner)  
-- [Nyhedsbrev og opslag](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FSkabeloner%2FKommunikation)  
+Sekretariatet bruger fælles skabeloner, når de passer til opgaven. Skabelonerne gør det lettere at komme i gang og hjælper med at skabe genkendelighed på tværs af materialer.
+
+Skabeloner til præsentationer og andre visuelle materialer finder du via **[OS2’s visuelle retning](./product_toolbox/visuel_retning)**.
+
+Andre skabeloner:
+
 - [Projektdokumentation](https://github.com/OS2offdig/os2-docs-template)
 - [Kommissorium](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FAftaleskabeloner%2FAndre%20aftaler)
 
-
-*Bemærk*
-> Der er pt. forskellige steder hvor skabeloner kan være placeret.  
-> Alle skabeloner findes i det åbne Nextcloud under: [*Skabeloner*](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FSkabeloner), [*Vejledninger*](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FVejledninger), [*Identitet og Slide deck*](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FIdentitet%20og%20slide%20deck) og *[Foreningen -> Aftaleskabeloner](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FAftaleskabeloner)* eller i [OS2's GitHub](https://github.com/os2offdig) eller i den interne del af Nextcloud under [*Værktøjer og skabeloner*](https://boks.os2.eu/f/55130).  
-> Alle skabeloner kan tilpasses til anvendelse.
-
-Der udestår en opgave med at rydde op og skabe en ensartet struktur så skabeloner ikke er spredt i så mange mapper. (ToDo)
-{: .label .label-red }
+Skabelonerne kan tilpasses til den konkrete opgave.
 
 ## God praksis for videndeling og åben dokumentation {#praksis}
 OS2 arbejder ud fra princippet om **åben først** (Open by default). Alt arbejde skal kunne forstås, deles og genbruges af andre.
@@ -91,4 +82,3 @@ OS2’s kommunikation skal være **åben, respektfuld og professionel** – men 
 
 Når vi taler og skriver som ét fællesskab, styrker vi både OS2’s troværdighed og samarbejdets kvalitet.  
 
-Vi kommunikerer ikke kun *om* open source. Vi kommunikerer som open source: åbent, generøst og med plads til alle perspektiver.
