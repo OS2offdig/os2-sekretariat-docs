@@ -1,7 +1,8 @@
 ---
-title: Sekretariatets opgave og ydelser
+title: Sekretariatets ydelser og opgave
 layout: default
 nav_order: 100
+has_children: true
 has_toc: false
 ---
 

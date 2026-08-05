@@ -3,6 +3,7 @@ title: OS2-sekretariatets opgave
 layout: default
 parent: Sekretariatets ydelser
 nav_order: 1
+has_toc: false
 ---
 
 # OS2-sekretariatets opgave
