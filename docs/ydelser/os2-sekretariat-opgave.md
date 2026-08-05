@@ -1,7 +1,7 @@
 ---
 title: OS2-sekretariatets opgave
 layout: default
-parent: Sekretariatets ydelser
+parent: Sekretariatets ydelser og opgave
 nav_order: 1
 has_toc: false
 ---
