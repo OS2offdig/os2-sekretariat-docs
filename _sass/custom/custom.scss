@@ -207,8 +207,9 @@
       margin: 0;
       padding: 0.55rem 0.65rem;
 
-      &::marker {
-        content: "";
+      &::before {
+        content: none;
+        display: none;
       }
     }
   }
