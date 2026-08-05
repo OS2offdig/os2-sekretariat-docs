@@ -1,3 +1,57 @@
+/* Overskrifter */
+
+.main-content h1 {
+  font-weight: 700;
+}
+
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  font-weight: 600;
+}
+
+
+/* Labels */
+
+.label {
+  color: #fff;
+  font-weight: 600;
+}
+
+.label-green {
+  background-color: $os2-green;
+}
+
+.label-dark-green {
+  background-color: $os2-dark-green;
+}
+
+.label-blue {
+  background-color: $os2-blue;
+}
+
+.label-light-blue {
+  background-color: $os2-light-blue;
+}
+
+.label-teal {
+  background-color: $os2-teal;
+}
+
+.label-dark-teal {
+  background-color: $os2-dark-teal;
+}
+
+.label-light-brown {
+  background-color: $os2-light-brown;
+}
+
+.label-brown {
+  background-color: $os2-brown;
+}
+
 /*
  * Visualisering af OS2-sekretariatets mission, ydelser, roller og opgavekort.
  *
