@@ -198,6 +198,7 @@
     padding: 0;
 
     li {
+      list-style: none;
       background: $sidebar-color;
       border-left: 0.25rem solid var(--role-color);
       border-radius: 0 0.35rem 0.35rem 0;
@@ -205,6 +206,10 @@
       line-height: 1.35;
       margin: 0;
       padding: 0.55rem 0.65rem;
+
+      &::marker {
+        content: "";
+      }
     }
   }
 

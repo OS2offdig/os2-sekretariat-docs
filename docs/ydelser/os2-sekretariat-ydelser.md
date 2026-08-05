@@ -62,7 +62,7 @@ has_toc: false
         <p>Sekretariatet repræsenterer OS2 og medlemmernes interesser i relevante samarbejder og debatter med særligt fokus på relationsopbygning, partnerskaber og dialog om blandt andet open source, digital suverænitet og offentligt digitalt samarbejde.</p>
       </article>
     </div>
-    <p class="services-more"><a href="">Læs mere om ydelser og ydelsesområder →</a></p>
+    <p class="services-more"><a href="{% link docs/ydelser/os2-ydelseskatalog.md %}">Læs mere om ydelser og ydelsesområder →</a></p>
   </section>
 
   <div class="connector" aria-hidden="true"></div>
