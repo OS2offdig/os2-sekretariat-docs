@@ -2,17 +2,24 @@
 title: Ydelser og ydelsesområder
 layout: default
 parent: Sekretariatets ydelser og opgave
-nav_order: 1
-has_toc: false
+nav_order: 2
+has_toc: true
 ---
 
 # OS2-sekretariatets ydelseskatalog
+{: .no_toc }
 
 Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktiviteter og ansvar. De konkrete arbejdsforløb findes i beskrivelsen af [opgavekort]().
 
+## Indhold
+{: .no_toc }
+
+- TOC
+{:toc}
+
 ## 1. Strategisk ledelse og foreningsudvikling
 
-**Formål:** At omsætte OS2’s mission, strategi og bestyrelsens beslutninger til en sammenhængende retning for foreningen og sekretariatet.
+**Formål:** At omsætte OS2’s vision, mission og strategi til en sammenhængende retning for foreningen og foreningens medlemmer.
 
 **Målgruppe:** Bestyrelsen, sekretariatet, medlemmer og produktfællesskaber.
 
@@ -22,14 +29,14 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - fælles prioriteringer og porteføljeoverblik
 - handlings- og leveranceplaner
 - opfølgning på beslutninger og mål
-- kompetenceudvikling om produktrevision, produktlivscyklus og modning
+- kompetenceudvikling om produktrevision, produktlivscyklus og -modning
 
 **Centrale aktiviteter:**
 
 - analysere strategiske behov og konsekvenser
 - forberede og følge op på bestyrelsesbeslutninger
 - prioritere på tværs af ydelsesområder og kapacitet
-- koble produkter og aktiviteter til OS2’s retning
+- koble projekter, produkter og aktiviteter til OS2’s retning
 
 **Ansvar:** Sekretariatschef. Produktkonsulent og forretningskoordinator bidrager fast.
 
@@ -80,7 +87,7 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - dele erfaringer mellem produkter
 - følge op på fællesskabets bæredygtighed
 
-**Ansvar:** Produktkonsulent. Kommunikationsmedarbejder, enterprisearkitekt og forretningskoordinator bidrager.
+**Ansvar:** Produktkonsulent. Kommunikationsmedarbejder og forretningskoordinator bidrager.
 
 ## 4. Produktmodning og innovationsstøtte
 
@@ -104,20 +111,20 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - afklare risici, afhængigheder og organisering
 - formulere anbefaling om næste skridt
 
-**Ansvar:** Produktkonsulent. Sekretariatschef, enterprisearkitekt og kommunikationsmedarbejder bidrager.
+**Ansvar:** Produktkonsulent og sekretariatschef. Enterprisearkitekt og kommunikationsmedarbejder bidrager.
 
 ## 5. IT-arkitektur og teknisk kvalitet
 
 **Formål:** At understøtte åbne, robuste, sikre og genbrugelige løsninger, som kan forvaltes på tværs af leverandører og myndigheder.
 
-**Målgruppe:** Produktfællesskaber, udviklere, leverandører og tekniske arbejdsgrupper.
+**Målgruppe:** Produktfællesskaber, projektgrupper, leverandører og tekniske arbejdsgrupper.
 
 **Leverancer:**
 
 - arkitektursparring og tekniske vurderinger
 - GitHub-organisation, repositories og standardiseret workflow
 - skabeloner og eksempler til teknisk dokumentation
-- mønstre for lokal udrulning og automatiserede builds
+- mønstre for lokal udrulning og automatiserede byg
 - sikkerhedsscanninger, PR-checks og code review
 - vejledning om åbne standarder, formater og integrationer
 
@@ -126,16 +133,16 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - gennemgå arkitektur og teknisk dokumentation
 - etablere repository- og bidragsstruktur
 - konfigurere relevante automatiske kontroller
-- gennemføre scanninger og følge op på fund
+- gennemføre scanninger og følge op på opdagelser
 - rådgive leverandører og arbejdsgrupper
 
-**Ansvar:** Enterprisearkitekt. Produktkonsulent bidrager på governance og modning.
+**Ansvar:** Enterprisearkitekt. Sekretariatschef og produktkonsulent bidrager på governance og modning.
 
 ## 6. Kommunikation og medlemsrelationer
 
 **Formål:** At gøre OS2 og produkterne forståelige, synlige og i stand til at engagere relevante målgrupper.
 
-**Målgruppe:** Medlemmer, produktfællesskaber, anvendere, leverandører, beslutningstagere og offentligheden.
+**Målgruppe:** Medlemmer, produktfællesskaber, anvendere, leverandører, beslutningstagere og andre interessenter.
 
 **Leverancer:**
 
@@ -144,17 +151,17 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - adgang til og brug af fælles kanaler
 - redaktionel sparring og publicering
 - kommunikationsskabeloner og præsentationsmaterialer
-- budskaber om open source, OS2 og OS2-produkter
+- formidling om open source, OS2 og OS2-projekter/produkter
 
 **Centrale aktiviteter:**
 
 - afklare målgruppe, formål, budskab og kanal
-- hjælpe produktet med vision, fortælling og salgsvinkler
+- hjælpe projektet eller produktet med vision, fortælling og markedsføringsvinkler
 - producere, redigere og publicere indhold
-- understøtte community-dialog
+- understøtte relationer i fælesskabet
 - koordinere kommunikation med øvrige OS2-indsatser
 
-**Ansvar:** Kommunikationsmedarbejder. Produktkonsulent bidrager på fællesskab og produktkontekst.
+**Ansvar:** Kommunikationsmedarbejder. Sekretariatschef og forretningskoordinator bidrager.
 
 ## 7. Arrangementer og netværk
 
@@ -196,12 +203,12 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 **Centrale aktiviteter:**
 
 - registrere, kontrollere og følge op
-- koordinere med bogholderi, revision og leverandører
+- koordinere med bogholderi, revision og produktroller
 - vedligeholde oversigter, kalendere og datagrundlag
 - dokumentere beslutninger, ansvar og frister
 - sikre kontinuitet og stedfortrædelse
 
-**Ansvar:** Forretningskoordinator. Sekretariatschef har det overordnede ansvar.
+**Ansvar:** Forretningskoordinator. Sekretariatschef bidrager har det overordnede ansvar.
 
 ## 9. Fælles værktøjskasse, metoder og principper
 
@@ -225,13 +232,13 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - indsamle eksempler fra produktfællesskaber
 - udfase forældet materiale
 
-**Ansvar:** Enterprisearkitekt på tekniske metoder. Produktkonsulent, kommunikationsmedarbejder og forretningskoordinator ejer materialer inden for deres områder.
+**Ansvar:** Hele sekretariatet. Hver rolle ejer materialer inde for deres områder.
 
 ## 10. Interessevaretagelse og strategiske relationer
 
 **Formål:** At forbinde OS2’s arbejde med relevante nationale og internationale dagsordener og samarbejder.
 
-**Målgruppe:** Bestyrelsen, medlemmer, beslutningstagere, organisationer og samarbejdspartnere.
+**Målgruppe:** Bestyrelsen, medlemmer, beslutningstagere, eksterne organisationer og samarbejdspartnere.
 
 **Leverancer:**
 

@@ -22,43 +22,43 @@ has_toc: false
     <h2 id="services-title">Ydelser og ydelsesområder</h2>
     <div class="service-grid">
       <article class="service-item">
-        <h3>Strategisk ledelse og foreningsudvikling</h3>
+        <h3>1. Strategisk ledelse og foreningsudvikling</h3>
         <p>Sekretariatet omsætter OS2’s strategi og bestyrelsens beslutninger til konkrete prioriteringer, planer og indsatser. Det omfatter også udviklingen af foreningen, sekretariatet og den samlede projekt- og produktportefølje.</p>
       </article>
       <article class="service-item">
-        <h3>Governance og organisationsudvikling</h3>
+        <h3>2. Governance og organisationsudvikling</h3>
         <p>Sekretariatet bidrager til at udvikle og vedligeholde styringsmodeller, roller, mandater og beslutningsprocesser for at skabe tydelige rammer og understøtte velfungerende, selvstyrende produktfællesskaber.</p>
       </article>
       <article class="service-item">
-        <h3>Fællesskab på tværs af projekter og produkter</h3>
+        <h3>3. Fællesskab på tværs af projekter og produkter</h3>
         <p>Etablerer og vedligeholder et stærkt fællesskab mellem produktejere, produktkoordinatorer, community managers og andre aktive omkring OS2’s produkter. Fællesskabet understøtter videndeling, erfaringsudveksling og gensidig støtte på tværs af produkter gennem blandt andet onboarding, netværk og faciliterede aktiviteter.</p>
       </article>
       <article class="service-item">
-        <h3>Produktmodning og innovationsstøtte</h3>
+        <h3>4. Produktmodning og innovationsstøtte</h3>
         <p>Sekretariatet hjælper idéer og projekter med at udvikle sig til levedygtige og skalerbare OS2-produkter. Det omfatter afklaring af behov, værdi, organisering, finansiering, roadmap samt grundlag for fælles udvikling og drift.</p>
       </article>
       <article class="service-item">
-        <h3>IT-arkitektur og teknisk kvalitet</h3>
+        <h3>5. IT-arkitektur og teknisk kvalitet</h3>
         <p>Sekretariatet understøtter arbejdet med åbne og bæredygtige tekniske løsninger, herunder rådgivning om arkitektur, åbne standarder, dokumentation, sikkerhed, kodekvalitet og leverandøruafhængighed.</p>
       </article>
       <article class="service-item">
-        <h3>Kommunikation og medlemsrelationer</h3>
+        <h3>6. Kommunikation og medlemsrelationer</h3>
         <p>Sekretariatet gør OS2’s arbejde, produkter og resultater forståelige og synlige for medlemmer og omverdenen. Det omfatter kommunikationsplanlægning, indholdsproduktion, fælles kanaler, produktfortællinger, medlemsinformation og aktiviteter, der styrker centrale interessenters kendskab til, engagement i og udbytte af OS2.</p>
       </article>
       <article class="service-item">
-        <h3>Arrangementer og netværk</h3>
+        <h3>7. Arrangementer og netværk</h3>
         <p>Sekretariatet planlægger og afholder møder, webinarer, temadage, konferencer og netværksaktiviteter. Formålet er at skabe relationer, dele viden og engagere medlemmer og samarbejdspartnere.</p>
       </article>
       <article class="service-item">
-        <h3>Forretningsdrift og administration</h3>
+        <h3>8. Forretningsdrift og administration</h3>
         <p>Sekretariatet sikrer en stabil og professionel daglig drift, herunder central styring af økonomi, fakturering, medlemsadministration, aftaler, kontrakter, indkøb og håndtering af henvendelser.</p>
       </article>
       <article class="service-item">
-        <h3>Fælles værktøjskasse, metoder og principper</h3>
+        <h3>9. Fælles værktøjskasse, metoder og principper</h3>
         <p>Sekretariatet udvikler, driver og vedligeholder fælles skabeloner, vejledninger, procesbeskrivelser og arbejdsredskaber. Det gør OS2’s arbejdsformer mere ensartede, lettere at forstå og nemmere at genbruge og anvende på tværs.</p>
       </article>
       <article class="service-item">
-        <h3>Interessevaretagelse og strategiske relationer</h3>
+        <h3>10. Interessevaretagelse og strategiske relationer</h3>
         <p>Sekretariatet repræsenterer OS2 og medlemmernes interesser i relevante samarbejder og debatter med særligt fokus på relationsopbygning, partnerskaber og dialog om blandt andet open source, digital suverænitet og offentligt digitalt samarbejde.</p>
       </article>
     </div>

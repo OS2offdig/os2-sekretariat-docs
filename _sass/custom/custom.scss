@@ -281,3 +281,8 @@
     }
   }
 }
+
+.main-content ul.task-list > li::before {
+  content: none;
+  display: none;
+}
