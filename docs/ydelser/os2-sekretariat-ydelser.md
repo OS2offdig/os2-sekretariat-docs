@@ -1,5 +1,5 @@
 ---
-title: Sekretariatets ydelser
+title: Sekretariatets opgave og ydelser
 layout: default
 nav_order: 100
 has_toc: false
@@ -11,7 +11,7 @@ has_toc: false
     <strong id="mission-title">I OS2-sekretariatet gør vi OS2’s medlemmer og produktfællesskaber i stand til at lykkes sammen.</strong>
     <p>Sekretariatet understøtter medlemmer, bestyrelse samt projekt- og produktfællesskaber ved at skabe og vedligeholde fælles rammer, relationer, kompetencer og værktøjer. Arbejdet tager afsæt i OS2’s vedtægter, vision, mission, styringsmodel, organisering og fælles principper.</p>
     <p>Sekretariatet lykkes, når medlemmerne og produktfællesskaberne kan samarbejde mere selvstændigt, åbent og bæredygtigt. Sekretariatet skal opbygge kapacitet i fællesskabet, ikke gøre fællesskabet afhængigt af sekretariatet.</p>
-    <span class="mission-more"><a href="">Læs mere om sekretariatets mission →</a></span>
+    <span class="mission-more"><a href="{% link docs/ydelser/os2-sekretariat-opgave.md %}">Læs mere om sekretariatets opgave →</a></span>
   </section>
 
   <div class="connector" aria-hidden="true"></div>
