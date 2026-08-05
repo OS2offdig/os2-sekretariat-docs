@@ -66,37 +66,37 @@ has_toc: false
 
   <div class="connector" aria-hidden="true"></div>
 
-  <p class="stage-label">Hvem der løser arbejdet – og hvordan</p>
+  <p class="stage-label">Hvem der løser arbejdet og hvordan</p>
   <div class="role-grid">
     <section class="role-column role-1" aria-labelledby="role-leadership">
       <div class="card role-head">
         <h3 id="role-leadership">Ledelse / strategi</h3>
-        <p class="role-scope">Sætter retning, prioriterer kapacitet og omsætter bestyrelsens beslutninger til planer, relationer og opfølgning.</p>
+        <p class="role-scope">Sekretariatets ledelse sætter retning, prioriterer kapacitet og omsætter bestyrelsens beslutninger til planer, relationer og opfølgning.</p>
       </div>
-      <p class="task-label">Eksempler på opgavekort</p>
+      <p class="task-label">Eksempler på opgavekort:</p>
       <ul class="task-list">
-        <li>Omsæt strategisk beslutning til leveranceplan</li>
+        <li>Omsæt strategisk beslutning til gameplan</li>
         <li>Udarbejd sagsoplæg</li>
-        <li>Prioritér portefølje og ressourcer</li>
+        <li>Prioriter portefølje og ressourcer</li>
         <li>Følg op på strategiske mål</li>
       </ul>
     </section>
     <section class="role-column role-2" aria-labelledby="role-business">
       <div class="card role-head">
         <h3 id="role-business">Forretnings&shy;koordinator</h3>
-        <p class="role-scope">Sikrer den administrative og økonomiske drift og skaber kontinuitet i aftaler, data, møder, adgange og fælles rutiner.</p>
+        <p class="role-scope">Sikrer den administrative og økonomiske drift og skaber kontinuitet i møder, aftaler, årshjul og fælles rutiner.</p>
       </div>
-      <p class="task-label">Eksempler på opgavekort</p>
+      <p class="task-label">Eksempler på opgavekort:</p>
       <ul class="task-list">
         <li>Modtag og fordel henvendelser</li>
-        <li>Følg op på budget og økonomi</li>
-        <li>Håndtér fakturaer og indkøb</li>
-        <li>Koordinér aftaler og kontrakter</li>
+        <li>Vedligehold medlems- og produktstamdata</li>
+        <li>Vedligehold fælles årshjul og driftsrutiner</li>
+        <li>Koordiner aftaler og kontrakter</li>
       </ul>
     </section>
     <section class="role-column role-3" aria-labelledby="role-community">
       <div class="card role-head">
-        <h3 id="role-community">Produktkonsulent / fællesskabskonsulent</h3>
+        <h3 id="role-community">Produkt- og fællesskabskonsulent</h3>
         <p class="role-scope">Driver fællesskabet mellem produktroller og understøtter onboarding og modning af nye projekter og produkter.</p>
       </div>
       <p class="task-label">Eksempler på opgavekort</p>
@@ -109,33 +109,33 @@ has_toc: false
     </section>
     <section class="role-column role-4" aria-labelledby="role-architecture">
       <div class="card role-head">
-        <h3 id="role-architecture">IT-arkitekt</h3>
+        <h3 id="role-architecture">IT/Enterprise arkitekt</h3>
         <p class="role-scope">Sikrer fælles tekniske rammer, åben arkitektur, dokumentation, sikkerhed og kvalitet på tværs af OS2’s produkter.</p>
       </div>
       <p class="task-label">Eksempler på opgavekort</p>
       <ul class="task-list">
         <li>Gennemfør arkitektursparring</li>
-        <li>Etablér GitHub og repositories</li>
+        <li>Etabler GitHub-organisation, repositories og workflows</li>
         <li>Kvalitetssikr teknisk dokumentation</li>
-        <li>Koordinér sikkerhedsscan og code review</li>
+        <li>Udvikl referencearkitektur og integrationsmønstre</li>
       </ul>
     </section>
     <section class="role-column role-5" aria-labelledby="role-communication">
       <div class="card role-head">
-        <h3 id="role-communication">Kommunikations&shy;medarbejder</h3>
-        <p class="role-scope">Gør OS2’s arbejde synligt og forståeligt og understøtter produkter og fællesskaber med kommunikation, kanaler og arrangementer.</p>
+        <h3 id="role-communication">Kommunikationsmedarbejder</h3>
+        <p class="role-scope">Gør OS2’s arbejde synligt og forståeligt og understøtter produkter og fællesskaber med kommunikation, strategier og værktøjer.</p>
       </div>
       <p class="task-label">Eksempler på opgavekort</p>
       <ul class="task-list">
-        <li>Analysér kommunikationsbehov</li>
+        <li>Analyser kommunikationsbehov</li>
         <li>Udarbejd kommunikationsplan</li>
-        <li>Publicér i fælles kanaler</li>
+        <li>Producer og publicer til fælles kanaler</li>
         <li>Skab produktfortælling og skabeloner</li>
       </ul>
     </section>
     <section class="role-column role-6" aria-labelledby="role-product">
       <div class="card role-head">
-        <h3 id="role-product">Produkt&shy;koordinator</h3>
+        <h3 id="role-product">Produktkoordinator</h3>
         <p class="role-scope">Har operativt ansvar for ét konkret OS2-produkt og koordinerer roadmap, leverancer, styring, leverandører og brugere.</p>
       </div>
       <p class="task-label">Eksempler på opgavekort</p>
