@@ -1,3 +1,6 @@
+{: .warning }
+DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
+
 ## Governancestruktur for OS2valghalla
 
 OS2valghalla er et kommunalt ejet og styret produktfællesskab, der opererer inden for foreningen OS2’s vedtægter, styringsmodel og øvrige fælles rammer. Foreningen OS2 er den juridiske enhed, mens ansvaret for det enkelte produkt er placeret hos OS2valghallas styregruppe.

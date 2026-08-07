@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 {: .warning }
-DRAFT VERSION - NOT APPROVED BY THe BOARD
+DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
 
 <div id="os2-secretariat-model" aria-label="Model for sekretariatets mission, ydelser, roller og opgavekort">
   <p class="stage-label">Hvorfor sekretariatet findes</p>

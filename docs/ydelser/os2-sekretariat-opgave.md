@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 {: .warning }
-DRAFT VERSION - NOT APPROVED BY THe BOARD
+DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
 
 # OS2-sekretariatets opgave
 
