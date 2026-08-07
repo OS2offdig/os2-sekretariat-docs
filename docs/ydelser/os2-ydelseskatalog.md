@@ -7,6 +7,9 @@ has_toc: true
 back_to_top: false
 ---
 
+{: .warning }
+DRAFT VERSION - NOT APPROVED BY THe BOARD
+
 # OS2-sekretariatets ydelseskatalog
 {: .no_toc }
 

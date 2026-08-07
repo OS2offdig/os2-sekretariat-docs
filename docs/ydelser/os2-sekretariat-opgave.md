@@ -6,6 +6,9 @@ nav_order: 1
 has_toc: false
 ---
 
+{: .warning }
+DRAFT VERSION - NOT APPROVED BY THe BOARD
+
 # OS2-sekretariatets opgave
 
 Sekretariatets opgave er at understøtte OS2's medlemmer, produktfællesskaber og bestyrelse i at realisere foreningens formål, vision og mission gennem åbent, ligeværdigt og værdiskabende samarbejde om digitale løsninger.
