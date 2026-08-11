@@ -2,6 +2,8 @@
 title: Sådan arbejder vi i OS2
 layout: default
 nav_order: 4
+has_children: true
+has_toc: false
 ---
 
 # Sådan arbejder vi i OS2 <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
