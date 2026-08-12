@@ -42,7 +42,7 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - prioritere på tværs af ydelsesområder og kapacitet
 - koble projekter, produkter og aktiviteter til OS2’s retning
 
-<span class="label label-green">Ansvar:</span> Sekretariatschef. Produktkonsulent og forretningskoordinator bidrager fast.
+**Ansvar:** Sekretariatschef. Produktkonsulent og forretningskoordinator bidrager fast.
 
 [↑ Til toppen](#top)  
 
@@ -69,7 +69,7 @@ Hvert ydelsesområde beskriver formål, målgruppe, leverancer, centrale aktivit
 - støtte etablering og rekruttering til styrende organer
 - vedligeholde eksempler og leverandøroversigter
 
-<span class="label label-green">Ansvar:</span> Produktkonsulent. Sekretariatschef, enterprisearkitekt og forretningskoordinator bidrager.
+**Ansvar:** Produktkonsulent. Sekretariatschef, enterprisearkitekt og forretningskoordinator bidrager.
 
 [↑ Til toppen](#top)  
 

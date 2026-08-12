@@ -79,7 +79,7 @@ DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
       </div>
       <p class="task-label">Eksempler på opgavekort:</p>
       <ul class="task-list">
-        <li>Omsæt strategisk beslutning til gameplan</li>
+        <li>Omsæt strategisk beslutning til leveranceplan</li>
         <li>Udarbejd sagsoplæg</li>
         <li>Prioriter portefølje og ressourcer</li>
         <li>Følg op på strategiske mål</li>
@@ -119,7 +119,7 @@ DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
       <p class="task-label">Eksempler på opgavekort</p>
       <ul class="task-list">
         <li>Gennemfør arkitektursparring</li>
-        <li>Etabler GitHub-organisation, repositories og workflows</li>
+        <li>Etabler Git-organisation, repositories og workflows</li>
         <li>Kvalitetssikr teknisk dokumentation</li>
         <li>Udvikl referencearkitektur og integrationsmønstre</li>
       </ul>
@@ -152,6 +152,6 @@ DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
     </section>
   </div>
 
-  <p class="task-link"><a href="">Se alle detaljerede opgavekort →</a></p>
+  <p class="task-link"><a href="">Se eksempler på detaljerede opgavekort →</a></p>
 
 </div>

@@ -60,12 +60,12 @@
  */
 
 #os2-secretariat-model {
-  --os2-role-1: #{$blue-200};
-  --os2-role-2: #{$green-200};
-  --os2-role-3: #{$purple-100};
-  --os2-role-4: #{$yellow-300};
-  --os2-role-5: #{$red-200};
-  --os2-role-6: #{$grey-dk-100};
+  --os2-role-1: #{$os2-blue};
+  --os2-role-2: #{$os2-light-blue};
+  --os2-role-3: #{$os2-teal};
+  --os2-role-4: #{$os2-dark-teal};
+  --os2-role-5: #{$os2-light-brown};
+  --os2-role-6: #{$os2-brown};
 
   color: $body-text-color;
   font-family: $body-font-family;
@@ -80,7 +80,6 @@
 
   .stage-label {
     color: $body-text-color;
-    font-size: 0.75rem;
     font-weight: 600;
     letter-spacing: 0.08em;
     margin: 0 0 0.45rem;
@@ -98,8 +97,8 @@
   }
 
   .mission {
-    background: $link-color;
-    border-color: $link-color;
+    background: $os2-green;
+    border-color: $os2-green;
     color: $body-background-color;
     margin: 0 auto;
     max-width: 76rem;
@@ -107,7 +106,6 @@
 
     strong {
       display: block;
-      font-size: 1.25rem;
       line-height: 1.35;
       margin-bottom: 0.85rem;
       text-align: center;
@@ -128,7 +126,6 @@
   .mission-more {
     border-top: 1px solid rgba($body-background-color, 0.45);
     display: block;
-    font-size: 0.875rem;
     margin-top: 1rem;
     padding-top: 0.75rem;
     text-align: center;
@@ -163,7 +160,6 @@
     padding: 1rem;
 
     h2 {
-      font-size: 1.125rem;
       margin: 0 0 0.8rem;
       text-align: center;
     }
@@ -182,7 +178,6 @@
     padding: 0.75rem 0.8rem;
 
     h3 {
-      font-size: 1rem;
       margin: 0 0 0.35rem;
     }
 
@@ -219,7 +214,6 @@
     text-align: center;
 
     h3 {
-      font-size: 1rem;
       line-height: 1.25;
       margin: 0;
     }
@@ -235,7 +229,6 @@
 
   .task-label {
     color: $body-text-color;
-    font-size: 0.75rem;
     font-weight: 600;
     letter-spacing: 0.05em;
     margin: 0.65rem 0 0.4rem;
@@ -256,7 +249,6 @@
       background: $sidebar-color;
       border-left: 0.25rem solid var(--role-color);
       border-radius: 0 0.35rem 0.35rem 0;
-      font-size: 0.875rem;
       line-height: 1.35;
       margin: 0;
       padding: 0.55rem 0.65rem;
@@ -292,7 +284,6 @@
     color: $body-text-color;
     display: flex;
     flex-wrap: wrap;
-    font-size: 0.875rem;
     gap: 0.35rem 0.55rem;
     justify-content: center;
     margin-top: 1.1rem;
