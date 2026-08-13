@@ -2,6 +2,8 @@
 title: Sådan arbejder vi i OS2
 layout: default
 nav_order: 4
+has_children: true
+has_toc: false
 ---
 
 # Sådan arbejder vi i OS2 <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
@@ -36,7 +38,9 @@ OS2-sekretariatet anvender en række digitale værktøjer, der understøtter sam
 | **Hey Loyalty** | Nyhedsbreve. Bruges til at kommunikere til medlemmer og andre interessenter. | [heyloyalty.com](https://heyloyalty.com/) |
 | **Odoo** | Hjemmeside. Bruges til at administrere OS2s hjemmeside. | [os2.eu](https://os2.eu/) |
 
-Alle værktøjer skal bruges på en måde, der understøtter **fælles ejerskab og transparens**. Hvis et dokument eller en opgave kun findes lokalt, eksisterer den ikke organisatorisk.
+Valg og brug af fælles værktøjer bør så vidt muligt understøtte åbenhed, transparens og fælles ejerskab. Se [Principper for valg af fælles værktøjer](./tool_selection_principles) for de hensyn, OS2 arbejder ud fra.
+
+Hvis et dokument eller en opgave kun findes lokalt, eksisterer den ikke organisatorisk.
 
 **Se også:** How-to og standarder pr. værktøj i **[Værktøjskassen](./product_toolbox)** (fx **Nextcloud**: fildeling, adgang, rettigheder).
 
