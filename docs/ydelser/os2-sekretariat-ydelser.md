@@ -152,6 +152,6 @@ DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
     </section>
   </div>
 
-  <p class="task-link"><a href="">Se eksempler på detaljerede opgavekort →</a></p>
+  <p class="task-link">Se eksempler på detaljerede opgavekort → (To Do)</p>
 
 </div>
