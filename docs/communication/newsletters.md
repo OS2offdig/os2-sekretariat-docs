@@ -22,6 +22,8 @@ Nyhedsbrevet er en direkte kanal til mennesker, som allerede har vist interesse 
 
 Det vigtigste er ikke at sende ofte, men at sende, **når man har noget relevant at kommunikere**. Samtidig er det vigtigt at huske, at læsere af et nyhedsbrev gerne skal holdes vågne. Selv en 'lille' nyhed understøtter synlighed og kan give læseren tryghed i at vide, at der er aktivitet - og måske endda motivere til selv at deltage endnu mere.
 
+Produktet bør dokumentere og informere sekretariatet om, hvorvidt man ønsker at anvende nyhedsbrevet som kommunikationskanal. Først herefter kan sekretariatet understøtte og onboarde korrekt.
+
 ## Hvad kan man fx skrive om?
 
 Et nyhedsbrev behøver ikke være en stor produktion. En enkelt relevant nyhed kan være nok.
@@ -41,9 +43,7 @@ Nyhedsbrevet kan altså både bruges til at **informere, engagere og invitere ti
 
 ## Nyhedsbreve er som udgangspunkt en åben kanal
 
-Et produktnyhedsbrev er ikke kun en kontaktliste for de personer, vi allerede kender. Det er også en kanal, hvor interesserede kan følge produktet og lære det bedre at kende.
-
-Det understøtter synlighed, community-building og muligheden for, at nye organisationer og personer kan følge et produkt, før de eventuelt bliver en mere aktiv del af fællesskabet.
+Et produktnyhedsbrev er ikke kun en kontaktliste for de personer, vi allerede kender. Det er også en kanal, hvor interesserede kan følge produktet og lære det bedre at kende. Historisk har nyhedsbrevet været tænkt mere som intern kommunikation til kontaktpersoner. I takt med OS2's vækst og ændrede behov, anvendes nyhedsbrevet nu som en kanal, der understøtter synlighed, community-building og muligheden for, at nye organisationer og personer kan følge et produkt, før de eventuelt bliver en mere aktiv del af fællesskabet.
 
 Udgangspunktet er derfor, at indhold i et produktnyhedsbrev skal kunne tåle at blive læst af alle, der vælger at følge produktet.
 
@@ -78,6 +78,8 @@ Fortrolig, ufærdig eller intern arbejdsdialog foregår i relevante samarbejdsfo
 Når informationen er klar til at blive delt bredere, kan nyhedsbrevet bruges som en af kanalerne til at formidle den.
 
 **Lukket dialog foregår i arbejdsfora. Nyhedsbrevet bruges, når informationen er klar til at blive delt.**
+
+Er der behov for, at udsende information, som af kritiske årsager ikke kan tåle at blive delt åbent, kontakt da gerne sekretariatet og gør opmærksom på situationen og behovet.
 
 ## Kommunikation er en del af produktforvaltningen
 
@@ -132,6 +134,23 @@ Udgangspunktet er derfor:
 - genbrug indhold på tværs af relevante kanaler, når det giver mening.
 
 *Målet er ikke at sende mest muligt, men at bruge nyhedsbrevet aktivt og relevant som en kanal mellem produktet og dets community.*
+
+
+---
+
+## Kort fortalt: Hvad skal I gøre?
+
+Hvis jeres produkt vil bruge nyhedsbrev som kommunikationskanal:
+
+- [ ] **Styregruppen:** Tag stilling til, om nyhedsbrev skal indgå i produktets kommunikation, og hvor højt indsatsen skal prioriteres.
+- [ ] **Produktforvaltningen:** Informér sekretariatet om beslutningen, så produktet kan blive onboardet korrekt i Heyloyalty.
+- [ ] **Produktet:** Aftal, hvem der typisk skriver eller samler indhold, og hvem der godkender udsendelser.
+- [ ] **Produktet:** Sørg for, at relevante kontaktpersoner samt medlemmer af styre- og koordinationsgruppen er registreret korrekt, og hold oplysningerne ajour ved ændringer.
+- [ ] **Den, der sender:** Brug nyhedsbrevet til information, der kan deles åbent. Brug andre samarbejdsfora til fortrolig eller ufærdig dialog.
+- [ ] **Den, der sender:** Målret kun med segmentering, når der er et reelt behov. Gør ellers relevansen tydelig direkte i teksten.
+- [ ] **Alle:** Hold det enkelt. Et nyhedsbrev behøver ikke være langt, og en enkelt relevant nyhed kan være nok.
+
+**Er I i tvivl om opsætning, målgrupper, segmentering eller hvad der egner sig til et nyhedsbrev? Kontakt OS2-sekretariatet.**
 
 
 ---
