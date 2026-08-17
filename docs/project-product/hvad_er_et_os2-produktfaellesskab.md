@@ -1,3 +1,5 @@
+{: .warning }
+DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
 
 ## Hvad er et OS2-produktfællesskab?
 
