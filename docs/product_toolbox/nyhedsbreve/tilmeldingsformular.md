@@ -109,3 +109,7 @@ Kontrollér:
 - at DOI-mailen bliver sendt
 - at bekræftelseslinket virker
 - at kontakten står korrekt på listen efter bekræftelsen.
+
+**🔗 Skal du bruge linket til formularen?**  
+**Lister → ⋮ → Rediger liste → Formularer → ⚙ _lille tandhjul til højre_ → kopiér URL eller embed-kode**
+{: .highlight }
