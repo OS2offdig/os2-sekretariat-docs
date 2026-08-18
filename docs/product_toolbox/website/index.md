@@ -17,4 +17,4 @@ Her finder du praktiske guides til at oprette og vedligeholde indhold på hjemme
 ## Guides
 {: .no_toc }
 
-- [Redigér din produktside på os2.eu](rediger_produktside.md)
+
