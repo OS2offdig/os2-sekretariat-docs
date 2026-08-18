@@ -2,7 +2,7 @@
 title: Modtagere og tilmelding i Heyloyalty
 layout: default
 parent: Nyhedsbreve
-nav_order: 15
+nav_order: 10
 has_toc: false
 ---
 
