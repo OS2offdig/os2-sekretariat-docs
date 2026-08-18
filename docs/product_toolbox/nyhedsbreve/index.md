@@ -4,7 +4,6 @@ layout: default
 parent: Værktøjskasse til projekter og produkter
 nav_order: 10
 has_children: true
-has_toc: false
 ---
 
 # Nyhedsbreve
