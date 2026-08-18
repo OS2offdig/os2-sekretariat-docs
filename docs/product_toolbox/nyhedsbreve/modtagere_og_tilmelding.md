@@ -13,13 +13,10 @@ Der er to måder, en person typisk kommer på et produkts nyhedsbrevsliste i Hey
 1. Personen tilmelder sig selv.
 2. Personen registreres på baggrund af sin rolle omkring produktet.
 
-> **Bemærk**
->
-> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
->
-> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
->
-> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
+**🔗 Skal du bruge linket til formularen?**  
+**Lister → ⋮ → Rediger liste → Formularer → ⚙ → kopiér URL eller embed-kode**
+{: .highlight }
+
 
 ## Selvtilmelding
 
@@ -65,4 +62,14 @@ Se [Importér modtagere til Heyloyalty](import_til_heyloyalty.html).
 
 De to arbejdsgange skal derfor ikke nødvendigvis håndteres ens i Heyloyalty.
 
+> **Bemærk**
+>
+> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
+>
+> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
+>
+> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
 
+**🔗 Skal du bruge linket til formularen?**  
+**Lister → ⋮ → Rediger liste → Formularer → ⚙ → kopiér URL eller embed-kode**
+{: .highlight }
