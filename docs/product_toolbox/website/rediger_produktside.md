@@ -1,5 +1,5 @@
 ---
-title: Redigér din produktside på os2.eu
+title: Redigér produktside
 layout: default
 parent: Hjemmeside
 grand_parent: Værktøjskasse til projekter og produkter
@@ -30,10 +30,11 @@ Har du brug for adgang til Odoo, skal du kontakte OS2-sekretariatet.
 
 ## Redigér siden
 
-1. Klik på **Rediger**.
+1. Klik på **Rediger** (knap øverst til højre).
 2. Klik på den tekst eller det element, du vil ændre.
 3. Ret indholdet direkte på siden.
 4. Brug menuen i højre side til at tilpasse det valgte element.
+   TIP: Gem løbende
 
 Du kan tilføje nye blokke og elementer fra redigeringsmenuen.
 
