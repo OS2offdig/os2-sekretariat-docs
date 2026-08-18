@@ -2,7 +2,7 @@
 title: Felter og segmentering i Heyloyalty
 layout: default
 parent: Nyhedsbreve
-nav_order: 20
+nav_order: 15
 has_toc: false
 ---
 # Felter og segmentering i Heyloyalty
