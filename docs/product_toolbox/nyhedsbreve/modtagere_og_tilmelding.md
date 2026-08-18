@@ -46,7 +46,9 @@ Registrér deres aktuelle rolle i feltet **Relation til produktet**.
 
 En person kan have flere relationer samtidig, fx både være bruger og kontaktperson.
 
-Rollebaserede modtagere kan fortsat afmelde sig nyhedsbrevet.
+Vigtigt: Kontaktpersoner samt medlemmer af styre- og koordinationsgruppen skal stå på produktets nyhedsbrevsliste, da nyhedsbrevet er produktets primære informationskanal.
+
+Hvis en person ikke længere har tilknytning til produktet, skal listen opdateres. Personen kan også selv afmelde sig nyhedsbrevet.
 
 ## Manuel import
 
@@ -68,6 +70,4 @@ Se [Importér modtagere til Heyloyalty](import_til_heyloyalty.html).
 
 De to arbejdsgange skal derfor ikke nødvendigvis håndteres ens i Heyloyalty.
 
-Vigtigt: Kontaktpersoner samt medlemmer af styre- og koordinationsgruppen skal stå på produktets nyhedsbrevsliste, da nyhedsbrevet er produktets primære informationskanal.
 
-Hvis en person ikke længere har tilknytning til produktet, skal listen opdateres. Personen kan også selv afmelde sig nyhedsbrevet.
