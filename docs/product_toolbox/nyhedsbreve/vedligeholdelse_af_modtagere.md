@@ -12,13 +12,6 @@ Produktets modtagerliste skal holdes tilstrækkeligt ajour til, at den relevante
 
 Heyloyalty er ikke OS2's CRM-system. Stam- og relationsdata vedligeholdes i Airtable.
 
-> **Bemærk**
->
-> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
->
-> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
->
-> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
 
 ## Airtable er udgangspunktet
 
@@ -58,3 +51,12 @@ Se [Importér modtagere til Heyloyalty](import_til_heyloyalty.html).
 Vedligehold kun de oplysninger i Heyloyalty, der er nødvendige for nyhedsbrevsarbejdet.
 
 Hvis en oplysning allerede vedligeholdes i Airtable og ikke bruges til udsendelse eller målretning i Heyloyalty, skal den som udgangspunkt ikke kopieres over.
+
+
+> **Bemærk**
+>
+> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
+>
+> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
+>
+> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
