@@ -91,3 +91,11 @@ Hvis en person skifter rolle omkring produktet, skal feltet **Relation til produ
 Modtageren kan selv gøre opmærksom på ændringen, men den ansvarlige for produktets nyhedsbrevsliste har ansvar for løbende at holde oplysningerne ajour.
 
 De autoritative stam- og relationsdata vedligeholdes i Airtable. Heyloyalty skal ikke bruges som erstatning for Airtable.
+
+> **Bemærk**
+>
+> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
+>
+> Heyloyalty kan løbende ændre funktioner, menuer og importmuligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
+>
+> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet. Opdager du en rettelse eller tilføjelse, så skriv endelig til kommunikation@os2.eu.
