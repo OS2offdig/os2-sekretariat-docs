@@ -2,7 +2,7 @@
 title: Opsæt en tilmeldingsformular i Heyloyalty
 layout: default
 parent: Nyhedsbreve
-nav_order: 6
+nav_order: 25
 has_toc: false
 ---
 
