@@ -2,7 +2,7 @@
 title: Modtagere og tilmelding i Heyloyalty
 layout: default
 parent: Nyhedsbreve
-nav_order: 15
+nav_order: 10
 has_toc: false
 ---
 
@@ -56,11 +56,6 @@ Rollebaserede modtagere kan fx overføres fra Airtable til Heyloyalty via CSV-im
 
 Se [Importér modtagere til Heyloyalty](import_til_heyloyalty.html).
 
-> **Skal afklares**
->
-> Det skal dokumenteres, præcis hvordan Heyloyalty håndterer double opt-in, når kontakter importeres manuelt til en liste, hvor double opt-in er aktiveret. 
->
-> Opdatér denne side, når praksis er afklaret.
 
 ## Husk forskellen
 

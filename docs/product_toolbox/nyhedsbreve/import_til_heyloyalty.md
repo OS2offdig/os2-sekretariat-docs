@@ -1,5 +1,5 @@
 ---
-title: Importér modtagere til Heyloyalty
+title: Importér modtagere
 layout: default
 parent: Nyhedsbreve
 nav_order: 30
@@ -101,13 +101,16 @@ Manuel import bruges bl.a. til at vedligeholde rollebaserede modtagere fra Airta
 
 De to måder at komme på listen skal derfor ikke behandles som samme arbejdsgang.
 
-> **OBS: Double opt-in ved manuel import**
->
-> Det skal afklares, præcis hvordan Heyloyalty håndterer double opt-in, når modtagere oprettes via manuel CSV-import på en liste med double opt-in aktiveret.
->
-> Heyloyalty giver ved import mulighed for at vælge, om aktive automations skal sendes til importerede kontakter, men den generelle importguide beskriver ikke entydigt, om en double opt-in-mail udløses ved manuel CSV-import.
->
-> Opdatér denne guide, når praksis er afklaret.
+### Manuel oprettelse af en kontakt
+
+Når en kontakt tilføjes manuelt, fordi personen har en rolle omkring produktet, skal kontakten ikke gennem det almindelige tilmeldingsflow.
+
+Ved oprettelsen vælges:
+
+- **Opret kontakt uden dobbelt opt-in bekræftelsesmail**
+- **Opret kontakt uden velkomst-trigger-mail**
+
+Kontrollér samtidig, at kontaktens relevante oplysninger og **Relation til produktet** er udfyldt korrekt.
 
 ## Hvis importen ikke virker
 

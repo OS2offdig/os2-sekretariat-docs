@@ -1,8 +1,8 @@
 ---
-title: Vedligehold modtagere i Heyloyalty
+title: Vedligehold modtagere
 layout: default
 parent: Nyhedsbreve
-nav_order: 40
+nav_order: 35
 has_toc: false
 ---
 
