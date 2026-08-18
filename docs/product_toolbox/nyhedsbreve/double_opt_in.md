@@ -2,7 +2,7 @@
 title: Opsæt double opt-in
 layout: default
 parent: Nyhedsbreve
-nav_order: 5
+nav_order: 20
 has_toc: false
 ---
 
