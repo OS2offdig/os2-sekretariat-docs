@@ -1,7 +1,11 @@
 ---
 title: Gevinster ved et uafhængigt flerleverandør-setup
-author: Jan Maack Kjerbye
+author: 
+    name: Jan Maack Kjerbye
+    title: Enterprise Arkitekt
+    company: OS2 - offentligt digitaliseringsfælleskab
 last_updated: 2026-08-20
+reading_time: 6m
 ---
 
 # Gevinster ved et uafhængigt flerleverandør-setup
