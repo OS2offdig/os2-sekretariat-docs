@@ -22,23 +22,26 @@ Kommunikation er en del af arbejdet med at udvikle og forvalte OS2's produkter o
 
 ## Overblik og roller
 
-- [**Kommunikation i OS2**](LINK)  
+- [**Kommunikation i OS2**](communication/overview.html)  
   Overblik over ansvar, initiativ, fælles rammer og OS2-sekretariatets rolle.
 
-- [**Kommunikation i produktfællesskabet**](LINK)  
+- [**Kommunikation i produktfællesskabet**](communication/product_community.html)  
   Produktorganisationens rolle i kommunikationen og samarbejdet med sekretariat og leverandører.
 
-- [**Kommunikation for leverandører**](LINK)  
+- [**Kommunikation for leverandører**](communication/suppliers.html)  
   Kommunikationspraksis for leverandører omkring OS2-produkter og den støtte, OS2 stiller til rådighed.
 
 ## Kanaler
 
-- [**Nyhedsbreve i OS2**](LINK)  
+- [**Nyhedsbreve i OS2**](communication/newsletters.html)  
   Nyhedsbrevet som kanal, målgrupper, ansvar og principper for brug.
 
-- [**LinkedIn**](LINK)  
+- [**LinkedIn**](communication/linkedin.html)  
   Hvad OS2 bruger LinkedIn til, og hvordan kanalen indgår i den fælles kommunikation.
+
+- [**Blog**](communication/blog.html)  
+  Hvad bloggen på os2.eu bruges til, hvem der kan bidrage, og hvordan kanalen indgår i OS2's kommunikation.
 
 ---
 
-🛠️ **Skal du arbejde konkret med kommunikation nu?** Gå til [Værktøjskassen](../product_toolbox.html) for trin for trin, værktøjer og skabeloner.
+🛠️ **Skal du arbejde konkret med kommunikation nu?** Gå til [Værktøjskassen](product_toolbox.html) for trin for trin, værktøjer og skabeloner.
