@@ -74,6 +74,18 @@ OS2 har fælles kanaler, en fælles visuel retning og fælles rammer for kommuni
 
 Produktfællesskaberne spiller derfor en central rolle i at formidle blandt andet behov, resultater, erfaringer, aktiviteter og muligheder for deltagelse.
 
+## OS2's fælles kommunikationskanaler
+
+OS2's fælles kommunikationskanaler kan bruges til at skabe synlighed om aktiviteter, viden og historier fra hele fællesskabet.
+
+Indhold behøver ikke være produceret specifikt til OS2's kanaler. Vi kan eksempelvis videreformidle eller linke til blogindlæg, arrangementer, nyhedsbreve, cases, LinkedIn-opslag og andet relevant indhold fra produkter, medlemmer, leverandører og samarbejdspartnere.
+
+Indhold kan også bruges på tværs af kanaler. Et blogindlæg kan eksempelvis deles på LinkedIn eller omtales i OS2's nyhedsbrev.
+
+Det kræver, at OS2-sekretariatet får kendskab til indholdet eller aktiviteten. Produktorganisationer, leverandører og andre aktører omkring OS2 opfordres derfor til at gøre sekretariatet opmærksom på relevant indhold og muligheder for kommunikation.
+
+Sekretariatet vurderer den konkrete kanal, timing og form ud fra målgruppe, relevans og den øvrige kommunikation.
+
 ## Find hjælp og vejledning
 
 Læs mere om roller og samarbejde i [Kommunikation i produktfællesskabet](product_community.html) og [Kommunikation for leverandører](suppliers.html).
