@@ -18,12 +18,23 @@ Afsnittet fokuserer på vores principper og arbejdsgange – altså hvordan vi o
 ## Samarbejdsformer {#samarbejdsformer}
 Vi arbejder ud fra princippet om **åbenhed først** og kendt som Open by default. Åbenhed, dialog og fælles ejerskab er kerneværdier i OS2 og vores samarbejde bygger på løbende samtale, fælles dokumentation og klare beslutningsflow.
 
-- **Samtale og koordinering:** Vi bruger daglig sparring og ugentlige check-ins til at skabe fælles retning, afklare prioriteringer og følge op på igangværende opgaver.  
+- **Samtale og koordinering:** Vi bruger løbende sparring, teammøder og 1:1-sparring til at koordinere opgaver, afklare prioriteringer og følge op på igangværende arbejde.
 - **Fælles dokumenter:** Vi arbejder i fælles filer på Nextcloud og GitHub, hvor alt væsentligt materiale kan findes og deles. Dokumenter skal være åbne, navngivet tydeligt og versioneret.  
 - **Beslutninger:** Større beslutninger drøftes i teammøder og dokumenteres i referater. Ved tvivl skal beslutningen forankres hos sekretariatschefen.  
-- **Tværgående samarbejde:** Vi arbejder tæt sammen med OS2’s bestyrelse, produktkoordinatorer og styregrupper. Kommunikation med eksterne skal altid ske på vegne af sekretariatet og med fælles synkronisering om budskaber og formål.
+- **Tværgående samarbejde:** Vi arbejder tæt sammen med OS2’s bestyrelse, produktorganisationer og øvrige relevante aktører. Kommunikation med eksterne koordineres efter behov. Det skal være tydeligt, hvem der er afsender, og hvordan kommunikationen hænger sammen med OS2's fælles retning.
 
-**Se også:** Opskrifter og skabeloner i **[Værktøjskassen](./product_toolbox)** (facilitering, mødeformer, referat).
+**Se også:** Guides og skabeloner i **[Værktøjskassen](./product_toolbox)** (facilitering, mødeformer, referat).
+
+## Åben dokumentation og videndeling {#aaben-dokumentation}
+
+OS2 arbejder ud fra princippet om **åbenhed først (Open by default)**. Fælles viden og dokumentation skal derfor så vidt muligt kunne findes, forstås og genbruges af andre.
+
+Det betyder blandt andet, at:
+
+- væsentlige beslutninger og aftaler dokumenteres
+- mødenoter og referater placeres, så relevante deltagere kan finde dem
+- erfaringer, læring og materialer deles åbent, når der ikke er en grund til at begrænse adgangen
+- fælles dokumentation placeres i de aftalte fælles systemer frem for kun at eksistere i mails eller hos enkeltpersoner
 
 ## Centrale værktøjer {#tools}
 OS2-sekretariatet anvender en række digitale værktøjer, der understøtter samarbejde, planlægning og dokumentation:
@@ -40,7 +51,7 @@ OS2-sekretariatet anvender en række digitale værktøjer, der understøtter sam
 
 Valg og brug af fælles værktøjer bør så vidt muligt understøtte åbenhed, transparens og fælles ejerskab. Se [Principper for valg af fælles værktøjer](./tool_selection_principles) for de hensyn, OS2 arbejder ud fra.
 
-Hvis et dokument eller en opgave kun findes lokalt, eksisterer den ikke organisatorisk.
+Dokumenter og opgaver med fælles eller varig betydning skal placeres i de aftalte fælles systemer, så de kan findes og bruges af relevante personer.
 
 **Se også:** How-to og standarder pr. værktøj i **[Værktøjskassen](./product_toolbox)** (fx **Nextcloud**: fildeling, adgang, rettigheder).
 
@@ -58,8 +69,8 @@ Hvis et dokument eller en opgave kun findes lokalt, eksisterer den ikke organisa
 Vi lægger vægt på **struktur, nærvær og tydelige roller** i vores møder.
 
 - **Dagsorden og formål:** Mødeindkalder er ansvarlig for at mødet har et formål og en dagsorden som er tydelig for alle deltagere.
-- **Ugentligt check-in:** 20 minutter hver tirsdag til kort status på opgaver, prioriteringer og koordinering.  
-- **Teammøde:** Afholdes hver anden uge i sammenhæng med ITKs fredagsmøde. Teammødet er med fokus på sammenhængskraft i teamet samt dialog og koordinering af fælles opgaver og projekter.  
+- **Teammøde:** Afholdes hver anden uge med fokus på koordinering, prioritering, fælles opgaver og sammenhæng i sekretariatets arbejde.
+- **1:1-sparring:** Sekretariatets medarbejdere har løbende 1:1-sparringsmøder med sekretariatslederen om opgaver, prioriteringer og behov for sparring.
 - **Tværgående møder:** Efter behov med de relevante aktører f.eks. produktkoordinator, arkitekt, kommunikation og andre.  
 - **Opsamling:** Alle møder skal have dagsorden og kort referat i Nextcloud eller GitHub.  
 - **Facilitering:** Mødelederen har ansvar for at holde fokus på formål og beslutninger.  

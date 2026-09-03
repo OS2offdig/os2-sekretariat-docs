@@ -2,15 +2,27 @@
 title: Nyhedsbreve i OS2
 layout: default
 parent: Kommunikation
-nav_order: 1
-has_toc: false
+nav_order: 40
+has_children: false
+has_toc: true
+back_to_top: false
 ---
 
 # Nyhedsbreve i OS2
+{: .no_toc }
+
+Denne side handler om produkt- og projektnyhedsbreve i OS2 – altså hvordan det enkelte produkt eller projekt kan bruge nyhedsbreve som en del af sin egen kommunikation.
 
 Nyhedsbreve er en del af produkters og projekters løbende kommunikation med produktfællesskabet - og resten af verden. I OS2 bruger vi Heyloyalty som fælles platform til produktnyhedsbreve.
 
 Nyhedsbrevet giver produktet en direkte kanal til mennesker, der allerede bruger produktet, og til andre, der gerne vil følge med. Det kan bruges til at skabe synlighed, dele viden, invitere til deltagelse og holde relationen til produktets community levende.
+
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Styregruppen prioriterer kommunikationsindsatsen
 
@@ -135,6 +147,13 @@ Udgangspunktet er derfor:
 
 *Målet er ikke at sende mest muligt, men at bruge nyhedsbrevet aktivt og relevant som en kanal mellem produktet og dets community.*
 
+## Indhold fra fællesskabet
+
+OS2's fælles nyhedsbrev kan også bruges til at skabe synlighed om relevant indhold og aktiviteter fra produktfællesskaberne.
+
+Det kan eksempelvis være blogindlæg, arrangementer, cases, nyheder, andre nyhedsbreve eller opslag, som det er relevant at lede læserne videre til.
+
+Har du noget, der kan være relevant for OS2's nyhedsbrev, så gør OS2-sekretariatet opmærksom på det og send gerne link og en kort beskrivelse af, hvorfor det er relevant.
 
 ---
 
