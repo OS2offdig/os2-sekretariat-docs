@@ -2,15 +2,24 @@
 title: Nyhedsbreve i OS2
 layout: default
 parent: Kommunikation
-nav_order: 1
-has_toc: false
+nav_order: 40
+has_children: false
+has_toc: true
+back_to_top: false
 ---
 
 # Nyhedsbreve i OS2
+{: .no_toc }
 
 Nyhedsbreve er en del af produkters og projekters løbende kommunikation med produktfællesskabet - og resten af verden. I OS2 bruger vi Heyloyalty som fælles platform til produktnyhedsbreve.
 
 Nyhedsbrevet giver produktet en direkte kanal til mennesker, der allerede bruger produktet, og til andre, der gerne vil følge med. Det kan bruges til at skabe synlighed, dele viden, invitere til deltagelse og holde relationen til produktets community levende.
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Styregruppen prioriterer kommunikationsindsatsen
 
