@@ -2,7 +2,7 @@
 title: Værktøjskasse til projekter og produkter
 layout: default
 has_children: true
-has_toc: false
+has_toc: true
 nav_order: 12
 ---
 
