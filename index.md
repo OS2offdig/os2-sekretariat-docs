@@ -8,11 +8,11 @@ nav_order: 1
 
 [Version 1.0.2](https://github.com/OS2offdig/os2-sekretariat-docs/releases/tag/v.1.0.2){: .btn .btn-green } 
 
-Denne samling af vejledninger er din indgang til arbejdet i OS2 og sekretariatet. Hvorfor og hvordan gør vi forskellige ting? Hvilket værktøj bruges til x,y og z? Og hvad er proceduren nu lige?
+Denne håndbog samler OS2's fælles praksis, arbejdsgange og vejledninger. Her kan du få overblik over roller og ansvar, se hvordan vi arbejder og finde hjælp til konkrete opgaver og værktøjer.
 
-> 💡 Dette er ikke en komplet og fyldestgørende samling – en håndbog udvikler sig hele tiden.  
-> Så mangler der noget, skal du registrere et *issue* og bidrag meget gerne med en løsning.  
-> Rettelser til eksisterende indhold hilses også meget velkommen 🙌.
+> 💡 Håndbogen udvikler sig løbende og er ikke komplet.  
+> Mangler der noget, så opret et *issue* – og bidrag meget gerne med forslag eller indhold.  
+> Rettelser og forbedringer til eksisterende indhold er også meget velkomne 🙌
 
 
 ## [Velkommen og formål](./docs/welcome_and_purpose)
@@ -39,9 +39,11 @@ Skaber overblik over, hvordan sekretariatet er organiseret, hvem der har hvilke 
 
 ## [Arbejdsformer og værktøjer](./docs/workflow_and_tools)
 
-Beskriver de værktøjer og metoder, vi bruger i det daglige arbejde, og sikre en fælles tilgang til samarbejde, struktur og dokumentation.
+Beskriver de fælles principper, arbejdsformer og værktøjer, vi bruger til samarbejde, koordinering og dokumentation i OS2.
 
 - [Samarbejdsformer](./docs/workflow_and_tools#samarbejdsformer)
+- [Åben dokumentation og videndeling](./docs/workflow_and_tools#aaben-dokumentation)
+- [Code of Conduct](https://github.com/OS2offdig/about/blob/main/CODE_OF_CONDUCT.md)
 - [Centrale værktøjer](./docs/workflow_and_tools#tools)
 - [Filstruktur og navngivningsprincipper](./docs/workflow_and_tools#filstruktur)
 - [Mødekultur og mødestruktur](./docs/workflow_and_tools#modekultur)
@@ -61,16 +63,19 @@ Samler og beskriver de faste arbejdsgange, som sikrer kvalitet, ensartethed og o
 
 ---
 
-## [Kommunikation og tone](./docs/communication)
+## [Kommunikation](./docs/communication)
 
-Skaber fælles forståelse for OS2’s kommunikation, sprog og tone, så vi fremstår ensartet og professionelt i alt, hvad vi kommunikerer.
+Her finder du overblik over OS2's kommunikationspraksis, roller og kanaler – og henvisninger til den konkrete hjælp i Værktøjskassen.
 
-- [Tone og Code of Conduct](./docs/communication#tone)
-- [Kommunikation med medlemmer, leverandører og partnere](./docs/communication#kommunikation)
-- [Visuel identitet og logo](./docs/communication#visuel)
-- [Skabeloner](./docs/communication#skabeloner)
-- [God praksis for videndeling og åben dokumentation](./docs/communication#praksis)
-
+- [Kommunikation i OS2](./docs/communication/overview)
+- [Kommunikation i produktfællesskabet](./docs/communication/product_community)
+- [Kommunikation for leverandører](./docs/communication/suppliers)
+- [Nyhedsbreve i OS2](./docs/communication/newsletters)
+- [LinkedIn](./docs/communication/linkedin)
+- [Blog](./docs/communication/blog)
+- [Sprog og tone](./docs/product_toolbox/sprog_og_tone)
+- [OS2's visuelle retning](./docs/product_toolbox/visuel_retning)
+  
 ---
 
 ## [Produkter og fællesskaber](./docs/products_and_communities)
@@ -99,7 +104,7 @@ Skaber klarhed over, hvordan OS2 samarbejder med eksterne parter – både offen
 - [Ressourcer](./docs/partners_and_suppliers#ressourcer)
 
 
-## [Kultur og uvikling](./docs/culture_and_development)
+## [Kultur og udvikling](./docs/culture_and_development)
 
 Beskriver OS2’s kultur og tilgang til samarbejde, læring og udvikling – og hvordan vi understøtter hinanden som team og fællesskab.
 
