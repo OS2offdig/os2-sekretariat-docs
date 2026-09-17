@@ -11,7 +11,7 @@ has_toc: true
 
 Denne guide viser, hvordan du importerer flere modtagere til en produktliste via CSV.
 
-Skal du kun tilføje én enkelt person, kan du i stedet [oprette modtageren manuelt](opret_en_modtager.html).
+Skal du kun tilføje én enkelt person, kan du i stedet [oprette modtageren manuelt](/docs/product_toolbox/nyhedsbreve/opret_en_modtager.html).
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
