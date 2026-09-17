@@ -12,7 +12,7 @@ has_toc: true
 
 Denne guide viser, hvordan du manuelt opretter én enkelt modtager på en produktliste i Heyloyalty.
 
-Skal du tilføje flere modtagere på én gang, kan du i stedet [importere modtagere via CSV](import_til_heyloyalty.html).
+Skal du tilføje flere modtagere på én gang, kan du i stedet [importere modtagere via CSV](/docs/product_toolbox/nyhedsbreve/import_til_heyloyalty.html). 
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
