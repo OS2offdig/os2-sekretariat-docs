@@ -2,7 +2,7 @@
 title: Importér modtagere
 layout: default
 parent: Nyhedsbreve
-nav_order: 30
+nav_order: 35
 has_toc: false
 ---
 # Importér modtagere til Heyloyalty
