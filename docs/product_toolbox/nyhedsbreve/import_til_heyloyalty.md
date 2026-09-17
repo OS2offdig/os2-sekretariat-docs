@@ -3,17 +3,21 @@ title: Importér modtagere
 layout: default
 parent: Nyhedsbreve
 nav_order: 35
-has_toc: false
+has_children: false
+has_toc: true
 ---
 # Importér modtagere til Heyloyalty
+{: .no_toc }
 
-Modtagere kan komme på en produktliste i Heyloyalty på to måder:
+Denne guide viser, hvordan du importerer flere modtagere til en produktliste via CSV.
 
-1. **De tilmelder sig selv**, fx via en tilmeldingsformular.
-2. **De importeres manuelt**, fx når kontaktpersoner eller medlemmer af styre- og koordinationsgrupper skal registreres på baggrund af oplysninger fra Airtable.
+Skal du kun tilføje én enkelt person, kan du i stedet [oprette modtageren manuelt](opret_en_modtager.html).
 
-Denne guide beskriver manuel import.
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
 > Airtable er OS2's system til stam- og relationsdata. Heyloyalty bruges til udsendelse og målretning af nyhedsbreve og skal ikke fungere som CRM-system.
 
 ## Før du importerer
@@ -32,6 +36,7 @@ Feltet **Relation til produktet** skal være et flervalgsfelt med disse standard
 - Kontaktperson
 - Koordinationsgruppe
 - Styregruppe
+- Leverandør
 - Interesseret
 
 En person kan have flere relationer samtidig.
@@ -100,17 +105,6 @@ En person, der selv tilmelder sig et produktnyhedsbrev, følger produktets tilme
 Manuel import bruges bl.a. til at vedligeholde rollebaserede modtagere fra Airtable.
 
 De to måder at komme på listen skal derfor ikke behandles som samme arbejdsgang.
-
-### Manuel oprettelse af en kontakt
-
-Når en kontakt tilføjes manuelt, fordi personen har en rolle omkring produktet, skal kontakten ikke gennem det almindelige tilmeldingsflow.
-
-Ved oprettelsen vælges:
-
-- **Opret kontakt uden dobbelt opt-in bekræftelsesmail**
-- **Opret kontakt uden velkomst-trigger-mail**
-
-Kontrollér samtidig, at kontaktens relevante oplysninger og **Relation til produktet** er udfyldt korrekt.
 
 ## Hvis importen ikke virker
 
