@@ -1,7 +1,7 @@
 ---
 title: Arrangementer
 layout: default
-parent: Værktøjskassen
+parent: Værktøjskasse til projekter og produkter
 nav_order: 17
 has_children: true
 has_toc: true
