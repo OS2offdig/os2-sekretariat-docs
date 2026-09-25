@@ -10,7 +10,7 @@ has_toc: true
 # Arrangementer
 {: .no_toc }
 
-Her finder du hjælp til at få oprettet arrangementer på os2.eu.
+Her finder du hjælp til at oprette og opsætte arrangementer på os2.eu.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -18,35 +18,24 @@ Her finder du hjælp til at få oprettet arrangementer på os2.eu.
 1. TOC
 {:toc}
 
-## ## Sådan får du et arrangement på os2.eu
+## Sådan får du et arrangement på os2.eu
 
-Arrangementer på os2.eu består overordnet af to dele:
+Et arrangement på os2.eu består overordnet af to dele:
 
 1. **Arrangementet oprettes i Odoo** med blandt andet dato og tidspunkt, arrangør, sted, tilmelding og automatiske mails til deltagerne.
 2. **Arrangementssiden på os2.eu sættes op** med den information, deltagerne skal kunne se, fx beskrivelse, program og praktisk information.
 
-Hvem der står for opsætningen, afhænger af, om du selv har adgang til og er introduceret til at oprette arrangementer i Odoo.
-
 ### Hvis du ikke selv opretter arrangementer
 
-OS2-sekretariatet kan oprette og opsætte arrangementet på baggrund af de oplysninger, du sender.
+Har du ikke adgang til Odoo eller er du endnu ikke blevet introduceret til selv at oprette arrangementer, kan OS2-sekretariatet hjælpe med at oprette og opsætte arrangementet.
 
-[Få oprettet et arrangement →](LINK)
+Se **Få oprettet et arrangement** i menuen.
 
 ### Hvis du selv opretter arrangementer
 
-Brug vejledningerne til henholdsvis den tekniske oprettelse i Odoo og opsætningen af den offentlige arrangementsside.
+Har du adgang til Odoo og er blevet introduceret til eventfunktionen, kan du bruge vejledningerne:
 
-[Opret et arrangement i Odoo →](LINK)
+- **Opret et arrangement i Odoo**
+- **Opsæt arrangementssiden på os2.eu**
 
-[Opsæt arrangementssiden på os2.eu →](LINK)
 
-## Ansvar og arbejdsgang
-
-Den, der ønsker et arrangement oprettet, har ansvar for at levere de nødvendige oplysninger om arrangementet og indholdet til siden.
-
-Hvis sekretariatet står for opsætningen, skal oplysningerne sendes i god tid inden den ønskede offentliggørelse. Sekretariatet står herefter for den tekniske oprettelse og opsætning af arrangementssiden.
-
-Produktet, projektgruppen eller den ansvarlige for arrangementet har ansvar for, at oplysninger om blandt andet dato, tidspunkt, målgruppe, program og praktiske forhold er korrekte.
-
-Sekretariatet kan redigere og tilpasse indholdet til os2.eu, herunder opsætning, formulering og valg af illustration, så arrangementssiden følger OS2's kommunikations- og designpraksis.
