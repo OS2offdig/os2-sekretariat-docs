@@ -18,39 +18,35 @@ Her finder du hjælp til at få oprettet arrangementer på os2.eu.
 1. TOC
 {:toc}
 
-## Få oprettet et arrangement på os2.eu
+## ## Sådan får du et arrangement på os2.eu
 
-Skal du have et arrangement på os2.eu, men har du ikke adgang til Odoo eller er du endnu ikke blevet introduceret til selv at oprette arrangementer, kan OS2-sekretariatet hjælpe med opsætningen.
-
-### Det skal du sende til sekretariatet
-
-Send information om arrangementet til **kommunikation@os2.eu**.
-
-Send så vidt muligt:
-
-- **Titel på arrangementet**
-- **Dato og tidspunkt**
-- **Arrangør**
-- **Sted** – eller angiv, at arrangementet er online
-- **Tekst til arrangementssiden** – hvad handler arrangementet om, hvem er det relevant for, og hvad får deltagerne ud af at deltage?
-- **Program**, hvis der er et
-- **Tilmeldingsfrist**, hvis relevant
-- **Maks. antal deltagere**, hvis der er en begrænsning
-- **Eventuelle ekstra oplysninger, I har brug for fra deltagerne**, fx organisation, særlige behov eller kosthensyn
-- **Billede**, hvis du har et relevant billede
-- **Ved onlinearrangementer:** link til fx Teams-mødet
-
-Du behøver ikke sætte teksten op som en færdig webside. Send indholdet, så sørger sekretariatet for selve opsætningen.
-
-## Hvad bliver sat op?
-
-Et arrangement på os2.eu består overordnet af to dele:
+Arrangementer på os2.eu består overordnet af to dele:
 
 1. **Arrangementet oprettes i Odoo** med blandt andet dato og tidspunkt, arrangør, sted, tilmelding og automatiske mails til deltagerne.
 2. **Arrangementssiden på os2.eu sættes op** med den information, deltagerne skal kunne se, fx beskrivelse, program og praktisk information.
 
-## Hvis du selv vil oprette arrangementer
+Hvem der står for opsætningen, afhænger af, om du selv har adgang til og er introduceret til at oprette arrangementer i Odoo.
 
-Hvis du fremover skal oprette arrangementer selv, kan du få adgang og blive introduceret til, hvordan det gøres i Odoo.
+### Hvis du ikke selv opretter arrangementer
 
-Der kommer en særskilt vejledning til selv at oprette og opsætte arrangementer.
+OS2-sekretariatet kan oprette og opsætte arrangementet på baggrund af de oplysninger, du sender.
+
+[Få oprettet et arrangement →](LINK)
+
+### Hvis du selv opretter arrangementer
+
+Brug vejledningerne til henholdsvis den tekniske oprettelse i Odoo og opsætningen af den offentlige arrangementsside.
+
+[Opret et arrangement i Odoo →](LINK)
+
+[Opsæt arrangementssiden på os2.eu →](LINK)
+
+## Ansvar og arbejdsgang
+
+Den, der ønsker et arrangement oprettet, har ansvar for at levere de nødvendige oplysninger om arrangementet og indholdet til siden.
+
+Hvis sekretariatet står for opsætningen, skal oplysningerne sendes i god tid inden den ønskede offentliggørelse. Sekretariatet står herefter for den tekniske oprettelse og opsætning af arrangementssiden.
+
+Produktet, projektgruppen eller den ansvarlige for arrangementet har ansvar for, at oplysninger om blandt andet dato, tidspunkt, målgruppe, program og praktiske forhold er korrekte.
+
+Sekretariatet kan redigere og tilpasse indholdet til os2.eu, herunder opsætning, formulering og valg af illustration, så arrangementssiden følger OS2's kommunikations- og designpraksis.
