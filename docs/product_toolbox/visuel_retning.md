@@ -4,6 +4,7 @@ layout: default
 parent: Værktøjskasse til projekter og produkter
 nav_order: 20
 has_toc: false
+has_children: true
 ---
 
 # Brug OS2’s visuelle retning <span class="label">Værktøj · Projekter &amp; produkter</span>
