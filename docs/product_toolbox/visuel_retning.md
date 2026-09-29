@@ -146,15 +146,11 @@ Roboto, Helvetica, Arial, sans-serif
 
 ## Logo
 
-Brug OS2-logoet:
+Brug altid en opdateret logofil fra OS2's fælles logomappe.
 
-- med eller uden byline
-- i sort, grøn eller grå
-- i den version, der passer til formatet og sammenhængen.
+Logoer findes i forskellige varianter, formater og størrelser til OS2 samt de enkelte produkter og projekter.
 
-Brug logoet enkelt og konsekvent, og sørg for god luft omkring det.
-
-Brug altid en masterfil fra det fælles visuelle bibliotek.
+➡️ [**Find og brug OS2-logoer**](logo.html) – se, hvor du finder logoerne, hvilke filer du kan bruge, og hvordan du arbejder videre med dem.
 
 ## Grafisk element
 
