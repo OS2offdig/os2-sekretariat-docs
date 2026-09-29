@@ -2,7 +2,6 @@
 title: Logo
 layout: default
 parent: Brug OS2's visuelle retning
-grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 10
 has_children: false
 has_toc: true
