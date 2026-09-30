@@ -3,7 +3,7 @@ title: Få oprettet et arrangement
 layout: default
 parent: Arrangementer
 grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 5
+nav_order: 10
 has_children: false
 has_toc: true
 ---
