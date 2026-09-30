@@ -10,32 +10,33 @@ has_toc: true
 # Arrangementer
 {: .no_toc }
 
-Her finder du hjælp til at oprette og opsætte arrangementer på os2.eu.
+Her finder du hjælp til at oprette, opsætte og administrere arrangementer på os2.eu.
 
-## Indholdsfortegnelse
-{: .no_toc .text-delta }
+**Se aktuelle arrangementer på [os2.eu](https://www.os2.eu/event).**
 
-1. TOC
-{:toc}
+Et arrangement består overordnet af to dele:
 
-## Sådan får du et arrangement på os2.eu
+1. **Arrangementet oprettes i Odoo** med blandt andet dato og tidspunkt, arrangør, sted eller mødelink, tilmelding, spørgsmål og automatiske mails.
+2. **Arrangementssiden på os2.eu sættes op** med den information, deltagerne skal kunne se.
 
-Et arrangement på os2.eu består overordnet af to dele:
+Brug som udgangspunkt en af OS2's arrangementsskabeloner, når du selv opretter et arrangement. De indeholder standardspørgsmål og automatiske mails.
 
-1. **Arrangementet oprettes i Odoo** med blandt andet dato og tidspunkt, arrangør, sted, tilmelding og automatiske mails til deltagerne.
-2. **Arrangementssiden på os2.eu sættes op** med den information, deltagerne skal kunne se, fx beskrivelse, program og praktisk information.
+Har du ikke adgang til Odoo eller er du ikke blevet introduceret til at oprette arrangementer, kan OS2-sekretariatet hjælpe.
 
-### Hvis du ikke selv opretter arrangementer
+Vælg den vejledning nedenfor, der passer til det, du skal.
 
-Har du ikke adgang til Odoo eller er du endnu ikke blevet introduceret til selv at oprette arrangementer, kan OS2-sekretariatet hjælpe med at oprette og opsætte arrangementet.
+## Mere hjælp til Odoo
 
-Se **Få oprettet et arrangement** i menuen.
+Du kan også bruge [Odoos egen dokumentation om Events](https://www.odoo.com/documentation/19.0/applications/marketing/events.html).
 
-### Hvis du selv opretter arrangementer
+> 💡 **Tjek Odoo-versionen**
+>
+> Sørg for, at dokumentationen passer til den version, som os2.eu kører på. Menuer og muligheder kan ændre sig mellem versioner.
 
-Har du adgang til Odoo og er blevet introduceret til eventfunktionen, kan du bruge vejledningerne:
+> 💬 **Kan du ikke finde en funktion?**
+>
+> Odoo ændrer løbende brugerfladen. Spørg gerne andre OS2-kolleger i den interne samtalekanal, hvis noget ser anderledes ud end i vejledningen.
+>
+> Har du opdaget opdateringer på Odoo, som forælder vejledningerne her? Så skriv til kommunikation@os2.eu eller bidrag selv med ændringsforslag via GitHub.
 
-- **Opret et arrangement i Odoo**
-- **Opsæt arrangementssiden på os2.eu**
-
-
+**Odoo-version:** [19]
