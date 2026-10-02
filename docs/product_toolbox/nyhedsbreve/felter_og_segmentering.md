@@ -2,10 +2,22 @@
 title: Felter og segmentering i Heyloyalty
 layout: default
 parent: Nyhedsbreve
-nav_order: 15
-has_toc: false
+nav_order: 40
+has_toc: tue
 ---
+
 # Felter og segmentering i Heyloyalty
+{: .no_toc }
+
+Når du opretter eller rydder op i en produktliste i Heyloyalty, skal felterne være så enkle som muligt.
+
+Formålet er ikke at opbygge et CRM-system i Heyloyalty. OS2 bruger Airtable til stam- og relationsdata. Felterne i Heyloyalty skal kun gøre det muligt at vedligeholde modtagerne og målrette produktets kommunikation.
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 Når du opretter eller rydder op i en produktliste i Heyloyalty, skal felterne være så enkle som muligt.
 
