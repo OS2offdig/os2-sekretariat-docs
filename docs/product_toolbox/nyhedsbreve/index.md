@@ -66,3 +66,4 @@ Har du kun én enkelt modtager, der skal tilføjes, kan du bruge **Opret én mod
 
 - **Redigér en liste:** Gå til **Lister → ⋮ helt ude til højre → Rediger liste**. Det er ikke nok at klikke ind på selve listen.
 - **Find linket til en tilmeldingsformular:** Gå til **Lister → ⋮ → Rediger liste → Formularer → ⚙ → kopiér URL eller embed-kode**.
+- - **Se de fælles principper for nyhedsbreve under [Kommunikation](../communication/newsletters.html)**.
