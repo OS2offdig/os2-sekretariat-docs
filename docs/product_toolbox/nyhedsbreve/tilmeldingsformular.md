@@ -2,21 +2,24 @@
 title: Opsæt en tilmeldingsformular i Heyloyalty
 layout: default
 parent: Nyhedsbreve
-nav_order: 25
+nav_order: 60
 has_toc: false
 ---
 
 # Opsæt en tilmeldingsformular i Heyloyalty
 
+{: .no_toc }
+
 Produktets tilmeldingsformular bruges af personer, der selv ønsker at følge produktets nyhedsbrev.
 
-> **Bemærk**
->
-> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
->
-> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
->
-> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
+Tilmeldingsformularen kan også figurere på produktets egen side på os2.eu og som link i din emailsignatur.
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 > **💡 Sådan finder du formularen**
 >
@@ -113,3 +116,11 @@ Kontrollér:
 **🔗 Skal du bruge linket til formularen?**  
 **Lister → ⋮ → Rediger liste → Formularer → ⚙ _lille tandhjul til højre_ → kopiér URL eller embed-kode**
 {: .highlight }
+
+> **Bemærk**
+>
+> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
+>
+> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
+>
+> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
