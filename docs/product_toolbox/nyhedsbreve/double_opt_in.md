@@ -111,7 +111,7 @@ Test derfor med en e-mailadresse, der ikke allerede står på listen:
 
 ## Manuel import
 
-Ved manuel oprettelse / import af kontakter, kan du markere "Opret kontakt uden dobbelt opt-in bekræftelsesmail" og "Opret kontakt uden velkomst-trigger-mail" når du gennemgår import-flowet. 
+Ved manuel oprettelse / import af flere kontakter på én gang, kan du markere "Opret kontakt uden dobbelt opt-in bekræftelsesmail" og "Opret kontakt uden velkomst-trigger-mail" når du gennemgår import-flowet. 
 	
 ---
 
