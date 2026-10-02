@@ -2,11 +2,13 @@
 title: Opsæt double opt-in
 layout: default
 parent: Nyhedsbreve
-nav_order: 20
-has_toc: false
+nav_order: 50
+has_toc: true
 ---
 
 # Opsæt double opt-in i Heyloyalty
+{: .no_toc }
+
 
 OS2 bruger som udgangspunkt double opt-in (DOI) ved frivillig tilmelding til produktnyhedsbreve.
 
@@ -14,6 +16,13 @@ Double opt-in betyder, at personen først tilmelder sig og derefter bekræfter t
 
 _Særligt ved import af kontakter og/eller rollebaseret tilmelding: Double opt-in kan slås fra, når du importerer en hel liste. Det er dog kun god praksis, når det drejer sig om kontakter, der allerede har tilkendegivet, at de ønsker at modtage nyhedsbreve og/eller hvis kontakten skal tilmeldes på baggrund af sin rolle i produktet. Se også [modtagere og tilmelding](https://handbook.os2.eu/docs/product_toolbox/nyhedsbreve/modtagere_og_tilmelding.html)_ 
 
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+
+1. TOC
+{:toc}
 
 ## 1. Aktivér double opt-in på listen
 
