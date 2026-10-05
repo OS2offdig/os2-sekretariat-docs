@@ -29,7 +29,7 @@ Følgende oversigt indeholder navn og kontaktoplysning på de personer som kontr
 | XG-9212045380 | OS2kitos          | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Mikael Olsen [miol@balk.dk](mailto:miol@balk.dk)                     |
 | XG-9212045390 | OS2skoledata      | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Lars Lyngsøe Højberg [ilahn@rebild.dk](mailto:ilahn@rebild.dk)          |
 | XG-9212045400 | OS2sofd           | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Erling Haunstrup Poulsen [ehp@syddjurs.dk](mailto:ehp@syddjurs.dk)      |
-| XG-9212045410 | OS2compliance     | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Nina Birthe Sørensen [nina@nibis.dk](mailto:nina@nibis.dk)            |
+| XG-9212045410 | OS2compliance     | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Anna Luna Carlsen [annaca@ishoj.dk](mailto:annaca@ishoj.dk), Nina Birthe Sørensen [nina@nibis.dk](mailto:nina@nibis.dk)            |
 | XG-9212045420 | OS2skadesøkonomi  | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Jesper Gaardboe Jensen [jgje@erhvervshusfyn.dk](mailto:jgje@erhvervshusfyn.dk) |
 | XG-9212045430 | OS2korrespondance | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Michelle Juhl [mjbp@syddjurs.dk](mailto:mjbp@syddjurs.dk)                |
 | XG-9212045440 | OS2nectar         | OS2-sekretariat administration [faktura@os2.eu](mailto:faktura@os2.eu)       | Jens Kjellerup [jeh2@balk.dk](mailto:jeh2@balk.dk)                   |
