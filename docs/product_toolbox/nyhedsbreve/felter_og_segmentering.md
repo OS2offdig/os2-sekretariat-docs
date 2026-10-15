@@ -1,5 +1,5 @@
 ---
-title: Felter og segmentering i Heyloyalty
+title: Felter og segmentering
 layout: default
 parent: Nyhedsbreve
 nav_order: 40
