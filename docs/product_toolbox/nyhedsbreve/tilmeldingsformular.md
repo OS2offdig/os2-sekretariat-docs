@@ -1,5 +1,5 @@
 ---
-title: Opsæt en tilmeldingsformular i Heyloyalty
+title: Opsæt en tilmeldingsformular
 layout: default
 parent: Nyhedsbreve
 nav_order: 60
