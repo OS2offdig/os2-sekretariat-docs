@@ -2,56 +2,80 @@
 title: Vedligehold modtagere
 layout: default
 parent: Nyhedsbreve
-nav_order: 40
-has_toc: false
+nav_order: 90
+has_children: false
+has_toc: true
 ---
 
-# Vedligehold modtagere i Heyloyalty
+# Vedligehold modtagere
+{: .no_toc }
 
-Produktets modtagerliste skal holdes tilstrækkeligt ajour til, at den relevante produktkommunikation kan målrettes de rigtige personer.
+Brug denne side, når der sker ændringer blandt produktets modtagere – fx når en kontaktperson skifter, et nyt medlem kommer ind i styregruppen, eller listen trænger til at blive bragt ajour.
 
-Heyloyalty er ikke OS2's CRM-system. Stam- og relationsdata vedligeholdes i Airtable.
+Målet er ikke, at alle oplysninger altid er perfekte. Det vigtigste er, at relevante personer kan modtage produktets kommunikation.
 
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Airtable er udgangspunktet
 
-Airtable bruges til de autoritative oplysninger om personer, organisationer og roller omkring produktet.
+Airtable bruges til OS2's stam- og relationsdata om personer, organisationer og roller omkring produktet.
 
-Heyloyalty indeholder kun de oplysninger, der er nødvendige for at kunne sende og målrette produktets nyhedsbreve.
+Heyloyalty bruges til nyhedsbreve og indeholder kun de oplysninger, der er nyttige i den forbindelse.
 
-Det betyder, at vi ikke forsøger at opbygge eller vedligeholde et ekstra CRM-system i Heyloyalty.
+Det betyder, at vi ikke forsøger at vedligeholde et ekstra CRM-system i Heyloyalty.
 
-## Når en rolle ændrer sig
+## Hvornår er det relevant at opdatere listen?
 
-Når en person får eller forlader en rolle omkring produktet, skal oplysningerne i Heyloyalty opdateres.
+Det er især en god idé at se på modtagerne, når fx:
 
-Det kan fx være, når:
+- en kontaktperson bliver udskiftet
+- et medlem kommer ind i eller forlader styregruppen
+- koordinationsgruppen ændrer sig
+- en person får en ny rolle omkring produktet
+- du alligevel er i gang med at opdatere eller importere en større gruppe modtagere
 
-- en kontaktperson udskiftes
-- et medlem forlader styregruppen
-- et nyt medlem kommer ind i koordinationsgruppen
-- en bruger får en ny rolle omkring produktet.
+Du behøver ikke gennemgå hele listen, hver gang én oplysning ændrer sig.
 
-Opdatér feltet **Relation til produktet**, så det afspejler personens aktuelle relation.
+## Når en persons rolle ændrer sig
+
+Hvis du kender personens nye relation til produktet, kan du opdatere feltet **Relation til produktet**.
 
 En person kan have flere relationer samtidig.
 
-## Hvem har ansvaret?
+Hvis personen ikke længere har en rolle, som gør, at vedkommende skal være registreret som rollebaseret modtager, kan du tage stilling til, om kontakten fortsat skal stå på listen.
 
-Den ansvarlige for produktets nyhedsbrevsliste sørger for, at oplysningerne løbende holdes ajour.
+Personer, der selv har tilmeldt sig nyhedsbrevet, kan naturligvis også selv afmelde sig igen.
 
-Modtagere kan også selv gøre opmærksom på ændringer i deres rolle eller kontaktoplysninger.
+## Én ændring eller mange?
 
-Ved større ændringer kan modtagerne opdateres samlet via import fra Airtable.
+Hvis du kun skal rette eller tilføje én person, kan du bruge **Opret én modtager** og redigere kontakten direkte på listen.
 
-Se [Importér modtagere til Heyloyalty](import_til_heyloyalty.html).
+Hvis der er mange ændringer på én gang, kan det være nemmere at opdatere modtagerne samlet via **Importér modtagere**.
+
+Har du brug for en opdateret liste fra Airtable, kan du spørge OS2-sekretariatet, om de kan hjælpe med at eksportere de relevante oplysninger.
+
+## Hvem holder øje med listen?
+
+Som udgangspunkt er det produktforvaltningen, der holder øje med, om produktets modtagere fortsat ser nogenlunde rigtige ud.
+
+Det behøver ikke være en særskilt, løbende opgave. Det kan fx ske i forbindelse med:
+
+- onboarding af nye personer
+- ændringer i styre- eller koordinationsgruppen
+- udsendelse af nyhedsbreve
+- en større oprydning eller import
 
 ## Hold det enkelt
 
-Vedligehold kun de oplysninger i Heyloyalty, der er nødvendige for nyhedsbrevsarbejdet.
+Vedligehold kun de oplysninger i Heyloyalty, som faktisk er nyttige for nyhedsbrevsarbejdet.
 
-Hvis en oplysning allerede vedligeholdes i Airtable og ikke bruges til udsendelse eller målretning i Heyloyalty, skal den som udgangspunkt ikke kopieres over.
+Hvis en oplysning allerede findes i Airtable og ikke bruges i Heyloyalty, er der som udgangspunkt ingen grund til også at kopiere den over.
 
+Manglende Organisation eller Relation til produktet behøver heller ikke stoppe arbejdet. Oplysninger kan tilføjes senere.
 
 > **Bemærk**
 >

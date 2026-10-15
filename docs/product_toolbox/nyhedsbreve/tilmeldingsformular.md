@@ -1,22 +1,29 @@
 ---
-title: Opsæt en tilmeldingsformular i Heyloyalty
+title: Opsæt tilmeldingsformular
 layout: default
 parent: Nyhedsbreve
-nav_order: 25
-has_toc: false
+nav_order: 60
+has_children: false
+has_toc: true
 ---
 
-# Opsæt en tilmeldingsformular i Heyloyalty
+# Opsæt tilmeldingsformular
+{: .no_toc }
 
 Produktets tilmeldingsformular bruges af personer, der selv ønsker at følge produktets nyhedsbrev.
 
-> **Bemærk**
->
-> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
->
-> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
->
-> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
+Tilmeldingsformularen kan fx bruges på produktets side på os2.eu eller deles som link i en mailsignatur.
+
+Ved selvtilmelding ser flowet sådan ud:
+
+**Tilmeldingsformular → double opt-in-mail → bekræftelse → personen er tilmeldt**
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 > **💡 Sådan finder du formularen**
 >
@@ -55,6 +62,10 @@ Brug følgende standard:
 | Efternavn | Ja |
 | Organisation | Nej |
 | Relation til produktet | Nej |
+
+Organisation og Relation til produktet er frivillige felter.
+
+Det er nyttigt at få oplysningerne med, når modtageren kender dem, men de skal ikke være en barriere for at tilmelde sig.
 
 Feltet **Relation til produktet** skal være synligt, så modtageren selv kan angive sin relation.
 
@@ -113,3 +124,11 @@ Kontrollér:
 **🔗 Skal du bruge linket til formularen?**  
 **Lister → ⋮ → Rediger liste → Formularer → ⚙ _lille tandhjul til højre_ → kopiér URL eller embed-kode**
 {: .highlight }
+
+> **Bemærk**
+>
+> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
+>
+> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
+>
+> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.

@@ -2,17 +2,17 @@
 title: Opret én modtager
 layout: default
 parent: Nyhedsbreve
-nav_order: 30
+nav_order: 70
 has_children: false
 has_toc: true
 ---
 
-# Opret én modtager i Heyloyalty
+# Opret én modtager
 {: .no_toc }
 
-Denne guide viser, hvordan du manuelt opretter én enkelt modtager på en produktliste i Heyloyalty.
+Brug denne guide, når du skal tilføje én enkelt person til produktets nyhedsbrevsliste.
 
-Skal du tilføje flere modtagere på én gang, kan du i stedet [importere modtagere via CSV](/docs/product_toolbox/nyhedsbreve/import_til_heyloyalty.html). 
+Skal du tilføje flere modtagere på én gang, er det bedre at [importere modtagere via CSV](/docs/product_toolbox/nyhedsbreve/import_til_heyloyalty.html).
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -22,28 +22,38 @@ Skal du tilføje flere modtagere på én gang, kan du i stedet [importere modtag
 
 ## Sådan opretter du en modtager
 
-1. Gå til **Lister** i Heyloyalty.
+**👀 Her skal du faktisk klikke ind på selve listen.**  
+De tre prikker bruges til at redigere listens opsætning. Når du vil se eller oprette modtagere, klikker du på listens navn.
+{: .highlight }
+
+1. Gå til **Lister**.
 2. Klik ind på den relevante produktliste.
 3. Klik på **Opret kontakt**.
-4. Udfyld kontaktens oplysninger:
+4. Udfyld de oplysninger, du har om kontakten:
    - E-mail
    - Fornavn
    - Efternavn
    - Organisation
    - Relation til produktet
-5. Kontrollér, at **Relation til produktet** er udfyldt korrekt. En person kan have flere relationer.
+5. Vælg **Relation til produktet**, hvis du kender personens relation. En person kan have flere relationer.
 6. Hvis kontakten tilføjes på grund af sin rolle omkring produktet, skal du vælge:
    - **Opret kontakt uden dobbelt opt-in bekræftelsesmail**
    - **Opret kontakt uden velkomst-trigger-mail**
 7. Gem kontakten.
 
-**👀 Her skal du faktisk klikke ind på selve listen.**  
-De tre prikker bruges til at redigere listens opsætning. Når du vil se eller oprette modtagere, klikker du på listens navn.
-{: .highlight }
+Du behøver ikke kende alle oplysninger om personen for at oprette kontakten. Mangler fx Organisation eller Relation til produktet, kan oplysningerne suppleres senere.
 
-## Hvilke relationer kan en modtager have?
+## Når kontakten tilføjes på grund af sin rolle
 
-Feltet **Relation til produktet** er et flervalgsfelt med følgende standardværdier:
+Kontaktpersoner og medlemmer af styre- og koordinationsgruppen skal stå på produktets nyhedsbrevsliste.
+
+Når de oprettes manuelt, skal de ikke gennem det almindelige selvtilmeldingsflow med double opt-in. Derfor fravælges både double opt-in-mailen og velkomst-trigger-mailen ved oprettelsen.
+
+Se også **Modtagere og tilmelding** for forskellen på selvtilmelding og rollebaseret registrering.
+
+## Relation til produktet
+
+Feltet **Relation til produktet** kan indeholde:
 
 - Bruger
 - Kontaktperson
@@ -54,11 +64,7 @@ Feltet **Relation til produktet** er et flervalgsfelt med følgende standardvær
 
 En person kan have flere relationer samtidig.
 
-## Hvornår bruges manuel oprettelse?
-
-Manuel oprettelse er praktisk, når du skal tilføje eller rette én enkelt modtager.
-
-Skal du tilføje mange modtagere, er det bedre at [importere dem via CSV](import_til_heyloyalty.html).
+Relationen er nyttig, fordi oplysningerne så kan bruges senere, hvis der bliver behov for at finde eller udvælge bestemte grupper af modtagere. Feltet behøver ikke være udfyldt på alle kontakter.
 
 > **Bemærk**
 >

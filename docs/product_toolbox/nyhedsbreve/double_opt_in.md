@@ -2,29 +2,42 @@
 title: Opsæt double opt-in
 layout: default
 parent: Nyhedsbreve
-nav_order: 20
-has_toc: false
+nav_order: 50
+has_children: false
+has_toc: true
 ---
 
-# Opsæt double opt-in i Heyloyalty
+# Opsæt double opt-in
+{: .no_toc }
 
-OS2 bruger som udgangspunkt double opt-in (DOI) ved frivillig tilmelding til produktnyhedsbreve.
+OS2 bruger som udgangspunkt double opt-in (DOI), når personer selv tilmelder sig et produktnyhedsbrev.
 
-Double opt-in betyder, at personen først tilmelder sig og derefter bekræfter tilmeldingen via en mail.
+Double opt-in betyder, at personen først udfylder tilmeldingsformularen og derefter bekræfter tilmeldingen via en mail.
 
-> **Bemærk**
->
-> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
->
-> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
->
-> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
+Personer, der registreres på listen på grund af deres rolle omkring produktet, skal ikke nødvendigvis igennem det samme tilmeldingsflow. Se **Modtagere og tilmelding**.
 
-> **💡 Sådan finder du listeindstillingerne**
->
-> Det er ikke nok at klikke ind på selve listen.
->
-> Gå til **Lister** og klik på **de tre små prikker helt ude til højre ud for den relevante liste**. Herfra kan du vælge at redigere listen og finde indstillinger for bl.a. double opt-in og formularer.
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Sådan hænger flowet sammen
+
+Ved almindelig selvtilmelding ser flowet sådan ud:
+
+**Tilmeldingsformular → double opt-in-mail → modtageren bekræfter → tilmeldingen er gennemført**
+
+Double opt-in består derfor både af en indstilling på listen, en automatiseret mail og de sider, modtageren møder undervejs.
+
+### 👀 Kan du ikke finde listeindstillingerne?
+
+Du skal **ikke klikke ind på selve listen**.
+
+**Lister → ⋮ helt ude til højre ved listen → Rediger liste**
+
+Her finder du bl.a. felter, formularer og double opt-in.
+{: .highlight }
 
 ## 1. Aktivér double opt-in på listen
 
@@ -73,7 +86,7 @@ Bekræftelsesknappen skal bruge Heyloyaltys double opt-in-flettefelt:
 
 ## 3. Opsæt siderne i DOI-flowet
 
-Under listens double opt-in-indstillinger findes siderne, som vises efter bekræftelseslinket.
+Under listens double opt-in-indstillinger findes de sider, som modtageren møder efter bekræftelseslinket.
 
 Du kan tage udgangspunkt i følgende tekster:
 
@@ -97,7 +110,7 @@ Du kan tage udgangspunkt i følgende tekster:
 
 ## 4. Test hele flowet
 
-En almindelig testmail er **ikke tilstrækkelig til at teste double opt-in-linket**.
+En almindelig testmail er **ikke nok til at teste double opt-in-linket**.
 
 Flettefeltet `{member.doubleOptin}` bliver først til et personligt bekræftelseslink i forbindelse med en reel tilmelding.
 
@@ -109,16 +122,20 @@ Test derfor med en e-mailadresse, der ikke allerede står på listen:
 4. Kontrollér, at bekræftelsessiden vises korrekt.
 5. Kontrollér i Heyloyalty, at kontakten er blevet tilmeldt.
 
-## Manuel import
+## Når du importerer rollebaserede modtagere
 
-Ved manuel oprettelse / import af kontakter, kan du markere "Opret kontakt uden dobbelt opt-in bekræftelsesmail" og "Opret kontakt uden velkomst-trigger-mail" når du gennemgår import-flowet. 
-	
----
+Double opt-in bruges ved frivillig selvtilmelding.
 
-**👀 Kan du ikke finde listeindstillingerne?**  
-Du skal **ikke klikke ind på selve listen**.
+Hvis du importerer en liste med personer, der skal modtage produktets information på baggrund af deres rolle – fx kontaktpersoner eller medlemmer af styre- og koordinationsgruppen – kan de importeres uden double opt-in.
 
-**Lister → ⋮ helt ude til højre ved listen → Rediger liste**
+Det gælder altså ikke som en generel genvej til at importere interesserede modtagere uden bekræftelse. Det afgørende er, **hvorfor personen kommer på listen**.
 
-Her finder du bl.a. felter, formularer og double opt-in.
-{: .highlight }
+Se også **Modtagere og tilmelding** og **Importér modtagere**.
+
+> **Bemærk**
+>
+> Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
+>
+> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
+>
+> Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet.
