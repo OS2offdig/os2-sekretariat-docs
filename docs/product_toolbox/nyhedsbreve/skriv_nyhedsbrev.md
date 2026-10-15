@@ -1,4 +1,3 @@
-
 ---
 title: Skriv et nyhedsbrev
 layout: default
@@ -150,7 +149,7 @@ Brug almindelige ord og korte afsnit.
 
 Skriv gerne direkte til læseren som **du**.
 
-Det er helt i orden, at man kan mærke, at der er et menneske bag nyhedsbrevet. Du behøver ikke få teksten til at lyde mere formel, end du selv ville tale.
+Det er helt i orden, at man kan mærke, at der er et menneske bag nyhedsbrevet. Du behøver ikke få teksten til at lyde mere formel, end når du selv forklarer noget til en kollega.
 
 Hvis en sætning føles tung, kan du prøve at læse den højt. Hvis du aldrig ville sige den sådan til en kollega, kan den ofte skrives enklere.
 
