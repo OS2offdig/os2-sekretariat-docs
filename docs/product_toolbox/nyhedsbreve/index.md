@@ -20,6 +20,12 @@ Du behøver ikke kende hele Heyloyalty for at komme i gang. Find den opgave, du 
 1. TOC
 {:toc}
 
+## Adgang til Heyloyalty
+
+Har du brug for at arbejde med produktets nyhedsbrev, men mangler adgang til Heyloyalty?
+
+Kontakt OS2-sekretariatet, så hjælper vi dig videre.
+
 ## Hvad skal du gøre?
 
 | Hvis du vil... | Start her |
