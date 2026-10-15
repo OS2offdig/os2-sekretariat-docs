@@ -3,15 +3,18 @@ title: Felter og segmentering
 layout: default
 parent: Nyhedsbreve
 nav_order: 40
-has_toc: tue
+has_children: false
+has_toc: true
 ---
 
-# Felter og segmentering i Heyloyalty
+# Felter og segmentering
 {: .no_toc }
 
-Når du opretter eller rydder op i en produktliste i Heyloyalty, skal felterne være så enkle som muligt.
+Felterne på en produktliste bruges til at strukturere oplysninger om modtagerne.
 
-Formålet er ikke at opbygge et CRM-system i Heyloyalty. OS2 bruger Airtable til stam- og relationsdata. Felterne i Heyloyalty skal kun gøre det muligt at vedligeholde modtagerne og målrette produktets kommunikation.
+OS2 bruger nogle fælles felter på tværs af produktlisterne, så oplysningerne ligger nogenlunde ens. Det gør det muligt senere at finde eller udvælge bestemte grupper af modtagere, hvis der bliver behov for det.
+
+Heyloyalty er ikke OS2's CRM. Stam- og relationsdata vedligeholdes i Airtable.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -19,44 +22,39 @@ Formålet er ikke at opbygge et CRM-system i Heyloyalty. OS2 bruger Airtable til
 1. TOC
 {:toc}
 
-Når du opretter eller rydder op i en produktliste i Heyloyalty, skal felterne være så enkle som muligt.
+## Hvorfor bruger vi fælles felter?
 
-Formålet er ikke at opbygge et CRM-system i Heyloyalty. OS2 bruger Airtable til stam- og relationsdata. Felterne i Heyloyalty skal kun gøre det muligt at vedligeholde modtagerne og målrette produktets kommunikation.
+Det vigtigste er, at vi **strukturerer oplysningerne klogt fra starten**.
+
+Hvis fx en persons relation til produktet registreres i et fast felt, kan oplysningerne senere bruges til at finde eller udvælge bestemte modtagere.
+
+Det betyder ikke, at du normalt skal arbejde med segmentering. For de fleste produktnyhedsbreve er det både enklere og tilstrækkeligt at sende til hele produktlisten.
+
+> **Mangler du oplysninger om nogle modtagere?**
+>
+> Det skal ikke forhindre dig i at komme videre. Har du fx ikke organisation eller relation på alle personer, kan du stadig oprette eller importere dem. Oplysningerne kan suppleres senere.
 
 ## Standardfelter på en produktliste
 
-En produktliste skal som udgangspunkt indeholde følgende felter:
+OS2 bruger som udgangspunkt disse felter:
 
 | Felt | Type | Flettefelt |
 |---|---|---|
-| E-mail | Standardfelt | `{member.email}` |
-| Fornavn | Standardfelt | `{member.firstname}` |
-| Efternavn | Standardfelt | `{member.lastname}` |
-| Organisation | Tekst | `organisation` |
-| Relation til produktet | Flervalgsmulighed | `produktrelation` |
+| E-mail | Heyloyalty-standardfelt | `{member.email}` |
+| Fornavn | Heyloyalty-standardfelt | `{member.firstname}` |
+| Efternavn | Heyloyalty-standardfelt | `{member.lastname}` |
+| Organisation | Tillægsfelt – tekst | `organisation` |
+| Relation til produktet | Tillægsfelt – flervalg | `produktrelation` |
 
-### Relation til produktet
+**E-mail, Fornavn og Efternavn** findes allerede i Heyloyalty.
 
-Feltet **Relation til produktet** oprettes som et felt med flere valgmuligheder.
+**Organisation** og **Relation til produktet** er OS2's fælles tillægsfelter. Hvis de ikke allerede findes på produktlisten, skal de tilføjes.
 
-Brug som udgangspunkt disse værdier:
+## Hvis tillægsfelterne mangler
 
-- Bruger
-- Kontaktperson
-- Koordinationsgruppe
-- Styregruppe
-- Interesseret
-- Leverandør
+Når du redigerer produktlisten, kan du tilføje de manglende felter under **Tilføj felter**.
 
-En person kan have flere relationer samtidig. En kontaktperson kan fx også være bruger eller medlem af koordinationsgruppen.
-
-**Interesseret** bruges til personer, der følger produktet uden at have en kendt formel rolle omkring det.
-
-## Sådan opretter du felterne
-
-De tre standardfelter **E-mail**, **Fornavn** og **Efternavn** findes allerede i Heyloyalty og skal ikke oprettes igen.
-
-Opret derefter:
+Opret dem sådan:
 
 ### Organisation
 
@@ -72,42 +70,66 @@ Opret derefter:
 - Flettefelt: `produktrelation`
 - Fallback: kan stå tomt
 
-Tilføj derefter de fem standardværdier: Bruger, Kontaktperson, Koordinationsgruppe, Styregruppe og Interesseret.
+Brug disse standardværdier:
 
-## Felter beskriver personer – segmenter udvælger modtagere
+- Bruger
+- Kontaktperson
+- Koordinationsgruppe
+- Styregruppe
+- Leverandør
+- Interesseret
 
-Opret ikke et generelt felt med navnet **Segmenter**.
+En person kan have flere relationer samtidig. En kontaktperson kan fx også være bruger eller medlem af koordinationsgruppen.
 
-Et felt skal beskrive noget om modtageren, fx:
+**Interesseret** bruges til personer, der følger produktet uden at have en kendt formel rolle omkring det.
+
+### Kan du ikke finde listeindstillingerne?
+
+Du skal **ikke klikke ind på selve listen**.
+
+**Lister → ⋮ helt ude til højre ved listen → Rediger liste**
+
+Her finder du bl.a. felter, formularer og double opt-in.
+{: .highlight }
+
+## Felterne behøver ikke være udfyldt på alle
+
+Standardfelterne beskriver, **hvordan vi gemmer oplysninger, når vi har dem**. De er ikke en tjekliste, som skal være komplet for hver modtager.
+
+Hvis du fx skal importere en liste og kun har navn og e-mail på nogle personer, så importér de oplysninger, du har.
+
+Det er bedre at få relevante modtagere på listen end at lade manglende ekstra oplysninger blive en flaskehals.
+
+## Felter og segmentering er ikke det samme
+
+Et **felt** beskriver noget om modtageren, fx:
 
 > Relation til produktet = Kontaktperson
 
-Et segment er derimod en gruppe af modtagere, som Heyloyalty udvælger på baggrund af felterne, fx:
+Et **segment** er en gruppe, der kan udvælges på baggrund af oplysningerne i felterne, fx alle modtagere med relationen Kontaktperson.
 
-> Alle modtagere, hvor Relation til produktet indeholder Kontaktperson.
+Det er derfor, vi bruger faste felter: **så muligheden findes senere, hvis der bliver brug for den.**
 
-Det gør det muligt at oprette og ændre segmenter senere uden at ændre de grundlæggende oplysninger om modtagerne.
+Du behøver som udgangspunkt ikke oprette segmenter for at bruge produktets nyhedsbrev.
 
 ## Undgå overflødige felter
 
-Opret ikke et ekstra felt med navnet **Navn**, når Fornavn og Efternavn allerede findes som standardfelter.
+Opret ikke et ekstra felt med navnet **Navn**, når Fornavn og Efternavn allerede findes.
 
-Opret heller ikke ekstra felter eller relationstyper, medmindre der er et konkret og tilbagevendende behov for dem.
+Opret heller ikke nye felter eller relationstyper, medmindre der er et konkret og tilbagevendende behov.
 
 Målet er en enkel struktur, der kan vedligeholdes i praksis.
 
-## Når en persons rolle ændrer sig
+## Når oplysninger ændrer sig
 
-Hvis en person skifter rolle omkring produktet, skal feltet **Relation til produktet** opdateres.
+Hvis en persons rolle omkring produktet ændrer sig, bør **Relation til produktet** opdateres.
 
-Modtageren kan selv gøre opmærksom på ændringen, men den ansvarlige for produktets nyhedsbrevsliste har ansvar for løbende at holde oplysningerne ajour.
-
-De autoritative stam- og relationsdata vedligeholdes i Airtable. Heyloyalty skal ikke bruges som erstatning for Airtable.
+De autoritative stam- og relationsdata vedligeholdes i Airtable. Heyloyalty indeholder kun de oplysninger, der er nyttige i forbindelse med produktets nyhedsbrev og kommunikation.
 
 > **Bemærk**
 >
 > Denne guide beskriver OS2's anbefalede arbejdsgang i Heyloyalty.
 >
-> Heyloyalty kan løbende ændre funktioner, menuer og importmuligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
+> Heyloyalty kan løbende ændre funktioner, menuer og muligheder. Tjek derfor altid [Heyloyaltys officielle guides](https://guides.heyloyalty.com/) ved tvivl eller hvis noget i denne vejledning ikke stemmer med det, du ser i systemet.
 >
 > Hvis Heyloyaltys dokumentation og denne guide er forskellige, er Heyloyaltys aktuelle dokumentation gældende for den tekniske funktionalitet. Opdager du en rettelse eller tilføjelse, så skriv endelig til kommunikation@os2.eu.
