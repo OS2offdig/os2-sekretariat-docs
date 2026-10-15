@@ -1,18 +1,22 @@
 ---
-title: Opsæt en tilmeldingsformular
+title: Opsæt tilmeldingsformular
 layout: default
 parent: Nyhedsbreve
 nav_order: 60
-has_toc: false
+has_children: false
+has_toc: true
 ---
 
-# Opsæt en tilmeldingsformular i Heyloyalty
-
+# Opsæt tilmeldingsformular
 {: .no_toc }
 
 Produktets tilmeldingsformular bruges af personer, der selv ønsker at følge produktets nyhedsbrev.
 
-Tilmeldingsformularen kan også figurere på produktets egen side på os2.eu og som link i din emailsignatur.
+Tilmeldingsformularen kan fx bruges på produktets side på os2.eu eller deles som link i en mailsignatur.
+
+Ved selvtilmelding ser flowet sådan ud:
+
+**Tilmeldingsformular → double opt-in-mail → bekræftelse → personen er tilmeldt**
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -58,6 +62,10 @@ Brug følgende standard:
 | Efternavn | Ja |
 | Organisation | Nej |
 | Relation til produktet | Nej |
+
+Organisation og Relation til produktet er frivillige felter.
+
+Det er nyttigt at få oplysningerne med, når modtageren kender dem, men de skal ikke være en barriere for at tilmelde sig.
 
 Feltet **Relation til produktet** skal være synligt, så modtageren selv kan angive sin relation.
 
