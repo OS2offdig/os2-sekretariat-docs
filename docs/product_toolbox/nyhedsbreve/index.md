@@ -22,11 +22,11 @@ Start med **[Skriv et nyhedsbrev](/docs/product_toolbox/nyhedsbreve/skriv_nyheds
 
 Hvis produktets nyhedsbrev allerede er sat op, behøver du normalt ikke arbejde med lister, felter eller tilmeldingsflow.
 
-### [Skriv et nyhedsbrev]
+### Skriv et nyhedsbrev
 
 Få hjælp til at finde det vigtigste, gøre indholdet relevant og skrive et nyhedsbrev, der er nemt at forstå og skimme, ved at bruge [denne vejeldning](/docs/product_toolbox/nyhedsbreve/skriv_nyhedsbrev.html)
 
-### [Opret og send nyhedsbrev]
+### Opret og send nyhedsbrev
 
 [Se her](/docs/product_toolbox/nyhedsbreve/opret_og_send.html), hvordan du opretter, tester og sender nyhedsbrevet i Heyloyalty.
 
@@ -48,7 +48,7 @@ Når grundopsætningen er på plads, kan du gå videre til **[Opret og send nyhe
 
 Brug [denne vejledning](/docs/product_toolbox/nyhedsbreve/opret_en_modtager.html), når du skal tilføje én person.
 
-### [Importér modtagere]
+### Importér modtagere
 
 Brug [denne vejledning](/docs/product_toolbox/nyhedsbreve/import_til_heyloyalty.html), når du skal tilføje eller opdatere flere personer på én gang.
 
