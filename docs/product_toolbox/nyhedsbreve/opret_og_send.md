@@ -37,7 +37,7 @@ Det kan være en god løsning, især hvis produktets eksisterende opsætning fun
 Er du i tvivl om, hvilken kampagne eller opsætning du bør tage udgangspunkt i, så tag fat i OS2-sekretariatet.
 {: .highlight }
 
-## 1. Opret en kampagne
+## Trin 1: Opret en kampagne
 
 Gå til **Kampagner → Opret ny kampagne**.
 
@@ -51,7 +51,7 @@ Giv kampagnen et internt navn, så den er nem at finde igen.
 
 Heyloyalty giver også mulighed for at vælge et segment. Det er normalt ikke nødvendigt til et almindeligt produktnyhedsbrev, som typisk sendes til hele produktlisten.
 
-## 2. Udfyld oplysninger om nyhedsbrevet
+## Trin 2: Udfyld oplysninger om nyhedsbrevet
 
 Udfyld blandt andet:
 
@@ -64,7 +64,7 @@ En **preheader** er den korte tekst, der ofte vises sammen med emnelinjen i modt
 
 Hvis du ikke er klar til at sende endnu, kan kampagnen gemmes og åbnes igen senere.
 
-## 3. Opret indholdet
+## Trin 3: Opret indholdet
 
 I næste trin opretter du selve indholdet i nyhedsbrevet.
 
@@ -74,7 +74,7 @@ Undgå så vidt muligt at bygge en helt ny opsætning fra bunden, hvis der aller
 
 Er du i tvivl, så kontakt OS2-sekretariatet.
 
-## 4. Send en test
+## Trin 4: Send en test
 
 Inden nyhedsbrevet sendes, er det en god idé at sende en testmail.
 
@@ -87,7 +87,7 @@ Kontrollér især:
 - stavefejl
 - at mailen ser fornuftig ud både på computer og mobil
 
-## 5. Kontrollér og send
+## Trin 5: Kontrollér og send
 
 Når testen ser rigtig ud:
 

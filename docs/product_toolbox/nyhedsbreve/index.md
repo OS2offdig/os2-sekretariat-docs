@@ -4,72 +4,68 @@ layout: default
 parent: Værktøjskasse til projekter og produkter
 nav_order: 10
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 # Nyhedsbreve
 {: .no_toc }
 
-Her finder du hjælp til at arbejde med produktnyhedsbreve – både når du skal sende et nyhedsbrev, sætte et nyt nyhedsbrev op eller vedligeholde modtagere og indstillinger.
+Her finder du hjælp til at skrive, sende og administrere produktnyhedsbreve i OS2.
 
-Du behøver ikke kende hele Heyloyalty for at komme i gang. Find den opgave, du står med, og start dér.
+Vi bruger systemet Heyloyalty til at administrere nyhedsbreve. Du behøver ikke kende hele Heyloyalty for at komme i gang. Find den situation, der passer til det, du skal gøre, og start dér.
 
-## Indholdsfortegnelse
-{: .no_toc .text-delta }
+**Skal du bare sende et nyhedsbrev?**  
+Start med **[Skriv et nyhedsbrev](/docs/product_toolbox/nyhedsbreve/skriv_nyhedsbrev.html)** og fortsæt derefter til **[Opret og send nyhedsbreve](/docs/product_toolbox/nyhedsbreve/opret_og_send.html)**.
+{: .highlight }
 
-1. TOC
-{:toc}
+## Skrive og sende et nyhedsbrev
 
-## Adgang til Heyloyalty
+Hvis produktets nyhedsbrev allerede er sat op, behøver du normalt ikke arbejde med lister, felter eller tilmeldingsflow.
 
-Har du brug for at arbejde med produktets nyhedsbrev, men mangler adgang til Heyloyalty?
+### [Skriv et nyhedsbrev]
+
+Få hjælp til at finde det vigtigste, gøre indholdet relevant og skrive et nyhedsbrev, der er nemt at forstå og skimme, ved at bruge [denne vejeldning](/docs/product_toolbox/nyhedsbreve/skriv_nyhedsbrev.html)
+
+### [Opret og send nyhedsbrev]
+
+[Se her](/docs/product_toolbox/nyhedsbreve/opret_og_send.html), hvordan du opretter, tester og sender nyhedsbrevet i Heyloyalty.
+
+## Teknisk opsætning af produktets nyhedsbrev
+
+**Du behøver kun dette afsnit, hvis produktets nyhedsbrev endnu ikke er sat teknisk op i Heyloyalty.**
+
+Start med [Modtagere og tilmelding](/docs/product_toolbox/nyhedsbreve/modtagere_og_tilmelding.html). Her får du overblik over, hvem der skal være på produktets liste, og forskellen på selvtilmelding og rollebaserede modtagere.
+
+Derefter kan du tage opsætningen trin for trin:
+
+[Felter og segmentering](/docs/product_toolbox/nyhedsbreve/felter_og_segmentering.html) → [Opsæt double opt-in]([...](/docs/product_toolbox/nyhedsbreve/double_opt_in.html)) → [Opsæt tilmeldingsformular](/docs/product_toolbox/nyhedsbreve/tilmeldingsformular.html) → [Importér modtagere](/docs/product_toolbox/nyhedsbreve/import_til_heyloyalty.html)
+
+Når grundopsætningen er på plads, kan du gå videre til **[Opret og send nyhedsbreve](/docs/product_toolbox/nyhedsbreve/opret_og_send.html)**.
+
+## Arbejde med modtagere
+
+### Opret én modtager
+
+Brug [denne vejledning](/docs/product_toolbox/nyhedsbreve/opret_en_modtager.html), når du skal tilføje én person.
+
+### [Importér modtagere]
+
+Brug [denne vejledning](/docs/product_toolbox/nyhedsbreve/import_til_heyloyalty.html), når du skal tilføje eller opdatere flere personer på én gang.
+
+### Vedligehold modtagere
+
+Brug [denne vejledning](/docs/product_toolbox/nyhedsbreve/vedligeholdelse_af_modtagere.html), når roller eller kontaktoplysninger ændrer sig, eller listen trænger til at blive bragt ajour.
+
+## Automatiske mails og forløb
+
+Brug [Automatiseringer](/docs/product_toolbox/nyhedsbreve/automatiseringer.html), hvis mails skal sendes automatisk på baggrund af fx en tilmelding, et tidspunkt eller et bestemt forløb.
+
+## Har du brug for hjælp?
+
+Mangler du adgang til Heyloyalty, er du i tvivl om, hvad der allerede er sat op for produktet, eller ved du ikke, hvilken vejledning du skal bruge?
 
 Kontakt OS2-sekretariatet, så hjælper vi dig videre.
 
-## Hvad skal du gøre?
+## Principper for nyhedsbreve i OS2
 
-| Hvis du vil... | Start her |
-|---|---|
-| skrive, teste og sende et nyhedsbrev | **Opret og send nyhedsbreve** |
-| arbejde med mails, der sendes automatisk | **Automatiseringer** |
-| forstå hvem der skal være på produktets liste | **Modtagere og tilmelding** |
-| forstå eller opsætte oplysninger om modtagerne | **Felter og segmentering** |
-| opsætte bekræftelse af frivillige tilmeldinger | **Opsæt double opt-in** |
-| gøre det muligt at tilmelde sig nyhedsbrevet | **Opsæt tilmeldingsformular** |
-| tilføje én enkelt modtager | **Opret én modtager** |
-| tilføje flere modtagere på én gang | **Importér modtagere** |
-| holde eksisterende modtageroplysninger ajour | **Vedligeholdelse af modtagere** |
-
-## Starter I fra bunden med et nyhedsbrev?
-
-Hvis produktet ikke allerede har et fungerende nyhedsbrev, skal nogle grundlæggende ting sættes op først.
-
-Gå typisk igennem:
-
-**Modtagere og tilmelding → Felter og segmentering → Opsæt double opt-in → Opsæt tilmeldingsformular → Importér modtagere → Opret og send nyhedsbreve**
-
-Det behøver ikke være perfekt fra begyndelsen. Formålet er at få en grundopsætning, som fungerer og kan vedligeholdes.
-
-Har du kun én enkelt modtager, der skal tilføjes, kan du bruge **Opret én modtager** i stedet for **Importér modtagere**.
-
-## Ordliste
-
-| Begreb | Hvad betyder det? |
-|---|---|
-| **Liste** | Produktets samling af modtagere. Som udgangspunkt har et produkt én primær nyhedsbrevsliste. |
-| **Kontakt / modtager** | En person, der står på listen og kan modtage nyhedsbreve. |
-| **Felt** | En oplysning om en modtager, fx navn, organisation eller relation til produktet. |
-| **Tillægsfelt** | Et ekstra felt, der kan oprettes på listen, hvis det ikke allerede findes. |
-| **Relation til produktet** | Et felt, der fx kan vise, om personen er bruger, kontaktperson eller medlem af styregruppen. Oplysningen gør det muligt at arbejde mere målrettet med modtagerne senere, men behøver ikke være udfyldt på alle. |
-| **Import** | Når flere modtagere lægges på listen på én gang. |
-| **CSV** | Et filformat, som fx et Excel-ark kan gemmes som, så oplysningerne kan importeres. |
-| **Double opt-in** | Når en person selv tilmelder sig og derefter bekræfter tilmeldingen via e-mail. |
-| **Tilmeldingsformular** | Den formular, andre kan bruge til selv at tilmelde sig produktets nyhedsbrev. |
-| **Automatisering** | En mail eller handling, der udløses automatisk af en bestemt hændelse, fx en double opt-in-mail. |
-| **Segmentering** | At udvælge en del af listen ud fra bestemte oplysninger. Det er ikke noget, du normalt behøver at bruge. |
-
-## Godt at vide
-
-- **Redigér en liste:** Gå til **Lister → ⋮ helt ude til højre → Rediger liste**. Det er ikke nok at klikke ind på selve listen.
-- **Find linket til en tilmeldingsformular:** Gå til **Lister → ⋮ → Rediger liste → Formularer → ⚙ → kopiér URL eller embed-kode**.
-- - **Se de fælles principper for nyhedsbreve under [Kommunikation](../communication/newsletters.html)**.
+Vil du vide mere om, hvordan og hvorfor OS2 bruger nyhedsbreve, kan du se de fælles principper under [Kommunikation](/communication/newsletters.html).
