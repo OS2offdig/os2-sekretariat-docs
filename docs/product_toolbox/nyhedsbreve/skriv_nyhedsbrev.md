@@ -18,7 +18,7 @@ Denne side hjælper dig med at få det omsat til et nyhedsbrev.
 
 **Vil du helst bare i gang?**
 
-Hent [skabelonen til dit nyhedsbrev](/assets/downloads/nyhedsbrevsskabelon.odt), og skriv direkte i dokumentet.
+Klik og download: [Skabelonen til dit nyhedsbrev](/assets/downloads/nyhedsbrevsskabelon.odt), og skriv direkte i dokumentet. 
 
 Du kan også læse videre her på siden, hvis du gerne vil have lidt flere råd med på vejen.
 
@@ -196,4 +196,4 @@ Skabelonen hjælper dig med at få det vigtigste med – uden at du skal begynde
 
 Når du er færdig, sletter du hjælpeteksterne og kopierer dit nyhedsbrev over i nyhedsbrevssystemet.
 
-[Hent skabelonen: Lav dit nyhedsbrev – trin for trin](/assets/downloads/nyhedsbrevsskabelon.odt)
+Klik og download direkte (.odt): [Lav dit nyhedsbrev – trin for trin](/assets/downloads/nyhedsbrevsskabelon.odt)
