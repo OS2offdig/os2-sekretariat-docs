@@ -81,6 +81,14 @@ Det er ikke teknisk nødvendigt, at kolonnerne har præcis de viste navne. Kolon
 
 De fælles navne gør det dog lettere at gennemskue filen og fejlfinde senere.
 
+### Hent en skabelon til klargøring af csv.-filen her. 
+
+Følg vejledningen i dokumentet.
+
+Download ved at klikke: [Skabelon til import af kontakter](assets/downloads/OS2_skabelon_import_kontakter_Heyloyalty.ods) .ods
+
+Download ved at klikke: [Skabelon til import af kontakter](assets/downloads/OS2_skabelon_import_kontakter_Heyloyalty.xlsx) .xlsx
+
 ## Sådan importerer du
 
 1. Gå til **Lister**.
