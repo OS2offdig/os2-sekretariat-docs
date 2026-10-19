@@ -85,9 +85,9 @@ De fælles navne gør det dog lettere at gennemskue filen og fejlfinde senere.
 
 Følg vejledningen i dokumentet.
 
-Download ved at klikke: [Skabelon til import af kontakter](assets/downloads/OS2_skabelon_import_kontakter_Heyloyalty.ods) .ods
+Download ved at klikke: [Skabelon til import af kontakter](/assets/downloads/OS2_skabelon_import_kontakter_Heyloyalty.ods) .ods
 
-Download ved at klikke: [Skabelon til import af kontakter](assets/downloads/OS2_skabelon_import_kontakter_Heyloyalty.xlsx) .xlsx
+Download ved at klikke: [Skabelon til import af kontakter](/assets/downloads/OS2_skabelon_import_kontakter_Heyloyalty.xlsx) .xlsx
 
 ## Sådan importerer du
 
