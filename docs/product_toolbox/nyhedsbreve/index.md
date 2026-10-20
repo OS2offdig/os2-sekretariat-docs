@@ -24,7 +24,7 @@ Hvis produktets nyhedsbrev allerede er sat op, behøver du normalt ikke arbejde 
 
 ### Skriv et nyhedsbrev
 
-Få hjælp til at finde det vigtigste, gøre indholdet relevant og skrive et nyhedsbrev, der er nemt at forstå og skimme, ved at bruge [denne vejeldning](/docs/product_toolbox/nyhedsbreve/skriv_nyhedsbrev.html)
+Få hjælp til at finde det vigtigste, gøre indholdet relevant og skrive et nyhedsbrev, der er nemt at forstå og skimme, ved at bruge [denne vejledning](/docs/product_toolbox/nyhedsbreve/skriv_nyhedsbrev.html)
 
 ### Opret og send nyhedsbrev
 
