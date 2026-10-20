@@ -45,6 +45,17 @@ Organisation og Relation til produktet behøver ikke være udfyldt på alle modt
 - [ ] Formularen bruger reCAPTCHA
 - [ ] Teksten efter tilmelding fortæller, at modtageren skal bekræfte tilmeldingen via e-mail
 
+### Opdatering og afmelding
+
+- [ ] Listen har en opdateringsformular, så modtagerne kan opdatere deres oplysninger.
+- [ ] Listen har en afmeldingsformular, så modtagerne kan afmelde nyhedsbrevet.
+- [ ] Nyhedsbrevsskabelonen indeholder links til opdatering og afmelding.
+- [ ] Begge links er testet og fungerer korrekt.
+
+Du finder formularerne under **Lister → ⋮ → Rediger liste → Formularer**.
+
+*Bemærk: Et link til opdatering af oplysninger er ikke nødvendigvis det samme som at skifte kontaktperson. Denne funktion skal afklares særskilt.*
+
 ## Double opt-in
 
 Ved frivillig selvtilmelding:
