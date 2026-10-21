@@ -9,6 +9,8 @@ has_toc: false
 
 # Fildeling
 
+{: .warning } DRAFT VERSION - Afventer afklaring
+
 Her finder du hjælp til at gemme, dele og organisere filer i OS2.
 
 OS2 bruger Nextcloud og GitHub til fildeling og dokumentation. De to værktøjer har forskellige funktioner og kan bruges sammen.
