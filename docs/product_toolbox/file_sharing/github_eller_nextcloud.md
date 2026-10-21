@@ -38,7 +38,7 @@ Det er blandt andet relevant til:
 
 Nextcloud har både interne og offentlige mapper.
 
-Se [Brug Nextcloud](INDSÆT-LINK) for praktisk vejledning.
+Se [Brug Nextcloud](brug-nextcloud.md) for praktisk vejledning.
 
 ### GitHub
 
@@ -69,4 +69,4 @@ Produktet eller projektet har ansvar for at beskrive, hvor dokumentationen opbev
 
 Alle OS2-produkter og -projekter skal have en README-fil i deres offentlige Nextcloud-mappe. Den fungerer som vejviser til dokumentationen – også hvis I primært bruger GitHub.
 
-Se [Opret en README](INDSÆT-LINK) for vejledning og skabelon.
+Se [Opret en README](opret_README.md) for vejledning og skabelon.
