@@ -2,52 +2,46 @@
 title: Nextcloud – hvad er det?
 layout: default
 parent: Fildeling
-grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 10
+grand_parent: Værktøjskasse
 has_toc: false
+nav_order: 10
 ---
 
-# Nextcloud – hvad er det? <span class="label label-green">Værktøj</span> <span class="label">Alle</span>
+# Nextcloud – hvad er det? ☁️
 
-Tænk på Nextcloud som vores fælles drev i skyen. Vi kan arbejde samtidig i dokumenter, styre adgang med grupper og bevare ejerskab over data.  
-Nextcloud er navnet på den specifikke service og det specifikke værktøj OS2-fællesskabet anvender.
-I daglig tale bruger vi betegnelserne filarkivet, filbiblioteket, den åbne mappe, den offentlige mappe eller bare Nextcloud.
+Tænk på Nextcloud som OS2-fællesskabets fælles drev i skyen. Her kan vi arbejde samtidig i dokumenter, styre adgang med grupper og bevare ejerskab over data.  
 
+Nextcloud er den konkrete fildelingstjeneste, vi bruger i OS2. I daglig tale kalder vi den fx filarkivet, filbiblioteket, den åbne/offentlige mappe – eller bare **Nextcloud**.
 
 ## De to områder, vi bruger
-- **OS2 Intern Nextcloud** — arbejdsrum til kladder, udkast og ting i proces.  
-- **OS2 Ekstern/offentlig Nextcloud** — det, der er færdigt og må deles bredt.
 
-## Filformater (åbne formater/ODF)
+- **📁 OS2's interne Nextcloud** – arbejdsrum til kladder, udkast og ting i proces  
+- **🌐 OS2's eksterne/offentlige Nextcloud** – det, der er færdigt og bør deles bredt
 
-Intern Nextcloud:
-Vi arbejder som udgangspunkt i **åbne filformater (ODF)**:  
-- **.odt** (tekst – svarer til .docx)  
+## Filformater (åbne formater / ODF)
+
+I OS2 arbejder vi som udgangspunkt i **åbne filformater (ODF)**. Det gør det lettere at samarbejde på tværs af systemer og organisationer.
+
+**Intern Nextcloud**  
+Som standard bruger vi:
+
+- **.odt** (tekstdokument – svarer til .docx)  
 - **.ods** (regneark – svarer til .xlsx)  
 - **.odp** (præsentation – svarer til .pptx)
 
-Det er også muligt at opbevare andre formater i Nextcloud.
+Du kan også opbevare andre filformater i Nextcloud, hvis der er behov for det.
 
-Ekstern Nextcloud:
-Det kan være en fordel at opbevare filerne i jeres offentlige filarkiv i pdf-format. Når du er klar til at dele bredt, kan du derfor **eksportere til PDF**. Det sikrer, at modtageren ser det samme som dig.
+**Ekstern/offentlig Nextcloud**  
+Når noget er færdigt og klar til at blive delt bredt, anbefaler vi, at du **eksporterer til PDF**. Det øger chancen for, at modtageren ser det samme som dig – uanset program og platform.
 
-## Navngivning af filer og mapper
+**Du kan se den eksterne/offentlige Nextcloud - altså det åbne filarkiv - ved at klikke på knappen lige her: 
 
-For at sikre kompatibilitet på tværs af systemer – særligt med Windows – skal følgende regler overholdes:
+[OS2's åbne filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4){: .btn .btn-outline }
 
-### Undgå disse tegn i fil- og mappenavne
-`< > : " \ | ? *`
 
-### Undgå også
-- Navne der slutter med punktum eller mellemrum  
-- Særlige reserverede navne som: `CON`, `PRN`, `AUX`, `NUL`, `COM1–COM9`, `LPT1–LPT9`
+---
 
-### Anbefalinger
-- Brug bogstaver (a–z), tal (0–9), bindestreg (-) og underscore (_)
-- Brug korte og beskrivende navne uden specialtegn
+**Links**
 
-### Eksempel
-- ❌ `Budget: 2024/2025.xlsx`  
-- ✅ `budget-2024-2025.xlsx`
-
-Hvis reglerne ikke overholdes, kan filer ikke synkroniseres korrekt eller give fejl i visse systemer.
+- Officiel Nextcloud: \[nextcloud.com/](https://nextcloud.com/) 
+- Bidrag til Nextcloud: \[contribute/](https://nextcloud.com/contribute/)
