@@ -51,4 +51,4 @@ Det gør det nemt at:
 2. publicere direkte til det åbne filarkiv for produktet, når noget er klar til deling
 
 > 💡 **Brug for adgang?**  
-> Start her: [Kom i gang: Opret bruger](./opret-bruger)  
+> Start her: [Kom i gang: Opret bruger](opret-bruger.md)  
