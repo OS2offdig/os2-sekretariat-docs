@@ -40,4 +40,3 @@ Du bør nu kunne skrive i:
 - Den eksterne/åbne Nextcloud kaldes også **“det offentlige filarkiv”**.  
 - Internt i sekretariatet hedder mappen: **“Offentlige filer til hjemmeside”**.
 
-**Næste skridt:** [Sådan bruger vi Nextcloud](./saadan-bruger-vi-nextcloud)
