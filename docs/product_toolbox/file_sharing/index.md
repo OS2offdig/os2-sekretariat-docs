@@ -1,47 +1,58 @@
+
 ---
 title: Fildeling
 layout: default
 parent: Værktøjskasse til projekter og produkter
 nav_order: 30
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
-
 # Fildeling
+{: .no_toc }
 
 Her finder du hjælp til at gemme, dele og organisere filer i OS2.
 
-I OS2 bruger vi primært Nextcloud og GitHub til fildeling og dokumentation. Produkter og projekter kan have forskellige dokumentationsstrukturer, og det er vigtigt, at andre kan finde og forstå dem.
+OS2 bruger Nextcloud og GitHub til fildeling og dokumentation. De to værktøjer har forskellige funktioner og kan bruges sammen.
 
-**Skal du organisere dokumentationen for et produkt eller projekt?**  
-Start med [GitHub eller Nextcloud?](INDSÆT-LINK), og brug derefter [Opret en README](INDSÆT-LINK) til at beskrive, hvor dokumentationen findes.
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
 
-## Kom i gang med Nextcloud
+1. TOC
+{:toc}
 
-### Hvad er Nextcloud?
-Få en introduktion til OS2's fildelingsværktøj og opbygningen af de fælles filarkiver.
+## Nextcloud – OS2's fælles fildrev
 
-### Adgang
-Se, hvordan du får adgang til Nextcloud.
+Tænk på Nextcloud som OS2-fællesskabets fælles drev i skyen. Her kan vi opbevare og dele filer, samarbejde om dokumenter og styre adgangen.
 
-### Brug Nextcloud
-Læs om interne og offentlige mapper, filformater og navngivning.
+I daglig tale bruger vi forskellige betegnelser, fx fildrevet, filarkivet, den offentlige mappe eller bare Nextcloud.
 
-## Organisering og dokumentation
+Vi skelner mellem to områder:
 
-### GitHub eller Nextcloud?
-Læs om, hvordan de to værktøjer bruges i OS2, og hvad dit produkt eller projekt skal tage stilling til.
+- **Intern Nextcloud:** Arbejdsrum til kladder, udkast og dokumenter under udarbejdelse.
+- **Offentlig Nextcloud:** Filer og dokumenter, som skal være offentligt tilgængelige, fx referater, aftaler og regnskaber.
 
-### Opret en README
-Brug vejledningen og skabelonen til at vise andre, hvor produktets eller projektets dokumentation findes.
+[Åbn OS2's offentlige filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4){: .btn .btn-outline }
+
+### Sådan bruger du Nextcloud
+
+- [Adgang](INDSÆT-LINK) – få adgang til Nextcloud.
+- [Brug Nextcloud](INDSÆT-LINK) – arbejd med mapper, filer, filformater og navngivning.
+
+## Organisering af dokumentation
+
+Det enkelte produkt eller projekt har ansvar for at organisere sin dokumentation og gøre det tydeligt, hvor andre kan finde den.
+
+- [GitHub eller Nextcloud?](INDSÆT-LINK) – find ud af, hvad de to værktøjer egner sig til.
+- [Opret en README](INDSÆT-LINK) – brug vejledningen og skabelonen til at beskrive, hvor dokumentationen findes.
+
+Læs også om [fælles praksis for dokumentation](INDSÆT-LINK) under *Sådan arbejder vi i OS2*.
 
 ## Administration og support
 
-Her finder du vejledninger til oprettelse af brugere, rettigheder, systemadministration og support.
+Disse vejledninger er især relevante for dig, der administrerer adgangen til Nextcloud:
 
-## Fælles praksis
-
-Produkter og projekter har ansvar for at organisere og synliggøre deres dokumentation.
-
-Læs mere under [Dokumentation](INDSÆT-LINK) i *Sådan arbejder vi i OS2*.
+- [Rettigheder](INDSÆT-LINK) – administrer adgang og rettigheder.
+- [Opret bruger](INDSÆT-LINK) – opret en ny bruger.
+- [Systemadministrator](INDSÆT-LINK) – vejledning til systemadministration.
+- [Support](INDSÆT-LINK) – find hjælp ved problemer.
