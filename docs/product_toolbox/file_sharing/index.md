@@ -30,8 +30,8 @@ Vi skelner mellem to områder:
 
 Det enkelte produkt eller projekt har ansvar for at organisere sin dokumentation og gøre det tydeligt, hvor andre kan finde den.
 
-- [GitHub eller Nextcloud?](INDSÆT-LINK) – find ud af, hvad de to værktøjer egner sig til.
-- [Opret en README](INDSÆT-LINK) – brug vejledningen og skabelonen til at beskrive, hvor dokumentationen findes.
+- [GitHub eller Nextcloud?](github_eller_nextcloud.md) – find ud af, hvad de to værktøjer egner sig til.
+- [Opret en README](opret_README.md) – brug vejledningen og skabelonen til at beskrive, hvor dokumentationen findes.
 
-Læs også om [fælles praksis for dokumentation](INDSÆT-LINK) under *Sådan arbejder vi i OS2*.
+Læs også om [fælles praksis for dokumentation](../../workflow_and_tools/documentation.md) under *Sådan arbejder vi i OS2*.
 
