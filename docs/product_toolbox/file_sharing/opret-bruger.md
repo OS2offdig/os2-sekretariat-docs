@@ -2,7 +2,6 @@
 title: Opret Nextcloud-bruger
 layout: default
 parent: Fildeling
-grand_parent: Værktøjskasse
 has_toc: true
 nav_order: 60
 ---
