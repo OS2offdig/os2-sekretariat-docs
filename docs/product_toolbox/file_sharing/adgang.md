@@ -2,10 +2,12 @@
 title: Adgang til Nextcloud
 layout: default
 parent: Fildeling
-grand_parent: Værktøjskasse
-has_toc: true
+grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 10
+has_children: false
+has_toc: true
 ---
+
 
 # Hvem kan få adgang?
 {: .no_toc }
