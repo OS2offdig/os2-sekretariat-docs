@@ -1,0 +1,16 @@
+---
+title: GitHub til fildeling
+layout: default
+parent: Fildeling
+grand_parent: Værktøjskasse
+has_toc: false
+nav_order: 60
+---
+
+GitHub er et andet centralt værktøj hos OS2, og kan også anvendes som fildelingsværktøj. 
+
+Vælger I hos jeres produkt udelukkende at dele filer via GitHub, skal I huske at dokumentere og forklare baggrunden for dette valg i jeres governance-rapport.
+
+På nuværende tidspunkt understøtter sekretariatet anvendelsen af Nextcloud som fildeling. Vi understøtter produkter og projekter i anvendelsen af GitHub i det omfang, det er muligt.
+
+Du finder et eksempel på hvordan GitHub kan anvendes som fildelingsværktøj som en del af OS2's doc-site-template. 
