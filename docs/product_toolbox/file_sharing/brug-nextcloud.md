@@ -60,7 +60,7 @@ Hold strukturen enkel og genkendelig:
 
 GitHub kan anvendes til dokumentation, der kræver versionsstyring. Produktet eller projektet tager stilling til dokumentationsstrukturen og beskriver, hvor materialet findes.
 
-Se også [GitHub eller Nextcloud?](INDSÆT-LINK).
+Se også [GitHub eller Nextcloud?](github_eller_nextcloud.md).
 
 ## Husk README-filen
 
@@ -68,4 +68,4 @@ Alle OS2-produkter og -projekter skal have en README-fil i deres offentlige Next
 
 README-filen beskriver, hvor dokumentationen findes – både i Nextcloud, GitHub og eventuelle andre dokumentationssystemer.
 
-Se [Opret en README](INDSÆT-LINK) for vejledning og skabelon.
+Se [Opret en README](opret_README.md) – for vejledning og skabelon.
