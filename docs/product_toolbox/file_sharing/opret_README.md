@@ -68,10 +68,3 @@ Kopiér skabelonen nedenfor, og tilpas den til jeres dokumentationsstruktur.
 
 Hvis en dokumenttype ikke findes hos jer, kan I blot slette punktet. Det vigtigste er, at beskrivelsen afspejler, hvor dokumentationen faktisk findes.
 
-## Mere information
-
-Læs om [navngivning af filer og mapper](https://handbook.os2.eu/docs/product_toolbox/file_sharing/what_is_nextcloud.html#navngivning-af-filer-og-mapper).
-
-Se også [GitHub eller Nextcloud?](INDSÆT-LINK) for OS2's fælles praksis for fildelingsværktøjer.
-
-Har du brug for hjælp, kan du kontakte OS2-sekretariatet på os2@os2.eu.
