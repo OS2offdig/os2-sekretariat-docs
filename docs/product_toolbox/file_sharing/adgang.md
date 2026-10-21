@@ -1,5 +1,5 @@
 ---
-title: Hvem kan få adgang?
+title: Adgang til Nextcloud
 layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse
