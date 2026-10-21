@@ -4,7 +4,7 @@ layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse
 has_toc: false
-nav_order: 30
+nav_order: 10
 ---
 
 # Hvem kan få adgang? 🔐
