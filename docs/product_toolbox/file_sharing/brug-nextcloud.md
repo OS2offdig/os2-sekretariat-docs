@@ -2,7 +2,7 @@
 title: Brug Nextcloud
 layout: default
 parent: Fildeling
-nav_order: 50
+nav_order: 20
 has_children: false
 has_toc: true
 ---
