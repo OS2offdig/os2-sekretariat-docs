@@ -1,4 +1,3 @@
-
 ---
 title: Brug Nextcloud
 layout: default
