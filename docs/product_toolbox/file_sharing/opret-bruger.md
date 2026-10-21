@@ -4,8 +4,11 @@ layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse
 has_toc: false
-nav_order: 40
+nav_order: 60
 ---
+
+{: .note}
+Har du brug for at få uploadet filer til produktets Nextcloud-mappe, men har ikke adgang endnu? Få hjælp ved at sende fil og forespørgsel til os2@os2.eu.
 
 # Kom i gang: Opret bruger 🚶‍♀️
 
