@@ -2,7 +2,6 @@
 title: "Systemadministrator: Særligt til dig"
 layout: default
 parent: Fildeling
-grand_parent: Værktøjskasse
 nav_order: 70
 ---
 
