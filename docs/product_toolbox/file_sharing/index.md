@@ -4,21 +4,14 @@ layout: default
 parent: Værktøjskasse til projekter og produkter
 nav_order: 30
 has_children: true
-has_toc: true
+has_toc: false
 ---
 
 # Fildeling
-{: .no_toc }
 
 Her finder du hjælp til at gemme, dele og organisere filer i OS2.
 
 OS2 bruger Nextcloud og GitHub til fildeling og dokumentation. De to værktøjer har forskellige funktioner og kan bruges sammen.
-
-## Indholdsfortegnelse
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ## Nextcloud – OS2's fælles fildrev
 
