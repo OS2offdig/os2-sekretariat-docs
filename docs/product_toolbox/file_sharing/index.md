@@ -26,11 +26,6 @@ Vi skelner mellem to områder:
 
 [Åbn OS2's offentlige filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4){: .btn .btn-outline }
 
-### Sådan bruger du Nextcloud
-
-- [Adgang](INDSÆT-LINK) – få adgang til Nextcloud.
-- [Brug Nextcloud](INDSÆT-LINK) – arbejd med mapper, filer, filformater og navngivning.
-
 ## Organisering af dokumentation
 
 Det enkelte produkt eller projekt har ansvar for at organisere sin dokumentation og gøre det tydeligt, hvor andre kan finde den.
@@ -40,11 +35,3 @@ Det enkelte produkt eller projekt har ansvar for at organisere sin dokumentation
 
 Læs også om [fælles praksis for dokumentation](INDSÆT-LINK) under *Sådan arbejder vi i OS2*.
 
-## Administration og support
-
-Disse vejledninger er især relevante for dig, der administrerer adgangen til Nextcloud:
-
-- [Rettigheder](INDSÆT-LINK) – administrer adgang og rettigheder.
-- [Opret bruger](INDSÆT-LINK) – opret en ny bruger.
-- [Systemadministrator](INDSÆT-LINK) – vejledning til systemadministration.
-- [Support](INDSÆT-LINK) – find hjælp ved problemer.
