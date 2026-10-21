@@ -1,18 +1,30 @@
 ---
-title: "Kom i gang: Få oprettet bruger"
+title: Opret Nextcloud-bruger
 layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse
-has_toc: false
-nav_order: 40
+has_toc: true
+nav_order: 60
 ---
 
-# Kom i gang: Opret bruger 🚶‍♀️
+{: .note}
+Har du brug for at få uploadet filer til produktets Nextcloud-mappe, men har ikke adgang endnu? Få hjælp ved at sende fil og forespørgsel til os2@os2.eu.
+
+# Opret Nextcloud-bruger
+{: .no_toc }
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+# Kom i gang: Opret bruger 
 
 Her kan du se, hvordan du får en bruger til Nextcloud.  
 Vær opmærksom på, at processen er **manuel** og håndteres af OS2-sekretariatet – der kan derfor gå lidt tid, før din adgang er klar.
 
-## Trin for trin ▶️
+## Trin for trin 
 
 **0. Forbered info**  
 Find følgende oplysninger frem: dit navn, din e-mail (bliver dit login), hvilken arbejdsgruppe du er en del af, og din rolle.
@@ -40,4 +52,3 @@ Du bør nu kunne skrive i:
 - Den eksterne/åbne Nextcloud kaldes også **“det offentlige filarkiv”**.  
 - Internt i sekretariatet hedder mappen: **“Offentlige filer til hjemmeside”**.
 
-**Næste skridt:** [Sådan bruger vi Nextcloud](./saadan-bruger-vi-nextcloud)

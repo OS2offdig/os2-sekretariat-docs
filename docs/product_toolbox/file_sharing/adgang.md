@@ -1,15 +1,22 @@
 ---
-title: Hvem kan få adgang?
+title: Adgang til Nextcloud
 layout: default
 parent: Fildeling
 grand_parent: Værktøjskasse
-has_toc: false
-nav_order: 30
+has_toc: true
+nav_order: 10
 ---
 
-# Hvem kan få adgang? 🔐
+# Hvem kan få adgang?
+{: .no_toc }
 
-Kort sagt: 
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Arbejdsgruppemedlemmer kan få adgang
 
 **Arbejdsgruppemedlemmer** kan få brugerkonto og skriveadgang til projektets/produktets egne mapper i det interne filarkiv.
 
@@ -44,7 +51,4 @@ Det gør det nemt at:
 2. publicere direkte til det åbne filarkiv for produktet, når noget er klar til deling
 
 > 💡 **Brug for adgang?**  
-> Start her: [Kom i gang: Opret bruger](./opret-bruger)  
->
-> 🔁 **Vil du ændre eller ophæve en adgang?**  
-> Se [Kontakt & support](./support)
+> Start her: [Kom i gang: Opret bruger](opret-bruger.md)  

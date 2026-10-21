@@ -5,7 +5,15 @@ parent: Sådan arbejder vi i OS2
 nav_order: 90
 ---
 
+
 # Principper for valg af fælles værktøjer i OS2
+{: .no_toc }
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Formål
 

@@ -2,7 +2,7 @@
 title: Brug OS2’s visuelle retning
 layout: default
 parent: Værktøjskasse til projekter og produkter
-nav_order: 20
+nav_order: 50
 has_toc: false
 has_children: true
 ---

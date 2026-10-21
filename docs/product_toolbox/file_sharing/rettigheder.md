@@ -1,13 +1,13 @@
 ---
 title: Rettigheder – hvem kan tilgå hvad?
 layout: default
-has_toc: false
+has_toc: true
 parent: Fildeling
 grand_parent: Værktøjskasse
 nav_order: 50
 ---
 
-# Rettigheder – hvem kan tilgå hvad?
+# Rettigheder – hvem kan tilgå hvad i Nextcloud?
 
 Her kan du se, hvem der kan læse, skrive og administrere filer i Nextcloud.  
 **Admin** betyder her, at man også kan oprette mapper, tildele adgang og ændre rettigheder.
