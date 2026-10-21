@@ -2,7 +2,7 @@
 title: GitHub eller Nextcloud?
 layout: default
 parent: Fildeling
-nav_order: 60
+nav_order: 30
 has_children: false
 has_toc: true
 ---
