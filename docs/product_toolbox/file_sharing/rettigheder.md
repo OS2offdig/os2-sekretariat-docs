@@ -3,7 +3,6 @@ title: Rettigheder – hvem kan tilgå hvad?
 layout: default
 has_toc: true
 parent: Fildeling
-grand_parent: Værktøjskasse
 nav_order: 50
 ---
 
