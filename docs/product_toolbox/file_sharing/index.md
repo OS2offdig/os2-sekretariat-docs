@@ -9,7 +9,8 @@ has_toc: false
 
 # Fildeling
 
-{: .warning } DRAFT VERSION - Afventer afklaring
+{: .warning }
+DRAFT VERSION - NOT AN OFFICIALLY APPROVED DOCUMENT
 
 Her finder du hjælp til at gemme, dele og organisere filer i OS2.
 
