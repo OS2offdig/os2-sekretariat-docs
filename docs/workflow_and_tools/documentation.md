@@ -40,11 +40,4 @@ Alle produkter og projekter forventes at have en README-fil i deres offentlige N
 
 Enkelte produkter og projekter anvender også andre platforme. Disse bør fremgå af README-filen, så dokumentationen fortsat kan findes.
 
-Læs om [principper for valg af fælles værktøjer](https://handbook.os2.eu/docs/tool_selection_principles).
-
-## Sådan gør du
-
-I Værktøjskassen finder du:
-
-- [GitHub eller Nextcloud?](INDSÆT-LINK) – om OS2's fælles værktøjer og support.
-- [Opret en README](INDSÆT-LINK) – vejledning og skabelon til at dokumentere jeres struktur.
+Læs om [principper for valg af fælles værktøjer](docs/workflow_and_tools/tool_selection_principles.md).
