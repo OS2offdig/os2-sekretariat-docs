@@ -47,14 +47,18 @@ Organisation og Relation til produktet behøver ikke være udfyldt på alle modt
 
 ### Opdatering og afmelding
 
-- [ ] Listen har en opdateringsformular, så modtagerne kan opdatere deres oplysninger.
-- [ ] Listen har en afmeldingsformular, så modtagerne kan afmelde nyhedsbrevet.
-- [ ] Nyhedsbrevsskabelonen indeholder links til opdatering og afmelding.
-- [ ] Begge links er testet og fungerer korrekt.
+- [ ] Afmeldingsformular og formular til opdatering af egne kontaktoplysninger er oprettet i Heyloyalty.
+- [ ] Footeren indeholder følgende links:
+  - OS2's privatlivspolitik
+  - Afmeld nyhedsbrevet
+  - Opdater dine kontaktoplysninger
+  - Opdater lokal kontaktperson
+  - Produktets hjemmeside
+- [ ] Linket til produktets hjemmeside er korrekt.
+
+Se **Opsæt øvrige formularer**, hvis du har brug for at oprette eller ændre formularerne.
 
 Du finder formularerne under **Lister → ⋮ → Rediger liste → Formularer**.
-
-*Bemærk: Et link til opdatering af oplysninger er ikke nødvendigvis det samme som at skifte kontaktperson. Denne funktion skal afklares særskilt.*
 
 ## Double opt-in
 
@@ -77,6 +81,6 @@ Rollebaserede modtagere, fx kontaktpersoner og medlemmer af styre- og koordinati
 
 ## Hvis noget mangler
 
-Du behøver ikke rette alt på én gang.
+Hvis I anvender OS2's fælles standardskabelon til nyhedsbreve (kopier og tilpas jeres produkt), er I sikre på at alle obligatoriske links er inkluderet. 
 
 Brug vejledningerne under **Nyhedsbreve** til den konkrete opgave, eller tag fat i OS2-sekretariatet, hvis du er i tvivl.
