@@ -107,19 +107,27 @@ Eksempel:
 
 **Bemærk:** Odoo kontrollerer ikke automatisk, om deltageren opfylder betingelserne. Arrangøren skal selv kontrollere tilmeldingerne.
 
+
 ## 6. Tjek de automatiske mails
 
 Vælg fanen **Kommunikation** nederst på arrangementet.
 
-Når du bruger en af OS2's arrangementsskabeloner, er de almindelige automatiske mails allerede sat op.
+Når du bruger en af OS2's arrangementsskabeloner, er de almindelige automatiske mails allerede sat op. Du behøver derfor ikke gøre mere, medmindre du har særlige behov.
 
-Du behøver derfor normalt ikke gøre mere.
+**Vil du ændre udsendelsestidspunktet?**
 
-> ⚠️ **Ret ikke i de fælles mailskabeloner**
+Du kan ændre **Interval, Enhed og Trigger** under Kommunikation på dit eget arrangement.
+
+Det påvirker ikke de fælles mailskabeloner eller andre arrangementer.
+
+**Husk:** Kontrollér, at mailens tekst stadig passer til det nye udsendelsestidspunkt.
+
+> ⚠️ **Ret ikke indholdet i de fælles mailskabeloner**
 >
-> Ændringer i fælles mailskabeloner kan påvirke andre arrangementer.
+> Ændringer i en fælles mailskabelon kan påvirke andre arrangementer.
 >
-> Har du brug for en anden mailtekst eller ekstra automatiske mails, skal du oprette dine egne mailskabeloner.
+> Har du brug for en anden mailtekst eller ekstra automatiske mails med særligt indhold, skal du oprette dine egne mailskabeloner.
+
 
 ## 7. Gå videre til arrangementssiden
 
