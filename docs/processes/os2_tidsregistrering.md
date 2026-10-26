@@ -2,7 +2,7 @@
 title: Struktur for tidsregistrering
 layout: default
 parent: Processer og rutiner
-nav_order: 4
+nav_order: 50
 ---
 
 # Struktur for tidsregistrering
