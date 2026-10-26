@@ -2,7 +2,7 @@
 title: Økonomi og kontoplaner
 layout: default
 parent: Processer og rutiner
-nav_order: 3
+nav_order: 40
 ---
 
 # Økonomi i OS2
