@@ -18,40 +18,55 @@ Alle produktnyhedsbreve skal have både en **afmeldingsformular** og en **opdate
 1. TOC
 {:toc}
 
-## Find formularerne
+## Opret formularerne
 
 1. Gå til **Lister** i Heyloyalty.
-2. Klik på de tre prikker ved den relevante liste, og vælg **Rediger liste**.
-3. Gå til fanen **Formularer**.
+2. Klik på de tre prikker ved produktets liste, og vælg **Rediger liste**.
+3. Vælg fanen **Formularer**.
+4. Opret formularerne **Afmeld** og **Opdater**.
+5. Brug som udgangspunkt standardopsætningen, og gem.
 
-## Afmeldingsformular
+## Formularer og links i footeren
 
-Formularen giver modtageren mulighed for at afmelde sig nyhedsbrevet.
+OS2's footerskabelon indeholder fem links:
 
-1. Vælg **Afmeld**.
-2. Klik på **Opret side**.
-3. Brug standardopsætningen, og gem.
+| Link | Destination |
+|---|---|
+| Privatlivspolitik | [OS2's privatlivspolitik](https://www.os2.eu/privatlivspolitik) |
+| Afmeld nyhedsbrevet | Afmeldingsformular i Heyloyalty |
+| Opdater dine kontaktoplysninger | Opdateringsformular i Heyloyalty |
+| Opdater lokal kontaktperson | [Formular på os2.eu](https://www.os2.eu/opdater-kontaktperson) |
+| Produktets hjemmeside | Produktets side på os2.eu |
 
-## Opdater kontaktperson
+De to Heyloyalty-formularer indsættes via flettefelter. Dermed sendes modtageren til sin egen formular.
 
-Formularen giver modtageren mulighed for selv at rette sine kontaktoplysninger.
+**Vigtigt:** Der er forskel på at opdatere egne kontaktoplysninger og at ændre den lokale kontaktperson for et produkt. Ændringer af lokale kontaktpersoner skal meddeles OS2-sekretariatet via formularen på os2.eu, så oplysningerne kan opdateres administrativt.
 
-1. Vælg **Opdater**.
-2. Klik på **Opret side**.
-3. Brug standardopsætningen, og gem.
+## Forslag til afmeldingstekster
 
-**Vigtigt:** Hvis du vil bruge formularens direkte URL, kræver det yderligere opsætning med kodeord og automatisering.
+Hvis du ønsker at tilpasse standardteksterne, kan du bruge:
 
-Vi anbefaler derfor, at du bruger formularens flettefelt i nyhedsbrevet. Se eventuelt [Heyloyaltys vejledning](https://guides.heyloyalty.com/help/opdateringsformular-paa-hjemmeside/).
+**Før afmelding**
 
-## Brug formularerne i nyhedsbrevet
+*Afmeld nyhedsbrevet*
 
-Brug altid Heyloyaltys flettefelter til at indsætte links til afmelding og opdatering, fx i footeren og/eller i selve nyhedsbrevet.
+Du er ved at afmelde dig nyhedsbrevet om [produktnavn]. Hvis du fortsætter, modtager du ikke længere nyhedsbreve fra produktet.
 
-**Vær opmærksom på:**
+**Efter afmelding**
 
-- **Flere formularer:** Hvis der er flere formularer af samme type, anvender flettefeltet den øverste. Kontrollér derfor rækkefølgen.
-- **Testmails:** Formularlinks via flettefelter fungerer ikke i almindelige testmails. Test dem i stedet ved at sende en reel udsendelse til en testkontakt.
+*Du er nu afmeldt*
+
+Du modtager ikke længere nyhedsbrevet om [produktnavn]. Du er altid velkommen til at tilmelde dig igen.
+
+## Tekniske bemærkninger
+
+**Flere formularer:** Når du bruger flettefelter, anvender Heyloyalty den øverste formular af den pågældende type. Kontrollér derfor rækkefølgen, hvis du har oprettet flere.
+
+**Testmails:** Formularlinks via flettefelter fungerer ikke i almindelige testmails. De kan testes gennem en reel udsendelse til en testkontakt.
+
+**Direkte URL til opdateringsformular:** Brug af opdateringsformularens selvstændige URL kræver ekstra opsætning med kodeord. Brug derfor som udgangspunkt flettefeltet i nyhedsbrevet.
+
+Se [Heyloyaltys vejledninger](https://guides.heyloyalty.com/), hvis du vil arbejde videre med formularerne.
 
 ---
 
