@@ -1,9 +1,9 @@
 ---
-title: Skabeloner til arrangementer og mails
+title: Skabeloner
 layout: default
 parent: Arrangementer
 grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 50
+nav_order: 70
 has_children: false
 has_toc: true
 ---
@@ -11,9 +11,20 @@ has_toc: true
 # Skabeloner til arrangementer og mails
 {: .no_toc }
 
-Denne vejledning er relevant, hvis du vil oprette eller vedligeholde skabeloner, som skal kunne bruges igen.
+> ✅ **Du kan som regel bruge OS2's eksisterende skabeloner**
+>
+> Skal du oprette et webinar eller et fysisk arrangement? Så kan du normalt nøjes med at vælge en af OS2's arrangementsskabeloner:
+>
+> - **OS2 webinar skabelon**
+> - **OS2 fysisk arrangement skabelon**
+>
+> De almindelige spørgsmål og automatiske mails er allerede sat op. Du behøver derfor ikke oprette dine egne skabeloner.
+>
+> Husk blot at udfylde oplysningerne for dit arrangement – herunder mødelinket ved webinarer.
+>
+> **Brug Tjekliste til arrangementer i sidemenuen**, hvis du bare skal oprette et arrangement.
 
-Hvis du bare skal oprette ét arrangement med OS2's standardskabeloner, behøver du normalt ikke denne vejledning.
+Denne vejledning er til dig, der har særlige behov og derfor vil oprette dine egne skabeloner.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -21,154 +32,141 @@ Hvis du bare skal oprette ét arrangement med OS2's standardskabeloner, behøver
 1. TOC
 {:toc}
 
-## To slags skabeloner
+## Hvad er forskellen på skabelonerne?
 
 Odoo bruger to forskellige slags skabeloner:
 
-**Arrangementsskabeloner** hjælper med opsætningen af selve arrangementet. De kan blandt andet indeholde spørgsmål og automatiske mails.
+### Arrangementsskabelon
 
-**Mailskabeloner** indeholder teksten i de mails, der kan sendes automatisk fra et arrangement.
+Bestemmer, hvordan et nyt arrangement sættes op fra starten.
 
-Hos OS2 findes allerede to arrangementsskabeloner:
+Den kan blandt andet indeholde:
 
-- **OS2 fysisk arrangement skabelon**
-- **OS2 webinar skabelon**
+- spørgsmål til deltagerne
+- automatiske mails og deres udsendelsestidspunkter
+- andre faste indstillinger
 
-De dækker de fleste almindelige arrangementer.
+**Eksempel:** Når du vælger OS2 webinar skabelon, får dit arrangement automatisk de almindelige spørgsmål og tre automatiske mails.
 
-## Hvornår giver en ny skabelon mening?
+### Mailskabelon
 
-Brug som udgangspunkt en af OS2's eksisterende skabeloner:
+Bestemmer, **hvad der står i en mail**.
 
-- **OS2 fysisk arrangement skabelon**
-- **OS2 webinar skabelon**
+En mailskabelon kan fx indeholde tekst til en bekræftelsesmail eller påmindelse. Den kan hente oplysninger om det konkrete arrangement automatisk.
 
-De dækker de fleste almindelige arrangementer.
+**Eksempel:** Bekræftelsesmailen indsætter automatisk deltagerens navn, arrangementets titel og dato.
 
-✅ **Lav kun en ny skabelon, hvis de eksisterende ikke passer godt nok.**
+### Hvad bestemmer, hvornår mailen sendes?
 
-Det kan fx være, hvis:
+På det enkelte arrangement finder du fanen **Kommunikation**.
 
-- et produkt har brug for andre faste mails
-- et produkt har brug for andre faste spørgsmål
-- samme særlige opsætning skal bruges igen flere gange
-- flere personer skal kunne oprette den samme type arrangement med en fast opsætning
+Her kan du ændre udsendelsestidspunktet ved hjælp af **Interval, Enhed og Trigger**, uden at ændre indholdet i mailskabelonen eller påvirke andre arrangementer.
 
-En skabelon behøver ikke være fælles for hele OS2. Et produkt kan godt have sin egen, hvis der er et reelt behov.
+## Hvornår har du brug for en ny skabelon?
 
-❌ **Lav ikke en ny skabelon**, bare fordi:
+### Opret din egen mailskabelon, hvis:
 
-- datoen er anderledes
-- tidspunktet er anderledes
-- stedet er anderledes
-- mødelinket er anderledes
+- du ønsker en anden tekst i bekræftelsesmailen eller påmindelserne
+- du vil sende en ekstra automatisk mail med særligt indhold
+- et produkt skal have sin egen faste mailtekst til flere arrangementer
 
-De oplysninger hentes fra det konkrete arrangement.
+Du behøver ikke oprette en ny arrangementsskabelon, bare fordi du har brug for en anden mailtekst.
 
-> 💡 **Hold antallet nogenlunde overskueligt**
+### Opret din egen arrangementsskabelon, hvis:
+
+- du ofte opretter arrangementer med den samme særlige opsætning
+- et produkt har brug for andre faste spørgsmål og automatiske mails
+- flere personer skal kunne oprette samme type arrangement med en fælles opsætning
+
+**Du behøver ikke nye skabeloner**, bare fordi dato, tidspunkt, adresse eller mødelink er anderledes. De oplysninger angives på det enkelte arrangement.
+
+> ⚠️ **Ret ikke i OS2's fælles skabeloner**
 >
-> Skabeloner sparer tid, når de bliver genbrugt. For mange næsten ens skabeloner gør det til gengæld sværere at vælge den rigtige.
+> Du må ikke ændre indholdet i OS2's fælles mailskabeloner eller opsætningen af de fælles arrangementsskabeloner.
+>
+> Ændringer i en fælles mailskabelon kan påvirke mails til andre arrangementer. Ændringer i en fælles arrangementsskabelon kan påvirke opsætningen af nye arrangementer.
+>
+> Har du særlige behov, skal du oprette din egen skabelon.
 
 ## Opret en arrangementsskabelon
 
-Gå til:
+1. Gå til **Arrangementer → Konfiguration → Arrangementsskabeloner**.
+2. Klik på **Ny**.
+3. Giv skabelonen et tydeligt navn, fx `OS2produkt – workshop`.
+4. Udfyld de indstillinger, der skal bruges igen.
 
-**Arrangementer → Konfiguration → Arrangementsskabeloner**
+Du kan blandt andet opsætte:
 
-Klik på **Ny**.
+- **Kommunikation:** Automatiske mails og udsendelsestidspunkter.
+- **Spørgsmål:** De oplysninger, deltagerne skal udfylde.
+- **Billetter:** Eventuelle billettyper.
+- Andre faste indstillinger efter behov.
 
-Giv skabelonen et navn, der gør det tydeligt, hvem og hvad den er til.
-
-På skabelonen kan du blandt andet sætte:
-
-- tidszone
-- eventuel begrænsning på antal deltagere
-- billetter
-- automatiske mails under **Kommunikation**
-- spørgsmål under **Spørgsmål**
-- noter
-
-Hos OS2 er det især **Kommunikation** og **Spørgsmål**, der er nyttige at sætte op på forhånd.
-
-Når skabelonen senere vælges på et nyt arrangement, bruges dens opsætning som udgangspunkt. Det konkrete arrangement kan derefter tilpasses.
+Når du vælger skabelonen på et nyt arrangement, bruges dens opsætning som udgangspunkt.
 
 ## Opret en mailskabelon
 
-En mailskabelon er teksten, som en automatisk mail bruger.
+Hvis du har brug for en særlig mailtekst:
 
-Den letteste vej til at oprette en ny mailskabelon fra et arrangement er:
-
-1. Åbn arrangementet.
-2. Find fanen **Kommunikation** nederst på siden.
+1. Åbn et arrangement i Odoo.
+2. Find fanen **Kommunikation** nederst.
 3. Klik på **Tilføj en linje**.
 4. Vælg **Mail**.
 5. Klik i feltet, hvor mailskabelonen vælges.
-6. Vælg **Søg flere...**.
-7. Klik på **Opret nye**.
-8. Giv skabelonen et tydeligt navn og skriv mailen.
+6. Vælg **Søg flere...** og derefter **Opret nye**.
+7. Giv mailskabelonen et tydeligt navn, og skriv mailen.
+8. Gem og vælg skabelonen til din automatiske mail.
 
-Når skabelonen er oprettet, kan den vælges på den automatiske mail.
-
-Brug gerne et navn, der gør formålet tydeligt, fx:
+Giv gerne skabelonen et navn, der viser, hvad den skal bruges til, fx:
 
 `OS2produkt: påmindelse til workshop`
 
-Så er det lettere for andre at se, om skabelonen er fælles, produktspecifik eller lavet til et særligt formål.
+Så kan andre se, hvem skabelonen hører til.
 
-## Brug dynamiske oplysninger, når det er muligt
+### Brug automatiske oplysninger i mailen
 
-En mailskabelon kan hente oplysninger fra det arrangement, den bruges på.
-
-Det kan fx være:
+En mailskabelon kan automatisk hente oplysninger om:
 
 - deltagerens navn
-- arrangementets navn
+- arrangementets titel
 - dato og tidspunkt
-- sted
+- sted og adresse
 - URL til onlinearrangement
 
-Det betyder, at du normalt ikke behøver skrive konkrete datoer, adresser eller mødelinks direkte ind i en skabelon, der skal genbruges.
+Det kaldes **dynamiske felter**.
 
-OS2's webinar-skabeloner henter fx mødelinket fra feltet **URL til onlinearrangement**.
+Når du opretter en mailskabelon, der skal genbruges, bør du bruge dynamiske felter i stedet for at skrive fx en bestemt dato, by eller et mødelink direkte ind i teksten.
 
-> ⚠️ **Indsæt ikke et konkret mødelink i en fælles skabelon**
+Brug Odoos funktion til at indsætte dynamiske felter, og kontrollér, at de viser de rigtige oplysninger.
+
+> ⚠️ **Undgå faste mødelinks i mailskabeloner**
 >
-> Hvis du skriver et bestemt Teams- eller mødelink direkte ind i mailskabelonen, vil det samme link blive brugt alle de steder, hvor skabelonen bruges.
-
-## Pas på, når du redigerer en mailskabelon
-
-På et arrangement kan du åbne den valgte mailskabelon via den lille pil ved skabelonens navn.
-
-Pilen kan være meget let at overse.
-
-> ⚠️ **Du redigerer selve skabelonen**
+> Hvis du skriver et konkret Teams- eller mødelink direkte ind i en genbrugelig mailskabelon, risikerer du, at samme link bliver sendt til deltagere i andre arrangementer.
 >
-> En mailskabelon kan bruges af flere arrangementer.
+> Brug i stedet feltet **URL til onlinearrangement** på selve arrangementet og et dynamisk felt i mailskabelonen.
+
+## Pas på, når du åbner en eksisterende mailskabelon
+
+På et arrangement kan du åbne den valgte mailskabelon via den lille pil ved skabelonens navn under **Kommunikation**.
+
+**Du åbner selve mailskabelonen – ikke en kopi til dit arrangement.**
+
+Hvis du ændrer indholdet, kan ændringen derfor påvirke alle de arrangementer, der bruger skabelonen.
+
+Ret ikke i OS2's fælles mailskabeloner. Opret din egen, hvis du har brug for andet indhold.
+
+### Test din mailskabelon
+
+Inden du tager en ny mailskabelon i brug, bør du kontrollere, at tekst og automatiske oplysninger vises korrekt.
+
+> 💡 **Forhåndsvisning kan være misvisende**
 >
-> Hvis du ændrer teksten i skabelonen, kan ændringen derfor slå igennem alle de steder, hvor den bruges.
+> Odoo kan vise oplysninger fra et andet arrangement i forhåndsvisningen, fordi den bruger eksisterende tilmeldinger som eksempler.
 >
-> Skal teksten kun gælde ét arrangement, så opret en ny mailskabelon i stedet.
-
-Det gælder også, selvom du åbner skabelonen fra fanen **Kommunikation** på ét bestemt arrangement.
-
-## Arrangementsskabelon eller mailskabelon?
-
-En enkel huskeregel:
-
-**Arrangementsskabelon = hvordan arrangementet starter.**
-
-**Mailskabelon = hvad der står i mailen.**
-
-På det konkrete arrangement bestemmer **Interval, Enhed og Trigger**, hvornår mailen bliver sendt.
-
-Se **Automatiske mails** for hjælp til at bruge og tilpasse de automatiske mails på et arrangement.
+> Du kan teste den faktiske mail ved at lave en testtilmelding til dit eget arrangement, når det er offentliggjort.
 
 ## Mere hjælp til Odoo
 
-Odoo har også sin egen [dokumentation](https://www.odoo.com/documentation/).
+Se [Odoos officielle dokumentation](https://www.odoo.com/documentation/).
 
-Find **Events** under Odoos dokumentation, hvis du har brug for flere detaljer om skabeloner og arrangementer.
-
-> 💡 **Tjek Odoo-versionen**
->
-> Sørg for, at den vejledning, du læser hos Odoo, passer til den version, som os2.eu kører på. Menuer og muligheder kan ændre sig mellem versioner.
+Vær opmærksom på, at menuer og funktioner kan variere mellem Odoo-versioner.
