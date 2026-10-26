@@ -36,7 +36,9 @@ Sekretariatet vil typisk være lead på den tekniske opsætning, men tjeklisten 
 
 Organisation og Relation til produktet behøver ikke være udfyldt på alle modtagere.
 
-## Tilmeldingsformular
+## Formularer
+
+### Tilmeldingsformular
 
 - [ ] E-mail, fornavn og efternavn er obligatoriske
 - [ ] Organisation er frivillig
