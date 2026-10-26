@@ -10,33 +10,33 @@ has_toc: true
 # Arrangementer
 {: .no_toc }
 
-Her finder du hjælp til at oprette, opsætte og administrere arrangementer på os2.eu.
+Her finder du hjælp til at oprette og administrere arrangementer på os2.eu – både webinarer og fysiske arrangementer.
 
-**Se aktuelle arrangementer på [os2.eu](https://www.os2.eu/event).**
+**Start med Tjekliste til arrangementer i sidemenuen**, hvis du selv skal oprette et arrangement.
+
+Har du ikke adgang til Odoo, eller er du endnu ikke blevet introduceret til det, kan OS2-sekretariatet hjælpe med at oprette arrangementet.
+
+## Sådan fungerer arrangementer i Odoo
 
 Et arrangement består overordnet af to dele:
 
-1. **Arrangementet oprettes i Odoo** med blandt andet dato og tidspunkt, arrangør, sted eller mødelink, tilmelding, spørgsmål og automatiske mails.
-2. **Arrangementssiden på os2.eu sættes op** med den information, deltagerne skal kunne se.
+1. **Arrangementet i Odoo:** Her angiver du dato, tidspunkt, sted eller mødelink og administrerer tilmeldinger og automatiske mails.
+2. **Arrangementssiden på os2.eu:** Her tilføjer du beskrivelse, program, billeder og praktisk information til deltagerne.
 
-Brug som udgangspunkt en af OS2's arrangementsskabeloner, når du selv opretter et arrangement. De indeholder standardspørgsmål og automatiske mails.
+**Brug som udgangspunkt OS2's arrangementsskabeloner.** De indeholder allerede standardspørgsmål og automatiske mails, så du behøver normalt ikke oprette dine egne skabeloner.
 
-Har du ikke adgang til Odoo eller er du ikke blevet introduceret til at oprette arrangementer, kan OS2-sekretariatet hjælpe.
-
-Vælg den vejledning nedenfor, der passer til det, du skal.
+Se [aktuelle arrangementer på os2.eu](https://www.os2.eu/event).
 
 ## Mere hjælp til Odoo
 
-Du kan også bruge [Odoos egen dokumentation om Events](https://www.odoo.com/documentation/19.0/applications/marketing/events.html).
+OS2 anvender **Odoo version 19**.
 
-> 💡 **Tjek Odoo-versionen**
->
-> Sørg for, at dokumentationen passer til den version, som os2.eu kører på. Menuer og muligheder kan ændre sig mellem versioner.
+Du kan finde yderligere hjælp i [Odoos officielle dokumentation om Events](https://www.odoo.com/documentation/19.0/applications/marketing/events.html).
 
-> 💬 **Kan du ikke finde en funktion?**
+> 💡 **Hvis Odoo ser anderledes ud end i vejledningen**
 >
-> Odoo ændrer løbende brugerfladen. Spørg gerne andre OS2-kolleger i den interne samtalekanal, hvis noget ser anderledes ud end i vejledningen.
+> Odoo opdateres løbende, og funktioner og menuer kan ændre sig.
 >
-> Har du opdaget opdateringer på Odoo, som forælder vejledningerne her? Så skriv til kommunikation@os2.eu eller bidrag selv med ændringsforslag via GitHub.
-
-**Odoo-version:** [19]
+> Spørg gerne i OS2's interne samtalekanal, hvis du er i tvivl.
+>
+> Har du fundet en vejledning, der ikke længere passer? Skriv til **kommunikation@os2.eu**, eller foreslå en rettelse via GitHub.

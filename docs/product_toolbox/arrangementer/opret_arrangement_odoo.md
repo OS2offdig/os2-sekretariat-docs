@@ -1,19 +1,19 @@
 ---
-title: Opret et arrangement i Odoo
+title: Opret selv et arrangement
 layout: default
 parent: Arrangementer
 grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 20
+nav_order: 30
 has_children: false
 has_toc: true
 ---
 
-# Opret et arrangement i Odoo
+# Opret selv et arrangement i Odoo
 {: .no_toc }
 
 Denne vejledning er til dig, der har adgang til Odoo og selv skal oprette et arrangement på os2.eu.
 
-Start med en af OS2's skabeloner. Så er de almindelige spørgsmål og automatiske mails allerede sat op.
+**Start med en af OS2's arrangementsskabeloner.** Så er de almindelige spørgsmål og automatiske mails allerede sat op.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -23,17 +23,13 @@ Start med en af OS2's skabeloner. Så er de almindelige spørgsmål og automatis
 
 ## 1. Opret arrangementet
 
-Gå til **Arrangementer** i Odoo og klik på **Ny**.
+Gå til **Arrangementer** i Odoo, og klik på **Ny**.
 
-Udfyld arrangementets titel, dato og tidspunkt.
+Udfyld arrangementets titel, dato og start- og sluttidspunkt.
 
 ### Vælg en skabelon
 
-Find feltet **Skabelon** øverst på siden.
-
-> 💡 **Feltet er let at overse**
->
-> Skabelonfeltet ligger blandt de øvrige oplysninger øverst på arrangementet og kan være svært at få øje på.
+Find feltet **Skabelon** øverst på siden. Feltet kan være let at overse.
 
 Vælg:
 
@@ -46,58 +42,50 @@ Udfyld derefter:
 
 - **Arrangør**
 - **Ansvarlig**
-- **Sprog** – vælg gerne **Dansk**
+- **Sprog** – vælg gerne Dansk
 - eventuelle **Tags**
 
-## 2. Vælg lokale eller mødelink
+## 2. Angiv sted eller mødelink
 
 ### Fysisk arrangement
 
-Vælg arrangementets **Lokale**.
-
-Her angiver du stedet, hvor arrangementet afholdes.
+Vælg arrangementets **Lokale**, og kontrollér adressen.
 
 ### Webinar
 
-Ved et webinar skal feltet **Lokale** være tomt.
+Ved webinarer skal feltet **Lokale** være tomt.
 
 Når du fjerner et lokale, får du mulighed for at udfylde **URL til onlinearrangement**.
 
-Indsæt mødelinket her.
+Indsæt dit Teams- eller andet mødelink her.
 
-> 💡 **Mødelinket bruges i mails**
+> ⚠️ **Husk mødelinket!**
 >
-> OS2's webinar-mails henter mødelinket fra **URL til onlinearrangement**. Indsæt derfor linket, inden der åbnes for tilmelding.
+> OS2's automatiske webinar-mails henter mødelinket fra feltet **URL til onlinearrangement**.
+>
+> Indsæt derfor linket, inden du åbner for tilmelding.
 
 ## 3. Vælg synlighed
 
-Under **Synlighed** vælger du, hvem der kan finde arrangementet.
+Under **Synlighed** vælger du, hvordan arrangementet kan findes på hjemmesiden.
 
 Du kan blandt andet vælge, at arrangementet kun skal kunne findes via et direkte link.
 
-> 💡 **Synlighed har værdi**
->
-> Et arrangement kan godt være relevant at vise på hjemmesiden, selvom ikke alle kan deltage.
+**Overvej, om arrangementet bør være synligt for alle.** Det kan godt være relevant at vise et arrangement på hjemmesiden, selvom det kun er for en bestemt målgruppe.
 
-Brug derfor kun visning via link, når der er en konkret grund til, at arrangementet ikke skal fremgå sammen med de øvrige arrangementer.
+Brug derfor kun visning via link, hvis der er en konkret grund til det.
 
 ## 4. Begræns antal deltagere
 
-Hvis der kun er plads til et bestemt antal deltagere, skal du slå **Begræns tilmeldinger** til og angive det maksimale antal.
+Er der et begrænset antal pladser, skal du slå **Begræns tilmeldinger** til og angive det maksimale antal.
 
-Husk at kontrollere tallet, inden arrangementet offentliggøres.
+## 5. Tjek spørgsmålene ved tilmelding
 
-## 5. Tjek spørgsmålene til deltagerne
-
-Længere nede på arrangementet finder du fanerne:
+Nederst på arrangementet finder du fanerne:
 
 **Billetter · Kommunikation · Spørgsmål · Noter og dokumenter**
 
-> 💡 **Fanerne ligger nederst**
->
-> De kan være lette at overse, når du arbejder med oplysningerne øverst på siden.
-
-Vælg **Spørgsmål** for at se, hvilke oplysninger deltagerne bliver bedt om ved tilmelding.
+Vælg **Spørgsmål**.
 
 OS2's skabeloner indeholder som udgangspunkt:
 
@@ -105,46 +93,59 @@ OS2's skabeloner indeholder som udgangspunkt:
 - e-mail
 - organisation
 
-Du kan tilføje flere spørgsmål, hvis du har brug for andre oplysninger.
+Du kan tilføje flere spørgsmål efter behov, fx om kosthensyn, rolle eller fagområde.
 
-Det kan fx være relevant ved et fysisk arrangement, hvis du skal kende deltagernes kostbehov eller særlige behov. Det kan også være relevant at spørge til rolle, fagområde eller andet, der har betydning for arrangementet.
+Du kan også vælge, om et spørgsmål skal være obligatorisk.
 
-Du kan vælge, om et spørgsmål skal være obligatorisk.
+### Hvis arrangementet kun er for en bestemt målgruppe
+
+Du kan tilføje et obligatorisk spørgsmål, hvor deltageren bekræfter at tilhøre målgruppen.
+
+Eksempel:
+
+"Jeg bekræfter, at jeg er en del af OS2[produkt]-fællesskabet."
+
+**Bemærk:** Odoo kontrollerer ikke automatisk, om deltageren opfylder betingelserne. Arrangøren skal selv kontrollere tilmeldingerne.
+
 
 ## 6. Tjek de automatiske mails
 
 Vælg fanen **Kommunikation** nederst på arrangementet.
 
-Når du har valgt en OS2-skabelon, bør de automatiske mails allerede ligge her.
+Når du bruger en af OS2's arrangementsskabeloner, er de almindelige automatiske mails allerede sat op. Du behøver derfor ikke gøre mere, medmindre du har særlige behov.
 
-Du behøver derfor normalt ikke oprette dem selv.
+**Vil du ændre udsendelsestidspunktet?**
 
-Har du brug for at ændre eller tilføje mails, se **Automatiske mails**.
+Du kan ændre **Interval, Enhed og Trigger** under Kommunikation på dit eget arrangement.
 
-Vil du oprette en ny arrangementsskabelon eller mailskabelon, se **Skabeloner til arrangementer og mails**.
+Det påvirker ikke de fælles mailskabeloner eller andre arrangementer.
 
-## 7. Kontrollér arrangementet
+**Husk:** Kontrollér, at mailens tekst stadig passer til det nye udsendelsestidspunkt.
 
-Inden du går videre, så tjek:
+> ⚠️ **Ret ikke indholdet i de fælles mailskabeloner**
+>
+> Ændringer i en fælles mailskabelon kan påvirke andre arrangementer.
+>
+> Har du brug for en anden mailtekst eller ekstra automatiske mails med særligt indhold, skal du oprette dine egne mailskabeloner.
 
-- titel
-- dato og tidspunkt
-- arrangør og ansvarlig
-- sprog
-- lokale eller mødelink
-- synlighed
-- eventuel deltagerbegrænsning
-- spørgsmål til deltagerne
-- at de automatiske mails ligger under **Kommunikation**
 
-Når oplysningerne er på plads, kan du gå videre til **Opsæt arrangementssiden på os2.eu**.
+### Tags (valgfrit)
+
+Hvis arrangementet hører til et bestemt OS2-produkt, kan du tilføje produktets tag.
+
+Tags gør det muligt at lave en arrangementsoversigt på produktets side på os2.eu, som kun viser arrangementer for det pågældende produkt – ligesom med blogindlæg.
+
+Det er især en fordel for produkter, der løbende annoncerer arrangementer.
+
+
+## 7. Gå videre til arrangementssiden
+
+Når oplysningerne er på plads, kan du fortsætte med at opsætte selve arrangementssiden på os2.eu.
+
+Husk, at arrangementet også skal offentliggøres, før deltagere kan tilmelde sig via hjemmesiden.
 
 ## Mere hjælp til Odoo
 
-Denne vejledning beskriver det, du især skal være opmærksom på i OS2.
+Har du brug for mere hjælp, kan du bruge Odoos officielle dokumentation om Events.
 
-Har du brug for mere hjælp til Odoo, kan du bruge Odoos egen dokumentation om Events.
-
-> 💡 **Tjek versionen**
->
-> Sørg for, at den Odoo-vejledning, du læser, passer til den version, som os2.eu kører på. Menuer og muligheder kan se forskellige ud fra version til version.
+Vær opmærksom på, at menuer og funktioner kan variere mellem Odoo-versioner.

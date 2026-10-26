@@ -3,7 +3,7 @@ title: Automatiske mails
 layout: default
 parent: Arrangementer
 grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 40
+nav_order: 60
 has_children: false
 has_toc: true
 ---
@@ -11,9 +11,13 @@ has_toc: true
 # Automatiske mails
 {: .no_toc }
 
-Når du bruger en af OS2's arrangementsskabeloner, er de almindelige automatiske mails allerede sat op.
-
-I de fleste tilfælde behøver du derfor ikke ændre noget.
+> ✅ **Har du brugt en af OS2's arrangementsskabeloner? Så er de automatiske mails allerede sat op!**
+>
+> Bekræftelsesmail og påmindelser er sat op på forhånd. Du behøver hverken oprette, tilknytte eller redigere mailskabeloner.
+>
+> **Gå videre til Tjekliste til arrangementer i sidemenuen**, og kontrollér, at resten af dit arrangement er klar.
+>
+> **Husk ved webinarer:** Du skal selv indsætte mødelinket i feltet **URL til onlinearrangement** på arrangementet.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -21,11 +25,23 @@ I de fleste tilfælde behøver du derfor ikke ændre noget.
 1. TOC
 {:toc}
 
-## Det får du med OS2's skabeloner
+## Vigtigt om fælles mailskabeloner
+
+> ⚠️ **Ret ikke indholdet i OS2's fælles mailskabeloner**
+>
+> De fælles mailskabeloner bruges af flere arrangementer. Hvis du ændrer teksten, kan det påvirke mails til andre arrangementer.
+>
+> **Har du brug for en anden mailtekst?** Opret din egen mailskabelon i stedet.
+>
+> **Du må gerne ændre udsendelsestidspunktet** under fanen **Kommunikation** på dit arrangement. Det ændrer ikke i den fælles mailskabelon og påvirker ikke andre arrangementer.
+
+Resten af vejledningen er til dig, der vil vide mere om de automatiske mails eller har brug for at tilpasse dem til et særligt arrangement.
+
+## Hvilke mails følger med?
 
 ### OS2 webinar skabelon
 
-Der følger tre mails med:
+Der følger tre automatiske mails med:
 
 - **Webinar: bekræftelse på tilmelding (OS2)** – sendes efter tilmelding
 - **Webinar: påmindelse 2 dage før (OS2)**
@@ -34,94 +50,85 @@ Der følger tre mails med:
 Mailsene henter automatisk oplysninger fra arrangementet, fx:
 
 - deltagerens navn
-- arrangementets navn
+- arrangementets titel
 - dato og tidspunkt
-- mødelink fra **URL til onlinearrangement**
+- mødelink
 - kalenderlinks
 
-Du skal altså **ikke indsætte det konkrete mødelink i mailskabelonen**.
-
-Udfyld mødelinket på selve arrangementet. Så hentes det automatisk ind i mailen.
+**Mødelinket hentes fra feltet URL til onlinearrangement på selve arrangementet.** Du må derfor ikke indsætte mødelinket i mailskabelonen (medmindre du opretter din egen).
 
 ### OS2 fysisk arrangement skabelon
 
-Der følger tre mails med:
+Der følger også tre automatiske mails med:
 
 - **Fysisk arrangement: bekræftelse på tilmelding (OS2)** – sendes efter tilmelding
 - **Fysisk arrangement: påmindelse 2 dage før (OS2)**
 - **Fysisk arrangement: påmindelse 12 timer før (OS2)**
 
-Mailsene henter automatisk oplysninger fra arrangementet, fx navn, dato, tidspunkt og sted.
+Mailsene henter automatisk oplysninger om arrangementet, herunder navn, dato, tidspunkt og sted.
 
 ## Find de automatiske mails
 
-Åbn arrangementet i Odoo.
+1. Åbn arrangementet i Odoo.
+2. Find fanen **Kommunikation** nederst på siden.
 
-Nederst på siden finder du fanen **Kommunikation**.
+Her kan du se, hvilke mails der er tilknyttet arrangementet, og hvornår de sendes.
 
-Her kan du se:
-
-- hvilken mailskabelon der bruges
-- hvornår mailen sendes
-- hvad der udløser den
-
-> 💡 **To ting, der hænger sammen**
+> 💡 **Hvad er forskellen?**
 >
-> Den automatiske mail bestemmer **hvornår** mailen bliver sendt.
+> **Den automatiske mail** bestemmer, hvornår mailen sendes.
 >
-> Mailskabelonen bestemmer **hvad der står i mailen**.
+> **Mailskabelonen** bestemmer, hvad der står i mailen.
 
-## Skal du ændre noget?
+## Hvornår har du brug for din egen mailskabelon?
 
-Brug denne tommelfingerregel:
+Du behøver kun oprette en ny mailskabelon, hvis du har brug for en anden tekst end den, der følger med OS2's skabeloner.
 
-✅ **Brug OS2's eksisterende skabelon**, hvis standardmailen indeholder det, deltagerne skal vide.
+Det kan fx være, hvis:
 
-✅ **Opret en ny mailskabelon**, hvis:
+- et produkt ønsker en særlig mailtekst til sine arrangementer
+- et arrangement kræver ekstra information i bekræftelsen eller påmindelserne
+- du vil tilføje en ekstra automatisk mail med sit eget indhold
 
-- et produkt gerne vil have sin egen faste mailtekst
-- samme særlige tekst skal bruges til flere af produktets arrangementer
-- ét konkret arrangement kræver indhold, som ikke passer i standardmailen
+**Du behøver ikke en ny mailskabelon**, bare fordi arrangementet har en anden dato, adresse eller et andet mødelink. De oplysninger hentes automatisk fra arrangementet.
 
-❌ **Opret ikke en ny mailskabelon**, bare fordi:
+## Ændr tidspunktet for en automatisk mail
 
-- datoen er anderledes
-- stedet er anderledes
-- mødelinket er anderledes
+Du kan ændre, hvornår de automatiske mails sendes, på dit eget arrangement. Det påvirker ikke den fælles mailskabelon eller andre arrangementer.
 
-De oplysninger kan hentes automatisk fra arrangementet.
+1. Åbn arrangementet i Odoo.
+2. Gå til fanen **Kommunikation**.
+3. Find den mail, du vil ændre tidspunktet for.
+4. Justér de relevante felter:
+   - **Interval** – hvor lang tid før eller efter
+   - **Enhed** – fx timer eller dage
+   - **Trigger** – hvilken hændelse tidspunktet beregnes ud fra
 
-❌ **Ret ikke OS2's fælles mailskabelon** for at indsætte oplysninger om ét bestemt arrangement.
+Du kan fx ændre en påmindelse fra to dage før til én dag før.
 
-## Ændr hvornår en mail sendes
-
-Du kan ændre **Interval, Enhed og Trigger** på det enkelte arrangement uden at ændre andre arrangementer.
-
-Det betyder fx, at du kan ændre en påmindelse fra to dage før til én dag før.
-
-> ⚠️ **Tjek teksten, hvis du ændrer tidspunktet**
+> ⚠️ **Husk at kontrollere teksten**
 >
-> OS2's standardmails er skrevet til deres normale tidspunkt. Der kan fx stå *“vi ses om et par timer”* eller *“vi ses om et halvt døgns tid”*.
+> OS2's standardmails kan indeholde formuleringer som "vi ses om et par timer".
 >
-> Hvis du ændrer tidspunktet markant, kan teksten derfor blive misvisende.
+> Hvis du ændrer udsendelsestidspunktet, kan teksten derfor blive misvisende.
 >
-> Har du brug for både et andet tidspunkt **og** en anden tekst, så opret en ny mailskabelon.
+> Har du også brug for en anden tekst, skal du oprette din egen mailskabelon.
 
 ## Pas på, når du åbner en mailskabelon
 
-Ved navnet på den valgte mailskabelon kan du åbne selve skabelonen via den lille pil.
+Du kan åbne en mailskabelon via den lille pil ved skabelonens navn under **Kommunikation**.
 
-Pilen kan være let at overse.
+**Vær opmærksom på, at du åbner selve mailskabelonen – ikke en kopi til dit arrangement.**
 
-> ⚠️ **Du åbner selve mailskabelonen**
->
-> Ændrer du teksten her, kan ændringen slå igennem alle de steder, hvor skabelonen bruges.
->
-> Ret derfor kun en eksisterende skabelon, hvis ændringen skal gælde alle de arrangementer, der bruger den.
->
-> Er teksten kun til ét arrangement, så opret en ny mailskabelon i stedet.
+Du må derfor ikke ændre indholdet i OS2's fælles mailskabeloner.
 
-Se **Skabeloner til arrangementer og mails** for, hvordan du opretter en ny mailskabelon.
+> 💡 **Forhåndsvisning kan vise et andet arrangement**
+>
+> Når du forhåndsviser en mailskabelon, kan Odoo vise oplysninger fra et andet arrangement. Det skyldes, at forhåndsvisningen bruger eksisterende tilmeldinger som eksempler.
+>
+> Det betyder ikke nødvendigvis, at noget er galt.
+>
+> Hvis du vil kontrollere mailen til dit eget arrangement, kan du lave en testtilmelding med din egen mailadresse, når arrangementet er offentliggjort.
 
 ## Tilføj en automatisk mail
 
@@ -130,21 +137,13 @@ Hvis du har brug for en ekstra mail:
 1. Åbn fanen **Kommunikation**.
 2. Klik på **Tilføj en linje**.
 3. Vælg **Mail**.
-4. Klik i feltet til mailskabelonen.
-5. Vælg den skabelon, du vil bruge.
-6. Hvis du ikke kan finde den, vælg **Søg flere...**.
-7. Angiv **Interval**, **Enhed** og **Trigger** for at bestemme, hvornår mailen skal sendes.
+4. Vælg den mailskabelon, du vil bruge. Vælg eventuelt **Søg flere...**, hvis du ikke kan finde den.
+5. Angiv **Interval**, **Enhed** og **Trigger**.
 
-Hvis mailen kræver sin egen tekst, skal du oprette en ny mailskabelon.
-
-Se **Skabeloner til arrangementer og mails**.
+Har du brug for en anden mailtekst, skal du først oprette din egen mailskabelon.
 
 ## Mere hjælp til Odoo
 
-Denne vejledning beskriver den måde, vi bruger automatiske mails på i OS2.
+Se [Odoos officielle dokumentation](https://www.odoo.com/documentation/).
 
-Har du brug for flere detaljer, kan du også bruge [Odoos egen dokumentation](https://www.odoo.com/documentation/).
-
-> 💡 **Tjek Odoo-versionen**
->
-> Sørg for, at den vejledning, du læser hos Odoo, passer til den version, som os2.eu kører på. Menuer og muligheder kan ændre sig mellem versioner.
+Vær opmærksom på, at menuer og funktioner kan variere mellem Odoo-versioner.

@@ -3,7 +3,7 @@ title: Få oprettet et arrangement
 layout: default
 parent: Arrangementer
 grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 10
+nav_order: 20
 has_children: false
 has_toc: true
 ---
@@ -11,11 +11,11 @@ has_toc: true
 # Få oprettet et arrangement
 {: .no_toc }
 
-Har du ikke adgang til Odoo eller er du endnu ikke blevet introduceret til selv at oprette arrangementer, kan OS2-sekretariatet hjælpe med at oprette arrangementet på os2.eu.
+Har du ikke adgang til Odoo, eller er du endnu ikke blevet introduceret til at oprette arrangementer? Så kan OS2-sekretariatet hjælpe med at oprette dit arrangement på os2.eu.
 
 Send oplysningerne nedenfor til **kommunikation@os2.eu**.
 
-Send gerne materialet i god tid inden den ønskede offentliggørelse. Forvent nogle dages behandlingstid.
+Send gerne materialet i god tid før den ønskede offentliggørelse. Forvent nogle dages behandlingstid.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -25,92 +25,70 @@ Send gerne materialet i god tid inden den ønskede offentliggørelse. Forvent no
 
 ## Det skal vi bruge
 
-### 1. Titel, tid og format
+### 1. Oplysninger om arrangementet
 
-Send:
-
-- **arrangementets titel**
-- **dato**
-- **start- og sluttidspunkt**
-- **arrangør** – fx produkt, projekt eller koordinationsgruppe
-- **kontaktperson** – navn og e-mail
-- **tilmeldingsfrist**
-- om arrangementet er **fysisk, online eller hybrid**
-
-Ved et fysisk eller hybridt arrangement skal du også sende:
-
-- adresse
-- eventuelt lokale
-
-Ved et online eller hybridt arrangement skal du sende mødelinket.
+- **Titel**
+- **Dato og start- og sluttidspunkt**
+- **Tilmeldingsfrist**
+- **Format:** Fysisk, online eller hybrid
+- **Arrangør:** Fx produkt, projekt eller koordinationsgruppe
+- **Kontaktperson:** Navn og e-mail
+- **Sted:** Adresse og eventuelt lokale ved fysiske og hybride arrangementer
+- **Mødelink:** Ved online og hybride arrangementer
 
 ### 2. Målgruppe og formål
 
 Beskriv kort:
 
-- hvem arrangementet er relevant for
-- hvad formålet med arrangementet er
-- hvad deltagerne får ud af at være med
+- Hvem arrangementet er relevant for
+- Hvad formålet er
+- Hvad deltagerne får ud af at være med
 
-Skriv også, hvis arrangementet **ikke** er relevant for bestemte målgrupper, fx leverandører.
+Skriv også, hvis arrangementet ikke er relevant for bestemte målgrupper, fx leverandører.
 
 ### 3. Tekst til arrangementssiden
 
-Send en kort beskrivelse af arrangementet.
+Send en kort beskrivelse, der fortæller:
 
-Den bør som minimum fortælle:
+- Hvad arrangementet handler om
+- Hvorfor det er relevant
+- Hvad deltagerne kan forvente
 
-- hvad arrangementet handler om
-- hvorfor det er relevant
-- hvad deltagerne kan forvente
+Send også gerne et program. Det må godt være foreløbigt.
 
-Send også programmet, hvis det findes. Det må gerne være foreløbigt.
+## Andre oplysninger, hvis det er relevant
 
-## Hvis det er relevant
+### Deltagerantal og spørgsmål ved tilmelding
 
-### Begrænset antal deltagere
+Skriv, hvis der er et begrænset antal pladser, eller hvis deltagerne skal besvare særlige spørgsmål ved tilmelding.
 
-Skriv, hvis der kun er plads til et bestemt antal deltagere.
+OS2's arrangementsskabeloner indsamler som udgangspunkt navn, e-mail og organisation.
 
-### Ekstra spørgsmål ved tilmelding
+Ekstra spørgsmål kan fx handle om kost, særlige behov, rolle eller ønsker til arrangementet. Angiv, hvis spørgsmålene skal være obligatoriske.
 
-OS2's arrangementsskabeloner indsamler som udgangspunkt:
 
-- navn
-- e-mail
-- organisation
+### Særlig adgang til tilmelding
 
-Hvis I har brug for flere oplysninger fra deltagerne, så send de ekstra spørgsmål med.
+Skriv, hvis arrangementet kun er for en bestemt målgruppe, fx deltagere i et produktfællesskab.
 
-Det kan fx være oplysninger om:
+Arrangementet kan godt være offentligt på os2.eu, selvom ikke alle må deltage.
 
-- kost
-- særlige behov
-- rolle eller fagområde
-- ønsker til arrangementet
+Det er muligt at tilføje et obligatorisk spørgsmål, hvor deltageren bekræfter at tilhøre målgruppen.
 
-Skriv også, hvis et spørgsmål skal være obligatorisk.
-
-### Særlig tilmelding
-
-Skriv, hvis tilmeldingen fx:
-
-- kræver godkendelse
-- kun er åben for en bestemt gruppe
+**Bemærk:** Odoo kontrollerer ikke automatisk, om deltageren opfylder betingelserne. Arrangøren har selv ansvar for at gennemgå tilmeldingerne.
 
 ### Praktisk information
 
-Send det, deltagerne skal vide, fx:
+Send de oplysninger, deltagerne skal kende på forhånd, fx:
 
-- forplejning
-- om arrangementet optages
-- forventning om aktiv deltagelse
-- brug af kamera eller mikrofon
-- andet, der er vigtigt at vide på forhånd
+- Forplejning
+- Om arrangementet optages
+- Forventning om aktiv deltagelse
+- Brug af kamera eller mikrofon
 
-### Synlighed
+### Synlighed på hjemmesiden
 
-Skriv, hvis arrangementet **kun skal kunne findes via et direkte link** og ikke vises sammen med de øvrige arrangementer på os2.eu.
+Skriv, hvis arrangementet kun skal kunne findes via et direkte link og ikke vises på den almindelige arrangementsliste på os2.eu.
 
 ### Illustrationer og andet materiale
 
@@ -120,6 +98,6 @@ Sekretariatet kan også vælge et bannerbillede, der passer til OS2's visuelle u
 
 ## Automatiske mails
 
-Når arrangementet oprettes med en af OS2's skabeloner, følger standardmails til deltagerne automatisk med.
+Når arrangementet oprettes med en af OS2's arrangementsskabeloner, er de almindelige automatiske mails allerede sat op.
 
-Du behøver derfor kun sende tekst til mails, hvis arrangementet kræver noget særligt.
+Du behøver kun sende tekst til mails, hvis du har særlige ønsker til indholdet.
