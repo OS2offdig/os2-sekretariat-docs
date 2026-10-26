@@ -7,6 +7,13 @@ has_toc: true
 ---
 
 # Ændring af lokal kontaktperson
+{: .no_toc }
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 > **Under udarbejdelse**
 >
