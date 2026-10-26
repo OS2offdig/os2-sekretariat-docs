@@ -129,6 +129,15 @@ Det påvirker ikke de fælles mailskabeloner eller andre arrangementer.
 > Har du brug for en anden mailtekst eller ekstra automatiske mails med særligt indhold, skal du oprette dine egne mailskabeloner.
 
 
+### Tags (valgfrit)
+
+Hvis arrangementet hører til et bestemt OS2-produkt, kan du tilføje produktets tag.
+
+Tags gør det muligt at lave en arrangementsoversigt på produktets side på os2.eu, som kun viser arrangementer for det pågældende produkt – ligesom med blogindlæg.
+
+Det er især en fordel for produkter, der løbende annoncerer arrangementer.
+
+
 ## 7. Gå videre til arrangementssiden
 
 Når oplysningerne er på plads, kan du fortsætte med at opsætte selve arrangementssiden på os2.eu.
