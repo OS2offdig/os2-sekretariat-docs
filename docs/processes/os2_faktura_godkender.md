@@ -2,7 +2,7 @@
 title: Fakturagodkender
 layout: default
 parent: Processer og rutiner
-nav_order: 2
+nav_order: 30
 ---
 
 # Oversigt over hvem der godkender regninger
