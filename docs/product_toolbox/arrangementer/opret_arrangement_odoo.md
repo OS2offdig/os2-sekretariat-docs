@@ -8,7 +8,7 @@ has_children: false
 has_toc: true
 ---
 
-# Opret et arrangement i Odoo
+# Opret selv et arrangement i Odoo
 {: .no_toc }
 
 Denne vejledning er til dig, der har adgang til Odoo og selv skal oprette et arrangement på os2.eu.
