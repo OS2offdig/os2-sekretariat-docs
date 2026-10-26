@@ -35,6 +35,7 @@ Skal du oprette et webinar eller et fysisk arrangement på os2.eu? Brug tjeklist
 - [ ] Udfyld arrangementets titel, dato, start- og sluttidspunkt og arrangør.
 - [ ] Indsæt dit Teams- eller andet mødelink i feltet **URL til onlinearrangement**. Linket hentes automatisk ind i mails til deltagerne.
 - [ ] Tilføj eventuelle spørgsmål til deltagerne, og angiv en deltagergrænse, hvis det er relevant.
+- [ ] Kontroller at udsendelsestidspunkt for automatiske mails er indstillet efter dit behov (valgfrit)
 - [ ] Opsæt arrangementssiden på os2.eu med beskrivelse, program og praktisk information.
 - [ ] Kontrollér arrangementssiden og offentliggør den.
 - [ ] Lav en testtilmelding med din egen mailadresse. Kontrollér, at bekræftelsesmailen indeholder de rigtige oplysninger.
@@ -46,6 +47,7 @@ Skal du oprette et webinar eller et fysisk arrangement på os2.eu? Brug tjeklist
 - [ ] Udfyld arrangementets titel, dato, start- og sluttidspunkt og arrangør.
 - [ ] Angiv arrangementssted og adresse.
 - [ ] Tilføj eventuelle spørgsmål til deltagerne, og angiv en deltagergrænse, hvis det er relevant.
+- [ ] Kontroller at udsendelsestidspunkt for automatiske mails er indstillet efter dit behov (valgfrit)
 - [ ] Opsæt arrangementssiden på os2.eu med beskrivelse, program og praktisk information.
 - [ ] Kontrollér arrangementssiden og offentliggør den.
 - [ ] Lav en testtilmelding med din egen mailadresse. Kontrollér, at bekræftelsesmailen indeholder de rigtige oplysninger.
