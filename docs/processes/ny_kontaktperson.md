@@ -2,7 +2,7 @@
 title: Ændring af lokal kontaktperson
 layout: default
 parent: Processer og rutiner
-nav_order: 15
+nav_order: 20
 has_toc: true
 ---
 
