@@ -75,9 +75,24 @@ Du kan blandt andet vælge, at arrangementet kun skal kunne findes via et direkt
 
 Brug derfor kun visning via link, hvis der er en konkret grund til det.
 
-## 4. Begræns antal deltagere
+## 4. Indstil deltagerantal og tilmeldingsfrist
+
+### Begræns antal deltagere
 
 Er der et begrænset antal pladser, skal du slå **Begræns tilmeldinger** til og angive det maksimale antal.
+
+### Angiv en tilmeldingsfrist
+
+Vil du have tilmeldingen til at lukke automatisk på et bestemt tidspunkt, gør du sådan:
+
+1. Gå til fanen **Billetter** nederst på arrangementet.
+2. Hvis der ikke allerede er en billet, klik på **Tilføj en linje**, og opret en. Du kan bruge Odoos foreslåede standardopsætning.
+3. Giv eventuelt billetten et navn, fx *Tilmelding*. Kontrollér, at prisen er 0 kr., hvis arrangementet er gratis.
+4. Angiv dato og klokkeslæt i feltet **Registrering Slut**.
+5. Gem ændringen.
+
+Når fristen er passeret, lukker tilmeldingen via billetten automatisk.
+
 
 ## 5. Tjek spørgsmålene ved tilmelding
 
