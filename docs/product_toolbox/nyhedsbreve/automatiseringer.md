@@ -1,8 +1,9 @@
 ---
 title: Automatiseringer
 layout: default
-parent: Nyhedsbreve
-nav_order: 20
+parent: Opsætning af nyhedsbrevsliste
+grand_parent: Nyhedsbreve
+nav_order: 50
 has_children: false
 has_toc: true
 ---
