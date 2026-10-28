@@ -2,7 +2,7 @@
 title: Vedligehold modtagere
 layout: default
 parent: Nyhedsbreve
-nav_order: 90
+nav_order: 60
 has_children: false
 has_toc: true
 ---
