@@ -28,13 +28,11 @@ Når produktets liste allerede er sat op, er arbejdsgangen typisk:
 
 Du behøver normalt ikke ændre på produktets liste, felter eller tilmeldingsflow, bare fordi du skal sende et nyt nyhedsbrev.
 
-**💡 Tip: Du kan ofte spare tid ved at duplikere en tidligere kampagne.**
+**💡 Tip: Spar tid ved at duplikere en tidligere kampagne.**
 
-Hvis produktet allerede har sendt et nyhedsbrev, kan du ofte tage udgangspunkt i en tidligere kampagne og tilpasse indholdet.
+Hvis produktet tidligere har sendt nyhedsbreve, kan du duplikere en kampagne og tilpasse indholdet.
 
-Det kan være en god løsning, især hvis produktets eksisterende opsætning fungerer fint.
-
-Er du i tvivl om, hvilken kampagne eller opsætning du bør tage udgangspunkt i, så tag fat i OS2-sekretariatet.
+Kontrollér dog, at kampagnen bruger produktets opdaterede skabelon. Ellers anbefaler vi, at du opretter en ny kampagne og vælger den nye skabelon.
 {: .highlight }
 
 ## Trin 1: Opret en kampagne
@@ -64,15 +62,23 @@ En **preheader** er den korte tekst, der ofte vises sammen med emnelinjen i modt
 
 Hvis du ikke er klar til at sende endnu, kan kampagnen gemmes og åbnes igen senere.
 
-## Trin 3: Opret indholdet
+## Trin 3: Vælg skabelon og opret indholdet
 
-I næste trin opretter du selve indholdet i nyhedsbrevet.
+OS2-sekretariatet har oprettet en fælles mailskabelon, som er tilpasset de enkelte produkter. **Vi anbefaler, at du bruger produktets skabelon**, når du opretter et nyhedsbrev.
 
-Du kan enten tage udgangspunkt i en tidligere kampagne eller bruge den opsætning, der allerede anvendes for produktet.
+Skabelonen har et enkelt design uden faste billeder og logoer, da mange mailprogrammer blokerer disse. Den indeholder desuden en fast footer med links til afmelding, opdatering af kontaktoplysninger, ændring af lokal kontaktperson, privatlivspolitik og OS2's hjemmeside.
 
-Undgå så vidt muligt at bygge en helt ny opsætning fra bunden, hvis der allerede findes noget, der kan genbruges.
+På den måde er de vigtigste faste elementer allerede på plads, og du kan koncentrere dig om indholdet.
 
-Er du i tvivl, så kontakt OS2-sekretariatet.
+**Sådan gør du:**
+
+1. Vælg den skabelon, der er oprettet til dit produkt.
+2. Brug Heyloyaltys editor til at opbygge og redigere nyhedsbrevet.
+3. Lad skabelonens faste elementer være, medmindre der er behov for ændringer.
+
+Du må gerne bruge en anden skabelon eller tilpasse din egen. I så fald har du selv ansvar for at sikre, at de nødvendige oplysninger og funktioner er på plads.
+
+Har du brug for ændringer i produktets skabelon, er du velkommen til at kontakte OS2-sekretariatet.
 
 ## Trin 4: Send en test
 
@@ -106,9 +112,15 @@ Hvis der mangler modtagere, eller oplysningerne på listen ikke ser rigtige ud, 
 
 Du behøver ikke sætte dig ind i hele opsætningen i Heyloyalty for at sende et almindeligt nyhedsbrev.
 
+## Trin 6: Få delingslink
+
+Når kampagnen er sendt, kan du klikke på de tre prikker til højre og vælge "tilføj til arkiv". Herefter oprettes et delingslink til visning af nyhedsbrevet i browser, som kan bruges på hjemmeside, i andre mails eller lignende.
+
+Linket finder du på kampagnens overbliksside, øverst til højre.
+
 ## Har du brug for hjælp?
 
-Hvis noget ikke virker som forventet, eller du er i tvivl om opsætning, modtagere eller udsendelse, er du velkommen til at tage fat i OS2-sekretariatet.
+Hvis noget ikke virker som forventet, eller du er i tvivl om opsætning, modtagere eller udsendelse, så spørg dine produktforvalterkollegaer via OS2samtale. Du er også velkommen til at tage fat i OS2-sekretariatet.
 
 > **Bemærk**
 >

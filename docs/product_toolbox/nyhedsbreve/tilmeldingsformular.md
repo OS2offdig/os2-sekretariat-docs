@@ -1,8 +1,9 @@
 ---
 title: Opsæt tilmeldingsformular
 layout: default
-parent: Nyhedsbreve
-nav_order: 60
+parent: Opsætning af nyhedsbrevsliste
+grand_parent: Nyhedsbreve
+nav_order: 30
 has_children: false
 has_toc: true
 ---

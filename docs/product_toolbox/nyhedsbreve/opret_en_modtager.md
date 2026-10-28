@@ -2,7 +2,7 @@
 title: Opret én modtager
 layout: default
 parent: Nyhedsbreve
-nav_order: 70
+nav_order: 40
 has_children: false
 has_toc: true
 ---
