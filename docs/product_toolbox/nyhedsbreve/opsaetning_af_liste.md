@@ -3,7 +3,7 @@ title: Opsætning af nyhedsbrevsliste
 layout: default
 parent: Nyhedsbreve
 grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 90
+nav_order: 70
 has_children: true
 has_toc: false
 ---
