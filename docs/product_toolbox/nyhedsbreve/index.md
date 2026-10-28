@@ -14,7 +14,7 @@ Her finder du hjælp til at skrive, sende og administrere produktnyhedsbreve i O
 
 Vi bruger systemet Heyloyalty til at administrere nyhedsbreve. Du behøver ikke kende hele Heyloyalty for at komme i gang. Find den situation, der passer til det, du skal gøre, og start dér.
 
-**Skal du bare sende et nyhedsbrev?**  
+**Skal du i gang med at sende et nyhedsbrev? med det samme?**  
 Start med **[Skriv et nyhedsbrev](/docs/product_toolbox/nyhedsbreve/skriv_nyhedsbrev.html)** og fortsæt derefter til **[Opret og send nyhedsbreve](/docs/product_toolbox/nyhedsbreve/opret_og_send.html)**.
 {: .highlight }
 
