@@ -1,7 +1,7 @@
 ---
 title: "Udarbejdelse og behandling af bestyrelsessager"
-Layout: default
-parent: "Processer og rutiner"
+layout: default
+parent: Processer og rutiner
 nav_order: 60
 ---
 
