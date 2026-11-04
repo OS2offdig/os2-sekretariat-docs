@@ -1,6 +1,7 @@
 ---
-title: Vejledning til udarbejdelse af sagsoplæg
-parent: Værktøjskasse til projekter og produkter
+title: "Vejledning til udarbejdelse af sagsoplæg"
+layout: default
+parent: "Værktøjskasse til projekter og produkter"
 nav_order: 150
 ---
 
