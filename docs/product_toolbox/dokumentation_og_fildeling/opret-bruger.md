@@ -1,7 +1,7 @@
 ---
 title: Opret Nextcloud-bruger
 layout: default
-parent: Fildeling
+parent: Dokumentation og fildeling
 has_toc: true
 nav_order: 60
 ---
