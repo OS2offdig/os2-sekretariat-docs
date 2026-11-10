@@ -8,25 +8,61 @@ has_children: false
 has_toc: true
 ---
 
-# Rettigheder – hvem kan tilgå hvad i Nextcloud?
+{: .warning }
+**Indhold under afklaring**
 
-Her kan du se, hvem der kan læse, skrive og administrere filer i Nextcloud.  
-**Admin** betyder her, at man også kan oprette mapper, tildele adgang og ændre rettigheder.
+Beskrivelsen af roller og rettigheder i Nextcloud afventer bekræftelse fra OS2-sekretariatet. Oplysningerne nedenfor er foreløbige og kan blive ændret.
 
-| Rolle               | OS2 Intern                            | OS2 Ekstern/offentlig                         |
-|---------------------|----------------------------------------|-----------------------------------------------|
-| Sekretariat         | Læse + skrive + admin                 | Læse + skrive + admin                         |
-| Produktkoordinator  | Læse + skrive                         | Læse + skrive (fx lægge filer i offentlige)  |
-| Arbejdsgruppe       | Læse + skrive                         | Læse + skrive (på produktets offentlige mappe) |
-| Offentligheden      | —                                     | Læse (på udvalgte offentlige områder via link/hjemmeside) |
+Kontakt os2@os2.eu, hvis du har spørgsmål om adgang eller rettigheder.
 
-**Kort fortalt:** Sekretariatet har altid fuld adgang.  
-Arbejdsgrupper (styre-, koordinations- og projektgrupper) og produktkoordinatorer kan få skriveadgang til **produktets egen** interne Nextcloud-mappe og til produktets offentlige mappe.
+# Roller og rettigheder
+{: .no_toc }
 
-Det gør det let at:
+I OS2's Nextcloud afhænger dine rettigheder af din rolle, og hvilket produkt eller projekt du er tilknyttet.
 
-- arbejde sammen i arbejdsgrupperne  
-- udgive til det åbne filarkiv, når noget er klar
+Her kan du se, hvem der som udgangspunkt kan få adgang til interne arbejdsområder og det åbne filarkiv.
 
-> 🔐 **Særlige behov** (fx midlertidige eksterne konsulenter) kan aftales og tidsbegrænses.  
-> \[Afventer beslutning: detaljeret praksis for eksterne konsulenter\]
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Hvem kan få en brugerkonto?
+
+Medlemmer af følgende arbejdsgrupper kan som udgangspunkt få en brugerkonto:
+
+- Styregrupper
+- Koordinationsgrupper
+- Projektgrupper, herunder projektledere og produktkoordinatorer
+
+Kontaktpersoner uden for arbejdsgrupperne får som udgangspunkt ikke en brugerkonto.
+
+Andre personer kan få adgang efter aftale med OS2-sekretariatet.
+
+## Hvilke rettigheder kan man få?
+
+| Rolle | Interne arbejdsområder | Åbent filarkiv |
+|---|---|---|
+| Arbejdsgruppemedlemmer og produktkoordinatorer | Læse- og skriveadgang til egne mapper | Læse- og skriveadgang til egne mapper |
+| Andre kontaktpersoner | Som udgangspunkt ingen konto | Kan læse offentligt tilgængelige dokumenter |
+| Offentligheden | Ingen adgang | Kan læse offentligt tilgængelige dokumenter |
+| Udpegede administratorer i sekretariatet | Administrerer brugere og rettigheder | Administrerer brugere og rettigheder |
+
+**Adgang til interne arbejdsområder er afgrænset.** Du får adgang til de relevante mapper for dit produkt eller projekt – ikke til hele OS2's Nextcloud.
+
+Det åbne filarkiv kan læses uden en personlig brugerkonto via de offentligt delte mapper og dokumenter.
+
+## Hvem administrerer rettighederne?
+
+OS2-sekretariatet håndterer oprettelse af brugere og tildeling af adgang.
+
+Udvalgte medarbejdere i sekretariatet har administratorrettigheder og kan blandt andet administrere brugere, grupper og mapper.
+
+## Særlige behov
+
+Hvis fx en ekstern konsulent eller en anden person uden for arbejdsgrupperne skal have adgang, aftales det med OS2-sekretariatet.
+
+Konkrete retningslinjer for blandt andet tidsbegrænset adgang er endnu ikke afklaret.
+
+Har du brug for en konto, kan du finde vejledningen **Få adgang til Nextcloud** i sidemenuen.
