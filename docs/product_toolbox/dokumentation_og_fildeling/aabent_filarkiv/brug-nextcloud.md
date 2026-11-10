@@ -8,10 +8,12 @@ has_children: false
 has_toc: true
 ---
 
-# Sådan bruger vi Nextcloud
+# Brug Nextcloud
 {: .no_toc }
 
-Her finder du OS2's fælles praksis for mapper, fildeling, filformater og navngivning i Nextcloud.
+OS2 bruger Nextcloud til at opbevare, arbejde med og dele dokumenter.
+
+Her får du et overblik over de interne og offentlige områder samt praktiske anbefalinger til filformater, mapper og filnavne.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -21,14 +23,14 @@ Her finder du OS2's fælles praksis for mapper, fildeling, filformater og navngi
 
 ## Interne og offentlige mapper
 
-Vi skelner mellem to typer mapper:
+Nextcloud bruges til to forskellige formål:
 
-- **Interne mapper:** Her arbejder vi med kladder, noter og dokumenter under udarbejdelse.
-- **Offentlige mapper:** Her deler vi godkendt dokumentation, som andre skal kunne finde og bruge.
+- **Interne arbejdsområder:** Her kan arbejdsgrupper samarbejde om kladder, noter og dokumenter under udarbejdelse. Adgangen er begrænset til relevante personer.
+- **Det åbne filarkiv:** Her opbevares dokumentation, der er klar til offentlig deling, så andre kan finde og bruge den.
 
-OS2 arbejder ud fra princippet om åbenhed først (Open by default). Derfor gør vi dokumentation offentligt tilgængelig, når der ikke er en konkret grund til at begrænse adgangen.
+Når dokumentation er klar til offentliggørelse, placeres den i produktets eller projektets offentlige mappe eller på den aftalte dokumentationsplatform.
 
-Når dokumentation er klar til offentlig deling, placeres den i produktets eller projektets offentlige mappe i Nextcloud eller på den aftalte dokumentationsplatform.
+*Husk README-filen: Produktets eller projektets mappe i det åbne filarkiv skal indeholde en README, der giver overblik over indholdet og viser vej til relevant dokumentation.*
 
 ## Filformater
 
@@ -43,30 +45,20 @@ Når dokumenter skal deles bredt, kan de også eksporteres til PDF.
 ### Godt at vide om ODF
 
 - **Programmer:** ODF-filer kan åbnes i fx LibreOffice og nyere versioner af Microsoft Office.
-- **Kompatibilitet:** Formatering kan ændre sig mellem programmer. Kontrollér derfor dokumentets layout, inden det deles.
+- **Kompatibilitet:** Formateringen kan ændre sig mellem programmer. Kontrollér derfor layoutet, inden dokumentet deles.
 - **Skabeloner:** Brug OS2's fælles skabeloner, når de findes.
-- **Spor ændringer:** Funktionen findes også i ODF-kompatible programmer og kan bruges ved gennemgang og godkendelse af dokumenter.
+- **Spor ændringer:** Funktionen findes også i ODF-kompatible programmer og kan bruges ved gennemgang og godkendelse.
 
-Nextcloud kan opbevare andre filformater, herunder Word-dokumenter. Mulighederne for redigering direkte i browseren afhænger af opsætningen.
+Nextcloud kan også opbevare andre filformater, herunder Word-dokumenter. Mulighederne for at redigere filer direkte i browseren afhænger af opsætningen.
 
 ## Mapper og filnavne
 
-Hold strukturen enkel og genkendelig:
+En enkel og genkendelig struktur gør det lettere for andre at finde dokumentationen.
 
 - Brug beskrivende og konsekvente filnavne, fx `2025-03-15_Referat_Bestyrelsesmoede.odt`.
 - Navngiv mapper, så deres indhold fremgår tydeligt.
-- Placer offentlige filer i produktets eller projektets offentlige mappe.
-- Gem interne arbejdsfiler i den relevante interne mappe.
-- Flyt dokumenter med varig betydning fra personlige eller lokale mapper til det fælles arkiv.
+- Opbevar interne arbejdsfiler i det relevante interne arbejdsområde.
+- Placer dokumentation, der skal deles offentligt, i det åbne filarkiv eller på den aftalte dokumentationsplatform.
+- Sørg for, at dokumenter med varig betydning ikke kun ligger i personlige eller lokale mapper.
 
-GitHub kan anvendes til dokumentation, der kræver versionsstyring. Produktet eller projektet tager stilling til dokumentationsstrukturen og beskriver, hvor materialet findes.
-
-Se også [GitHub eller Nextcloud?](github_eller_nextcloud.md).
-
-## Husk README-filen
-
-Alle OS2-produkter og -projekter skal have en README-fil i deres offentlige Nextcloud-mappe.
-
-README-filen beskriver, hvor dokumentationen findes – både i Nextcloud, GitHub og eventuelle andre dokumentationssystemer.
-
-Se [Opret en README](opret_README.md) – for vejledning og skabelon.
+Produktet eller projektet har ansvar for at holde overblikket over, hvor dokumentationen findes.
