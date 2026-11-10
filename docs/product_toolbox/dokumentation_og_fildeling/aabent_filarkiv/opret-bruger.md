@@ -8,11 +8,24 @@ has_children: false
 has_toc: true
 ---
 
-{: .note}
-Har du brug for at få uploadet filer til produktets Nextcloud-mappe, men har ikke adgang endnu? Få hjælp ved at sende fil og forespørgsel til os2@os2.eu.
+{: .warning }
+**Procedure under opdatering**
 
-# Opret Nextcloud-bruger
+OS2 er ved at afklare proceduren for adgang til Nextcloud. Vejledningen her er endnu ikke opdateret og kan derfor indeholde forældede oplysninger.
+
+Kontakt OS2-sekretariatet på os2@os2.eu for at få hjælp til adgang.
+
+# Få adgang til Nextcloud
 {: .no_toc }
+
+Har du brug for at arbejde med dokumenter i OS2's Nextcloud? Her kan du se, hvordan du anmoder om adgang.
+
+Oprettelse af brugere håndteres manuelt af OS2-sekretariatet.
+
+{: .note }
+**Skal du bare have lagt en fil i det åbne filarkiv?**
+
+Du behøver ikke nødvendigvis en brugerkonto. Send filen og en kort beskrivelse til os2@os2.eu, så kan sekretariatet hjælpe.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -20,36 +33,23 @@ Har du brug for at få uploadet filer til produktets Nextcloud-mappe, men har ik
 1. TOC
 {:toc}
 
-# Kom i gang: Opret bruger 
+## Sådan anmoder du om adgang
 
-Her kan du se, hvordan du får en bruger til Nextcloud.  
-Vær opmærksom på, at processen er **manuel** og håndteres af OS2-sekretariatet – der kan derfor gå lidt tid, før din adgang er klar.
+1. **Find dine oplysninger frem:** Navn, e-mailadresse, hvilken arbejdsgruppe du tilhører, og din rolle i produktet eller projektet.
+2. **Kontakt sekretariatet:** Send en mail til **os2@os2.eu** med emnet *Adgang til Nextcloud*. Angiv oplysningerne i mailen.
+3. **Afvent svar:** Sekretariatet behandler din anmodning og giver besked om, hvordan du kommer videre.
 
-## Trin for trin 
+## Når du har fået adgang
 
-**0. Forbered info**  
-Find følgende oplysninger frem: dit navn, din e-mail (bliver dit login), hvilken arbejdsgruppe du er en del af, og din rolle.
+Følg loginvejledningen, du modtager ved oprettelsen.
 
-**1. Send en anmodning**  
-Send en mail til OS2-sekretariatet på **os2@os2.eu**.  
-Skriv *“Adgang til Nextcloud”* i emnefeltet, og angiv de oplysninger, du har forberedt.
+Du får adgang til de mapper, der er relevante for dit produkt eller projekt – ikke til hele OS2's Nextcloud.
 
-**2. Afvent bekræftelse**  
-Du får besked fra sekretariatet, når din konto er oprettet.
+Kontrollér, at du kan se de relevante mapper. Kontakt sekretariatet, hvis noget mangler, eller du har problemer med at logge ind.
 
-**3. Log ind første gang**  
-Klik på linket i mailen (eller brug login-siden \[link indsættes\]) og vælg din adgangskode.  
-Husk at bruge den e-mailadresse, du har opgivet som login.
+## Hvem kan få adgang?
 
-**4. Tjek din adgang**  
-Du bør nu kunne skrive i:
-- jeres/produktets/projektets **interne** Nextcloud-mappe  
-- jeres/produktets/projektets **offentlige/eksterne** Nextcloud-mappe
+Medlemmer af OS2-produkters og -projekters arbejdsgrupper kan som udgangspunkt få adgang til de relevante arbejdsområder.
 
----
-
-{: .note}
-**Bonusinfo – navnene på mapperne**  
-- Den eksterne/åbne Nextcloud kaldes også **“det offentlige filarkiv”**.  
-- Internt i sekretariatet hedder mappen: **“Offentlige filer til hjemmeside”**.
+Andre behov vurderes efter aftale med sekretariatet. Du kan læse mere om roller og rettigheder i sidemenuen.
 
