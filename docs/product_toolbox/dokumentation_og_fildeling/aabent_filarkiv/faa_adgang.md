@@ -20,7 +20,7 @@ Kontakt OS2-sekretariatet på os2@os2.eu for at få hjælp til adgang.
 
 Har du brug for at arbejde med dokumenter i OS2's Nextcloud? Her kan du se, hvordan du anmoder om adgang.
 
-Oprettelse af brugere håndteres manuelt af OS2-sekretariatet.
+Brugere oprettes af personer med rettighed til kontoadministration i Nextcloud. Nogle produktforvaltere kan selv oprette brugere til deres produkt eller projekt. Ellers kan OS2-sekretariatet hjælpe.
 
 {: .note }
 **Skal du bare have lagt en fil i det åbne filarkiv?**
@@ -33,11 +33,14 @@ Du behøver ikke nødvendigvis en brugerkonto. Send filen og en kort beskrivelse
 1. TOC
 {:toc}
 
+
 ## Sådan anmoder du om adgang
 
-1. **Find dine oplysninger frem:** Navn, e-mailadresse, hvilken arbejdsgruppe du tilhører, og din rolle i produktet eller projektet.
-2. **Kontakt sekretariatet:** Send en mail til **os2@os2.eu** med emnet *Adgang til Nextcloud*. Angiv oplysningerne i mailen.
-3. **Afvent svar:** Sekretariatet behandler din anmodning og giver besked om, hvordan du kommer videre.
+1. **Find dine oplysninger frem:** Navn, e-mailadresse, hvilken arbejdsgruppe du tilhører, og din rolle.
+2. **Kontakt den ansvarlige:** Spørg produktforvalteren, hvem der administrerer adgang til jeres Nextcloud-gruppe.
+3. **Brug for hjælp?** Kontakt OS2-sekretariatet på **os2@os2.eu**, hvis du ikke ved, hvem der kan oprette dig.
+4. **Følg instruktionerne:** Når din konto er oprettet, får du besked om, hvordan du logger ind.
+
 
 ## Når du har fået adgang
 
