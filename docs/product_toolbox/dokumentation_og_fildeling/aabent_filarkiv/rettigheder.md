@@ -1,9 +1,11 @@
 ---
-title: Rettigheder – hvem kan tilgå hvad?
+title: Roller og rettigheder
 layout: default
+parent: Åbent filarkiv
+grand_parent: Dokumentation og fildeling
+nav_order: 30
+has_children: false
 has_toc: true
-parent: Dokumentation og fildeling
-nav_order: 50
 ---
 
 # Rettigheder – hvem kan tilgå hvad i Nextcloud?
