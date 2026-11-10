@@ -1,8 +1,9 @@
 ---
 title: Brug Nextcloud
 layout: default
-parent: Dokumentation og fildeling
-nav_order: 20
+parent: Åbent filarkiv
+grand_parent: Dokumentation og fildeling
+nav_order: 10
 has_children: false
 has_toc: true
 ---
