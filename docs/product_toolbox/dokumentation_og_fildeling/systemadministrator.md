@@ -1,7 +1,7 @@
 ---
 title: "Systemadministrator: Særligt til dig"
 layout: default
-parent: Fildeling
+parent: Dokumentation og fildeling
 nav_order: 70
 ---
 
