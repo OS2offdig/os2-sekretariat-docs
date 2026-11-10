@@ -1,9 +1,11 @@
 ---
-title: Opret Nextcloud-bruger
+title: Få adgang til Nextcloud
 layout: default
-parent: Dokumentation og fildeling
+parent: Åbent filarkiv
+grand_parent: Dokumentation og fildeling
+nav_order: 20
+has_children: false
 has_toc: true
-nav_order: 60
 ---
 
 {: .note}
