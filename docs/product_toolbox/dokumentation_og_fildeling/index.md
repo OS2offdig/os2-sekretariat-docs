@@ -29,3 +29,7 @@ Det enkelte produkt eller projekt har ansvar for at organisere sin dokumentation
 Det er også god praksis at bruge README-filer i andre mapper, hvor de kan hjælpe med at skabe overblik.
 
 [Åbn OS2's offentlige filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4){: .btn .btn-outline }
+
+## Sådan hænger arkiverne sammen
+
+![Oversigt over OS2's åbne filarkiv, interne arbejdsområder og kodearkiv.]({{ '/assets/images/os2-dokumentation-arkiver.svg' | relative_url }})
