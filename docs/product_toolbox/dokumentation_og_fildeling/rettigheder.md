@@ -2,7 +2,7 @@
 title: Rettigheder – hvem kan tilgå hvad?
 layout: default
 has_toc: true
-parent: Fildeling
+parent: Dokumentation og fildeling
 nav_order: 50
 ---
 
