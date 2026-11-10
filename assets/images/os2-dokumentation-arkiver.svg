@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-labelledby="diagram-title diagram-desc">
+  <title id="diagram-title">Dokumentation i OS2</title>
+  <desc id="diagram-desc">Nextcloud rummer et åbent filarkiv med offentlig dokumentation og et internt arbejdsområde. Kodearkivet, for eksempel GitHub, rummer kode og dokumentation. README-filer i det åbne filarkiv og kodearkivet skaber overblik og viser vej.</desc>
+  <style>
+    .heading { font: 700 32px Arial, Helvetica, sans-serif; fill: #192A40; }
+    .subtitle { font: 400 17px Arial, Helvetica, sans-serif; fill: #526274; }
+    .group { font: 700 23px Arial, Helvetica, sans-serif; fill: #192A40; }
+    .group-sub { font: 400 15px Arial, Helvetica, sans-serif; fill: #526274; }
+    .card-title { font: 700 21px Arial, Helvetica, sans-serif; fill: #192A40; }
+    .card-body { font: 400 17px Arial, Helvetica, sans-serif; fill: #354458; }
+    .tag { font: 700 14px Arial, Helvetica, sans-serif; fill: #1B5749; letter-spacing: .4px; }
+    .bottom-title { font: 700 19px Arial, Helvetica, sans-serif; fill: #192A40; }
+    .bottom-body { font: 400 16px Arial, Helvetica, sans-serif; fill: #354458; }
+  </style>
+  <rect width="1200" height="580" fill="#FFFFFF"/>
+  <text class="heading" x="58" y="68">Dokumentation i OS2</text>
+  <text class="subtitle" x="58" y="98">Et produkt eller projekt kan have dokumentation flere steder.</text>
+
+  <!-- Nextcloud contains two distinct areas. -->
+  <rect x="58" y="136" width="722" height="313" rx="18" fill="#F7F9FC" stroke="#D9E0E9" stroke-width="2"/>
+  <text class="group" x="82" y="177">Nextcloud</text>
+  <text class="group-sub" x="82" y="201">Fildeling og samarbejde</text>
+
+  <rect x="82" y="224" width="329" height="201" rx="12" fill="#EEF8F4" stroke="#B8DED0" stroke-width="1.5"/>
+  <text class="card-title" x="102" y="260">Åbent filarkiv</text>
+  <text class="card-body" x="102" y="296">Offentlig dokumentation</text>
+  <text class="card-body" x="102" y="326">Fx referater og aftaler</text>
+  <rect x="102" y="369" width="101" height="32" rx="9" fill="#D4EFE3"/>
+  <text class="tag" x="122" y="390">README</text>
+
+  <rect x="427" y="224" width="329" height="201" rx="12" fill="#F0F4FB" stroke="#C6D5ED" stroke-width="1.5"/>
+  <text class="card-title" x="447" y="260">Internt arbejdsområde</text>
+  <text class="card-body" x="447" y="296">Kladder og samarbejde</text>
+  <text class="card-body" x="447" y="326">Begrænset adgang</text>
+
+  <!-- Code repository is separate from Nextcloud. -->
+  <rect x="802" y="136" width="340" height="313" rx="18" fill="#FAF9F7" stroke="#E6DFD5" stroke-width="2"/>
+  <text class="group" x="826" y="177">Kodearkiv</text>
+  <text class="group-sub" x="826" y="201">Fx GitHub</text>
+  <rect x="826" y="224" width="292" height="201" rx="12" fill="#FFFFFF" stroke="#E4DDD4" stroke-width="1.5"/>
+  <text class="card-title" x="846" y="260">Repository</text>
+  <text class="card-body" x="846" y="296">Kildekode og</text>
+  <text class="card-body" x="846" y="324">dokumentation</text>
+  <rect x="846" y="369" width="101" height="32" rx="9" fill="#D4EFE3"/>
+  <text class="tag" x="866" y="390">README</text>
+
+  <rect x="58" y="472" width="1084" height="79" rx="14" fill="#F4F7F9" stroke="#DCE3E8" stroke-width="1.5"/>
+  <text class="bottom-title" x="82" y="502">README viser vej på tværs</text>
+  <text class="bottom-body" x="82" y="530">Der skal være en README i både det åbne filarkiv og kodearkivet, som hjælper andre med at finde rundt.</text>
+</svg>
