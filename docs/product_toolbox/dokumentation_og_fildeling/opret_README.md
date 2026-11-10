@@ -1,7 +1,7 @@
 ---
 title: Opret en README
 layout: default
-parent: Fildeling
+parent: Dokumentation og fildeling
 nav_order: 40
 has_children: false
 has_toc: true
