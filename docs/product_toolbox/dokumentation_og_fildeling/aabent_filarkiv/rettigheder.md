@@ -40,6 +40,7 @@ Kontaktpersoner uden for arbejdsgrupperne får som udgangspunkt ikke en brugerko
 
 Andre personer kan få adgang efter aftale med OS2-sekretariatet.
 
+
 ## Hvilke rettigheder kan man få?
 
 | Rolle | Interne arbejdsområder | Åbent filarkiv |
@@ -49,15 +50,22 @@ Andre personer kan få adgang efter aftale med OS2-sekretariatet.
 | Offentligheden | Ingen adgang | Kan læse offentligt tilgængelige dokumenter |
 | Udpegede administratorer i sekretariatet | Administrerer brugere og rettigheder | Administrerer brugere og rettigheder |
 
+
 **Adgang til interne arbejdsområder er afgrænset.** Du får adgang til de relevante mapper for dit produkt eller projekt – ikke til hele OS2's Nextcloud.
 
 Det åbne filarkiv kan læses uden en personlig brugerkonto via de offentligt delte mapper og dokumenter.
 
+
 ## Hvem administrerer rettighederne?
 
-OS2-sekretariatet håndterer oprettelse af brugere og tildeling af adgang.
+Adgang og brugeradministration afhænger af de rettigheder, der er tildelt i Nextcloud.
 
-Udvalgte medarbejdere i sekretariatet har administratorrettigheder og kan blandt andet administrere brugere, grupper og mapper.
+Nogle produktforvaltere kan selv oprette brugere i deres produktgruppe. Det kræver, at de har de nødvendige administratorrettigheder.
+
+OS2-sekretariatet kan hjælpe med brugeroprettelse og adgangsstyring, når produktet eller projektet ikke selv kan administrere det.
+
+**Bemærk:** Rettigheder til at administrere brugere og grupper er ikke det samme som rettigheder til at læse og redigere filer.
+
 
 ## Særlige behov
 
