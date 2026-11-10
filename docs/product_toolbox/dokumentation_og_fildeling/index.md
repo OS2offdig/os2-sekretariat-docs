@@ -16,6 +16,8 @@ Her finder du hjælp til at organisere, opbevare og dele dokumentation for OS2-p
 
 Vælg en vejledning i sidemenuen for at komme i gang.
 
+Dokumentation kan være fordelt på flere arkiver og platforme. Derfor har vi samlet vejledningerne her, så du lettere kan finde, organisere og dele dokumentation på tværs.
+
 ## Filarkiv og kodearkiv
 
 OS2 anvender både Nextcloud og GitHub til opbevaring og deling af filer og dokumentation. Nextcloud rummer desuden lukkede arbejdsrum, hvor produkter og projekter kan samarbejde om interne dokumenter og materiale under udarbejdelse.
