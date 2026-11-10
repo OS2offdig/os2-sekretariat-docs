@@ -1,9 +1,13 @@
 ---
-title: "Systemadministrator: Særligt til dig"
+title: Administrer brugere og grupper
 layout: default
-parent: Dokumentation og fildeling
-nav_order: 70
+parent: Åbent filarkiv
+grand_parent: Dokumentation og fildeling
+nav_order: 40
+has_children: false
+has_toc: true
 ---
+
 
 # Systemadministrator: Særligt til dig
 
