@@ -9,32 +9,49 @@ has_toc: true
 ---
 
 
-# Systemadministrator: Særligt til dig
+# Administrer brugere og grupper
+{: .no_toc }
 
-Tak fordi du holder hjulene i gang. Her er den korte version af det, nye admins har brug for i Nextcloud.
+Denne vejledning er til medarbejdere i OS2-sekretariatet, som administrerer brugere, grupper og rettigheder i Nextcloud.
 
-> GUI = Nextclouds grafiske brugerflade (web-interfacet), hvor du administrerer brugere og grupper.
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
 
-## Opret bruger (GUI)
+1. TOC
+{:toc}
 
-1. Gå til **Brugere**  
-2. Vælg **Ny bruger** → udfyld navn + e-mail (bliver login)  
-3. Tilføj brugeren til de relevante **grupper**  
-4. Gem – brugeren vælger selv adgangskode ved første login via mail-link
 
-## Opret gruppe
+## Opret en bruger
 
-1. Vælg **Ny gruppe** → navngiv enkelt, fx `OS2-arbejdsgruppe-<produkt>`  
-2. Tilføj medlemmer  
-3. Giv gruppen **skriveadgang** til:
-   - produktets mappe i **OS2 Intern Nextcloud**  
-   - produktets mappe i **Offentlige filer til hjemmeside** (produktets offentlige mappe / åbent filarkiv)
+Har du rettighed til at administrere brugere i Nextcloud, kan du muligvis selv oprette nye brugere til dit produkt eller projekt.
 
-> Bemærk: Vi opretter som udgangspunkt **én intern mappe og én offentlig mappe pr. produkt/projekt** – ikke særskilte mapper pr. arbejdsgruppe. Adgangen styres via grupper og rettigheder, ikke via mange parallelle mapper.
+1. Log ind i Nextcloud.
+2. Klik på dit profilikon øverst til højre, og vælg **Konti**.
+3. Klik på **+ Ny konto**.
+4. Udfyld brugernavn, vist navn og e-mailadresse.
+5. Kontrollér, at den nye bruger tilknyttes den korrekte gruppe.
+6. Klik på **Tilføj ny konto**.
 
-## Standardadgang (opsummeret)
+Ifølge den nuværende vejledning modtager den nye bruger en e-mail og kan selv oprette sin adgangskode.
 
-- **Arbejdsgruppe** – skriveadgang til produktets/projektets interne mappe og offentlige mappe  
-- **Produktkoordinator** – skriveadgang til begge + ansvar for, at godkendt materiale lægges i den offentlige mappe  
-- **Sekretariat** – udvalgte har systemadmin-rettigheder på begge områder (opsætning, grupper og rettigheder)
+**Vigtigt:** Kontrollér altid gruppetilhørsforholdet, inden du opretter kontoen. Hvis du ikke har mulighed for at administrere konti, skal du kontakte OS2-sekretariatet.
 
+
+## Administrer grupper
+
+Adgang til produktets eller projektets mapper administreres via grupper og rettigheder.
+
+Den hidtidige fremgangsmåde er:
+
+1. Opret en gruppe, hvis der ikke allerede findes en relevant gruppe.
+2. Giv gruppen et tydeligt navn.
+3. Tilføj de relevante brugere.
+4. Tildel adgang til de mapper, gruppens medlemmer skal kunne arbejde i.
+
+Det kan omfatte både produktets eller projektets interne arbejdsområde og det åbne filarkiv.
+
+## Når en bruger eller rolle ændres
+
+Adgangen skal gennemgås, når en person skifter rolle, forlader en arbejdsgruppe eller ikke længere skal have adgang.
+
+Den konkrete procedure for ændring og fjernelse af adgang skal beskrives, når den administrative praksis er afklaret.
