@@ -9,6 +9,12 @@ has_toc: false
 
 # Dokumentation og fildeling
 
+
+{: .warning }
+> **DRAFT: Vejledninger og dokumentation herunder er under udarbejdelse. Der vil være informationer, som stadig er uafklarede og kan ændres**
+>
+> 
+
 Her finder du praktiske vejledninger til at organisere, opbevare og dele dokumentation for OS2-produkter og -projekter.
 
 Dokumentation kan være fordelt på flere arkiver og platforme. Derfor har vi samlet vejledningerne her, så du lettere kan finde, organisere og dele dokumentation på tværs.
