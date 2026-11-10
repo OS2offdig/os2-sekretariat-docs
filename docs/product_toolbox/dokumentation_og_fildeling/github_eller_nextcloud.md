@@ -1,7 +1,7 @@
 ---
 title: GitHub eller Nextcloud?
 layout: default
-parent: Fildeling
+parent: Dokumentation og fildeling
 nav_order: 30
 has_children: false
 has_toc: true
