@@ -3,7 +3,7 @@ title: Redigér produktside
 layout: default
 parent: Hjemmeside
 grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 10
+nav_order: 20
 has_children: false
 has_toc: true
 ---
