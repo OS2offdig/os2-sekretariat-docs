@@ -28,4 +28,4 @@ Brug udfyldningsskabelonen til at samle indholdet, inden du opretter siden i Odo
 Du behøver ikke udfylde alle felter. Skabelonen viser, hvilke dele der er faste, valgfrie eller kun relevante i særlige tilfælde.
 
 - **[Hent udfyldningsskabelonen som redigerbar fil]({{ '/assets/downloads/udfyldningsskabelon-til-produktside.odt' | relative_url }})**
-- **[Kopiér udfyldningsskabelonen i Markdown]**
+- **[Åbn udfyldningsskabelonen i Markdown]({{ '/assets/downloads/udfyldningsskabelon-til-produktside.md' | relative_url }})**
