@@ -1,13 +1,14 @@
 ---
-title: Modtagere og tilmelding
+title: Tilmelding og modtagerroller
 layout: default
-parent: Nyhedsbreve
-nav_order: 30
+parent: Modtagere
+grandparent: Nyhedsbreve
+nav_order: 10
 has_children: false
 has_toc: true
 ---
 
-# Modtagere og tilmelding
+# Tilmelding og modtagerroller
 {: .no_toc }
 
 Denne side forklarer, **hvem der skal være på produktets nyhedsbrevsliste, og hvordan de kommer på den**.
