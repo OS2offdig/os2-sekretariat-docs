@@ -61,6 +61,11 @@ Registrér den aktuelle rolle i feltet **Relation til produktet**. En person kan
 > **Vigtigt**
 >
 > Kontaktpersoner samt medlemmer af styre- og koordinationsgruppen skal stå på produktets nyhedsbrevsliste, da nyhedsbrevet er produktets primære informationskanal.
+>
+> **Lokal kontaktperson** er myndighedens formelt udpegede kontaktperson for produktet og registreres i OS2's CRM/stamdata. I praksis kan flere personer have behov for at modtage den samme information som den lokale kontaktperson uden at være formelt udpeget.
+>
+> I Heyloyalty bruges relationen **Kontaktperson** derfor bredere om personer, der skal modtage kommunikation målrettet kontaktpersoner. Derfor kan flere personer fra samme organisation godt have relationen Kontaktperson i Heyloyalty, selv om kun én er den formelt udpegede lokale kontaktperson.
+
 
 ## Hvordan tilføjer du rollebaserede modtagere?
 
