@@ -3,7 +3,7 @@ title: Opsæt double opt-in
 layout: default
 parent: Opsætning af nyhedsbrevsliste
 grand_parent: Nyhedsbreve
-nav_order: 20
+nav_order: 30
 has_children: false
 has_toc: true
 ---

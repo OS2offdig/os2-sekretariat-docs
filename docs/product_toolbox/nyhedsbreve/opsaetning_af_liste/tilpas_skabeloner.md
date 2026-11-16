@@ -3,7 +3,7 @@ title: Tilpas en mailskabelon
 layout: default
 parent: Opsætning af nyhedsbrevsliste
 grand_parent: Nyhedsbreve
-nav_order: 60
+nav_order: 70
 has_children: false
 has_toc: true
 ---

@@ -3,7 +3,7 @@ title: Opsæt øvrige formularer
 layout: default
 parent: Opsætning af nyhedsbrevsliste
 grand_parent: Nyhedsbreve
-nav_order: 40
+nav_order: 50
 has_children: false
 has_toc: true
 ---

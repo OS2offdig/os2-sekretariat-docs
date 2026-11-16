@@ -33,8 +33,6 @@ Man kan være medlem af Club Matas, men man kan også bare modtage Matas' almind
 
 De to grupper kan have interesse i mange af de samme nyheder. Men personer, der kun modtager nyhedsbrevet, har ikke brug for information, der kun vedrører Club Matas-medlemmer.
 
-I OS2-kontekst anbefales det, at lokale kontaktpersoner modtager både nyhedsbreve (alm. Matas nyhedsbrev) og informationsmails ("Club Matas-mails")
-
 Det samme kan opstå i et stort OS2-fællesskab.
 
 Et produkt som OS2ai kan fx have behov for:
@@ -43,6 +41,8 @@ Et produkt som OS2ai kan fx have behov for:
 - **informationsmails** til personer tættere på produktet med fx releases, ændringer, sikkerhed, økonomi eller praktisk information
 
 Her kan målretning gøre kommunikationen mere relevant.
+
+I OS2-kontekst anbefales det, at lokale kontaktpersoner modtager både nyhedsbreve (alm. Matas nyhedsbrev) og informationsmails ("Club Matas-mails")
 
 ## Målretning giver også mere arbejde
 
@@ -87,4 +87,6 @@ Så er målretning af modtagere via segmentering en mulighed for jer
 
 Kontakt OS2-sekretariatet, før I bygger en særskilt opsætning.
 
-Så vurderer I sammen, om behovet er stort nok – og hvordan det kan løses med mindst mulig vedligeholdelse.
+Så vurderer vi sammen, om behovet er stort nok – og hvordan det kan løses med mindst mulig vedligeholdelse.
+
+Er det besluttet at I vil arbejde med målretning, kan I se den konkrete fremgangsmåde under **Opret og brug segmenter**.
