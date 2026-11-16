@@ -1,8 +1,9 @@
 ---
 title: Opret én modtager
 layout: default
-parent: Nyhedsbreve
-nav_order: 40
+parent: Modtagere
+grand_parent: Nyhedsbreve
+nav_order: 30
 has_children: false
 has_toc: true
 ---

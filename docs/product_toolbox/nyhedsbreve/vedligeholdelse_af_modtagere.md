@@ -1,8 +1,9 @@
 ---
 title: Vedligehold modtagere
 layout: default
-parent: Nyhedsbreve
-nav_order: 60
+parent: Modtagere
+grand_parent: Nyhedsbreve
+nav_order: 50
 has_children: false
 has_toc: true
 ---

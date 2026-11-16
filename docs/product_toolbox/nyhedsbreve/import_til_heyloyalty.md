@@ -1,8 +1,9 @@
 ---
 title: Importér modtagere
 layout: default
-parent: Nyhedsbreve
-nav_order: 50
+parent: Modtagere
+grand_parent: Nyhedsbreve
+nav_order: 40
 has_children: false
 has_toc: true
 ---
