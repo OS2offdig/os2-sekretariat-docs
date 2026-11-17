@@ -18,7 +18,7 @@ Her finder du vejledninger til at bruge Nextcloud, dele filer og mapper samt adm
 
 [Åbn OS2's åbne filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4){: .btn .btn-outline }
 
-{: .note }
+
 > **Kært barn har mange navne**
 >
 > Internt i OS2 bruges flere betegnelser om filarkivet, fx "Boks.eu", "de offentlige mapper" og "Nextcloud".

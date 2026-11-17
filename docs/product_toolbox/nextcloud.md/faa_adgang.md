@@ -8,7 +8,7 @@ has_children: false
 has_toc: true
 ---
 
-{: .warning }
+{: .note }
 **Procedure under opdatering**
 
 OS2 er ved at afklare proceduren for adgang til Nextcloud. Vejledningen her er endnu ikke opdateret og kan derfor indeholde forældede oplysninger.
@@ -22,7 +22,6 @@ Har du brug for at arbejde med dokumenter i OS2's Nextcloud? Her kan du se, hvor
 
 Brugere oprettes af personer med rettighed til kontoadministration i Nextcloud. Nogle produktforvaltere kan selv oprette brugere til deres produkt eller projekt. Ellers kan OS2-sekretariatet hjælpe.
 
-{: .note }
 **Skal du bare have lagt en fil i det åbne filarkiv?**
 
 Du behøver ikke nødvendigvis en brugerkonto. Send filen og en kort beskrivelse til os2@os2.eu, så kan sekretariatet hjælpe.

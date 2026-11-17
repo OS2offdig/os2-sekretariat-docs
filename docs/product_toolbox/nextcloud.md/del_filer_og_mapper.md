@@ -25,7 +25,7 @@ Nextcloud kan bruges til at dele filer og mapper både offentligt og med en afgr
 
 Når du deler dokumenter fra OS2's åbne filarkiv, skal modtageren kunne åbne linket uden at have en Nextcloud-konto.
 
-{: .warning }
+{: .note }
 > **Undgå denne fejl**
 >
 > Kopiér ikke bare adressen fra browseren, når du er logget ind i Nextcloud. Linket kan kræve login og dermed være ubrugeligt for modtageren.
