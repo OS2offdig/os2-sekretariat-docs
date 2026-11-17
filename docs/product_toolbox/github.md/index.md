@@ -1,30 +1,36 @@
 ---
-title: README-filer
+title: GitHub
 layout: default
-parent: Dokumentation og fildeling
-grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 10
+parent: Værktøjskasse til projekter og produkter
+nav_order: 60
 has_children: true
 has_toc: false
 ---
 
-# README-filer
+# GitHub
+{: .no_toc }
 
-Åbenhed handler ikke kun om at gøre dokumentation offentligt tilgængelig. Andre skal også kunne finde den og forstå, hvad den indeholder.
+GitHub er en platform til udvikling, dokumentation og samarbejde, som OS2 stiller til rådighed for produkter og projekter.
 
-Dokumentationen for et OS2-produkt eller -projekt kan være fordelt på flere steder, fx Nextcloud og GitHub. Det giver fleksibilitet, men kan gøre det svært at finde referater, beslutninger, aftaler og anden vigtig viden – især for nye i fællesskabet.
+På GitHub kan man blandt andet opbevare og versionsstyre kildekode og dokumentation, samarbejde om ændringer, håndtere opgaver og udgive dokumentation på et docsite.
 
-Derfor bruger OS2 **README-filer som vejvisere til dokumentationen**.
+Her finder du praktiske vejledninger til at komme i gang med GitHub.
 
-En README er en kort introduktionsfil, der fortæller, hvad man finder et bestemt sted, og hvor man kan finde dokumentation, som ligger andre steder.
+**Git eller GitHub?**
 
-Alle OS2-produkter og -projekter skal have en README i både det offentlige filarkiv i Nextcloud og på GitHub/Git.
+Git er et system til versionsstyring, mens GitHub er en platform, der bygger på Git og tilbyder flere muligheder for samarbejde og dokumentation.
 
-## Kom godt i gang
+OS2 anvender GitHub og tilbyder vejledning i brugen af platformen. Produkter og projekter kan også anvende andre Git-baserede løsninger, men de er ikke omfattet af disse vejledninger.
 
-Her finder du hjælp til at skabe overblik over dokumentationen og gøre den lettere at finde, bruge og vedligeholde.
+## Husk README-filen
 
-I sidemenuen finder du:
+**Alle OS2-produkter og -projekter skal have en README i både det offentlige filarkiv i Nextcloud og på GitHub.**
 
-- **Hvad er en README?** – forstå formålet med README-filer, og hvordan de bruges i OS2.
-- **Opret en README** – praktisk vejledning og skabeloner til Nextcloud og GitHub.
+README-filen skal hjælpe andre med at forstå, hvad repositoryet indeholder, og hvor de kan finde relevant dokumentation – også når den ligger andre steder.
+
+Du finder vejledningen **Opret en README** under *README-filer* i sidemenuen.
+
+{: .warning }
+> **Vejledninger under udarbejdelse**
+>
+> Denne del af håndbogen er under opbygning. OS2 har allerede skabeloner og fælles rammer, men konkrete arbejdsgange og ansvarsfordeling er endnu ikke fuldt dokumenteret.

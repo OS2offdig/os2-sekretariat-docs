@@ -2,7 +2,7 @@
 title: Nyhedsbreve
 layout: default
 parent: Værktøjskasse til projekter og produkter
-nav_order: 20
+nav_order: 30
 has_children: true
 has_toc: false
 ---

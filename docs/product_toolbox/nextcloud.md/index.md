@@ -2,7 +2,7 @@
 title: Nextcloud
 layout: default
 parent: Værktøjskasse til projekter og produkter
-nav_order: 20
+nav_order: 50
 has_children: true
 has_toc: false
 ---
