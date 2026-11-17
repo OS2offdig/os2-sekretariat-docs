@@ -1,5 +1,5 @@
 ---
-title: Organiser dokumentationen
+title: README-filer
 layout: default
 parent: Dokumentation og fildeling
 grand_parent: Værktøjskasse til projekter og produkter
@@ -8,7 +8,7 @@ has_children: true
 has_toc: false
 ---
 
-# Organiser dokumentationen
+# Organiser dokumentationen 
 
 En overskuelig dokumentationsstruktur gør det lettere at finde, dele og overdrage viden om et OS2-produkt eller -projekt.
 
@@ -26,4 +26,4 @@ En README hjælper andre med at forstå, hvad et arkiv indeholder, og hvor de ka
 I sidemenuen finder du:
 
 - **Hvad er en README?** – en kort introduktion til formålet.
-- **Opret en README** – praktisk vejledning og skabeloner til både filarkiv og kodearkiv.
+- **Opret en README** – praktisk vejledning og skabeloner til både Nextcloud og GitHub.

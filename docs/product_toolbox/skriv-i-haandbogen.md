@@ -1,8 +1,8 @@
 ---
-title: "Skriv i håndbogen"
+title: Skriv i håndbogen
 layout: default
-parent: "Værktøjskasse til projekter og produkter"
-nav_order: 70
+parent: Værktøjskasse til projekter og produkter
+nav_order: 90
 has_toc: true
 ---
 

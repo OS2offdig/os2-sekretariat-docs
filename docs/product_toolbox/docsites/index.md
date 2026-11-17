@@ -2,7 +2,7 @@
 title: Doc-sites
 layout: default
 parent: Værktøjskasse til projekter og produkter
-nav_order: 80
+nav_order: 70
 has_children: true
 has_toc: false
 ---

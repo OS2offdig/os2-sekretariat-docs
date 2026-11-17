@@ -1,8 +1,8 @@
 ---
 title: Få adgang til Nextcloud
 layout: default
-parent: Åbent filarkiv
-grand_parent: Dokumentation og fildeling
+parent: Nextcloud
+grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 20
 has_children: false
 has_toc: true
@@ -37,8 +37,8 @@ Du behøver ikke nødvendigvis en brugerkonto. Send filen og en kort beskrivelse
 ## Sådan anmoder du om adgang
 
 1. **Find dine oplysninger frem:** Navn, e-mailadresse, hvilken arbejdsgruppe du tilhører, og din rolle.
-2. **Kontakt den ansvarlige:** Spørg produktforvalteren, hvem der administrerer adgang til jeres Nextcloud-gruppe.
-3. **Brug for hjælp?** Kontakt OS2-sekretariatet på **os2@os2.eu**, hvis du ikke ved, hvem der kan oprette dig.
+2. **Kontakt produktforvalteren:** Spørg, hvem der kan oprette dig eller give dig adgang til de relevante mapper. Nogle produktforvaltere kan selv administrere brugere og adgang.
+3. **Brug for hjælp?** Kontakt OS2-sekretariatet på **os2@os2.eu**, hvis produktforvalteren ikke kan hjælpe, eller du er i tvivl om, hvem du skal kontakte.
 4. **Følg instruktionerne:** Når din konto er oprettet, får du besked om, hvordan du logger ind.
 
 

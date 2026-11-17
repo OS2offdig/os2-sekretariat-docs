@@ -1,14 +1,13 @@
 ---
-title: Åbent filarkiv
+title: Nextcloud
 layout: default
-parent: Dokumentation og fildeling
-grand_parent: Værktøjskasse til projekter og produkter
-nav_order: 20
+parent: Værktøjskasse til projekter og produkter
+nav_order: 50
 has_children: true
 has_toc: false
 ---
 
-# Åbent filarkiv
+# Nextcloud
 {: .no_toc }
 
 OS2's åbne filarkiv er et fælles sted, hvor produkter og projekter kan gøre dokumentation offentligt tilgængelig.
