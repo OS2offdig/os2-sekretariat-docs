@@ -1,8 +1,8 @@
 ---
 title: Roller og rettigheder
 layout: default
-parent: Åbent filarkiv
-grand_parent: Dokumentation og fildeling
+parent: Nextcloud
+grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 30
 has_children: false
 has_toc: true
@@ -18,7 +18,7 @@ Kontakt os2@os2.eu, hvis du har spørgsmål om adgang eller rettigheder.
 # Roller og rettigheder
 {: .no_toc }
 
-I OS2's Nextcloud afhænger dine rettigheder af din rolle, og hvilket produkt eller projekt du er tilknyttet.
+I OS2's Nextcloud afhænger din adgang af, hvilke grupper og rettigheder du er blevet tildelt.
 
 Her kan du se, hvem der som udgangspunkt kan få adgang til interne arbejdsområder og det åbne filarkiv.
 
@@ -43,12 +43,14 @@ Andre personer kan få adgang efter aftale med OS2-sekretariatet.
 
 ## Hvilke rettigheder kan man få?
 
-| Rolle | Interne arbejdsområder | Åbent filarkiv |
+
+| Hvem | Adgangsbegrænsede områder | Offentligt filarkiv |
 |---|---|---|
-| Arbejdsgruppemedlemmer og produktkoordinatorer | Læse- og skriveadgang til egne mapper | Læse- og skriveadgang til egne mapper |
-| Andre kontaktpersoner | Som udgangspunkt ingen konto | Kan læse offentligt tilgængelige dokumenter |
-| Offentligheden | Ingen adgang | Kan læse offentligt tilgængelige dokumenter |
-| Udpegede administratorer i sekretariatet | Administrerer brugere og rettigheder | Administrerer brugere og rettigheder |
+| Arbejdsgruppemedlemmer og produktkoordinatorer | Kan få adgang til relevante mapper. Læse- og skriverettigheder afhænger af den tildelte adgang. | Kan læse offentlige dokumenter uden login. Upload og redigering kræver de nødvendige rettigheder. |
+| Andre kontaktpersoner | Har som udgangspunkt ikke en brugerkonto. Særlige behov aftales med sekretariatet. | Kan læse offentlige dokumenter uden login. |
+| Offentligheden | Har ikke adgang. | Kan læse og hente offentlige dokumenter uden login. |
+| Udpegede administratorer i sekretariatet | Kan administrere brugere og adgang inden for deres tildelte rettigheder. | Kan administrere adgang og rettigheder inden for deres tildelte rettigheder. |
+
 
 
 **Adgang til interne arbejdsområder er afgrænset.** Du får adgang til de relevante mapper for dit produkt eller projekt – ikke til hele OS2's Nextcloud.

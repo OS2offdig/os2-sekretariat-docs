@@ -1,7 +1,7 @@
 ---
 title: Hvad er en README?
 layout: default
-parent: Organiser dokumentationen
+parent: README-filer
 grand_parent: Dokumentation og fildeling
 nav_order: 10
 has_children: false
@@ -32,23 +32,25 @@ En README kan eksempelvis fortælle:
 
 ## README-filer kan se forskellige ud
 
-En README i et kodearkiv kan fx indeholde information om installation, udvikling og teknisk dokumentation.
+En README på GitHub kan fx indeholde information om installation, udvikling og teknisk dokumentation. Den kan også give overblik over andre typer dokumentation og opgaver.
 
-I et åbent filarkiv kan den give overblik over dokumenter, mapper og henvisninger til materiale andre steder.
+I det offentlige filarkiv i Nextcloud kan README-filen give overblik over dokumenter, mapper og henvisninger til materiale andre steder.
 
-Nogle README-filer er meget korte, mens andre er omfattende.
+Nogle README-filer er meget korte, mens andre er omfattende. 
+
+Det er ikke unormalt at have README's på flere mappe-niveauer.
 
 **Det vigtigste er ikke formen, men at README-filen hjælper andre med at finde rundt.**
 
 ## README i OS2
 
-Alle OS2-produkter og -projekter skal have en README i både det åbne filarkiv og kodearkivet. Hver README beskriver sit eget arkiv og viser vej til relevant information andre steder.
+Alle OS2-produkter og -projekter skal have en README i både det offentlige filarkiv i Nextcloud og på GitHub. Hver README beskriver indholdet det pågældende sted og viser vej til relevant dokumentation andre steder. Det er også god praksis at have README's i interne mapper.
 
 Find vejledningen **Opret en README** i sidemenuen, når du skal oprette eller opdatere en README.
 
 {: .note }
 > **Fælles praksis fra november 2026**
 >
-> Brugen af README-filer i både det åbne filarkiv og kodearkivet indføres løbende.
+> Brugen af README-filer i både Nextcloud og GitHub indføres løbende.
 >
 > En README behøver ikke være omfattende. Begynd gerne med en kort beskrivelse af indholdet og henvisninger til relevant dokumentation. Den kan altid udbygges senere.

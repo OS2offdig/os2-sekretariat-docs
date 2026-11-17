@@ -137,8 +137,7 @@ Nedenfor er standardopgaverne grupperet efter tag.
 
 | Standardopgave | Kort beskrivelse |
 |---|---|
-| Ferie | Registrering af ferie. |
-| Sygdom | Registrering af sygdom. |
+| Fravær | Registrering af tid, hvor medarbejderen ikke udfører arbejde. |
 
 ## Vedligeholdelse af standardopgaver
 

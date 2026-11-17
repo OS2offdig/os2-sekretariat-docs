@@ -1,8 +1,8 @@
 ---
 title: Administrer brugere og grupper
 layout: default
-parent: Åbent filarkiv
-grand_parent: Dokumentation og fildeling
+parent: Nextcloud
+grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 40
 has_children: false
 has_toc: true
@@ -23,7 +23,7 @@ Denne vejledning er til medarbejdere i OS2-sekretariatet, som administrerer brug
 
 ## Opret en bruger
 
-Har du rettighed til at administrere brugere i Nextcloud, kan du muligvis selv oprette nye brugere til dit produkt eller projekt.
+Har du de nødvendige administratorrettigheder i Nextcloud, kan du oprette brugere og tilknytte dem de relevante produkt- eller projektgrupper.
 
 1. Log ind i Nextcloud.
 2. Klik på dit profilikon øverst til højre, og vælg **Konti**.
@@ -50,8 +50,16 @@ Den hidtidige fremgangsmåde er:
 
 Det kan omfatte både produktets eller projektets interne arbejdsområde og det åbne filarkiv.
 
+
 ## Når en bruger eller rolle ændres
 
-Adgangen skal gennemgås, når en person skifter rolle, forlader en arbejdsgruppe eller ikke længere skal have adgang.
+Når en person skifter rolle, forlader en arbejdsgruppe eller ikke længere skal have adgang, skal vedkommendes rettigheder gennemgås.
 
-Den konkrete procedure for ændring og fjernelse af adgang skal beskrives, når den administrative praksis er afklaret.
+1. **Gennemgå adgangen:** Undersøg, hvilke grupper og mapper personen har adgang til.
+2. **Tilpas rettighederne:** Fjern eller ændr adgang, der ikke længere er relevant.
+3. **Sørg for overdragelse:** Kontrollér, at en eventuel ny ansvarlig har de nødvendige adgange.
+
+Har du ikke selv administratorrettigheder, kan du kontakte den ansvarlige administrator eller OS2-sekretariatet.
+
+**Bemærk:** Den nærmere ansvarsfordeling og procedure for løbende adgangskontrol er endnu ikke dokumenteret.
+

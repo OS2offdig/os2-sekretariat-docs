@@ -21,16 +21,17 @@ Dokumentation kan være fordelt på flere arkiver og platforme. Derfor har vi sa
 
 Vælg en vejledning i sidemenuen for at komme i gang.
 
-## Filarkiv og kodearkiv
+## Nextcloud og GitHub
 
-OS2 bruger Nextcloud til både det åbne filarkiv og interne arbejdsområder, hvor produkter og projekter kan samarbejde om dokumenter.
+OS2 stiller Nextcloud og GitHub til rådighed til dokumentation og samarbejde.
 
-OS2-produkter og -projekter anvender også kodearkiver, fx på GitHub, til blandt andet kildekode, udviklingsarbejde og dokumentation.
+**Nextcloud** bruges til opbevaring og deling af filer. OS2 har både et offentligt filarkiv, hvor alle kan læse og hente dokumenter, og adgangsbegrænsede områder, hvor produkter og projekter kan samarbejde.
 
-Det enkelte produkt eller projekt har ansvar for at organisere sin dokumentation. Derfor kan det variere, hvor dokumentationen ligger.
+**GitHub** bruges blandt andet til udvikling, dokumentation, versionsstyring og samarbejde. Her kan man arbejde med både offentlige og private repositories.
 
-**Alle OS2-produkter og -projekter skal have en README i både det åbne filarkiv og kodearkivet.** README-filerne skaber overblik over indholdet og viser vej til dokumentation andre steder.
+Hidtil har det offentlige filarkiv i Nextcloud været det centrale sted for blandt andet referater og anden fælles dokumentation. Fremadrettet kan dokumentationen også placeres på eksempelvis GitHub. Det afgørende er, at dokumentationen som udgangspunkt er offentligt tilgængelig og let at finde.
 
-## Sådan hænger arkiverne sammen
+**Alle OS2-produkter og -projekter skal have en README i både det offentlige filarkiv i Nextcloud og på GitHub.** README-filerne beskriver indholdet og viser vej til dokumentation andre steder.
 
-![Oversigt over OS2's åbne filarkiv, interne arbejdsområder og kodearkiv.]({{ '/assets/images/os2-dokumentation-arkiver.svg' | relative_url }})
+**Tænk på vedligeholdelsen:** Overvej, hvor dokumentationen bedst kan opbevares og holdes opdateret. Undgå så vidt muligt at vedligeholde det samme dokument flere steder. Brug i stedet README-filerne til at vise vej.
+

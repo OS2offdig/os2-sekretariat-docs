@@ -1,8 +1,8 @@
 ---
 title: Brug Nextcloud
 layout: default
-parent: Åbent filarkiv
-grand_parent: Dokumentation og fildeling
+parent: Nextcloud
+grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 10
 has_children: false
 has_toc: true
@@ -21,20 +21,23 @@ Her får du et overblik over de interne og offentlige områder samt praktiske an
 1. TOC
 {:toc}
 
-## Interne og offentlige mapper
 
-Nextcloud bruges til to forskellige formål:
+## Offentligt filarkiv og adgangsbegrænsede områder
 
-- **Interne arbejdsområder:** Her kan arbejdsgrupper samarbejde om kladder, noter og dokumenter under udarbejdelse. Adgangen er begrænset til relevante personer.
-- **Det åbne filarkiv:** Her opbevares dokumentation, der er klar til offentlig deling, så andre kan finde og bruge den.
+OS2 bruger Nextcloud til både offentlig dokumentation og samarbejde med begrænset adgang.
 
-Når dokumentation er klar til offentliggørelse, placeres den i produktets eller projektets offentlige mappe eller på den aftalte dokumentationsplatform.
+- **Det offentlige filarkiv:** Her kan alle læse og hente dokumenter uden at logge ind. Personer med de nødvendige rettigheder kan også uploade og administrere filer.
+- **Adgangsbegrænsede områder:** Her kan produkter og projekter dele filer og samarbejde om dokumenter, som kun bestemte personer skal have adgang til.
 
-*Husk README-filen: Produktets eller projektets mappe i det åbne filarkiv skal indeholde en README, der giver overblik over indholdet og viser vej til relevant dokumentation.*
+Forskellen handler om, **hvem der kan få adgang til materialet** – ikke om dokumenterne er kladder eller færdige.
+
+Produkter og projekter kan også vælge at opbevare dokumentation på andre platforme, fx GitHub. Dokumentation, der skal være offentlig, behøver derfor ikke ligge i Nextcloud.
+
+**Husk README-filen:** Produktets eller projektets mappe i det offentlige filarkiv skal indeholde en README, der giver overblik og viser vej til dokumentation andre steder.
 
 ## Filformater
 
-OS2 bruger som udgangspunkt åbne dokumentformater (ODF):
+Brug gerne åbne dokumentformater (ODF), når du opretter og deler dokumenter:
 
 - `.odt` – tekstdokumenter
 - `.ods` – regneark
@@ -57,7 +60,7 @@ En enkel og genkendelig struktur gør det lettere for andre at finde dokumentati
 
 - Brug beskrivende og konsekvente filnavne, fx `2025-03-15_Referat_Bestyrelsesmoede.odt`.
 - Navngiv mapper, så deres indhold fremgår tydeligt.
-- Opbevar interne arbejdsfiler i det relevante interne arbejdsområde.
+- Hvis I bruger Nextcloud til dokumenter med begrænset adgang, skal de placeres i et adgangsbegrænset område.
 - Placer dokumentation, der skal deles offentligt, i det åbne filarkiv eller på den aftalte dokumentationsplatform.
 - Sørg for, at dokumenter med varig betydning ikke kun ligger i personlige eller lokale mapper.
 

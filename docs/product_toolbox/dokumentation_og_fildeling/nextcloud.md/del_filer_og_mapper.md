@@ -1,8 +1,8 @@
 ---
 title: Del filer og mapper
 layout: default
-parent: Åbent filarkiv
-grand_parent: Dokumentation og fildeling
+parent: Nextcloud
+grand_parent: Værktøjskasse til projekter og produkter
 nav_order: 15
 has_children: false
 has_toc: true
@@ -11,7 +11,7 @@ has_toc: true
 # Del filer og mapper
 {: .no_toc }
 
-Nextcloud bruges til at dele både offentlige dokumenter og interne arbejdsfiler.
+Nextcloud kan bruges til at dele filer og mapper både offentligt og med en afgrænset gruppe personer.
 
 **Det vigtigste er at vælge den rigtige måde at dele på**, så modtageren kan åbne materialet – uden at du utilsigtet giver andre adgang.
 
@@ -47,7 +47,7 @@ Når du er logget ind:
 
 Hvis der ikke findes et offentligt delingslink, skal det oprettes af en person med de nødvendige rettigheder.
 
-## Del interne filer og mapper
+## Del filer og mapper med begrænset adgang
 
 Interne dokumenter deles med personer, der har adgang til det relevante arbejdsområde i Nextcloud.
 
@@ -58,7 +58,7 @@ Interne dokumenter deles med personer, der har adgang til det relevante arbejdso
 
 Hvis modtageren allerede har adgang til mappen, kan du normalt blot kopiere adressen fra browseren.
 
-**Vigtigt:** Del ikke interne arbejdsdokumenter via et offentligt delingslink, medmindre materialet faktisk må være offentligt tilgængeligt.
+**Vigtigt:** Vigtigt: Opret ikke offentlige delingslinks til materiale, der kun må være tilgængeligt for bestemte personer.
 
 ## Kontrollér altid dit link
 

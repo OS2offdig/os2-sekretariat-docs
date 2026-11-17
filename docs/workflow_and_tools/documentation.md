@@ -50,19 +50,31 @@ Det enkelte OS2-produkt eller -projekt har ansvar for at:
 
 ## Fælles praksis
 
-Dokumentation for OS2-produkter og -projekter kan opbevares i det offentlige filarkiv (Nextcloud), kodearkivet (fx GitHub) eller begge steder. Det afgørende er, at dokumentationen er offentligt tilgængelig og let at finde.
+OS2 stiller Nextcloud og GitHub til rådighed til dokumentation og samarbejde.
 
-**Alle OS2-produkter og -projekter skal have en README i både det offentlige filarkiv og deres kodearkiv.**
+**Nextcloud** bruges til opbevaring og deling af filer. OS2 har både et offentligt filarkiv, hvor alle kan læse og hente dokumenter, og adgangsbegrænsede områder, som produkter og projekter kan bruge til samarbejde.
 
-En README er en introduktionsfil, der giver overblik over indholdet og viser vej til relevant information.
+**GitHub** bruges blandt andet til udvikling, dokumentation, versionsstyring og samarbejde. Dokumentation kan også udgives på et docsite, så den er let at læse og finde.
 
-README-filerne skal beskrive indholdet i hvert sit arkiv og henvise til relevant dokumentation, når den findes andre steder.
+### Fra fælles filarkiv til flere dokumentationssteder
+
+Hidtil har det offentlige filarkiv i Nextcloud været det centrale sted for blandt andet dagsordener, referater og anden dokumentation fra OS2-produkter og -projekter.
+
+Fremadrettet kan dokumentationen i højere grad placeres, hvor det giver bedst mening – eksempelvis på GitHub. Det er ikke et krav, at dokumenterne også ligger i Nextcloud. Det afgørende er, at dokumentationen som udgangspunkt er offentligt tilgængelig og let at finde.
+
+### README – en fælles vejviser
+
+**Alle OS2-produkter og -projekter skal have en README i både det offentlige filarkiv i Nextcloud og på GitHub.**
+
+En README er en kort introduktionsfil, som beskriver, hvad man finder det pågældende sted, og viser vej til dokumentation, der ligger andre steder.
+
+Dokumenterne skal ikke opbevares flere steder. README-filerne skal gøre det muligt at finde dem.
 
 
 {: .note }
 > **Fælles praksis fra november 2026**
 >
-> Som led i OS2's arbejde med åbenhed og videndeling tydeliggør vi nu brugen af README-filer i både filarkiv og kodearkiv.
+> Som led i OS2's arbejde med åbenhed og videndeling tydeliggør vi nu brugen af README-filer i både Nextcloud og GitHub.
 >
 > Praksissen indføres løbende og understøttes med vejledninger og skabeloner i håndbogen.
 
