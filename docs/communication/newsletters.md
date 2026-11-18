@@ -191,13 +191,7 @@ Relevant indhold fra produktfællesskaberne kan også bruges i OS2's fælles kom
 
 Har produktet en historie, aktivitet eller nyhed, som kan være relevant for en bredere del af OS2-fællesskabet, kan sekretariatet hjælpe med at vurdere, hvordan den bedst bringes videre.
 
----
-
-🛠️ Skal du konkret skrive, sende eller administrere et nyhedsbrev? Brug **Nyhedsbreve** under værktøjskassen til praktiske vejledninger og skabeloner.
-
----
-
 > **Opdateret november 2026:** Siden er forenklet og præciseret, så det er tydeligere, hvornår HeyLoyalty og egne maillister bruges, og hvordan praksissen understøtter åbenhed, kontinuitet og mindre personafhængighed.
----
+
 
 🛠️ **Skal du arbejde konkret med nyhedsbreve nu?** Gå til [Værktøjskassen](../product_toolbox.html) for trin for trin, værktøjer og skabeloner.
