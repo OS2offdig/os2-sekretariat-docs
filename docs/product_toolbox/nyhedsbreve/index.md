@@ -7,12 +7,13 @@ has_children: true
 has_toc: false
 ---
 
+
 # Nyhedsbreve
 {: .no_toc }
 
 Her finder du hjælp til at skrive, sende og administrere produktnyhedsbreve i OS2.
 
-Nyhedsbreve håndteres i **Heyloyalty**, men du behøver ikke kende alle systemets funktioner for at komme i gang.
+Produktnyhedsbreve i OS2 sendes via **HeyLoyalty**, men du behøver ikke kende alle systemets funktioner for at komme i gang.
 
 **Brug sidemenuen til at finde den vejledning, der passer til din opgave.**
 
@@ -24,16 +25,20 @@ Start med *Skriv et nyhedsbrev*, og fortsæt til *Opret og send nyhedsbreve*. He
 
 **Arbejde med modtagere?**
 
-Find vejledninger til at oprette, importere og vedligeholde modtagere. Du kan også læse om, hvem der skal være på produktets nyhedsbrevsliste.
+Under *Modtagere* finder du vejledninger til at oprette, importere og vedligeholde modtagere. Du kan også læse om, hvem der skal være på produktets nyhedsbrevsliste, og hvornår målretning er relevant.
 
-**Oprette eller ændre den tekniske opsætning?**
+**Oprette eller ændre opsætningen?**
 
-Under *Opsætning af nyhedsbrevsliste* finder du vejledninger til bl.a. formularer, felter, mailskabeloner og øvrige indstillinger.
+Under *Opsætning af nyhedsbrevsliste* finder du vejledninger til bl.a. formularer, felter, segmenter, mailskabeloner og øvrige indstillinger.
 
-Du behøver normalt ikke arbejde med den tekniske opsætning, når du blot skal sende et nyhedsbrev.
+Du behøver normalt ikke arbejde med opsætningen, når du blot skal sende et nyhedsbrev.
+
+> **Princip for produktnyhedsbreve**
+>
+> Når der sendes tilbagevendende produktinformation til en bredere kreds, er HeyLoyalty OS2's fælles kanal. Egne maillister kan fortsat bruges til den løbende arbejdsdialog i mindre, konkrete grupper.
 
 ## Har du brug for hjælp?
 
-Er du i tvivl om, hvor du skal begynde, eller har du spørgsmål til Heyloyalty? Kontakt OS2-sekretariatet for hjælp og vejledning.
+Er du i tvivl om, hvor du skal begynde, eller har du spørgsmål til HeyLoyalty? Kontakt OS2-sekretariatet for hjælp og vejledning.
 
-Du kan læse mere om de fælles principper for nyhedsbreve under [Kommunikation](/communication/newsletters.html).
+De fælles principper for produktnyhedsbreve er beskrevet under **Kommunikation → Nyhedsbreve i OS2**.

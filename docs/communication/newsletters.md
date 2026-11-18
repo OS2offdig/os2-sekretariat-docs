@@ -11,12 +11,11 @@ back_to_top: false
 # Nyhedsbreve i OS2
 {: .no_toc }
 
-Denne side handler om produkt- og projektnyhedsbreve i OS2 – altså hvordan det enkelte produkt eller projekt kan bruge nyhedsbreve som en del af sin egen kommunikation.
+Denne side beskriver de fælles principper for produkt- og projektnyhedsbreve i OS2.
 
-Nyhedsbreve er en del af produkters og projekters løbende kommunikation med produktfællesskabet - og resten af verden. I OS2 bruger vi Heyloyalty som fælles platform til produktnyhedsbreve.
+Nyhedsbreve bruges til at holde fællesskabet orienteret, skabe synlighed om produktet og gøre det muligt for interesserede at følge med og deltage.
 
-Nyhedsbrevet giver produktet en direkte kanal til mennesker, der allerede bruger produktet, og til andre, der gerne vil følge med. Det kan bruges til at skabe synlighed, dele viden, invitere til deltagelse og holde relationen til produktets community levende.
-
+Det er ikke et krav, at alle produkter og projekter løbende udsender nyhedsbreve. Men når der sendes tilbagevendende produktinformation til en bredere kreds, er HeyLoyalty OS2's fælles kanal.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }
@@ -24,154 +23,181 @@ Nyhedsbrevet giver produktet en direkte kanal til mennesker, der allerede bruger
 1. TOC
 {:toc}
 
-## Styregruppen prioriterer kommunikationsindsatsen
+## Hvad bruger vi nyhedsbreve til?
 
-Det er styregruppen, der prioriterer produktets samlede indsats – herunder hvor meget der skal arbejdes med kommunikation, og hvilke kommunikationsaktiviteter der giver mening.
+Nyhedsbrevet er en direkte kanal til både mennesker, der allerede er en del af produktfællesskabet, og andre, der gerne vil følge med.
 
-Det er derfor ikke et krav, at et produkt anvender nyhedsbreve som kommunikationskanal eller sender nyhedsbreve med en bestemt frekvens. OS2 anbefaler dog, at produkterne bruger nyhedsbrevet aktivt, når det understøtter produktets mål.
+Det kan fx bruges til:
 
-Nyhedsbrevet er en direkte kanal til mennesker, som allerede har vist interesse for produktet, og kan derfor være en effektiv måde at fastholde relationer, dele viden og invitere til handling.
-
-Det vigtigste er ikke at sende ofte, men at sende, **når man har noget relevant at kommunikere**. Samtidig er det vigtigt at huske, at læsere af et nyhedsbrev gerne skal holdes vågne. Selv en 'lille' nyhed understøtter synlighed og kan give læseren tryghed i at vide, at der er aktivitet - og måske endda motivere til selv at deltage endnu mere.
-
-Produktet bør dokumentere og informere sekretariatet om, hvorvidt man ønsker at anvende nyhedsbrevet som kommunikationskanal. Først herefter kan sekretariatet understøtte og onboarde korrekt.
-
-## Hvad kan man fx skrive om?
+- releases og nye funktioner
+- væsentlige ændringer
+- arrangementer og aktiviteter
+- erfaringer og cases fra anvendere
+- nye organisationer eller personer i fællesskabet
+- invitationer til at deltage i udvikling, arbejdsgrupper eller styring
+- anden viden og produktnyt, som er relevant for en bredere kreds.
 
 Et nyhedsbrev behøver ikke være en stor produktion. En enkelt relevant nyhed kan være nok.
 
-Det kan fx være:
+## Nyhedsbrevet er som udgangspunkt en åben kanal
 
-- en ny release eller funktion
-- en ny organisation, der er blevet en del af produktet
-- nye medlemmer af styre- eller koordinationsgruppen
-- en erfaring eller succeshistorie fra en anvender
-- noget nyt, produktet eller fællesskabet har lært
-- en invitation til møde, webinar eller anden aktivitet
-- når der søges nye medlemmer til styre- eller koordinationsgruppen
-- når der søges deltagere eller finansiering til fælles udvikling.
+Produktnyhedsbrevet er ikke kun en kontaktliste for de personer, produktet allerede kender. Interesserede skal også kunne følge produktet og lære det bedre at kende.
 
-Nyhedsbrevet kan altså både bruges til at **informere, engagere og invitere til handling**.
+Indholdet skal derfor som udgangspunkt kunne deles åbent.
 
-## Nyhedsbreve er som udgangspunkt en åben kanal
+Noget kan godt være mest relevant for fx brugere, kontaktpersoner eller styregruppen uden at være fortroligt. En invitation til et ERFA-møde for produktets brugere er fx stadig produktkommunikation, selv om arrangementet er for en afgrænset kreds.
 
-Et produktnyhedsbrev er ikke kun en kontaktliste for de personer, vi allerede kender. Det er også en kanal, hvor interesserede kan følge produktet og lære det bedre at kende. Historisk har nyhedsbrevet været tænkt mere som intern kommunikation til kontaktpersoner. I takt med OS2's vækst og ændrede behov, anvendes nyhedsbrevet nu som en kanal, der understøtter synlighed, community-building og muligheden for, at nye organisationer og personer kan følge et produkt, før de eventuelt bliver en mere aktiv del af fællesskabet.
+Fortrolig, ufærdig eller konkret arbejdsdialog hører i stedet hjemme i relevante arbejdsfora.
 
-Udgangspunktet er derfor, at indhold i et produktnyhedsbrev skal kunne tåle at blive læst af alle, der vælger at følge produktet.
+## HeyLoyalty og egne maillister
 
-**Relevans er ikke det samme som fortrolighed.** Noget kan være mest relevant for en bestemt gruppe uden at være hemmeligt.
+Egne maillister er ikke et problem i sig selv. De kan være den letteste løsning til den løbende arbejdsdialog i en mindre, konkret gruppe.
 
-## Gør det let for læseren at finde det relevante
+| Egne maillister er fine til | Brug som udgangspunkt HeyLoyalty til |
+| --- | --- |
+| Mødeindkaldelser i en mindre arbejdsgruppe | Releases og væsentlige produktændringer |
+| Koordinering og opfølgning på konkrete opgaver | Arrangementer og invitationer til brugere eller en bredere kreds |
+| Arbejdsgrupper og konkrete arbejdsfora | Produktnyt og tilbagevendende information |
+| Ad hoc-dialog mellem personer, der arbejder sammen | Kommunikation, som nye interesserede også skal kunne få adgang til |
 
-Målretning behøver ikke altid at være teknisk.
+Det afgørende er altså ikke, om modtagerne samarbejder. Samarbejde på tværs af myndigheder og brugere er en grundlæggende del af OS2.
 
-Hvis en del af nyhedsbrevet fx kun er relevant for systemejere, kan man ganske enkelt hjælpe resten af læserne videre:
+Spørgsmålet er snarere, om I skriver til **en mindre gruppe, fordi den løser en konkret opgave sammen**, eller til mennesker **fordi de bruger, følger eller på anden måde har en relation til produktet**.
 
-> **Ikke systemejer?** Så kan du roligt springe videre til næste punkt.
+## CRM og HeyLoyalty har forskellige formål
 
-Det er en enkel måde at gøre nyhedsbrevet mere relevant og servicere læseren uden at gøre udsendelsen mere kompliceret.
+OS2 har et fælles CRM, hvor produktets centrale kontakter og formelle relationer registreres. Det gælder uanset, hvordan produktet kommunikerer.
 
-### Én liste som udgangspunkt
+HeyLoyalty er ikke et CRM, men et værktøj til at sende og målrette kommunikation.
 
-Som udgangspunkt arbejder hvert produkt med én nyhedsbrevsliste.
+Der er dog et overlap: Når et produkt har en nyhedsbrevsliste i HeyLoyalty, skal de centrale personer omkring produktet – fx lokale kontaktpersoner samt medlemmer af styre- og koordinationsgruppen – også kunne nås gennem den.
 
-Flere parallelle lister betyder mere vedligeholdelse, større risiko for fejl og mere arbejde med at holde modtagere ajour. Derfor opretter vi ikke ekstra lister, medmindre der er et tydeligt og varigt behov.
+## Hvornår bør I ændre jeres praksis?
 
-Når forskellige grupper skal have forskellig information, er målet i stedet at arbejde med målretning og segmentering inden for den samme liste.
+Brug denne tommelfingerregel:
 
-Segmentering skal dog kun bruges, når behovet er reelt, og når løsningen kan vedligeholdes i praksis.
+```mermaid
+flowchart TD
 
-## Hvad hører ikke hjemme i et nyhedsbrev?
+    A["Sender I kun til en mindre, konkret arbejdsgruppe<br/>om møder, koordinering eller arbejdsopgaver?"]
 
-Heyloyalty er ikke et lukket arbejdsforum.
+    A -->|Ja| B["Egne mailtråde og lister er fine"]
+    A -->|Nej| C["Sender I tilbagevendende information<br/>til brugere, kontaktpersoner eller andre omkring produktet?"]
 
-Fortrolig, ufærdig eller intern arbejdsdialog foregår i relevante samarbejdsfora, fx direkte mail, møder, arbejdsgrupper eller OS2samtale.
+    C -->|Nej| B
+    C -->|Ja| D["Brug som udgangspunkt HeyLoyalty"]
 
-Når informationen er klar til at blive delt bredere, kan nyhedsbrevet bruges som en af kanalerne til at formidle den.
+    D --> E["Er I selv onboardet i HeyLoyalty?"]
 
-**Lukket dialog foregår i arbejdsfora. Nyhedsbrevet bruges, når informationen er klar til at blive delt.**
+    E -->|Ja| F["Vedligehold modtagere og send selv"]
+    E -->|Nej| G["Send indhold til sekretariatet<br/>eller aftal onboarding"]
 
-Er der behov for, at udsende information, som af kritiske årsager ikke kan tåle at blive delt åbent, kontakt da gerne sekretariatet og gør opmærksom på situationen og behovet.
+    B --> H["Er centrale kontakter og formelle relationer<br/>registreret i CRM og tilgængelige for OS2-sekretariatet?"]
 
-## Kommunikation er en del af produktforvaltningen
+    H -->|Ja| I["Fortsæt den praksis"]
+    H -->|Nej| J["Få CRM ajour<br/>– uanset hvilken mailpraksis I bruger"]
+```
 
-Kommunikation er med til at sikre, at mennesker kan følge produktets udvikling, finde relevant information, deltage i fællesskabet og forstå produktets værdi.
+Det er værd at stoppe op og se på praksis igen, hvis:
 
-Styregruppen prioriterer den samlede kommunikationsindsats, men ansvaret for at skrive indholdet behøver ikke nødvendigvis ligge hos produktforvalteren alene.
+- den samme produktinformation gentagne gange sendes via egne Outlook-lister
+- centrale kontakter kun findes hos én person **og ikke er tilgængelige for OS2-sekretariatet**
+- modtagergruppen vokser ud over en mindre, konkret arbejdsgruppe
+- nye interesserede ikke har nogen enkel måde at følge produktet på
+- en anden person ikke uden videre kan overtage kommunikationen
+- det bliver uklart, hvilken af flere parallelle lister der er den rigtige.
 
-Det kan fx være et medlem af koordinationsgruppen, styregruppen eller en anden person i produktfællesskabet, som har viden, tid eller kommunikationskompetencer.
+## Hvorfor gør vi sådan?
 
-Det er en god idé at aftale:
+Praksissen skal understøtte **åbenhed, samarbejde og kontinuitet**.
+
+Når produktinformation kun sendes via egne maillister, når produktet primært de mennesker, man allerede kender. Nye interesserede har sværere ved at følge med, og kommunikationen kan blive afhængig af enkeltpersoner og deres egne arbejdsgange.
+
+HeyLoyalty gør det muligt at opbygge en fælles modtagerkreds, hvor nye interesserede kan tilmelde sig, og hvor kommunikationen lettere kan videreføres ved personskifte.
+
+Det handler derfor ikke kun om administration. En mere åben kommunikationspraksis gør det også lettere at:
+
+- invitere nye mennesker ind i fællesskabet
+- synliggøre produktets aktiviteter og resultater
+- skabe interesse for arrangementer og samarbejde
+- udbrede viden og erfaringer på tværs.
+
+## Hvor meget ekstra kræver det?
+
+Ofte mindre end man tror.
+
+Hvis I allerede sender information via egne maillister, handler overgangen først og fremmest om **at flytte den eksisterende praksis over i HeyLoyalty** – ikke om at producere mere kommunikation.
+
+I kan enten sende indholdet til OS2-sekretariatet eller blive onboardet, så I selv kan sende.
+
+Når kommunikationsbehovet vokser, vil det ofte være mest hensigtsmæssigt, at en person omkring produktet lærer den grundlæggende brug af HeyLoyalty og bliver selvkørende.
+
+Hvor meget I derudover vil gøre ud af nyhedsbrevet som aktiv kommunikationskanal, afhænger af produktets behov og ressourcer.
+
+## Når I går fra egne maillister til HeyLoyalty
+
+Overgangen behøver ikke ske på én gang.
+
+Start med den kommunikation, I allerede sender til en bredere kreds, fx releases, produktnyt og invitationer.
+
+Det betyder typisk, at I skal vænne jer til at:
+
+- vedligeholde relevante modtagere i HeyLoyalty frem for kun på egne lister
+- sende tilbagevendende produktinformation via HeyLoyalty
+- fortsat bruge egne mailtråde til konkret arbejdsdialog og koordinering
+- sikre, at kommunikationen kan videreføres af andre.
+
+**Hvis I ikke selv er onboardet i HeyLoyalty:**  
+I sender indholdet til OS2-sekretariatet, som hjælper med udsendelsen.
+
+**Hvis I selv skal arbejde i HeyLoyalty:**  
+En person omkring produktet onboardes og lærer den grundlæggende brug, så produktet selv kan vedligeholde modtagere og sende relevant information.
+
+## Hvem har ansvaret?
+
+Styregruppen prioriterer produktets samlede indsats og tager dermed også stilling til, hvor højt kommunikation skal prioriteres.
+
+Det betyder ikke, at styregruppen skal skrive eller godkende hvert nyhedsbrev.
+
+Produktet bør have en enkel aftale om:
 
 - hvem der typisk skriver eller samler indhold
-- hvem der godkender nyhedsbrevet
-- hvor omfattende en godkendelse der er behov for.
+- hvem der sender
+- hvem der vedligeholder relevante modtagere
+- hvem der godkender, når det er nødvendigt.
 
-En enkel og tydelig rollefordeling gør det lettere at få kommunikationen til at fungere i praksis.
+OS2-sekretariatet stiller de fælles rammer og værktøjer til rådighed og hjælper med onboarding og sparring.
 
-## Sørg for, at de centrale personer er med
+Målet er, at kommunikationspraksissen passer til produktets størrelse og behov – og samtidig er robust nok til ikke at være afhængig af én enkelt person.
 
-Produktets nyhedsbrev er også en vigtig kanal til de personer, der har en formel rolle omkring produktet.
+## Hold det enkelt
 
-Derfor skal produktets relevante kontaktpersoner i de tilsluttede organisationer samt medlemmer af styre- og koordinationsgruppen være registreret som modtagere af den relevante produktkommunikation.
+Nyhedsbrevsarbejdet skal kunne fungere i praksis.
 
-Det er produktets ansvar at sikre, at oplysningerne er ajour, når personer eller roller ændrer sig.
+Derfor er udgangspunktet:
 
-Den konkrete arbejdsgang for vedligeholdelse af kontaktoplysninger og nyhedsbrevslister beskrives separat.
+- send, når der er noget relevant at fortælle
+- hold indholdet så kort som muligt
+- brug som udgangspunkt én nyhedsbrevsliste
+- målret kun, når der er et reelt behov
+- genbrug relevant indhold på tværs af kanaler
+- fordel arbejdet, så kommunikationen ikke bliver afhængig af én person.
 
-## Brug hinandens erfaringer
+Målet er ikke at sende mest muligt. Målet er at gøre det let for relevante mennesker at følge produktet og fællesskabet omkring det.
 
-Produktkommunikation behøver ikke udvikles fra bunden i hvert produkt.
+## Indhold til OS2's fælles kanaler
 
-Vi opfordrer dem, der arbejder med kommunikation i produkterne, til at sparre med hinanden på tværs. Se, hvordan andre produkter bruger deres nyhedsbreve, genbrug gode greb og del erfaringer om, hvad der fungerer.
+Relevant indhold fra produktfællesskaberne kan også bruges i OS2's fælles kommunikation, fx i OS2's nyhedsbrev, på hjemmesiden eller LinkedIn.
 
-Det kan både gøre arbejdet lettere og løfte kvaliteten på tværs af OS2.
-
-OS2-sekretariatet kan hjælpe med at kvalificere produktets strategi og plan for nyhedsbreve og med at finde en enkel kommunikationspraksis, der passer til produktets mål og ressourcer.
-
-I værktøjskassen findes skabeloner og praktisk hjælp til planlægning og udsendelse af nyhedsbreve.
-
-## Hold det enkelt og relevant
-
-Nyhedsbrevsarbejdet skal være så enkelt at vedligeholde som muligt.
-
-Udgangspunktet er derfor:
-
-- brug nyhedsbrevet aktivt som en del af produktets løbende kommunikation
-- gør det tydeligt, hvem informationen især er relevant for
-- hjælp læseren med hurtigt at finde det, der er relevant for dem
-- fordel arbejdet mellem de mennesker i produktfællesskabet, der bedst kan bidrage
-- aftal en enkel proces for skrivning og godkendelse
-- se på tværs af produkterne og genbrug gode greb og erfaringer
-- genbrug indhold på tværs af relevante kanaler, når det giver mening.
-
-*Målet er ikke at sende mest muligt, men at bruge nyhedsbrevet aktivt og relevant som en kanal mellem produktet og dets community.*
-
-## Indhold fra fællesskabet
-
-OS2's fælles nyhedsbrev kan også bruges til at skabe synlighed om relevant indhold og aktiviteter fra produktfællesskaberne.
-
-Det kan eksempelvis være blogindlæg, arrangementer, cases, nyheder, andre nyhedsbreve eller opslag, som det er relevant at lede læserne videre til.
-
-Har du noget, der kan være relevant for OS2's nyhedsbrev, så gør OS2-sekretariatet opmærksom på det og send gerne link og en kort beskrivelse af, hvorfor det er relevant.
+Har produktet en historie, aktivitet eller nyhed, som kan være relevant for en bredere del af OS2-fællesskabet, kan sekretariatet hjælpe med at vurdere, hvordan den bedst bringes videre.
 
 ---
 
-## Kort fortalt: Hvad skal I gøre?
+🛠️ Skal du konkret skrive, sende eller administrere et nyhedsbrev? Brug **Nyhedsbreve** under værktøjskassen til praktiske vejledninger og skabeloner.
 
-Hvis jeres produkt vil bruge nyhedsbrev som kommunikationskanal:
+---
 
-- [ ] **Styregruppen:** Tag stilling til, om nyhedsbrev skal indgå i produktets kommunikation, og hvor højt indsatsen skal prioriteres.
-- [ ] **Produktforvaltningen:** Informér sekretariatet om beslutningen, så produktet kan blive onboardet korrekt i Heyloyalty.
-- [ ] **Produktet:** Aftal, hvem der typisk skriver eller samler indhold, og hvem der godkender udsendelser.
-- [ ] **Produktet:** Sørg for, at relevante kontaktpersoner samt medlemmer af styre- og koordinationsgruppen er registreret korrekt, og hold oplysningerne ajour ved ændringer.
-- [ ] **Den, der sender:** Brug nyhedsbrevet til information, der kan deles åbent. Brug andre samarbejdsfora til fortrolig eller ufærdig dialog.
-- [ ] **Den, der sender:** Målret kun med segmentering, når der er et reelt behov. Gør ellers relevansen tydelig direkte i teksten.
-- [ ] **Alle:** Hold det enkelt. Et nyhedsbrev behøver ikke være langt, og en enkelt relevant nyhed kan være nok.
-
-**Er I i tvivl om opsætning, målgrupper, segmentering eller hvad der egner sig til et nyhedsbrev? Kontakt OS2-sekretariatet.**
-
-
+> **Opdateret november 2026:** Siden er forenklet og præciseret, så det er tydeligere, hvornår HeyLoyalty og egne maillister bruges, og hvordan praksissen understøtter åbenhed, kontinuitet og mindre personafhængighed.
 ---
 
 🛠️ **Skal du arbejde konkret med nyhedsbreve nu?** Gå til [Værktøjskassen](../product_toolbox.html) for trin for trin, værktøjer og skabeloner.
