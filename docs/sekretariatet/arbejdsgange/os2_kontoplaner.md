@@ -1,7 +1,8 @@
 ---
 title: Økonomi og kontoplaner
 layout: default
-parent: Processer og rutiner
+parent: Arbejdsgange
+grand_parent: Sekretariatet
 nav_order: 40
 ---
 

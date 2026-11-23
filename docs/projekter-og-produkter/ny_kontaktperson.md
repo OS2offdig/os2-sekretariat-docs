@@ -1,8 +1,8 @@
 ---
 title: Ændring af lokal kontaktperson
 layout: default
-parent: Processer og rutiner
-nav_order: 20
+parent: Projekter og produkter
+nav_order: 30
 has_toc: true
 ---
 
