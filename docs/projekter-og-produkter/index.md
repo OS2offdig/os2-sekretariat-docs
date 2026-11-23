@@ -1,11 +1,12 @@
 ---
-title: Projekter, Produkter og fællesskaber
+title: Projekter og produkter
 layout: default
 nav_order: 7
+has_children: true
 has_toc: false
 ---
 
-# Projekter, Produkter og fællesskaber
+# Projekter og produkter
 I afsnittet får du overblik over OS2’s produktportefølje og får beskrevet, hvordan sekretariatet understøtter fællesskaberne omkring hvert projekt og produkt.  
 Afsnittet hjælper nye medarbejdere, produktkoordinatorer og samarbejdspartnere med at forstå, hvordan OS2’s projekter og produkter organiseres, driftes og videreudvikles i et fællesskab.
 
