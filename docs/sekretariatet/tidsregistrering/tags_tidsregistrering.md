@@ -1,8 +1,9 @@
 ---
 title: Tags til tidsregistrering
 layout: default
-parent: Struktur for tidsregistrering
-nav_order: 5
+parent: Tidsregistrering
+grand_parent: Sekretariatet
+nav_order: 10
 ---
 
 # Tags til tidsregistrering

@@ -1,8 +1,9 @@
 ---
 title: Standardopgaver til tidsregistrering
 layout: default
-parent: Struktur for tidsregistrering
-nav_order: 6
+parent: Tidsregistrering
+grand_parent: Sekretariatet
+nav_order: 20
 ---
 
 # Standardopgaver til tidsregistrering

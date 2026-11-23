@@ -1,6 +1,7 @@
 ---
 title: Onboarding af nye medarbejdere
 layout: default
-parent: Processer og rutiner
+parent: Arbejdsgange
+grand_parent: Sekretariatet
 nav_order: 10
 ---

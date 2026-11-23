@@ -1,11 +1,13 @@
 ---
-title: Struktur for tidsregistrering
+title: Tidsregistrering
 layout: default
-parent: Processer og rutiner
-nav_order: 50
+parent: Sekretariatet
+nav_order: 30
+has_children: true
+has_toc: true
 ---
 
-# Struktur for tidsregistrering
+# Tidsregistrering
 
 ## Formål
 
