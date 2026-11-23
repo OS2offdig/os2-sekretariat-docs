@@ -1,7 +1,8 @@
 ---
 title: Forretningskoordinator
 layout: default
-parent: Organisation og Roller
+parent: Funktionsbeskrivelser
+grand_parent: Organisation og roller
 nav_order: 5
 ---
 

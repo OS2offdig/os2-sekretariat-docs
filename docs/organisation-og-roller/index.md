@@ -1,5 +1,5 @@
 ---
-title: Organisation og Roller
+title: Organisation og roller
 layout: default
 nav_order: 3
 has_children: true
@@ -15,21 +15,22 @@ Her gives et indblik i, hvordan OS2 og sekretariatet er organiseret, hvem der ha
 
 **OS2-fællesskabet** er organiseret som en forening med:
 - En **bestyrelse**, som varetager det strategiske og overordnede ansvar. Medlemmer til bestyrelsen vælges af foreningens generalforsamling.
+
 - Et **sekretariat**, som understøtter foreningens arbejde og fællesskaberne omkring de enkelte projekter og produkter. Sekretariatet fungerer som et fælles omdrejningspunkt og understøtter de mange produktfællesskaber, der drives decentralt af kommuner og andre offentlige aktører.
+
 - En række **produkt- og projektfællesskaber**, som udvikler, drifter og forvalter de enkelte løsninger.
-- Medlemskommuner og øvrige offentlige aktører, som bidrager med behov, prioritering og forankring.
-- Private leverandører som har tilkendegivet, at de vil levere på open source-betingelser samt overdrage ejerskabet til resultater til OS2.
+- **Medlemskommuner** og øvrige offentlige aktører, som bidrager med behov, prioritering og forankring.
+- **Private leverandører** som har tilkendegivet, at de vil levere på open source-betingelser samt overdrage ejerskabet til resultater til OS2.
 
 ### Organisationsdiagram
 
-Her kan indsættes et simpelt **diagram** (f.eks. i Mermaid-format eller som billede), som viser sammenhængen mellem:
+
 - Bestyrelse  
 - Sekretariat  
 - Produktfællesskaber  
 - Medlemmer  
 - Eksterne samarbejdspartnere (leverandører, ITK, KL m.fl.)
 
-#### Klassisk organisationsdiagram
 
 ```mermaid
 graph TD
@@ -83,22 +84,6 @@ mindmap
       Anvendere
 ```
 
-## Roller og ansvar {#roller}
-
-Sekretariatet består af flere funktioner med hver sit fokusområde.  
-Her finder du kort beskrivelse og link til de detaljerede funktionsbeskrivelser.
-
-| Rolle | Hovedopgaver | Reference |
-|-------|---------------|------------|
-| **Sekretariatschef** | Overordnet ledelse, strategi, kontakt til bestyrelse og OS2-fællesskab | [Funktionsbeskrivelse](role_descriptions/chief_executive_and_secretary) |
-| **Produktkonsulent** | Rådgivning, projektstøtte, kvalitet og dokumentation | [Funktionsbeskrivelse](role_descriptions/product_advisor) |
-| **Enterprise Arkitekt** | Teknisk rådgivning, standardisering og arkitekturprincipper | [Funktionsbeskrivelse](role_descriptions/enterprise_architect) |
-| **Kommunikationsmedarbejder** | Intern og ekstern kommunikation, nyhedsbreve, hjemmeside | [Funktionsbeskrivelse](role_descriptions/communications_officer) |
-| **Forretningskoordinator** | Processer, drift og støttefunktioner | [Funktionsbeskrivelse](role_descriptions/business_coordinator) |
-| **Produktkoordinator** | Koordination, governance og fremdrift i et OS2-produkt | [Funktionsbeskrivelse](role_descriptions/product_coordinator) |
-| **Programleder** | Produktledelse, prioritering og koordinering af udvikling i et OS2-produkt | [Funktionsbeskrivelse](role_descriptions/program_manager) |
-
-> Alle medarbejdere deler et fælles ansvar for at styrke samarbejdet i OS2 og sikre, at sekretariatet arbejder ud fra fællesskabets værdier om åbenhed, samarbejde og ejerskab.
 
 ## Samarbejde med bestyrelsen, myndigheder og medlemmer {#samarbejde}
 
@@ -157,4 +142,4 @@ Sekretariatet samarbejder med en række aktører uden for OS2-fællesskabet, som
 
 - [OS2 organisering – Strand & Donslund rapport version 1.0](https://boks.os2.eu/s/Afco557gKpepLJa)
 - [Kommissorium for OS2’s bestyrelse](https://boks.os2.eu/s/dKzT7k34m2sSTem)
-- [Funktionsbeskrivelser for roller i OS2-sekretariatet]()
+
