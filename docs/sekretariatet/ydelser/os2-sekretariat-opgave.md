@@ -1,7 +1,8 @@
 ---
 title: OS2-sekretariatets opgave
 layout: default
-parent: Sekretariatets ydelser og opgave
+parent: Opgave og ydelser
+grand_parent: Sekretariatet
 nav_order: 1
 has_toc: false
 ---
@@ -38,4 +39,3 @@ Sekretariatet lykkes, når produktfællesskaberne lykkes. Den største succes er
 - OS2s vedtægter, <https://vedtaegter.os2.eu/>
 - OS2s Vision, Mission og Strategi, <https://www.os2.eu/os2s-vision-og-mission>
 - OS2s styringsmodel og krav til produktniveauer, <https://governance.os2.eu/>
-- Funktionsbeskrivelser i OS2, <https://handbook.os2.eu/docs/organisation_and_roles.html#roller>

@@ -1,7 +1,8 @@
 ---
 title: Ydelser og ydelsesområder
 layout: default
-parent: Sekretariatets ydelser og opgave
+parent: Opgave og ydelser
+grand_parent: Sekretariatet
 nav_order: 2
 has_toc: true
 back_to_top: false
