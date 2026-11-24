@@ -2,10 +2,10 @@
 title: Kommunikation i OS2
 layout: default
 parent: Kommunikation
+grand_parent: Projekter og produkter
 nav_order: 10
 has_children: false
 has_toc: true
-back_to_top: false
 ---
 
 # Kommunikation i OS2
@@ -41,7 +41,7 @@ Kommunikation om det enkelte produkts udvikling, aktiviteter og fællesskab driv
 
 Styregruppen prioriterer den samlede indsats omkring produktet. Hvordan de konkrete kommunikationsopgaver fordeles, afhænger af produktets organisering og aftales i produktorganisationen.
 
-Kommunikation er en del af den samlede produktforvaltning og skal ses i sammenhæng med [OS2's governancemodel](LINK-TIL-GOVERNANCEMODEL).
+Kommunikation er en del af den samlede produktforvaltning og skal ses i sammenhæng med [OS2's governancemodel](https://www.os2.eu/governance).
 
 ## OS2-sekretariatets rolle
 
@@ -86,8 +86,3 @@ Det kræver, at OS2-sekretariatet får kendskab til indholdet eller aktiviteten.
 
 Sekretariatet vurderer den konkrete kanal, timing og form ud fra målgruppe, relevans og den øvrige kommunikation.
 
-## Find hjælp og vejledning
-
-Læs mere om roller og samarbejde i [Kommunikation i produktfællesskabet](product_community.html) og [Kommunikation for leverandører](suppliers.html).
-
-🛠️ **Skal du arbejde konkret med kommunikation?** Gå til [Værktøjskassen](../product_toolbox.html) for vejledninger, værktøjer og skabeloner.

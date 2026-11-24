@@ -2,10 +2,10 @@
 title: Nyhedsbreve i OS2
 layout: default
 parent: Kommunikation
+grand_parent: Projekter og produkter
 nav_order: 40
 has_children: false
 has_toc: true
-back_to_top: false
 ---
 
 # Nyhedsbreve i OS2
@@ -193,5 +193,3 @@ Har produktet en historie, aktivitet eller nyhed, som kan være relevant for en 
 
 > **Opdateret november 2026:** Siden er forenklet og præciseret, så det er tydeligere, hvornår HeyLoyalty og egne maillister bruges, og hvordan praksissen understøtter åbenhed, kontinuitet og mindre personafhængighed.
 
-
-🛠️ **Skal du arbejde konkret med nyhedsbreve nu?** Gå til [Værktøjskassen](../product_toolbox.html) for trin for trin, værktøjer og skabeloner.

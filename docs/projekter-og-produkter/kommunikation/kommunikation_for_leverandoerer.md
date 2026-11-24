@@ -2,10 +2,10 @@
 title: Kommunikation for leverandører
 layout: default
 parent: Kommunikation
+grand_parent: Projekter og produkter
 nav_order: 30
 has_children: false
 has_toc: true
-back_to_top: false
 ---
 
 # Kommunikation for leverandører
@@ -64,9 +64,3 @@ Hvilke historier der kommunikeres om, hvornår og gennem hvilke kanaler, afhæng
 Som en del af onboarding introduceres nye leverandører til OS2's kommunikationspraksis og henvises til relevante vejledninger og materialer.
 
 I forbindelse med onboarding kan OS2 desuden indsamle en kort beskrivelse eller udtalelse om leverandørens samarbejde med OS2. Materialet kan senere anvendes i ekstern kommunikation om OS2's leverandører, eksempelvis på os2.eu, LinkedIn eller i nyhedsbreve.
-
-## Se også
-
-- [Kommunikation i OS2](overview.html)
-- [Sprog og tone](../product_toolbox/sprog_og_tone.html)
-- [OS2's visuelle retning](../product_toolbox/visuel_retning.html)

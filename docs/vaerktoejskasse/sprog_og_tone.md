@@ -43,8 +43,3 @@ Når OS2 er afsender eller medafsender, eller når OS2's fælles kanaler anvende
 ## Find hjælp
 
 Har du brug for sparring om målgruppe, budskab, sprog eller tone, kan du kontakte OS2-sekretariatet.
-
-Se også:
-
-- [Kommunikation i OS2](../communication/overview.html)
-- [OS2's visuelle retning](visuel_retning.html)

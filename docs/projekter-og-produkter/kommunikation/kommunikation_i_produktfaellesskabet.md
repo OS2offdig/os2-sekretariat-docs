@@ -2,10 +2,10 @@
 title: Kommunikation i produktfællesskabet
 layout: default
 parent: Kommunikation
+grand_parent: Projekter og produkter
 nav_order: 20
 has_children: false
 has_toc: true
-back_to_top: false
 ---
 
 # Kommunikation i produktfællesskabet
@@ -70,7 +70,6 @@ Kommunikation kan med fordel indgå i det løbende samarbejde mellem produktorga
 
 Produktorganisationen har samtidig en vigtig rolle i at sikre sammenhæng med produktets fælles retning, prioriteringer og ejerskab.
 
-Læs mere under [Kommunikation for leverandører](suppliers.html).
 
 ## Få støtte fra OS2-sekretariatet
 
@@ -85,9 +84,3 @@ Sekretariatet kan blandt andet bidrage med:
 - skabeloner, visuelle rammer og kommunikationsmaterialer
 
 Sekretariatet følger ikke løbende alle aktiviteter i alle produkter. Det er derfor produktorganisationen, der tager initiativ, når et konkret kommunikationsbehov opstår.
-
-## Se også
-
-- [Kommunikation i OS2](overview.html)
-
-🛠️ **Skal du arbejde konkret med kommunikation?** Gå til [Værktøjskassen](../product_toolbox.html) for vejledninger, værktøjer og skabeloner.

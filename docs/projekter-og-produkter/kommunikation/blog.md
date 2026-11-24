@@ -2,6 +2,7 @@
 title: Blog
 layout: default
 parent: Kommunikation
+grand_parent: Projekter og produkter
 nav_order: 60
 has_children: false
 has_toc: true

@@ -2,6 +2,7 @@
 title: LinkedIn
 layout: default
 parent: Kommunikation
+grand_parent: Projekter og produkter
 nav_order: 50
 has_children: false
 has_toc: true
@@ -25,5 +26,4 @@ Sekretariatet producerer som udgangspunkt ikke opslag om det enkelte produkt fra
 
 Sekretariatet kan redigere og tilpasse materialet til OS2's kanal og vurderer, om og hvordan det passer ind i den øvrige kommunikation.
 
-{: .warning }
-Opdateres..
+
