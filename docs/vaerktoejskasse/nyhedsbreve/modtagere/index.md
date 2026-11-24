@@ -3,7 +3,7 @@ title: Modtagere
 layout: default
 parent: Nyhedsbreve
 grand_parent: Værktøjskasse
-nav_order: 30
+nav_order: 40
 has_children: true
 has_toc: false
 ---

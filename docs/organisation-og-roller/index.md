@@ -1,9 +1,9 @@
 ---
 title: Organisation og roller
 layout: default
-nav_order: 3
+nav_order: 10
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Organisation og roller
