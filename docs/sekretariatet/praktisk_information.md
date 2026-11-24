@@ -1,8 +1,14 @@
 ---
 title: Praktisk information
 layout: default
-nav_order: 10
+parent: Sekretariatet
+nav_order: 50
+has_toc: true
 ---
+
+> **Under gennemgang**
+>
+> Oplysninger og henvisninger skal kontrolleres.
 
 # Praktisk information
 Her gives en hurtigt adgang til praktisk information om arbejdsforhold, udstyr, lokaler og sikkerhed i hverdagen. Afsnittet supplerer Aarhus Kommunes retningslinjer og beskriver kun særlige forhold, der gælder for OS2-sekretariatet.
