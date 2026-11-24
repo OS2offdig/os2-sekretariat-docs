@@ -1,6 +1,18 @@
 ---
 title: Samarbejdspartnere og leverandører
 layout: default
+parent: Organisation og roller
+nav_order: 20
+has_toc: true
+---
+
+> **Under gennemgang**
+>
+> Siden indeholder beskrivelser af både samarbejdsprincipper og ønsket praksis. Ansvarsfordeling og aftalegrundlag skal gennemgås og verificeres.
+
+---
+title: Samarbejdspartnere og leverandører
+layout: default
 nav_order: 8
 has_toc: false
 ---
