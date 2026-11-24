@@ -4,9 +4,12 @@ layout: default
 nav_order: 5
 has_children: true
 has_toc: false
+nav_exclude: true
 ---
 
-# Processer og rutiner <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
+# Processer og rutiner 
+
+<span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
 
 *🔎 Overblik:* Rammer for forløb, roller og beslutningspunkter på tværs af OS2.  
 *🛠️ Skal du løse en opgave nu?* Gå til **[Værktøjskassen](./product_toolbox)** for *Trin for trin*, værktøjer og skabeloner.

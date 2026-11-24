@@ -4,9 +4,12 @@ layout: default
 nav_order: 4
 has_children: true
 has_toc: false
+nav_exclude: true
 ---
 
-# Sådan arbejder vi i OS2 <span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
+# Sådan arbejder vi i OS2 
+
+<span class="label label-purple">Overblik</span> <span class="label">Sekretariat · Projekter &amp; produkter</span>
 
 *🔎 Overblik:* Rammer for forløb, roller og beslutningspunkter på tværs af OS2.  
 *🛠️ Skal du løse en opgave nu?* Brug **[Værktøjskassen](./product_toolbox)** til *Trin for trin*, værktøjer og skabeloner.

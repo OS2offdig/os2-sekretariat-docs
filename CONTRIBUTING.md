@@ -5,68 +5,67 @@ nav_exclude: true
 nav_order: 99
 ---
 
-# Sådan bidrager du til dokumentationen
+# Sådan bidrager du til OS2-håndbogen
 
-Tak fordi du vil bidrage til **OS2-sekretariatets håndbog**!  
-Formålet er at holde vores fælles vejledninger opdaterede, tydelige og nyttige for både nye og erfarne medarbejdere.  
+Tak fordi du vil bidrage til OS2-håndbogen!
 
-Vi arbejder efter principperne for **[Docs As Code](https://openpracticelibrary.com/practice/docs-as-code/)** og i det åbne **Markdown-format**, så alle kan deltage på lige vilkår.  
-Vores dokumentation følger desuden den åbne **[Standard for Public Code](https://standard.publiccode.net/)** for at sikre kvalitet, gennemsigtighed og genbrug i det offentlige.
+Håndbogen vedligeholdes løbende, så produkt- og projektfællesskaber, sekretariatet og andre involverede kan finde opdateret og brugbar dokumentation.
 
+Vi arbejder efter tilgangen *Docs as Code*: Dokumentationen skrives i Markdown, og ændringer håndteres åbent gennem GitHub.
 
-## Principper for samarbejde
+## Kom i gang
 
-Vi arbejder åbent og tillidsfuldt — på samme måde som vi forventer det i OS2-fællesskabet:
+### 1. Find eller opret et issue
 
-- Vær konstruktiv og respektfuld i diskussioner.
-- Del viden, ikke kun rettelser. Forklar gerne *hvorfor* du foreslår en ændring.  
-- Skriv klart og forståeligt. Vi skriver for mennesker først og systemer bagefter.  
-- Brug issues til dialog, ikke kun fejlrapporter.  
-- Alle ændringer sker gennem pull requests, så der altid er gennemsyn og fælles ejerskab.  
+Undersøg først, om der allerede findes et issue om den ændring, du vil foreslå.
 
+Hvis ikke, så opret et issue i repositoryet, og beskriv kort:
+- Hvad der skal ændres eller tilføjes
+- Hvorfor ændringen er nødvendig
+- Hvornår opgaven kan betragtes som færdig
 
-## Kom hurtigt i gang
+### 2. Opret en branch og lav dine ændringer
 
-1. **Find eller opret et issue**  
-   - Kig først, om der allerede findes et issue om det emne, du vil bidrage til.  
-   - Hvis ikke, [opret et nyt issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) og beskriv kort:
-     - Hvad du foreslår at ændre eller tilføje  
-     - Hvorfor det er relevant  
-     - Evt. forslag til løsning eller forbedring  
+- Opret en branch fra `main`.
+- Redigér eller opret de relevante Markdown-filer.
+- Gem ændringerne med en beskrivende commit-besked.
+- Opret en pull request (PR), når ændringerne er klar, og henvis til det relevante issue.
 
-2. **Deltag i dialogen**  
-   - Alle kan kommentere på et issue. Brug kommentarsporet til at kvalificere løsningen, dele eksempler og stille spørgsmål.  
-   - Hvis du har særlige kompetencer inden for et område, kan du selv **foreslå dig som assignee** til et issue.
+### 3. Få ændringerne gennemgået
 
-3. **Arbejd i et branch**  
-   - Når du begynder at skrive eller redigere, så opret et nyt branch fra `main`.  
-   - Lav dine ændringer i Markdown (.md-filer) og commit tydeligt.  
-   - Send en pull request (PR), når du er klar, og henvis gerne til det issue, PR’en løser.  
+En kollega eller maintainer gennemgår din pull request. Når ændringerne er godkendt og flettet ind i `main`, bliver håndbogen opdateret.
 
-4. **Få feedback og merge**  
-   - En maintainer eller kollega gennemgår din PR.  
-   - Når ændringen er godkendt, merges den til `main`, og dokumentationen bliver automatisk opdateret på websitet.
+## Når du skriver dokumentation
 
+**Tag udgangspunkt i brugerens behov.**
 
-## Skrivetips
+- Placér indhold efter, hvem der skal bruge det, og hvad de skal bruge det til.
+- Brug den eksisterende struktur frem for at oprette nye kategorier.
+- Giv hver side ét tydeligt formål og en beskrivende titel.
+- Skriv kort, konkret og i aktiv form.
+- Skeln mellem gældende praksis, besluttede krav og forslag, der endnu ikke er vedtaget.
+- Undgå at gentage regler og vejledninger, der allerede er beskrevet andre steder.
 
-- Brug korte afsnit og præcise overskrifter (`##`, `###`)  
-- Brug punktopstillinger og links frem for lange tekstblokke  
-- Skriv i nutid og aktiv form  
-- Undgå interne forkortelser uden forklaring  
-- Henvis altid til kilder, skabeloner eller relevante filer i repositoriet  
+Læs også [README.md](README.md) om håndbogens formål og principper for organisering af indhold.
 
+## Struktur og navigation
 
-## Lær mere
+Når du opretter en ny side:
 
-- [Markdown guide](https://www.writethedocs.org/guide/writing/markdown/) – grundlæggende syntaks og eksempler  
-- [Standard for Public Code](https://standard.publiccode.net/) – ramme for kvalitet og transparens  
-- [Just the Docs](https://just-the-docs.github.io/just-the-docs/) – hvordan dokumentationen vises som website  
+- Brug Markdown (`.md`) og korrekt YAML-frontmatter.
+- Følg den eksisterende navigation med `parent`, eventuelt `grand_parent` og `nav_order`.
+- Brug som udgangspunkt spring på 10 i `nav_order`, så der er plads til nye sider.
+- Kontrollér, at siden vises det rigtige sted i navigationen.
 
+Den praktiske vejledning findes i håndbogens værktøjskasse under **Skriv i håndbogen**.
 
-### Spørgsmål eller forslag?
+## Samarbejde og vedligeholdelse
 
-Har du spørgsmål, idéer eller forbedringer, så opret et issue eller tag fat i sekretariatet på [os2@os2.eu](mailto:os2@os2.eu)
+- Vær konstruktiv og respektfuld i issues og pull requests.
+- Forklar gerne, hvorfor du foreslår en ændring.
+- Ret forældet eller misvisende information, når du opdager den.
+- Er du i tvivl om indhold eller placering, så brug et issue til at få det afklaret.
 
+## Hjælp og spørgsmål
 
-*Tak fordi du hjælper med at gøre OS2’s dokumentation bedre — sammen bygger vi et mere åbent og robust fællesskab.*
+Har du spørgsmål eller forslag, kan du oprette et issue eller kontakte OS2-sekretariatet på [os2@os2.eu](mailto:os2@os2.eu).

@@ -2,6 +2,7 @@
 title: Velkommen og formål
 layout: default
 nav_order: 2
+nav_exclude: true
 ---
 
 # Velkommen og formål
@@ -51,18 +52,17 @@ OS2-sekretariatet er organisatorisk en del af [**ITK – Innovation, Teknologi o
 Sekretariatet rådgiver og koordinerer porteføljestyring, årshjul, kommunikation, medlemsservice og governance på vegne af OS2-fællesskabet.
 
 
-## Hvad man kan bruge håndbogen til {#haandbog}
 
-Denne håndbog er din praktiske indgang til arbejdet i OS2-sekretariatet.  
-Den samler den viden, de rutiner og de fælles principper, som gør det lettere at finde vej i det daglige arbejde og blive en del af kulturen i OS2-fællesskabet.
+## Hvad kan du bruge håndbogen til?
 
-Håndbogen har tre formål:
+OS2-håndbogen samler viden om organisering, ansvar, fælles praksis og arbejdsgange i OS2. Den er til sekretariatet, projekt- og produktfællesskaber og andre, der samarbejder med OS2.
 
-- **Praktiske vejledninger:** Her finder du beskrivelser af, hvordan vi løser opgaver i praksis – fra time- og opgaveregistrering til mødeforberedelse, kommunikation, økonomi og samarbejde med eksterne. Det er ikke en regelbog, men en hjælp til at arbejde ensartet og effektivt på tværs af projekter og roller.
+Du kan bruge håndbogen til at:
 
-- **Overblik:** Håndbogen giver et samlet billede af, hvordan OS2-sekretariatet fungerer – hvem vi samarbejder med, hvordan vores opgaver hænger sammen, og hvilke værktøjer vi bruger. Det gør det lettere at forstå helheden og finde den rette kontakt eller proces.
+- **Finde overblik:** Forstå, hvordan OS2 er organiseret, og hvem der har ansvar for hvad.
 
-- **Kultur:** Lige så vigtig som det praktiske er den måde, vi arbejder sammen på. Håndbogen afspejler OS2’s kultur: åbenhed, tillid og fælles ansvar. Den skal hjælpe dig med at finde din plads i fællesskabet og inspirere til at bidrage aktivt – ikke kun følge procedurer, men være med til at udvikle dem sammen med andre.
+- **Kende rammerne:** Finde fælles principper og beskrivelser af, hvordan opgaver og ansvar hænger sammen.
 
-Håndbogen bliver løbende opdateret.  
-Hvis du opdager noget, der mangler eller kan forbedres, kan du oprette et issue eller forslag direkte i dokumentationen – det er sådan, vi holder viden levende og fælles.
+- **Løse opgaver:** Finde praktiske vejledninger og skabeloner i værktøjskassen.
+
+Håndbogen udvikles løbende. Opdager du fejl eller mangler, kan du oprette et issue i GitHub.

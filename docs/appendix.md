@@ -2,6 +2,7 @@
 title: Bilag og ressourcer
 layout: default
 nav_order: 11
+nav_exclude: true
 ---
 
 # Bilag og ressourcer
