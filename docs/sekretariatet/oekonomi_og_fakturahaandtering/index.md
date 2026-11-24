@@ -32,14 +32,14 @@ Sekretariatet håndterer foreningens, OS2-projekter og -produkters økonomi i sa
 - Budgetopfølgning indgår fast som punkt på styregruppemøder og bestyrelsesmøder.  
 
 ## Fakturahåndtering og godkendelsesflow {#faktura}
-Fakturabehandling følger den procedure, der er beskrevet i *[Oversigt over fakturagodkendere](processes/os2_faktura_godkender)*.  
+Fakturabehandling følger den procedure, der er beskrevet i [Oversigt over fakturagodkendere]({% link docs/sekretariatet/oekonomi_og_fakturahaandtering/os2_faktura_godkender.md %}).  
 Grundprincippet er to-trins-godkendelse: én person kontrollerer, en anden godkender.
 
 **Procesoversigt**
 1. Faktura til OS2 modtages via ITK’s system (OS2 EAN: 5790002750595).  
 2. Sekretariatet kontrollerer fakturaens indhold, beløb, bilag og kontering.  
-3. Fakturaen sendes til korrekt godkender jf. [oversigten](processes/os2_faktura_godkender).  
-4. Godkendelsen registreres og dokumenteres jf. [kontoplan](processes/os2_kontoplaner).  
+3. Fakturaen sendes til korrekt godkender jf. [oversigten]({% link docs/sekretariatet/oekonomi_og_fakturahaandtering/os2_faktura_godkender.md %}).  
+4.  Godkendelsen registreres og dokumenteres jf. [kontoplan]({% link docs/sekretariatet/oekonomi_og_fakturahaandtering/os2_kontoplaner.md %}).  
 5. Betaling håndteres af ITK’s økonomifunktion.  
 
 **Dokumentation**

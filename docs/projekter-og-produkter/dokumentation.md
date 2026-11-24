@@ -83,4 +83,4 @@ Dokumenterne skal ikke opbevares flere steder. README-filerne skal gøre det mul
 
 I Værktøjskassen finder du praktiske vejledninger og skabeloner, der hjælper dig med at organisere, dele og dokumentere arbejdet med dit OS2-produkt eller -projekt.
 
-[**Gå til Værktøjskassen →**](https://handbook.os2.eu/docs/product_toolbox.html)
+[**Gå til Værktøjskassen →**]({% link docs/vaerktoejskasse/index.md %})

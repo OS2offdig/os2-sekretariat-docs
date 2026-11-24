@@ -49,7 +49,7 @@ Den sagsansvarlige udarbejder et oplæg efter OS2s fælles metode.
 
 Sagsoplægget skal indeholde de nødvendige fakta, en saglig analyse og en tydelig anbefaling eller angivelse af, hvad bestyrelsen skal drøfte eller orienteres om.
 
-Se [Vejledning til udarbejdelse af sagsoplæg](../product_toolbox/sagsoplaeg.html).
+Se [Vejledning til udarbejdelse af sagsoplæg]({% link docs/vaerktoejskasse/sagsoplaeg.md %}).
 
 ### 3. Kvalitetssikr sagen
 

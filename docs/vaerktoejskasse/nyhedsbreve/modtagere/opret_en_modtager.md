@@ -13,7 +13,7 @@ has_toc: true
 
 Brug denne guide, når du skal tilføje én enkelt person til produktets nyhedsbrevsliste.
 
-Skal du tilføje flere modtagere på én gang, er det bedre at [importere modtagere via CSV](/docs/product_toolbox/nyhedsbreve/import_til_heyloyalty.html).
+Skal du tilføje flere modtagere på én gang, er det bedre at [importere modtagere via CSV]({% link docs/vaerktoejskasse/nyhedsbreve/import_til_heyloyalty.md %})
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }

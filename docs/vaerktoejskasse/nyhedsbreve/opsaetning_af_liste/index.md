@@ -14,7 +14,7 @@ Her finder du vejledninger til at oprette og konfigurere nyhedsbrevslister i Hey
 
 **Du behøver normalt kun arbejde med opsætningen, når en ny liste etableres, eller der skal foretages ændringer i en eksisterende liste.**
 
-Skal du blot skrive og sende et nyhedsbrev? Se [Opret og send nyhedsbreve](/docs/product_toolbox/nyhedsbreve/opret_og_send.html).
+Skal du blot skrive og sende et nyhedsbrev? Se [Opret og send nyhedsbreve]({% link docs/vaerktoejskasse/nyhedsbreve/opret_og_send.md %}).
 
 ## Hvad skal være på plads?
 
