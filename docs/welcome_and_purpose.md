@@ -2,6 +2,7 @@
 title: Velkommen og formål
 layout: default
 nav_order: 2
+nav_exclude: true
 ---
 
 # Velkommen og formål
