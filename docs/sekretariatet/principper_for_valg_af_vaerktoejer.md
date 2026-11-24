@@ -1,8 +1,9 @@
 ---
 title: Principper for valg af fælles værktøjer
 layout: default
-parent: Sådan arbejder vi i OS2
-nav_order: 90
+parent: Sekretariatet
+nav_order: 70
+has_toc: true
 ---
 
 

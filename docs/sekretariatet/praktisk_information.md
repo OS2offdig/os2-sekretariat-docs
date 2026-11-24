@@ -75,3 +75,17 @@ OS2 arbejder desuden med egne rutiner for open source-projekter, hvor der anvend
 ## Sammenfatning
 OS2-sekretariatet arbejder inden for Aarhus Kommunes rammer for HR, IT og faciliteter.  
 Denne sektion skal ses som et supplement, der sikrer, at alle ved, hvordan vi anvender kommunens fælles retningslinjer i vores daglige arbejde med OS2-fællesskabet.
+
+## Fælles værktøjer
+
+OS2-sekretariatet anvender en række digitale værktøjer, der understøtter samarbejde, planlægning og dokumentation:
+
+| Værktøj | Formål | Adgang |
+|----------|--------|--------|
+| **Leantime** | Tidsregistrering. Bruges til at registrer tidsforbrug på opgaver. | [itk-leantime.itkdev.dk](https://itk-leantime.itkdev.dk) |
+| **Nextcloud** | Fælles filarkiv. Bruges til at lagre og dele dokumenter og andre filtyper. | [boks.os2.eu](https://boks.os2.eu) |
+| **GitHub** | Versionsstyring og projektstyring. Bruges til at samarbejde om kode, bygge dokumentation samt projektstyre opgaver. | [github.com/OS2offdig](https://github.com/OS2offdig) |
+| **Zulip** | Intern chat og løbende sparring. Bruges til hurtig dialog, videndeling og koordinering. | [os2samtale.os2.eu](https://os2samtale.os2.eu) |
+| **Airtable** | CRM Overblik. Bruges til overblik over produkter, medlemmer og tilknytninger. | [airtable.com](https://airtable.com) |
+| **Hey Loyalty** | Nyhedsbreve. Bruges til at kommunikere til medlemmer og andre interessenter. | [heyloyalty.com](https://heyloyalty.com/) |
+| **Odoo** | Hjemmeside. Bruges til at administrere OS2s hjemmeside. | [os2.eu](https://os2.eu/) |

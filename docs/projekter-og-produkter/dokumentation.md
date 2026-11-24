@@ -1,8 +1,8 @@
 ---
 title: Dokumentation
 layout: default
-parent: Sådan arbejder vi i OS2
-nav_order: 20
+parent: Projekter og produkter
+nav_order: 60
 has_children: false
 has_toc: true
 ---
