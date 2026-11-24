@@ -155,4 +155,4 @@ Det afgørende kvalitetskriterium er, at modtageren kan forstå sagen og tage kv
 
 ## Relaterede processer
 
-Se [Udarbejdelse og behandling af bestyrelsessager](../processes_and_rutines/bestyrelsessager.html) for sekretariatets proces, rollefordeling og opfølgning.
+Se [Udarbejdelse og behandling af bestyrelsessager]({% link docs/sekretariatet/arbejdsgange/bestyrelsessager.md %}) for sekretariatets proces, rollefordeling og opfølgning.
