@@ -11,6 +11,8 @@ Denne vejledning beskriver OS2s fælles metode til at udarbejde sagsoplæg til b
 
 Et sagsoplæg skal gøre det let for modtageren at forstå en sag og tage kvalificeret stilling til den.
 
+Modellen kan anvendes på tværs af hele OS2-sekretariatet uanset faglighed. Den er derfor lige anvendelig for arkitekter, kommunikationsmedarbejdere, organisationskonsulenter og projektledere.
+
 **Målet er ikke at dokumentere alt det arbejde, der er udført, men at skabe grundlag for en beslutning, en drøftelse eller en orientering.**
 
 ## Metodisk tilgang

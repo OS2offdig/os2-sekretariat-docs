@@ -97,4 +97,4 @@ Behandler sagen inden for sit mandat og træffer beslutninger, giver strategiske
 
 OS2 anvender en fælles metode til udarbejdelse af sagsoplæg, som kombinerer en fast struktur med principperne fra Slotsholmsmetoden.
 
-Se [Vejledning til udarbejdelse af sagsoplæg](../product_toolbox/sagsoplaeg.html).
+Se [Vejledning til udarbejdelse af sagsoplæg]({% link docs/vaerktoejskasse/sagsoplaeg.md %}).
