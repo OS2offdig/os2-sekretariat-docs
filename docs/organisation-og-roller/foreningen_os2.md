@@ -22,7 +22,9 @@ Denne side giver overblik over foreningens formelle organisering, beslutningsfor
 
 ## Bestyrelsen
 
-OS2's bestyrelse har det overordnede ansvar for foreningens strategiske retning og udvikling. Bestyrelsen arbejder på vegne af medlemmerne og inden for de rammer, generalforsamlingen fastlægger.
+Ifølge OS2's vedtægter § 6, stk. 1 har bestyrelsen det overordnede strategiske og operationelle ansvar for foreningen.
+
+Den daglige operationelle styring varetages af OS2-sekretariatet i samarbejde med bestyrelsens formand (§ 6, stk. 1.1).
 
 **Bestyrelsens centrale opgaver er at:**
 

@@ -28,6 +28,8 @@ Et OS2-produkt er en løsning, der er optaget i OS2's produktportefølje, og som
 
 Projekter og produkter kan være organiseret forskelligt afhængigt af deres formål, modenhed og behov.
 
+Et **projekt- eller produktfællesskab** er samarbejdet mellem de offentlige myndigheder og øvrige aktører omkring et konkret projekt eller produkt. Det er her, behov drøftes, arbejdet koordineres, og fælles beslutninger forankres.
+
 ## Fællesskaberne driver arbejdet
 
 OS2's projekter og produkter bygger på initiativ og engagement fra offentlige myndigheder.
