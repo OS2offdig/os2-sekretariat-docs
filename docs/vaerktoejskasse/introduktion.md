@@ -2,7 +2,7 @@
 title: Introduktion
 layout: default
 parent: Værktøjskasse
-nav_order: 10
+nav_order: 5
 has_children: false
 has_toc: true
 ---

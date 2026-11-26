@@ -2,7 +2,7 @@
 title: Introduktion
 layout: default
 parent: Organisation og roller
-nav_order: 10
+nav_order: 5
 has_toc: true
 ---
 
