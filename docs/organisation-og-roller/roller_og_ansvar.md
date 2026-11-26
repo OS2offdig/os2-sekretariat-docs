@@ -50,11 +50,37 @@ Betegnelsen kan dække over forskellige funktioner, eksempelvis:
 - Projektleder
 - Andre koordinerende eller produktansvarlige funktioner
 
-De konkrete opgaver afhænger af produktets organisering, behov og ressourcer.
+De enkelte funktioner kan være fordelt på flere personer eller samlet hos én. Organiseringen afhænger af produktets behov og ressourcer.
+
+
+```mermaid
+flowchart LR
+    P["Produktforvalter<br/>(samlebetegnelse)"]
+
+    P -.- A["Produktkoordinator"]
+    P -.- B["Product Owner"]
+    P -.- C["Community Manager"]
+    P -.- D["Projektleder"]
+    P -.- E["Andre koordinerende eller produktansvarlige funktioner"]
+
+    classDef umbrella fill:#D8E5D8,stroke:#3A7F3B,stroke-width:2px,color:#1B3C1C;
+    classDef role fill:#FFFFFF,stroke:#619962,stroke-width:1px,color:#333333;
+
+    class P umbrella;
+    class A,B,C,D,E role;
+```
 
 Produktforvaltningen kan blandt andet omfatte koordinering af udvikling og drift, samarbejde med leverandører, facilitering af produktfællesskabet og opfølgning på styregruppens beslutninger.
 
 Det er derfor vigtigt at skelne mellem **produktforvaltningen som en samlet funktion** og de konkrete roller, der varetager opgaverne.
+
+### Hvem varetager produktforvaltningen?
+
+Produktforvaltningen kan organiseres på forskellige måder.
+
+Ofte varetages produktkoordinatorrollen af en medarbejder fra en deltagende myndighed, som frikøbes til opgaven. Funktionen finansieres af det enkelte OS2-produkt.
+
+OS2's bestyrelse kan også beslutte, at medarbejdere fra sekretariatet varetager produktforvaltningsopgaver for et konkret projekt eller produkt.
 
 ## Hvad er en lokal kontaktperson?
 

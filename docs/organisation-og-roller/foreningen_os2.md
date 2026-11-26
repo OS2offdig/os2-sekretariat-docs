@@ -54,8 +54,6 @@ Se bestyrelsens medlemmer her: [OS2's bestyrelse](https://www.os2.eu/bestyrelsen
 
 ## Generalforsamlingen
 
-## Generalforsamlingen
-
 Generalforsamlingen er OS2's øverste myndighed. Det er her, foreningens medlemmer udøver deres formelle indflydelse på OS2's organisering og udvikling.
 
 **På den ordinære generalforsamling behandles blandt andet:**
@@ -85,6 +83,8 @@ Foreningens formelle rammer er blandt andet beskrevet i:
 - [Kommissorium for OS2's bestyrelse](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Bestyrelsen&editing=false&openfile=true)
 - [OS2's vision, mission og strategi](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Vision)
 
+Som baggrundsmateriale findes desuden [OS2 organisering – Strand & Donslund, rapport version 1.0](https://boks.os2.eu/s/Afco557gKpepLJa).
+
 Dokumenterne danner grundlag for foreningens organisering, beslutninger og udvikling.
 
 ## Sekretariatets rolle i foreningsarbejdet
@@ -94,5 +94,7 @@ OS2-sekretariatet understøtter bestyrelsen og den løbende administration af fo
 Det omfatter blandt andet forberedelse af beslutningsmateriale, koordinering af møder, opfølgning på beslutninger og administrative opgaver.
 
 Sekretariatet planlægger og koordinerer det årlige bestyrelsesseminar, som typisk afholdes i februar måned.
+
+Sekretariatet bidrager desuden med faglig rådgivning til bestyrelsen om blandt andet organisering, governance og strategiske prioriteringer.
 
 De konkrete arbejdsgange er beskrevet under **Sekretariatet**.
