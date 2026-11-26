@@ -1,7 +1,7 @@
 ---
 title: Fakturagodkender
 layout: default
-title: Økonomi og fakturahåndtering
+parent: Økonomi og fakturahåndtering
 grand_parent: Sekretariatet
 nav_order: 30
 ---
