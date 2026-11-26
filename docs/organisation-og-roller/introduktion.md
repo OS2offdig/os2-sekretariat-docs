@@ -7,10 +7,19 @@ has_toc: true
 ---
 
 # Sådan er OS2 organiseret
+{: .no_toc }
 
-OS2 er organiseret som en forening og et fællesskab af offentlige myndigheder, der samarbejder om udvikling, drift og videreudvikling af open source-løsninger.
+OS2 er organiseret som en forening og et fællesskab af offentlige myndigheder, der samarbejder om udvikling, drift og videreudvikling af digitale løsninger under fælles ejerskab og baseret på open source.
 
 Organiseringen kombinerer fælles rammer for foreningen med ansvar og beslutninger i de enkelte projekt- og produktfællesskaber.
+
+I denne del af håndbogen finder du beskrivelser af OS2's organisering, de centrale roller og deres ansvar samt samarbejdet mellem foreningen, sekretariatet, projekt- og produktfællesskaberne og øvrige aktører.
+
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Foreningens organisering
 
