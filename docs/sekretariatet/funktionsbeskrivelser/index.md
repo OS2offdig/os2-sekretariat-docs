@@ -1,8 +1,8 @@
 ---
 title: Funktionsbeskrivelser
 layout: default
-parent: Organisation og roller
-nav_order: 10
+parent: Sekretariatet
+nav_order: 100
 has_children: true
 has_toc: false
 ---
