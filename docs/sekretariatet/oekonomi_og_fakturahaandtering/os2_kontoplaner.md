@@ -1,7 +1,7 @@
 ---
 title: Økonomi og kontoplaner
 layout: default
-parent: Arbejdsgange
+title: Økonomi og fakturahåndtering
 grand_parent: Sekretariatet
 nav_order: 40
 ---

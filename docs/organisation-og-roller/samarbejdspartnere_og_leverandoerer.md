@@ -2,7 +2,7 @@
 title: Samarbejdspartnere og leverandører
 layout: default
 parent: Organisation og roller
-nav_order: 20
+nav_order: 50
 has_toc: true
 ---
 
@@ -10,12 +10,6 @@ has_toc: true
 >
 > Siden indeholder beskrivelser af både samarbejdsprincipper og ønsket praksis. Ansvarsfordeling og aftalegrundlag skal gennemgås og verificeres.
 
----
-title: Samarbejdspartnere og leverandører
-layout: default
-nav_order: 8
-has_toc: false
----
 
 # Samarbejdspartnere og leverandører
 Følgende skaber klarhed over, hvordan OS2 samarbejder med eksterne parter – både offentlige og private – og hvilke principper og rammer der gælder for samarbejdet.  
