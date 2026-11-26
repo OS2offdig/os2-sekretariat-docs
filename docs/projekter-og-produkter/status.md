@@ -2,7 +2,7 @@
 title: Projekt- og produktstatus
 layout: default
 parent: Projekter og produkter
-nav_order: 40
+nav_order: 20
 has_children: false
 has_toc: true
 ---

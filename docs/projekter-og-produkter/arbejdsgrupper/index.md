@@ -2,7 +2,7 @@
 title: Arbejdsgrupper
 layout: default
 parent: Projekter og produkter
-nav_order: 50
+nav_order: 30
 has_children: true
 has_toc: true
 ---

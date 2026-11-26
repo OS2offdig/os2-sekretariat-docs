@@ -2,7 +2,7 @@
 title: Aftaler og rettigheder
 layout: default
 parent: Projekter og produkter
-nav_order: 40
+nav_order: 70
 has_toc: true
 ---
 
