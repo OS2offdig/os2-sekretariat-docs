@@ -1,9 +1,11 @@
 ---
-title: Økonomi og kontoplaner
+title: Kontoplaner
 layout: default
-title: Økonomi og fakturahåndtering
+parent: Økonomi og fakturahåndtering
 grand_parent: Sekretariatet
 nav_order: 40
+has_children: false
+has_toc: true
 ---
 
 # Økonomi i OS2
