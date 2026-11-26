@@ -22,6 +22,8 @@ Her kan du læse om de fælles rammer for projekter og produkter, hvordan samarb
 
 ## Projekter og produkter i OS2
 
+Du finder en oversigt over OS2's løsninger og kontaktoplysninger til de enkelte produkter på [OS2's hjemmeside](https://www.os2.eu/os2-it-loesninger).
+
 Et OS2-projekt er et samarbejde om at undersøge, udvikle eller afprøve en digital løsning. Et projekt kan føre til etableringen af et OS2-produkt.
 
 Et OS2-produkt er en løsning, der er optaget i OS2's produktportefølje, og som udvikles og forvaltes inden for OS2's fælles rammer.
