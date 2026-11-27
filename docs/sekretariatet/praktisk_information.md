@@ -6,15 +6,12 @@ nav_order: 50
 has_toc: true
 ---
 
-> **Under gennemgang**
->
-> Oplysninger og henvisninger skal kontrolleres.
 
 # Praktisk information
 Her gives en hurtigt adgang til praktisk information om arbejdsforhold, udstyr, lokaler og sikkerhed i hverdagen. Afsnittet supplerer Aarhus Kommunes retningslinjer og beskriver kun særlige forhold, der gælder for OS2-sekretariatet.
 
 
-## Arbejdsforhold og retningslinjer {#arbejdsforhold}
+## Arbejdsforhold og retningslinjer
 Alle medarbejdere i OS2-sekretariatet er ansat i **Aarhus Kommune, ITK** og er dermed omfattet af kommunens gældende politikker og retningslinjer for:
 - arbejdstid og fleksordning  
 - ferie, fravær og barsel  
@@ -28,7 +25,7 @@ Alle medarbejdere i OS2-sekretariatet er ansat i **Aarhus Kommune, ITK** og er d
 Seneste versioner af retningslinjer og vejledning findes på **Aarhus Kommunes intranet** ([intranet.aarhuskommune.dk](https://intranet.aarhuskommune.dk/)) under *Personale og HR*.
 
 
-## IT og udstyr {#it}
+## IT og udstyr
 ITK stiller standardudstyr og support til rådighed via Aarhus Kommunes fælles IT-organisation.  
 Fejlmeldinger og anmodninger om udstyr håndteres via [**Serviceportalen**](https://aarhuskommune.service-now.com/serviceportalen).  
 
@@ -38,17 +35,16 @@ Alle medarbejdere skal følge kommunens politikker for:
 - adgangskoder og sikkerhed  
 
 
-## Lokaler og adgang {#lokaler}
+## Lokaler og adgang
 Sekretariatet har base på **DOKK1**, hvor ITK’s kontorer og mødefaciliteter også ligger.  
 Adgang gives via medarbejderkort, og booking af mødelokaler sker gennem kommunens fælles Outlook-kalendersystem.  
 
 For større møder og events kan der bookes lokaler på DOKK1:
 - CFIA workshopzonen, kontakt CFIA på cfi@aarhus.dk   
-- VIP lokalet, kontakt (ToDo)  
-- Andre lokaler se: [https://www.dokk1.dk/lokaler](https://www.dokk1.dk/lokaler)
+- [Se lokaler på DOKK1](https://www.dokk1.dk/lokaler)
 
 
-## Kommunikation og kontakt {#kommunikation}
+## Kommunikation og kontakt
 Sekretariatets fælles kommunikationskanaler er:
 - **Microsoft 365 (Outlook og Teams):** anvendes til kalender, møder, chat og intern kommunikation i ITK og Aarhus Kommune.  
 - **Zulip:** intern chat og hurtig sparring i OS2-fællesskabet.  
@@ -75,17 +71,3 @@ OS2 arbejder desuden med egne rutiner for open source-projekter, hvor der anvend
 ## Sammenfatning
 OS2-sekretariatet arbejder inden for Aarhus Kommunes rammer for HR, IT og faciliteter.  
 Denne sektion skal ses som et supplement, der sikrer, at alle ved, hvordan vi anvender kommunens fælles retningslinjer i vores daglige arbejde med OS2-fællesskabet.
-
-## Fælles værktøjer
-
-OS2-sekretariatet anvender en række digitale værktøjer, der understøtter samarbejde, planlægning og dokumentation:
-
-| Værktøj | Formål | Adgang |
-|----------|--------|--------|
-| **Leantime** | Tidsregistrering. Bruges til at registrer tidsforbrug på opgaver. | [itk-leantime.itkdev.dk](https://itk-leantime.itkdev.dk) |
-| **Nextcloud** | Fælles filarkiv. Bruges til at lagre og dele dokumenter og andre filtyper. | [boks.os2.eu](https://boks.os2.eu) |
-| **GitHub** | Versionsstyring og projektstyring. Bruges til at samarbejde om kode, bygge dokumentation samt projektstyre opgaver. | [github.com/OS2offdig](https://github.com/OS2offdig) |
-| **Zulip** | Intern chat og løbende sparring. Bruges til hurtig dialog, videndeling og koordinering. | [os2samtale.os2.eu](https://os2samtale.os2.eu) |
-| **Airtable** | CRM Overblik. Bruges til overblik over produkter, medlemmer og tilknytninger. | [airtable.com](https://airtable.com) |
-| **Hey Loyalty** | Nyhedsbreve. Bruges til at kommunikere til medlemmer og andre interessenter. | [heyloyalty.com](https://heyloyalty.com/) |
-| **Odoo** | Hjemmeside. Bruges til at administrere OS2s hjemmeside. | [os2.eu](https://os2.eu/) |
