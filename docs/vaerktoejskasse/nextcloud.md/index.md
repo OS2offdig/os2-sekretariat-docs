@@ -4,11 +4,12 @@ layout: default
 parent: Værktøjskasse
 nav_order: 50
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Nextcloud
-{: .no_toc }
+
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
 
 OS2's åbne filarkiv er et fælles sted, hvor produkter og projekter kan gøre dokumentation offentligt tilgængelig.
 

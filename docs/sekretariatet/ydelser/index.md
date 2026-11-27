@@ -1,5 +1,5 @@
 ---
-title: Opgave og ydelser
+title: Opgaver og ydelser
 layout: default
 parent: Sekretariatet
 nav_order: 10

@@ -37,6 +37,36 @@ Tabellen giver overblik over de centrale roller og ansvarsforhold i OS2's organi
 | **Leverandører** | Bidrager blandt andet med udvikling, implementering, drift, support og teknisk rådgivning. |
 | **Lokal kontaktperson** | Er kontaktpunkt mellem et OS2-produkt og den myndighed, der anvender produktet. |
 
+## Hvad er en styregruppe?
+
+Styregruppen har det overordnede ledelses- og beslutningsansvar for et projekt eller produkt.
+
+Styregruppen fastlægger den fælles retning og træffer beslutninger om blandt andet mål, økonomi, ressourcer og overordnede prioriteringer.
+
+Gruppen har desuden ansvar for at skabe rammerne for arbejdet og sikre, at de personer og grupper, der varetager den løbende koordinering, har de nødvendige forudsætninger.
+
+Styregruppen består som udgangspunkt af repræsentanter med beslutningskompetence fra de involverede myndigheder.
+
+## Hvad er en koordinationsgruppe?
+
+Koordinationsgruppen er et samarbejdsforum, hvor de involverede myndigheders behov og ønsker til projektet eller produktet samles, drøftes og prioriteres.
+
+Gruppen arbejder blandt andet med:
+
+- Behov og ønsker til udvikling og vedligeholdelse.
+- Koordinering af fælles aktiviteter.
+- Opfølgning på prioriteringer og igangværende arbejde.
+- Samarbejde med produktforvaltningen og øvrige relevante aktører.
+
+Koordinationsgruppen arbejder inden for det mandat, der er aftalt for fællesskabet.
+
+## Hvordan fordeles ansvaret?
+
+I et produktfællesskab med både styregruppe og koordinationsgruppe varetager styregruppen den overordnede ledelse, mens koordinationsgruppen arbejder med den løbende koordinering og prioritering inden for sit mandat.
+
+Organiseringen kan variere. Hvis der ikke er etableret en styregruppe, skal ledelses- og beslutningsansvaret være placeret hos en anden organisatorisk enhed med det nødvendige mandat.
+
+Den konkrete ansvarsfordeling fastlægges i fællesskabets organisering og eventuelle kommissorier.
 
 ## Hvad er en produktforvalter?
 
@@ -50,11 +80,37 @@ Betegnelsen kan dække over forskellige funktioner, eksempelvis:
 - Projektleder
 - Andre koordinerende eller produktansvarlige funktioner
 
-De konkrete opgaver afhænger af produktets organisering, behov og ressourcer.
+De enkelte funktioner kan være fordelt på flere personer eller samlet hos én. Organiseringen afhænger af produktets behov og ressourcer.
+
+
+```mermaid
+flowchart LR
+    P["Produktforvalter<br/>(samlebetegnelse)"]
+
+    P -.- A["Produktkoordinator"]
+    P -.- B["Product Owner"]
+    P -.- C["Community Manager"]
+    P -.- D["Projektleder"]
+    P -.- E["Andre koordinerende eller produktansvarlige funktioner"]
+
+    classDef umbrella fill:#D8E5D8,stroke:#3A7F3B,stroke-width:2px,color:#1B3C1C;
+    classDef role fill:#FFFFFF,stroke:#619962,stroke-width:1px,color:#333333;
+
+    class P umbrella;
+    class A,B,C,D,E role;
+```
 
 Produktforvaltningen kan blandt andet omfatte koordinering af udvikling og drift, samarbejde med leverandører, facilitering af produktfællesskabet og opfølgning på styregruppens beslutninger.
 
 Det er derfor vigtigt at skelne mellem **produktforvaltningen som en samlet funktion** og de konkrete roller, der varetager opgaverne.
+
+### Hvem varetager produktforvaltningen?
+
+Produktforvaltningen kan organiseres på forskellige måder.
+
+Ofte varetages produktkoordinatorrollen af en medarbejder fra en deltagende myndighed, som frikøbes til opgaven. Funktionen finansieres af det enkelte OS2-produkt.
+
+OS2's bestyrelse kan også beslutte, at medarbejdere fra sekretariatet varetager produktforvaltningsopgaver for et konkret projekt eller produkt.
 
 ## Hvad er en lokal kontaktperson?
 
@@ -93,6 +149,10 @@ OS2's organisering bygger på en arbejdsdeling mellem foreningens fælles rammer
 **I det daglige samarbejde** bidrager deltagende myndigheder, anvendere og leverandører med viden, erfaringer og leverancer.
 
 Den konkrete opgavefordeling kan variere mellem produktfællesskaberne, men ansvar og beslutningskompetence skal være tydeligt placeret.
+
+OS2's vedtægter § 10 fastlægger, at både styringen af projekter og produkter og nedsættelsen af arbejdsgrupper skal følge OS2's governancemodel.
+
+Governancemodellen stiller forskellige krav til organiseringen afhængigt af projektets eller produktets niveau.
 
 ## Hvem kontakter jeg om hvad?
 

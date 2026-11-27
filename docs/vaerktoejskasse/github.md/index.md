@@ -4,11 +4,12 @@ layout: default
 parent: Værktøjskasse
 nav_order: 60
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # GitHub
-{: .no_toc }
+
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
 
 GitHub er en platform til udvikling, dokumentation og samarbejde, som OS2 stiller til rådighed for produkter og projekter.
 

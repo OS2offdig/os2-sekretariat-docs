@@ -2,12 +2,14 @@
 title: Tidsregistrering
 layout: default
 parent: Sekretariatet
-nav_order: 30
+nav_order: 50
 has_children: true
 has_toc: true
 ---
 
 # Tidsregistrering
+
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
 
 ## Formål
 
@@ -128,3 +130,4 @@ flowchart TD
 - Brug konsekvente navne for projekter (fx “OS2 valghalla” med mellemrum så det er søgbart).  
 - Del tiden op, hvis en opgave dækker flere projekter.   
 - Brug samme kategorisering på tværs af projekter og opgaver for at sikre sammenlignelig rapportering.
+- Fravær: Alt fravær registreres som *Fravær*. Der skelnes ikke mellem ferie, sygdom eller andre årsager til fravær. Registreringen viser alene, at medarbejderen ikke arbejder.

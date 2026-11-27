@@ -8,25 +8,39 @@ has_toc: true
 ---
 
 # Møder og koordinering
+{: .no_toc }
 
-> **Under gennemgang**
->
-> Beskrivelserne skal kontrolleres i forhold til sekretariatets faktiske praksis.
+Her finder du overblik over sekretariatets møder, hvordan vi
+koordinerer arbejdet, og hvor du finder referater og beslutninger.
 
-## Mødekultur og mødestruktur {#modekultur}
-Vi lægger vægt på **struktur, nærvær og tydelige roller** i vores møder.
+## Indholdsfortegnelse
+{: .no_toc .text-delta }
 
-- **Dagsorden og formål:** Mødeindkalder er ansvarlig for at mødet har et formål og en dagsorden som er tydelig for alle deltagere.
-- **Teammøde:** Afholdes hver anden uge med fokus på koordinering, prioritering, fælles opgaver og sammenhæng i sekretariatets arbejde.
-- **1:1-sparring:** Sekretariatets medarbejdere har løbende 1:1-sparringsmøder med sekretariatslederen om opgaver, prioriteringer og behov for sparring.
-- **Tværgående møder:** Efter behov med de relevante aktører f.eks. produktkoordinator, arkitekt, kommunikation og andre.  
-- **Opsamling:** Alle møder skal have dagsorden og kort referat i Nextcloud eller GitHub.  
-- **Facilitering:** Mødelederen har ansvar for at holde fokus på formål og beslutninger.  
+1. TOC
+{:toc}
 
-## Samarbejdsformer {#samarbejdsformer}
-Vi arbejder ud fra princippet om **åbenhed først** og kendt som Open by default. Åbenhed, dialog og fælles ejerskab er kerneværdier i OS2 og vores samarbejde bygger på løbende samtale, fælles dokumentation og klare beslutningsflow.
+## Møder i sekretariatet
 
-- **Samtale og koordinering:** Vi bruger løbende sparring, teammøder og 1:1-sparring til at koordinere opgaver, afklare prioriteringer og følge op på igangværende arbejde.
-- **Fælles dokumenter:** Vi arbejder i fælles filer på Nextcloud og GitHub, hvor alt væsentligt materiale kan findes og deles. Dokumenter skal være åbne, navngivet tydeligt og versioneret.  
-- **Beslutninger:** Større beslutninger drøftes i teammøder og dokumenteres i referater. Ved tvivl skal beslutningen forankres hos sekretariatschefen.  
-- **Tværgående samarbejde:** Vi arbejder tæt sammen med OS2’s bestyrelse, produktorganisationer og øvrige relevante aktører. Kommunikation med eksterne koordineres efter behov. Det skal være tydeligt, hvem der er afsender, og hvordan kommunikationen hænger sammen med OS2's fælles retning.
+Sekretariatet bruger forskellige mødeformer til at koordinere
+opgaver, afklare prioriteringer og dele viden.
+
+| Mødeform | Formål | Hvor findes dokumentationen? |
+|---|---|---|
+| **Teammøde** | Afholdes hver anden uge med fokus på fælles opgaver, prioriteringer og koordinering på tværs af sekretariatet. | Nextcloud → Beskyttet mappe: OS2>sekretariatet>Teammøder i sekretariatet>OS2 teammøder |
+| **Stand-up** | Kort koordineringsmøde om igangværende opgaver, spørgsmål og næste skridt. | [Sekretariatets opgavestyring på GitHub](https://github.com/OS2offdig/gameplans-and-task-management), herunder issues. |
+| **1:1-sparring** | Løbende sparring mellem medarbejder og sekretariatschef om opgaver, prioriteringer og behov for støtte. | Efter aftale mellem medarbejder og sekretariatschef. |
+| **Tværgående møder** | Afholdes efter behov med relevante kolleger, produktforvaltere eller andre samarbejdspartnere. | Aftales i det konkrete samarbejde. |
+
+## Forberedelse og opfølgning
+
+Mødeform og dokumentation tilpasses formålet.
+
+- **Før mødet:** Mødeindkalderen sikrer, at formål og eventuel dagsorden er tydelige for deltagerne.
+- **Under mødet:** Mødelederen holder fokus på formålet og sikrer, at beslutninger og opgaver bliver afklaret.
+- **Efter mødet:** Når der er truffet beslutninger eller aftalt konkrete opgaver, dokumenteres det kort, så ansvar og opfølgning er tydelig.
+
+Dokumentationen placeres i de relevante fælles systemer,
+så den kan findes af de personer, der har brug for den.
+
+Kan du ikke finde referaterne eller mangler du adgang,
+kan du spørge en kollega i sekretariatet.

@@ -22,7 +22,9 @@ Denne side giver overblik over foreningens formelle organisering, beslutningsfor
 
 ## Bestyrelsen
 
-OS2's bestyrelse har det overordnede ansvar for foreningens strategiske retning og udvikling. Bestyrelsen arbejder på vegne af medlemmerne og inden for de rammer, generalforsamlingen fastlægger.
+Ifølge OS2's vedtægter § 6, stk. 1 har bestyrelsen det overordnede strategiske og operationelle ansvar for foreningen.
+
+Den daglige operationelle styring varetages af OS2-sekretariatet i samarbejde med bestyrelsens formand (§ 6, stk. 1.1).
 
 **Bestyrelsens centrale opgaver er at:**
 
@@ -54,8 +56,6 @@ Se bestyrelsens medlemmer her: [OS2's bestyrelse](https://www.os2.eu/bestyrelsen
 
 ## Generalforsamlingen
 
-## Generalforsamlingen
-
 Generalforsamlingen er OS2's øverste myndighed. Det er her, foreningens medlemmer udøver deres formelle indflydelse på OS2's organisering og udvikling.
 
 **På den ordinære generalforsamling behandles blandt andet:**
@@ -77,15 +77,22 @@ Reglerne for indkaldelse, deltagelse, stemmeret og beslutninger fremgår af [OS2
 Dagsordener, bilag og referater fra generalforsamlinger findes i [OS2's åbne filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Generalforsamling).
 
 
-## Vedtægter og styrende dokumenter
+## Centrale dokumenter og aftaler
 
-Foreningens formelle rammer er blandt andet beskrevet i:
+Her finder du OS2's vedtægter, styrende dokumenter og centrale
+aftaler, der danner ramme om foreningen og samarbejdet
+om OS2's projekter og produkter.
 
-- [OS2's vedtægter](https://vedtaegter.os2.eu/)
-- [Kommissorium for OS2's bestyrelse](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Bestyrelsen&editing=false&openfile=true)
-- [OS2's vision, mission og strategi](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Vision)
+| Dokument | Formål | Placering |
+|---|---|---|
+| **Vedtægter for OS2** | Beskriver foreningens formål, organisering og medlemskab. | [Vedtægter](https://vedtaegter.os2.eu/) |
+| **Vision, mission og strategi** | Beskriver OS2's overordnede retning og ambitioner. | [Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Vision) |
+| **Kommissorium for OS2's bestyrelse** | Beskriver bestyrelsens opgaver og ansvar. | [Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Bestyrelsen) |
 
-Dokumenterne danner grundlag for foreningens organisering, beslutninger og udvikling.
+
+## Baggrundsmateriale
+
+- [OS2 organisering – Strand & Donslund, rapport version 1.0](https://boks.os2.eu/s/Afco557gKpepLJa)
 
 ## Sekretariatets rolle i foreningsarbejdet
 
@@ -94,5 +101,7 @@ OS2-sekretariatet understøtter bestyrelsen og den løbende administration af fo
 Det omfatter blandt andet forberedelse af beslutningsmateriale, koordinering af møder, opfølgning på beslutninger og administrative opgaver.
 
 Sekretariatet planlægger og koordinerer det årlige bestyrelsesseminar, som typisk afholdes i februar måned.
+
+Sekretariatet bidrager desuden med faglig rådgivning til bestyrelsen om blandt andet organisering, governance og strategiske prioriteringer.
 
 De konkrete arbejdsgange er beskrevet under **Sekretariatet**.

@@ -4,12 +4,14 @@ layout: default
 parent: Værktøjskasse
 nav_order: 30
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 
 # Nyhedsbreve
 {: .no_toc }
+
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
 
 Her finder du hjælp til at skrive, sende og administrere produktnyhedsbreve i OS2.
 

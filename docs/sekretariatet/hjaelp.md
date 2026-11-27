@@ -2,7 +2,7 @@
 title: Hvad kan sekretariatet hjælpe med?
 layout: default
 parent: Sekretariatet
-nav_order: 20
+nav_order: 10
 has_toc: true
 ---
 
@@ -36,25 +36,21 @@ Her er eksempler på områder, hvor du kan henvende dig:
 | **Fællesskab, netværk og arrangementer** | Hjælp til at finde relevante kontaktpersoner, dele erfaringer, skabe forbindelser og koordinere fælles aktiviteter. |
 | **Fælles værktøjer og metoder** | Hjælp til at finde og anvende OS2's fælles skabeloner, vejledninger og arbejdsredskaber. |
 
-Sekretariatets hjælp består ofte i sparring, koordinering og adgang til fælles ressourcer. Det betyder ikke nødvendigvis, at sekretariatet overtager udførelsen af opgaven.
+Sekretariatet hjælper blandt andet gennem rådgivning, koordinering, fælles administrative funktioner og adgang til værktøjer og netværk.
 
-Den konkrete hjælp afhænger af opgavens karakter, ansvarsfordelingen og de tilgængelige ressourcer.
+Den konkrete hjælp afstemmes med opgaven, ansvarsfordelingen og de ressourcer, der er til rådighed.
 
-## Hvad har projekt- og produktfællesskaberne selv ansvar for?
+## Hvordan fordeles ansvar og opgaver?
 
-Sekretariatet understøtter arbejdet omkring OS2's projekter og produkter, men overtager ikke automatisk deres opgaver og ansvar.
+OS2's projekter og produkter bygger på initiativ og engagement fra de offentlige myndigheder, der indgår i samarbejdet.
 
-For etablerede produkter ligger ansvaret for produktets retning, økonomi og overordnede prioriteringer hos produktets styregruppe inden for dens mandat.
+Det enkelte projekt- eller produktfællesskab har ansvar for sit arbejde og sine beslutninger inden for OS2's fælles rammer.
 
-Den løbende koordinering og opfølgning varetages i produktorganisationen, mens konkrete leverancer og support håndteres gennem de aftalte samarbejder og kanaler.
+I etablerede produktfællesskaber ligger det overordnede ansvar for produktets retning, økonomi og prioriteringer hos styregruppen.
 
-OS2-projekter kan have en anden organisering og ansvarsfordeling afhængigt af projektets formål og udviklingsfase.
+Sekretariatet understøtter samarbejdet og kan efter aftale varetage konkrete opgaver i projekt- eller produktfællesskabet.
 
-OS2 bygger på, at offentlige myndigheder går sammen om at udvikle og forvalte digitale løsninger.
-
-Det er myndighederne og projekt- og produktfællesskaberne, der tager initiativ, driver arbejdet og har ansvar for fremdrift, prioriteringer og resultater.
-
-Sekretariatet bidrager med rådgivning, koordinering, fælles rammer, værktøjer og forbindelser på tværs af OS2. Målet er at gøre fællesskaberne i stand til selv at organisere, udvikle og forvalte deres løsninger.
+Du kan læse mere om den overordnede ansvarsfordeling under **Organisation og roller** og om arbejdet i styre- og koordinationsgrupper under **Projekter og produkter**.
 
 ## Hvem skal du kontakte?
 

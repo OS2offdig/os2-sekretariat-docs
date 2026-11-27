@@ -1,7 +1,7 @@
 ---
 title: Ydelser og ydelsesområder
 layout: default
-parent: Opgave og ydelser
+parent: Opgaver og ydelser
 grand_parent: Sekretariatet
 nav_order: 2
 has_toc: true

@@ -97,4 +97,10 @@ Behandler sagen inden for sit mandat og træffer beslutninger, giver strategiske
 
 OS2 anvender en fælles metode til udarbejdelse af sagsoplæg, som kombinerer en fast struktur med principperne fra Slotsholmsmetoden.
 
-Se [Vejledning til udarbejdelse af sagsoplæg]({% link docs/vaerktoejskasse/sagsoplaeg.md %}).
+Se "Vejledning til udarbejdelse af sagsoplæg" i Værktøjskassen.
+
+**Bestyrelsesmateriale og referater**
+
+Offentliggjorte referater og øvrigt materiale fra bestyrelsens
+møder og seminarer findes i
+[OS2's offentlige filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FBestyrelsen).

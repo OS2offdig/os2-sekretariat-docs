@@ -9,6 +9,8 @@ has_children: true
 
 # Økonomi og fakturahåndtering
 
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
+
 > **Under gennemgang**
 >
 > Arbejdsgange og ansvarsfordeling skal faktatjekkes.

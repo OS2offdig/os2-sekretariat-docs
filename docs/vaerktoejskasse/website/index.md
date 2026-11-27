@@ -4,17 +4,15 @@ layout: default
 parent: Værktøjskasse
 nav_order: 10
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Hjemmeside
-{: .no_toc }
 
-OS2's hjemmeside, os2.eu, administreres i Odoo.
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
 
-Her finder du praktiske guides til at oprette og vedligeholde indhold på hjemmesiden.
+**Skal du oprette eller opdatere indhold på os2.eu?**
 
-## Guides
-{: .no_toc }
+OS2's hjemmeside administreres i Odoo. Her finder du praktiske vejledninger, der hjælper dig med at oprette og redigere indhold, blandt andet produktsider.
 
-- [Redigér din produktside på os2.eu](rediger_produktside.md)
+Vælg den vejledning, der passer til din opgave, i oversigten herunder.

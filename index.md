@@ -4,31 +4,95 @@ layout: home
 nav_order: 1
 ---
 
-<img src="{{ '/assets/images/OS2-on-symbol-green.svg' | relative_url }}" alt="" width="80">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 1.25rem; margin: 0.5rem 0 1rem;">
 
-# OS2-håndbogen
+  <img src="{{ '/assets/images/OS2-on-symbol-green.svg' | relative_url }}"
+       alt=""
+       width="96"
+       style="display: block; height: auto;">
 
-Velkommen til OS2's fælles håndbog.
+  <div style="flex: 1; min-width: 200px;">
+    <h1 style="margin: 0; line-height: 1.2;">OS2-håndbogen</h1>
+    <p style="margin: 0.4rem 0 0; font-size: 1.1rem;">
+      Viden om OS2's organisering, samarbejde og arbejdsgange.
+    </p>
+  </div>
 
-Her finder du viden om, hvordan OS2 er organiseret, hvordan ansvar og opgaver er fordelt, og hvordan arbejdet foregår i praksis.
+</div>
+
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
+
+<span style="display: inline-block; border: 1px solid #3A7F3B; color: #3A7F3B; border-radius: 4px; padding: 0.15rem 0.55rem; font-size: 0.7rem; font-weight: 500;">
+  Version 2 · November 2026
+</span>
+
+
+## Velkommen til OS2's fælles håndbog.
+
+Her kan du finde svar på, hvordan OS2 fungerer, hvem der har ansvar for hvad, og hvordan du løser konkrete opgaver.
 
 Håndbogen er til sekretariatet, projekt- og produktfællesskaberne og andre, der samarbejder med OS2.
 
+## Hvad er OS2?
+
+**OS2 styrker digitaliseringen i det offentlige Danmark.**
+
+OS2 – Offentligt Digitaliseringsfællesskab er en forening,
+hvor offentlige myndigheder samarbejder om at udvikle,
+dele og forvalte digitale løsninger.
+
+OS2 skaber rammerne for, at myndigheder kan løse fælles
+digitale behov gennem samarbejde, videndeling og fælles
+ejerskab.
+
+<div style="border: 2px solid #3A7F3B; border-radius: 4px; padding: 1rem 1.25rem; margin: 1.5rem 0;">
+
+<strong>Open source som metode</strong>
+
+<p style="margin: 0.5rem 0 0;">
+OS2 bruger open source som metode til at skabe bæredygtige
+digitale løsninger gennem samarbejde og fælles udvikling.
+Åbne licenser gør det muligt at bruge, dele og videreudvikle
+løsningerne og understøtter genbrug, innovation og fælles ejerskab.
+</p>
+
+</div>
+
 ## Find det, du har brug for
 
-Håndbogen er opdelt i fire hovedområder, som du finder i sidemenuen:
+Håndbogen er opdelt i fire hovedområder, som du finder i sidemenuen.
 
-**Organisation og roller**  
-OS2's organisering, roller, ansvar og samarbejdsrelationer.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.85rem; margin: 1.25rem 0 2rem;">
 
-**Projekter og produkter**  
-Fælles rammer og praksis for udvikling og forvaltning af OS2-projekter og -produkter.
+  <section style="border: 1px solid #d8e6da; border-left: 4px solid #3A7F3B; border-radius: 4px; padding: 0.85rem 1rem;">
+    <h3 style="margin: 0 0 0.4rem;">Organisation og roller</h3>
+    <p style="margin: 0;">
+      Hvordan er OS2 organiseret, og hvem har ansvar for hvad?
+    </p>
+  </section>
 
-**Sekretariatet**  
-Sekretariatets opgaver, ydelser, arbejdsgange og praktiske information.
+  <section style="border: 1px solid #d8e6da; border-left: 4px solid #3A7F3B; border-radius: 4px; padding: 0.85rem 1rem;">
+    <h3 style="margin: 0 0 0.4rem;">Projekter og produkter</h3>
+    <p style="margin: 0;">
+      Hvordan etableres, organiseres, udvikles og forvaltes OS2's projekter og produkter?
+    </p>
+  </section>
 
-**Værktøjskasse**  
-Praktiske vejledninger, skabeloner og værktøjer, der hjælper dig med at løse konkrete opgaver.
+  <section style="border: 1px solid #d8e6da; border-left: 4px solid #3A7F3B; border-radius: 4px; padding: 0.85rem 1rem;">
+    <h3 style="margin: 0 0 0.4rem;">Sekretariatet</h3>
+    <p style="margin: 0;">
+      Hvad hjælper sekretariatet med, og hvordan løser vi vores egne opgaver?
+    </p>
+  </section>
+
+  <section style="border: 1px solid #d8e6da; border-left: 4px solid #3A7F3B; border-radius: 4px; padding: 0.85rem 1rem;">
+    <h3 style="margin: 0 0 0.4rem;">Værktøjskasse</h3>
+    <p style="margin: 0;">
+      Hvordan udfører du konkrete opgaver? Her finder du vejledninger, skabeloner og praktisk hjælp.
+    </p>
+  </section>
+
+</div>
 
 ## Om håndbogen
 

@@ -70,6 +70,18 @@ En README er en kort introduktionsfil, som beskriver, hvad man finder det pågæ
 
 Dokumenterne skal ikke opbevares flere steder. README-filerne skal gøre det muligt at finde dem.
 
+### Fælles filer fra sekretariatet
+
+Nogle materialer, eksempelvis produktlogoer og takstblade,
+administreres centralt af OS2-sekretariatet i det offentlige
+filarkiv.
+
+Produktfællesskaberne kan opbevare kopier i deres egne mapper,
+men OS2 anbefaler at henvise til den fælles placering.
+
+Det enkelte produkt har ansvar for at vedligeholde eventuelle
+kopier og holde README-filerne i sine egne mapper opdaterede.
+
 
 {: .note }
 > **Fælles praksis fra november 2026**
