@@ -10,15 +10,12 @@ has_toc: true
 # Introduktion
 {: .no_toc }
 
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
+
 Værktøjskassen samler praktiske vejledninger, værktøjer og skabeloner til arbejdet i OS2.
 
 Her finder du hjælp til konkrete opgaver, uanset om du arbejder i sekretariatet, er en del af et projekt- eller produktfællesskab eller samarbejder med OS2 på anden måde.
 
-## Indholdsfortegnelse
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ## Hvad kan du bruge Værktøjskassen til?
 

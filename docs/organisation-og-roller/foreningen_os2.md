@@ -77,17 +77,22 @@ Reglerne for indkaldelse, deltagelse, stemmeret og beslutninger fremgår af [OS2
 Dagsordener, bilag og referater fra generalforsamlinger findes i [OS2's åbne filarkiv](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Generalforsamling).
 
 
-## Vedtægter og styrende dokumenter
+## Centrale dokumenter og aftaler
 
-Foreningens formelle rammer er blandt andet beskrevet i:
+Her finder du OS2's vedtægter, styrende dokumenter og centrale
+aftaler, der danner ramme om foreningen og samarbejdet
+om OS2's projekter og produkter.
 
-- [OS2's vedtægter](https://vedtaegter.os2.eu/)
-- [Kommissorium for OS2's bestyrelse](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Bestyrelsen&editing=false&openfile=true)
-- [OS2's vision, mission og strategi](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Vision)
+| Dokument | Formål | Placering |
+|---|---|---|
+| **Vedtægter for OS2** | Beskriver foreningens formål, organisering og medlemskab. | [Vedtægter](https://vedtaegter.os2.eu/) |
+| **Vision, mission og strategi** | Beskriver OS2's overordnede retning og ambitioner. | [Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Vision) |
+| **Kommissorium for OS2's bestyrelse** | Beskriver bestyrelsens opgaver og ansvar. | [Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?dir=/Foreningen/Bestyrelsen) |
 
-Som baggrundsmateriale findes desuden [OS2 organisering – Strand & Donslund, rapport version 1.0](https://boks.os2.eu/s/Afco557gKpepLJa).
 
-Dokumenterne danner grundlag for foreningens organisering, beslutninger og udvikling.
+## Baggrundsmateriale
+
+- [OS2 organisering – Strand & Donslund, rapport version 1.0](https://boks.os2.eu/s/Afco557gKpepLJa)
 
 ## Sekretariatets rolle i foreningsarbejdet
 

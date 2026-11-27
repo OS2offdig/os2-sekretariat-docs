@@ -22,7 +22,12 @@ nav_order: 1
 
 <hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
 
-Velkommen til OS2's fælles håndbog.
+<span style="display: inline-block; border: 1px solid #3A7F3B; color: #3A7F3B; border-radius: 4px; padding: 0.15rem 0.55rem; font-size: 0.7rem; font-weight: 500;">
+  Version 2 · November 2026
+</span>
+
+
+## Velkommen til OS2's fælles håndbog.
 
 Her kan du finde svar på, hvordan OS2 fungerer, hvem der har ansvar for hvad, og hvordan du løser konkrete opgaver.
 

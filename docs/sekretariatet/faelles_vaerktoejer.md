@@ -17,6 +17,7 @@ Her får du overblik over, hvilke værktøjer vi bruger, og hvad vi bruger dem t
 | **Leantime** | Registrering af tidsforbrug på opgaver og projekter. | [Leantime](https://itk-leantime.itkdev.dk) |
 | **Nextcloud** | Fælles filarkiv til opbevaring og deling af dokumenter. | [Nextcloud](https://boks.os2.eu) |
 | **GitHub** | Versionsstyring, projektstyring, kildekode og dokumentation. | [GitHub](https://github.com/OS2offdig) |
+| **Projektstyring i GitHub** | Intern opgavestyring med issues, håndteres ved ugentligt stand up-møde | Find repo [gameplans-and-task-management](https://github.com/OS2offdig/gameplans-and-task-management) og projektet ["OS2-sekretariatets opgaver"](https://github.com/orgs/OS2offdig/projects/6) (beskyttet) | [GitHub](https://github.com/OS2offdig) |
 | **Zulip** | Løbende dialog, koordinering og videndeling i OS2-fællesskabet. | [Zulip](https://os2samtale.os2.eu) |
 | **Airtable** | OS2's CRM-system med oplysninger om medlemmer, produkter og tilknytninger. | [Airtable](https://airtable.com) |
 | **HeyLoyalty** | Udsendelse og administration af nyhedsbreve. | [HeyLoyalty](https://heyloyalty.com) |

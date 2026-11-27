@@ -49,3 +49,17 @@ I stedet anvendes:
 
 - **Afgrænsning**
   Sekretariatet yder ikke juridisk assistance, men rådgiver om, at OS2’s fælles principper for open source, rettigheder og governance følges i alle samarbejder.
+
+  ## Juridiske og organisatoriske dokumenter
+Disse dokumenter beskriver OS2’s formål, struktur og beslutningsprocesser.
+De bruges som reference for governance, samarbejde og medlemskab.
+
+
+| Dokument | Formål | Placering |
+|-----------|---------|-----------|
+| **Vedtægter for OS2** | Beskriver OS2’s formål, organisering og medlemskab. | [Hjemmesiden](https://www.os2.eu/vedtaegter-for-os2-offentligt-digitaliseringsfaellesskab) |
+| **OS2 Partneraftale** | Ramme for offentlige myndigheders medlemskab af OS2. | [Åbent filarkiv i Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FAftaleskabeloner%2FPartneraftaler) |
+| **OS2 Leverandørpartneraftale** | Ramme for private virksomheders deltagelse i OS2. | [Åbent filarkiv i Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FAftaleskabeloner%2FPartneraftaler) |
+| **FLOSS-aftalen** | Juridisk ramme for open source-samarbejder og licenser. | [Åbent filarkiv i Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FSkabeloner%2FFLOSS) |
+| **Kommissorium** | Ramme for arbejdsgruppers opgaver og ansvar. | [Åbent filarkiv i Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FForeningen%2FAftaleskabeloner%2FAndre%20aftaler) |
+| **Tilslutningsaftale** | Regulerer deltagelse og økonomi i specifikke produkter. | [Åbent filarkiv i Nextcloud](https://boks.os2.eu/s/Di5cTQdSABd6ak4?path=%2FSkabeloner%2FTilslutningsaftale) |
