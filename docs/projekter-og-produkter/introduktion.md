@@ -48,8 +48,8 @@ Denne del af håndbogen er især til dig, der allerede er involveret i et OS2-pr
 
 Her kan du blandt andet finde ud af:
 
-- **Hvad forventes der af mig?** Hvilke opgaver og hvilket ansvar har du som medlem af en styregruppe, koordinationsgruppe eller produktforvaltning?
-- **Hvilke krav skal vores projekt eller produkt opfylde?** Hvordan fungerer OS2's styringsmodel, og hvad betyder de forskellige governanceniveauer?
+- **Hvad forventes der af mig?** Hvilke opgaver og hvilket ansvar har du som medlem af en styregruppe eller koordinationsgruppe eller som produktforvalter?
+- **Hvilke krav skal vores projekt eller produkt opfylde?** Hvordan fungerer OS2's styringsmodel, og hvilke krav gælder på de forskellige produktniveauer?
 - **Hvem gør hvad, når noget ændrer sig?** Hvordan fordeles opgaver mellem produktfællesskabet og sekretariatet, fx når en lokal kontaktperson skifter?
 - **Hvordan arbejder vi med kommunikation og dokumentation?** Hvordan holder vi andre orienteret, og hvordan sikrer vi, at fælles viden og beslutninger kan findes?
 - **Hvad kan sekretariatet hjælpe med?** Hvor kan du få rådgivning og støtte til arbejdet i fællesskabet?

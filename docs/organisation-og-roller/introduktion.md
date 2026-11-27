@@ -16,7 +16,7 @@ OS2 er organiseret som en forening og et fællesskab af offentlige myndigheder, 
 
 Organiseringen kombinerer fælles rammer for foreningen med ansvar og beslutninger i de enkelte projekt- og produktfællesskaber.
 
-I denne del af håndbogen finder du beskrivelser af OS2's organisering, de centrale roller og deres ansvar samt samarbejdet mellem foreningen, sekretariatet, projekt- og produktfællesskaberne og øvrige aktører.
+Her kan du få overblik over, hvem der har ansvar for hvad i OS2, hvordan beslutninger træffes, og hvordan de forskellige aktører hænger sammen. Du kan også finde mere detaljerede beskrivelser af roller og ansvar på de øvrige sider i kategorien.
 
 ## Indholdsfortegnelse
 {: .no_toc .text-delta }

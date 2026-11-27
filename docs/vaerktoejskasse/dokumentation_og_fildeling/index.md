@@ -4,11 +4,12 @@ layout: default
 parent: Værktøjskasse
 nav_order: 40
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # Dokumentation og fildeling
 
+<hr style="border: 0; border-top: 3px solid #3A7F3B; margin: 1.5rem 0;" aria-hidden="true">
 
 {: .warning }
 > **DRAFT: Vejledninger og dokumentation herunder er under udarbejdelse. Der vil være informationer, som stadig er uafklarede og kan ændres**

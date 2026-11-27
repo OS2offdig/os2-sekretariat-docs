@@ -2,7 +2,7 @@
 title: Logo
 layout: default
 parent: Brug OS2’s visuelle retning
-nav_order: 10
+nav_order: 20
 has_children: false
 has_toc: true
 ---
