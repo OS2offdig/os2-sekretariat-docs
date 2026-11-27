@@ -19,18 +19,39 @@ Alle kan bidrage til OS2-håndbogen med dokumentation, rettelser og forbedringer
 
 ## Find den rette placering
 
-Undersøg først, om indholdet allerede findes. **Placér indhold efter, hvem der skal bruge det, og hvad de skal bruge det til** – ikke kun efter emnet eller det konkrete værktøj.
+Inden du opretter nyt indhold, skal du undersøge, om emnet allerede er beskrevet i håndbogen.
 
-- **Sådan arbejder vi i OS2:** Overordnede principper og fælles arbejdsformer. *Hvorfor arbejder OS2 sådan?*
-- **Processer og rutiner:** Faste arbejdsgange, ansvar, beslutninger og overdragelser. *Hvem gør hvad og hvornår?*
-- **Kommunikation:** Fælles kommunikationspraksis, roller og kanalernes formål.
-- **Værktøjskasse:** Praktiske vejledninger, tjeklister og skabeloner. *Hvordan udfører jeg opgaven?*
+**Start med to spørgsmål: Hvem skal bruge informationen, og hvad skal den hjælpe dem med?**
 
-Brug de øvrige eksisterende afsnit, når indholdet naturligt hører til dér, fx **Organisation og roller** til beskrivelser af roller og mandater.
+| Læserens behov | Placering |
+|---|---|
+| Forstå, hvordan OS2 er organiseret, og hvem der har ansvar for hvad. | **Organisation og roller** |
+| Forstå rammer, forventninger og arbejdsgange i et OS2-projekt eller -produkt. | **Projekter og produkter** |
+| Finde information om sekretariatets ydelser, interne opgaver og medarbejderforhold. | **Sekretariatet** |
+| Få hjælp til at udføre en konkret opgave. | **Værktøjskasse** |
 
-**Hvis noget overlapper:** Beskriv reglen og ansvaret ét sted. Beskriv den konkrete handling dér, hvor den, der skal udføre opgaven, leder efter hjælp.
+### Når indholdet passer flere steder
 
-Er du i tvivl om placeringen? Spørg kommunikationsmedarbejderen eller en relevant kollega. Opret ikke nye kategorier eller større strukturer uden aftale.
+Det samme emne kan være relevant for forskellige målgrupper.
+
+Beskriv som udgangspunkt regler, principper og ansvarsfordeling ét sted. Beskriv den konkrete handling dér, hvor den person, der skal udføre opgaven, leder efter hjælp.
+
+**Eksempel:**
+
+- **Projekter og produkter:** Hvem har ansvar for at opdatere lokale kontaktpersoner?
+- **Sekretariatet:** Hvilke administrative opgaver udfører sekretariatet ved en ændring?
+- **Værktøjskasse:** Hvordan opdaterer man oplysningerne i det relevante system?
+
+Henvis til eksisterende beskrivelser, når der er behov for flere detaljer.
+
+### Når du opretter en ny side
+
+- Undersøg, om du kan udbygge en eksisterende side.
+- Opret en ny side, når indholdet har et tydeligt selvstændigt formål.
+- Brug en kort titel, der fortæller læseren, hvad siden handler om.
+- Opret ikke nye kategorier eller større strukturer uden aftale.
+
+**I tvivl?** Tænk på, hvor du selv ville lede efter svaret. Spørg eventuelt kommunikationsmedarbejderen eller en relevant kollega.
 
 ## Skriv kort og overskueligt
 
@@ -70,6 +91,8 @@ Markeringen viser, at indholdet ikke er officielt godkendt. Den erstatter ikke a
 Mindre rettelser til fx sprog, formatering og links kan merges efter almindelig gennemgang.
 
 ## YAML-skabelon til nye sider
+
+- **Indexsider:** Brug `has_children: true` og `has_toc: true` til at generere en automatisk oversigt over undersiderne. Indsæt ikke en manuel TOC på indexsider.
 
 Kopiér skabelonen til en ny `.md`-fil, og tilpas titler, placering og indhold:
 
@@ -117,12 +140,17 @@ Jeg skriver dokumentation til OS2-håndbogen.
 Hjælp mig med at omskrive mit materiale til en kort, konkret og
 overskuelig håndbogsside.
 
-Håndbogens relevante afsnit er:
-- Sådan arbejder vi i OS2: principper og fælles arbejdsformer.
-- Processer og rutiner: ansvar, beslutninger og faste forløb.
-- Kommunikation: fælles kommunikationspraksis og kanaler.
-- Værktøjskasse: vejledninger, tjeklister og skabeloner.
-- Andre fagafsnit bruges, når de passer bedre til indholdet.
+Håndbogen har fire hovedkategorier:
+
+- Organisation og roller: OS2's organisering, roller og ansvar.
+- Projekter og produkter: fælles rammer, forventninger og arbejdsgange
+  i projekt- og produktfællesskaberne.
+- Sekretariatet: sekretariatets ydelser, interne opgaver og
+  medarbejderforhold.
+- Værktøjskasse: praktiske vejledninger, tjeklister og skabeloner.
+
+Foreslå placering ud fra læserens behov.
+Brug eksisterende sider og kategorier, når det er muligt.
 
 1. Foreslå placering ud fra, hvem der skal bruge indholdet,
    og hvad de skal bruge det til.
